@@ -6,6 +6,7 @@ import { PRIORITY_COLORS, DIFFICULTY_COLORS } from "@/lib/data";
 import Link from "next/link";
 
 const MONTH_NAMES = ["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"];
+const PRIORITY_ORDER: Record<string, number> = { S: 0, "A+": 1, A: 2, B: 3, C: 4 };
 
 function Row({ label, value }: { label: string; value: string | number | null | undefined }) {
   if (!value && value !== 0) return null;
@@ -35,6 +36,7 @@ function LinkRow({ label, value }: { label: string; value: string | null | undef
 function ProductDetail() {
   const searchParams = useSearchParams();
   const id = searchParams.get("id");
+  const [allProducts, setAllProducts] = useState<Product[]>([]);
   const [product, setProduct] = useState<Product | null>(null);
   const [loading, setLoading] = useState(true);
 
@@ -42,11 +44,23 @@ function ProductDetail() {
     fetch("/data/products.json")
       .then(r => r.json())
       .then((d: Product[]) => {
+        // 優先度→月順でソート（検索ページと同じ順序）
+        const sorted = [...d].sort((a, b) => {
+          const pa = PRIORITY_ORDER[a.商品会議優先度] ?? 5;
+          const pb = PRIORITY_ORDER[b.商品会議優先度] ?? 5;
+          if (pa !== pb) return pa - pb;
+          return (Number(a.対象月) || 13) - (Number(b.対象月) || 13);
+        });
+        setAllProducts(sorted);
         const found = d.find(p => p.商品ID === id) || null;
         setProduct(found);
         setLoading(false);
       });
   }, [id]);
+
+  const currentIndex = allProducts.findIndex(p => p.商品ID === id);
+  const prevProduct = currentIndex > 0 ? allProducts[currentIndex - 1] : null;
+  const nextProduct = currentIndex < allProducts.length - 1 ? allProducts[currentIndex + 1] : null;
 
   if (loading) return <div className="text-center py-20 text-gray-400">読み込み中...</div>;
   if (!product) return (
@@ -58,8 +72,36 @@ function ProductDetail() {
 
   return (
     <div>
-      <div className="mb-4">
+      {/* ナビゲーション */}
+      <div className="flex items-center justify-between mb-4">
         <Link href="/" className="text-sm text-[#1F4E78] hover:opacity-70">← 検索に戻る</Link>
+        <div className="flex gap-2">
+          {prevProduct ? (
+            <Link
+              href={`/product/?id=${prevProduct.商品ID}`}
+              className="text-xs border border-gray-200 rounded-lg px-3 py-1.5 hover:bg-gray-50 flex items-center gap-1"
+            >
+              ◀ 前の商品
+              <span className="text-gray-400 hidden sm:inline">（{prevProduct.ブランド名}）</span>
+            </Link>
+          ) : (
+            <span className="text-xs border border-gray-100 rounded-lg px-3 py-1.5 text-gray-300">◀ 前の商品</span>
+          )}
+          <span className="text-xs text-gray-400 flex items-center px-1">
+            {currentIndex + 1} / {allProducts.length}
+          </span>
+          {nextProduct ? (
+            <Link
+              href={`/product/?id=${nextProduct.商品ID}`}
+              className="text-xs border border-gray-200 rounded-lg px-3 py-1.5 hover:bg-gray-50 flex items-center gap-1"
+            >
+              <span className="text-gray-400 hidden sm:inline">（{nextProduct.ブランド名}）</span>
+              次の商品 ▶
+            </Link>
+          ) : (
+            <span className="text-xs border border-gray-100 rounded-lg px-3 py-1.5 text-gray-300">次の商品 ▶</span>
+          )}
+        </div>
       </div>
 
       <div className="bg-white rounded-2xl shadow-sm p-6 mb-6">
@@ -99,7 +141,6 @@ function ProductDetail() {
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-        {/* 基本情報 */}
         <section className="bg-white rounded-xl shadow-sm p-5">
           <h2 className="text-base font-bold text-[#1F4E78] mb-3 border-b border-[#1F4E78]/20 pb-2">基本情報</h2>
           <table className="w-full">
@@ -121,7 +162,6 @@ function ProductDetail() {
           </table>
         </section>
 
-        {/* 価格・販売情報 */}
         <section className="bg-white rounded-xl shadow-sm p-5">
           <h2 className="text-base font-bold text-[#1F4E78] mb-3 border-b border-[#1F4E78]/20 pb-2">価格・販売情報</h2>
           <table className="w-full">
@@ -142,7 +182,6 @@ function ProductDetail() {
           </table>
         </section>
 
-        {/* ALC向け分析 */}
         <section className="bg-white rounded-xl shadow-sm p-5">
           <h2 className="text-base font-bold text-[#1F4E78] mb-3 border-b border-[#1F4E78]/20 pb-2">ALC向け分析</h2>
           <table className="w-full">
@@ -168,7 +207,6 @@ function ProductDetail() {
           )}
         </section>
 
-        {/* 企画メモ */}
         {(product.商品企画メモ || product.売場訴求メモ) && (
           <section className="bg-white rounded-xl shadow-sm p-5">
             <h2 className="text-base font-bold text-[#1F4E78] mb-3 border-b border-[#1F4E78]/20 pb-2">企画・売場メモ</h2>
@@ -186,6 +224,22 @@ function ProductDetail() {
             )}
           </section>
         )}
+      </div>
+
+      {/* 下部ナビゲーション */}
+      <div className="flex justify-between mt-6 pt-4 border-t border-gray-200">
+        {prevProduct ? (
+          <Link href={`/product/?id=${prevProduct.商品ID}`}
+            className="text-sm border border-gray-200 rounded-lg px-4 py-2 hover:bg-gray-50">
+            ◀ {prevProduct.商品名}
+          </Link>
+        ) : <span />}
+        {nextProduct ? (
+          <Link href={`/product/?id=${nextProduct.商品ID}`}
+            className="text-sm border border-gray-200 rounded-lg px-4 py-2 hover:bg-gray-50">
+            {nextProduct.商品名} ▶
+          </Link>
+        ) : <span />}
       </div>
     </div>
   );

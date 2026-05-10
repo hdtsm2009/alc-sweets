@@ -4,11 +4,23 @@ import type { Product } from "@/types/product";
 import { PRIORITY_COLORS, DIFFICULTY_COLORS } from "@/lib/data";
 import Link from "next/link";
 
+const PRIORITY_ORDER: Record<string, number> = { S: 0, "A+": 1, A: 2, B: 3, C: 4 };
+
+function sortProducts(ps: Product[]): Product[] {
+  return [...ps].sort((a, b) => {
+    const pa = PRIORITY_ORDER[a.商品会議優先度] ?? 5;
+    const pb = PRIORITY_ORDER[b.商品会議優先度] ?? 5;
+    if (pa !== pb) return pa - pb;
+    return (Number(a.対象月) || 13) - (Number(b.対象月) || 13);
+  });
+}
+
 export default function HomePage() {
   const [products, setProducts] = useState<Product[]>([]);
   const [loading, setLoading] = useState(true);
   const [query, setQuery] = useState("");
-  const [filterMonth, setFilterMonth] = useState("");
+  const currentMonth = String(new Date().getMonth() + 1);
+  const [filterMonth, setFilterMonth] = useState(currentMonth);
   const [filterBrand, setFilterBrand] = useState("");
   const [filterPriority, setFilterPriority] = useState("");
   const [filterDifficulty, setFilterDifficulty] = useState("");
@@ -26,7 +38,7 @@ export default function HomePage() {
   }, [products]);
 
   const filtered = useMemo(() => {
-    return products.filter(p => {
+    const result = products.filter(p => {
       if (filterMonth && String(p.対象月) !== filterMonth) return false;
       if (filterBrand && p.ブランド名 !== filterBrand) return false;
       if (filterPriority && p.商品会議優先度 !== filterPriority) return false;
@@ -42,64 +54,81 @@ export default function HomePage() {
       }
       return true;
     });
+    return sortProducts(result);
   }, [products, query, filterMonth, filterBrand, filterPriority, filterDifficulty, filterIngredient]);
 
   if (loading) return <div className="text-center py-20 text-gray-400">読み込み中...</div>;
+
+  const hasFilter = !!(query || filterBrand || filterPriority || filterDifficulty || filterIngredient || filterMonth !== currentMonth);
 
   return (
     <div>
       <div className="mb-6">
         <h1 className="text-2xl font-bold text-[#1F4E78] mb-1">商品検索</h1>
-        <p className="text-sm text-gray-500">全 {products.length} 件 → フィルター後 {filtered.length} 件</p>
+        <p className="text-sm text-gray-500">
+          全 {products.length} 件 → フィルター後 <span className="font-bold text-[#1F4E78]">{filtered.length} 件</span>
+          {hasFilter && (
+            <button
+              onClick={() => { setQuery(""); setFilterMonth(currentMonth); setFilterBrand(""); setFilterPriority(""); setFilterDifficulty(""); setFilterIngredient(""); }}
+              className="ml-3 text-xs text-red-500 underline hover:opacity-70"
+            >
+              フィルターをリセット
+            </button>
+          )}
+        </p>
       </div>
 
       {/* フィルター */}
-      <div className="bg-white rounded-xl shadow-sm p-4 mb-6 grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3">
-        <input
-          className="col-span-2 md:col-span-3 lg:col-span-2 border border-gray-200 rounded-lg px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-[#1F4E78]"
-          placeholder="🔍 商品名・ブランド・素材で検索..."
-          value={query}
-          onChange={e => setQuery(e.target.value)}
-        />
-        <select
-          className="border border-gray-200 rounded-lg px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-[#1F4E78]"
-          value={filterMonth} onChange={e => setFilterMonth(e.target.value)}
-        >
-          <option value="">全月</option>
-          {[1,2,3,4,5,6,7,8,9,10,11,12].map(m => (
-            <option key={m} value={m}>{m}月</option>
-          ))}
-        </select>
-        <select
-          className="border border-gray-200 rounded-lg px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-[#1F4E78]"
-          value={filterPriority} onChange={e => setFilterPriority(e.target.value)}
-        >
-          <option value="">全優先度</option>
-          {["S","A+","A","B","C"].map(v => <option key={v} value={v}>{v}</option>)}
-        </select>
-        <select
-          className="border border-gray-200 rounded-lg px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-[#1F4E78]"
-          value={filterDifficulty} onChange={e => setFilterDifficulty(e.target.value)}
-        >
-          <option value="">全難易度</option>
-          <option value="低（即検討可）">低（即検討可）</option>
-          <option value="中">中</option>
-          <option value="高（実装困難）">高（実装困難）</option>
-          <option value="要レビュー">要レビュー</option>
-        </select>
-        <select
-          className="border border-gray-200 rounded-lg px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-[#1F4E78]"
-          value={filterBrand} onChange={e => setFilterBrand(e.target.value)}
-        >
-          <option value="">全ブランド</option>
-          {brands.map(b => <option key={b} value={b}>{b}</option>)}
-        </select>
-        <input
-          className="border border-gray-200 rounded-lg px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-[#1F4E78]"
-          placeholder="素材で絞り込み..."
-          value={filterIngredient}
-          onChange={e => setFilterIngredient(e.target.value)}
-        />
+      <div className="bg-white rounded-xl shadow-sm p-4 mb-6">
+        <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3 mb-3">
+          <input
+            className="col-span-2 md:col-span-3 lg:col-span-2 border border-gray-200 rounded-lg px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-[#1F4E78]"
+            placeholder="🔍 商品名・ブランド・素材で検索..."
+            value={query}
+            onChange={e => setQuery(e.target.value)}
+          />
+          <select
+            className="border border-gray-200 rounded-lg px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-[#1F4E78]"
+            value={filterMonth} onChange={e => setFilterMonth(e.target.value)}
+          >
+            <option value="">全月</option>
+            {[1,2,3,4,5,6,7,8,9,10,11,12].map(m => (
+              <option key={m} value={String(m)}>{m}月{m === Number(currentMonth) ? " (今月)" : ""}</option>
+            ))}
+          </select>
+          <select
+            className="border border-gray-200 rounded-lg px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-[#1F4E78]"
+            value={filterPriority} onChange={e => setFilterPriority(e.target.value)}
+          >
+            <option value="">全優先度</option>
+            {["S","A+","A","B","C"].map(v => <option key={v} value={v}>{v}</option>)}
+          </select>
+          <select
+            className="border border-gray-200 rounded-lg px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-[#1F4E78]"
+            value={filterDifficulty} onChange={e => setFilterDifficulty(e.target.value)}
+          >
+            <option value="">全難易度</option>
+            <option value="低（即検討可）">低（即検討可）</option>
+            <option value="中">中</option>
+            <option value="高（実装困難）">高（実装困難）</option>
+            <option value="要レビュー">要レビュー</option>
+          </select>
+          <select
+            className="border border-gray-200 rounded-lg px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-[#1F4E78]"
+            value={filterBrand} onChange={e => setFilterBrand(e.target.value)}
+          >
+            <option value="">全ブランド</option>
+            {brands.map(b => <option key={b} value={b}>{b}</option>)}
+          </select>
+        </div>
+        <div className="border-t border-gray-100 pt-3">
+          <input
+            className="w-full md:w-64 border border-gray-200 rounded-lg px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-[#1F4E78]"
+            placeholder="🌿 素材で絞り込み（例：桃、いちご）..."
+            value={filterIngredient}
+            onChange={e => setFilterIngredient(e.target.value)}
+          />
+        </div>
       </div>
 
       {/* 商品カード一覧 */}
@@ -147,7 +176,16 @@ export default function HomePage() {
         </div>
       )}
       {filtered.length === 0 && (
-        <div className="text-center py-16 text-gray-400">条件に合う商品が見つかりませんでした</div>
+        <div className="text-center py-16 text-gray-400">
+          <div className="text-4xl mb-3">🔍</div>
+          <div>条件に合う商品が見つかりませんでした</div>
+          <button
+            onClick={() => { setQuery(""); setFilterMonth(""); setFilterBrand(""); setFilterPriority(""); setFilterDifficulty(""); setFilterIngredient(""); }}
+            className="mt-3 text-sm text-[#1F4E78] underline"
+          >
+            フィルターをリセット
+          </button>
+        </div>
       )}
     </div>
   );
