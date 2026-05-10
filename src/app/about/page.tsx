@@ -11,14 +11,6 @@ export default function AboutPage() {
         <h2 className="text-lg font-bold text-[#1F4E78] mb-3 flex items-center gap-2">
           <span className="text-2xl">🎯</span> 背景と目的
         </h2>
-        <p className="text-sm text-gray-700 leading-relaxed mb-3">
-          ア・ラ・カンパーニュ（ALC）の商品開発には「<strong>前年踏襲ループ</strong>」という課題がありました。
-          毎年似たような商品を同じ時期に投入し続け、競合の新しい動きを参考にする機会が少ない状態です。
-        </p>
-        <p className="text-sm text-gray-700 leading-relaxed mb-3">
-          原因のひとつは「<strong>良い参照事例をすぐに探せる環境がない</strong>」こと。
-          商品会議のたびに担当者が個別に競合調査をするため、情報の質にムラが出ていました。
-        </p>
         <p className="text-sm text-gray-700 leading-relaxed">
           このDBは、国内主要スイーツブランド約50社の季節限定商品<strong>476件</strong>（実在確認済み）を一元管理し、
           「今月は何が旬で、競合はどんな商品を出しているか」を<strong>誰でも即座に確認できる共通の参照先</strong>として機能させることを目的に作りました。
