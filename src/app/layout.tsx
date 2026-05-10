@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import FooterInfo from "@/components/FooterInfo";
 
 export const metadata: Metadata = {
   title: "ALC 季節商品DB",
@@ -29,8 +30,9 @@ export default function RootLayout({
         <main className="max-w-7xl mx-auto px-4 py-6">
           {children}
         </main>
-        <footer className="text-center text-xs text-gray-400 py-6">
-          HT Project — ALC 季節商品調査DB v12 © 2026
+        <footer className="text-center text-xs text-gray-400 py-6 flex flex-col items-center gap-1">
+          <span>HT Project — ALC 季節商品調査DB © 2026</span>
+          <FooterInfo />
         </footer>
       </body>
     </html>
