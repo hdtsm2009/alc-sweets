@@ -24,6 +24,7 @@ export default function RootLayout({
               <a href="/" className="hover:opacity-80">検索</a>
               <a href="/calendar/" className="hover:opacity-80">月別カレンダー</a>
               <a href="/picks/" className="hover:opacity-80">A+候補</a>
+              <a href="/about/" className="hover:opacity-80 opacity-70">使い方</a>
             </nav>
           </div>
         </header>
