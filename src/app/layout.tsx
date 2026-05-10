@@ -26,14 +26,16 @@ export default function RootLayout({
               <a href="/picks/" className="hover:opacity-80">A+候補</a>
               <a href="/about/" className="hover:opacity-80 opacity-70">使い方</a>
             </nav>
+            <div className="ml-auto">
+              <FooterInfo />
+            </div>
           </div>
         </header>
         <main className="max-w-7xl mx-auto px-4 py-6">
           {children}
         </main>
-        <footer className="text-center text-xs text-gray-400 py-6 flex flex-col items-center gap-1">
-          <span>HT Project — ALC 季節商品調査DB © 2026</span>
-          <FooterInfo />
+        <footer className="text-center text-xs text-gray-400 py-6">
+          HT Project — ALC 季節商品調査DB © 2026
         </footer>
       </body>
     </html>

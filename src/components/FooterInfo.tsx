@@ -20,11 +20,11 @@ export default function FooterInfo() {
   if (!meta) return null;
 
   return (
-    <span className="inline-flex items-center gap-2 text-xs text-gray-400 mt-1">
-      <span className="bg-gray-100 text-gray-500 px-2 py-0.5 rounded font-mono">{meta.version}</span>
-      <span>商品数 {meta.total}件</span>
+    <span className="inline-flex items-center gap-2 text-xs text-white/60">
+      <span className="bg-white/20 text-white/90 px-2 py-0.5 rounded font-mono">{meta.version}</span>
+      <span>{meta.total}件</span>
       <span>·</span>
-      <span>データ更新: {meta.generated}</span>
+      <span>更新: {meta.generated}</span>
     </span>
   );
 }
