@@ -10,3 +10,36 @@
 body {
   font-family: 'Yu Gothic', 'Hiragino Sans', sans-serif;
 }
+
+/* 印刷スタイル */
+.print-only {
+  display: none;
+}
+
+@media print {
+  .no-print {
+    display: none !important;
+  }
+  .print-only {
+    display: block !important;
+  }
+  .print-expand {
+    -webkit-line-clamp: unset !important;
+    overflow: visible !important;
+  }
+  body {
+    background: white !important;
+  }
+  .shadow-sm,
+  .shadow-md {
+    box-shadow: none !important;
+  }
+  /* カードのホバーエフェクト無効化 */
+  a {
+    color: inherit !important;
+  }
+  /* 印刷時は2列グリッド */
+  .print-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
+}

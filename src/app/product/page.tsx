@@ -237,6 +237,36 @@ function ProductDetail() {
             )}
           </section>
         )}
+
+        {/* SNS・外部検索 */}
+        <section className="bg-white rounded-xl shadow-sm p-5 no-print">
+          <h2 className="text-base font-bold text-[#1F4E78] mb-3 border-b border-[#1F4E78]/20 pb-2">SNS・外部で調べる</h2>
+          <div className="flex flex-wrap gap-2">
+            {[
+              {
+                label: "X(Twitter)で評判を確認",
+                href: `https://x.com/search?q=${encodeURIComponent(`${product.商品名} ${product.ブランド名}`)}&src=typed_query`,
+                cls: "bg-black text-white hover:bg-gray-800",
+              },
+              {
+                label: "Googleで検索",
+                href: `https://www.google.com/search?q=${encodeURIComponent(`${product.商品名} ${product.ブランド名} 評判`)}`,
+                cls: "bg-white border border-gray-300 text-gray-700 hover:bg-gray-50",
+              },
+              {
+                label: "Instagramで検索",
+                href: `https://www.instagram.com/explore/search/keyword/?q=${encodeURIComponent(product.商品名)}`,
+                cls: "bg-gradient-to-r from-purple-500 to-pink-500 text-white hover:opacity-90",
+              },
+            ].map(({ label, href, cls }) => (
+              <a key={label} href={href} target="_blank" rel="noopener noreferrer"
+                className={`text-xs px-4 py-2 rounded-lg font-medium transition-opacity ${cls}`}>
+                {label}
+              </a>
+            ))}
+          </div>
+          <p className="text-xs text-gray-400 mt-2">「{product.商品名}」「{product.ブランド名}」で検索します</p>
+        </section>
       </div>
 
       {/* 下部ナビゲーション */}

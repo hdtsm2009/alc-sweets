@@ -15,7 +15,7 @@ export default function RootLayout({
   return (
     <html lang="ja">
       <body className="bg-gray-50 min-h-screen">
-        <header className="bg-[#1F4E78] text-white shadow-md">
+        <header className="bg-[#1F4E78] text-white shadow-md no-print">
           <div className="max-w-7xl mx-auto px-4 py-3 flex items-center gap-4">
             <a href="/" className="text-xl font-bold tracking-wide hover:opacity-80">
               🍓 ALC 季節商品DB
@@ -34,7 +34,7 @@ export default function RootLayout({
         <main className="max-w-7xl mx-auto px-4 py-6">
           {children}
         </main>
-        <footer className="text-center text-xs text-gray-400 py-6">
+        <footer className="text-center text-xs text-gray-400 py-6 no-print">
           HT Project — ALC 季節商品調査DB © 2026
         </footer>
       </body>
