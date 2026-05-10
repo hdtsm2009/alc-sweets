@@ -1,7 +1,7 @@
 "use client";
 import { useEffect, useState, useMemo, useCallback } from "react";
 import type { Product } from "@/types/product";
-import { PRIORITY_COLORS, DIFFICULTY_COLORS } from "@/lib/data";
+import { PRIORITY_COLORS, DIFFICULTY_COLORS, ALC_BRAND } from "@/lib/data";
 import Link from "next/link";
 
 const PRIORITY_ORDER: Record<string, number> = { S: 0, "A+": 1, A: 2, B: 3, C: 4 };
@@ -50,6 +50,7 @@ export default function HomePage() {
   const [filterPriority, setFilterPriority] = useState("");
   const [filterDifficulty, setFilterDifficulty] = useState("");
   const [filterIngredient, setFilterIngredient] = useState("");
+  const [filterBrandType, setFilterBrandType] = useState("");
   const [isPrinting, setIsPrinting] = useState(false);
   const [showExtSearch, setShowExtSearch] = useState(false);
   const [extQuery, setExtQuery] = useState("");
@@ -72,6 +73,15 @@ export default function HomePage() {
     return Array.from(s).sort();
   }, [products]);
 
+  // 主素材の選択肢：DBの実データから生成（区切り文字で分割・重複排除）
+  const ingredientOptions = useMemo(() => {
+    const s = new Set<string>();
+    products.forEach(p => {
+      (p.主素材 || "").split(/[・、,／\s]+/).map(x => x.trim()).filter(x => x.length > 0).forEach(x => s.add(x));
+    });
+    return Array.from(s).sort((a, b) => a.localeCompare(b, "ja"));
+  }, [products]);
+
   const toggleMonth = useCallback((m: string) => {
     setFilterMonths(prev => prev.includes(m) ? prev.filter(x => x !== m) : [...prev, m]);
   }, []);
@@ -83,6 +93,7 @@ export default function HomePage() {
     setFilterPriority("");
     setFilterDifficulty("");
     setFilterIngredient("");
+    setFilterBrandType("");
   }, [currentMonth]);
 
   const filtered = useMemo(() => {
@@ -92,10 +103,11 @@ export default function HomePage() {
       if (filterPriority && p.商品会議優先度 !== filterPriority) return false;
       if (filterDifficulty && p.ALC実装難易度 !== filterDifficulty) return false;
       if (filterIngredient) {
-        const ing = filterIngredient.toLowerCase();
-        if (!((p.主素材 || "").toLowerCase().includes(ing) ||
-              (p.副素材 || "").toLowerCase().includes(ing))) return false;
+        const target = `${p.主素材} ${p.副素材}`;
+        if (!target.includes(filterIngredient)) return false;
       }
+      if (filterBrandType === "自社" && !p.ブランド名.includes(ALC_BRAND)) return false;
+      if (filterBrandType === "競合" && p.ブランド名.includes(ALC_BRAND)) return false;
       if (query) {
         const q = query.toLowerCase();
         if (!(`${p.ブランド名} ${p.商品名} ${p.主素材} ${p.商品カテゴリ} ${p.季節テーマ}`.toLowerCase().includes(q))) return false;
@@ -113,7 +125,7 @@ export default function HomePage() {
   if (loading) return <div className="text-center py-20 text-gray-400">読み込み中...</div>;
 
   const hasFilter = !!(
-    query || filterBrand || filterPriority || filterDifficulty || filterIngredient ||
+    query || filterBrand || filterPriority || filterDifficulty || filterIngredient || filterBrandType ||
     JSON.stringify([...filterMonths].sort()) !== JSON.stringify([currentMonth].sort())
   );
 
@@ -146,14 +158,20 @@ export default function HomePage() {
 
       {/* フィルター */}
       <div className="bg-white rounded-xl shadow-sm p-4 mb-4 no-print">
-        {/* テキスト・優先度・難易度・ブランド */}
-        <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-3 mb-3">
+        {/* テキスト・優先度・難易度・ブランド・自社/競合 */}
+        <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3 mb-3">
           <input
-            className="col-span-2 border border-gray-200 rounded-lg px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-[#1F4E78]"
+            className="col-span-2 md:col-span-3 lg:col-span-2 border border-gray-200 rounded-lg px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-[#1F4E78]"
             placeholder="🔍 商品名・ブランド・素材で検索..."
             value={query}
             onChange={e => setQuery(e.target.value)}
           />
+          <select className="border border-gray-200 rounded-lg px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-[#1F4E78]"
+            value={filterBrandType} onChange={e => setFilterBrandType(e.target.value)}>
+            <option value="">自社＋競合</option>
+            <option value="自社">🏠 自社のみ</option>
+            <option value="競合">🔍 競合のみ</option>
+          </select>
           <select className="border border-gray-200 rounded-lg px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-[#1F4E78]"
             value={filterPriority} onChange={e => setFilterPriority(e.target.value)}>
             <option value="">全優先度</option>
@@ -202,14 +220,16 @@ export default function HomePage() {
           ))}
         </div>
 
-        {/* 素材 */}
+        {/* 素材（DBの実データから生成） */}
         <div className="border-t border-gray-100 pt-3">
-          <input
+          <select
             className="w-full md:w-64 border border-gray-200 rounded-lg px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-[#1F4E78]"
-            placeholder="🌿 素材で絞り込み（例：桃、いちご）..."
             value={filterIngredient}
             onChange={e => setFilterIngredient(e.target.value)}
-          />
+          >
+            <option value="">🌿 素材で絞り込み...</option>
+            {ingredientOptions.map(i => <option key={i} value={i}>{i}</option>)}
+          </select>
         </div>
       </div>
 
@@ -301,13 +321,20 @@ export default function HomePage() {
             <div className="p-4">
               <div className="flex items-start justify-between gap-2 mb-2">
                 <div>
-                  <div className="text-xs text-gray-400 mb-0.5">{p.ブランド名}</div>
+                  <div className="text-xs text-gray-400 mb-0.5 flex items-center gap-1">
+                    {p.ブランド名.includes(ALC_BRAND) && (
+                      <span className="bg-teal-100 text-teal-700 border border-teal-300 px-1.5 py-0 rounded text-[10px] font-bold">自社</span>
+                    )}
+                    {p.ブランド名}
+                  </div>
                   <div className="font-bold text-gray-800 text-sm leading-tight">{p.商品名}</div>
                 </div>
                 <div className="flex flex-col gap-1 items-end shrink-0">
-                  <span className={`text-xs px-2 py-0.5 rounded-full border font-bold ${PRIORITY_COLORS[p.商品会議優先度] || "bg-gray-100 text-gray-500 border-gray-200"}`}>
-                    {p.商品会議優先度}
-                  </span>
+                  {p.商品会議優先度 && (
+                    <span className={`text-xs px-2 py-0.5 rounded-full border font-bold ${PRIORITY_COLORS[p.商品会議優先度] || "bg-gray-100 text-gray-500 border-gray-200"}`}>
+                      {p.商品会議優先度}
+                    </span>
+                  )}
                   {p.対象月 && <span className="text-xs text-[#1F4E78] font-medium">{p.対象月}月</span>}
                 </div>
               </div>

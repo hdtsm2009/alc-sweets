@@ -2,7 +2,7 @@
 import { useEffect, useState, Suspense } from "react";
 import { useSearchParams } from "next/navigation";
 import type { Product } from "@/types/product";
-import { PRIORITY_COLORS, DIFFICULTY_COLORS } from "@/lib/data";
+import { PRIORITY_COLORS, DIFFICULTY_COLORS, ALC_BRAND } from "@/lib/data";
 import Link from "next/link";
 
 const MONTH_NAMES = ["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"];
@@ -119,7 +119,12 @@ function ProductDetail() {
         <div className="p-6">
         <div className="flex items-start justify-between gap-4 mb-4">
           <div>
-            <div className="text-sm text-gray-400 mb-1">{product.ブランド名} · {product.会社名}</div>
+            <div className="text-sm text-gray-400 mb-1 flex items-center gap-2">
+              {product.ブランド名.includes(ALC_BRAND) && (
+                <span className="bg-teal-100 text-teal-700 border border-teal-300 px-2 py-0 rounded text-xs font-bold">自社</span>
+              )}
+              {product.ブランド名} · {product.会社名}
+            </div>
             <h1 className="text-2xl font-bold text-gray-900">{product.商品名}</h1>
           </div>
           <div className="flex flex-col gap-2 items-end shrink-0">

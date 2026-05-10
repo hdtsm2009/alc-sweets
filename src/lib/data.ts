@@ -10,6 +10,8 @@ export async function getProducts(): Promise<Product[]> {
   return _cache;
 }
 
+export const ALC_BRAND = "ア・ラ・カンパーニュ";
+
 export const MONTHS = [1,2,3,4,5,6,7,8,9,10,11,12];
 export const MONTH_LABELS: Record<number, string> = {
   1:"1月", 2:"2月", 3:"3月", 4:"4月", 5:"5月", 6:"6月",

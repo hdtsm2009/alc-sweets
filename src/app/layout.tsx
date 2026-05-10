@@ -3,8 +3,8 @@ import "./globals.css";
 import FooterInfo from "@/components/FooterInfo";
 
 export const metadata: Metadata = {
-  title: "ALC 季節商品DB",
-  description: "ア・ラ・カンパーニュ 季節商品・旬素材スイーツ調査データベース",
+  title: "季節スイーツマンスリーDB",
+  description: "ア・ラ・カンパーニュ 季節スイーツマンスリーDB — 旬素材・競合・自社商品データベース",
 };
 
 export default function RootLayout({
@@ -18,7 +18,7 @@ export default function RootLayout({
         <header className="bg-[#1F4E78] text-white shadow-md no-print">
           <div className="max-w-7xl mx-auto px-4 py-3 flex items-center gap-4">
             <a href="/" className="text-xl font-bold tracking-wide hover:opacity-80">
-              🍓 ALC 季節商品DB
+              🍓 季節スイーツマンスリーDB
             </a>
             <nav className="flex gap-4 text-sm ml-4">
               <a href="/" className="hover:opacity-80">検索</a>
