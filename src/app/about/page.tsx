@@ -164,15 +164,17 @@ export default function AboutPage() {
           <div className="flex gap-3">
             <span className="bg-[#1F4E78] text-white rounded-full w-6 h-6 flex items-center justify-center text-xs font-bold shrink-0 mt-0.5">2</span>
             <div>
-              <div className="text-sm font-bold text-gray-800 mb-1">JSONに変換する</div>
+              <div className="text-sm font-bold text-gray-800 mb-1">JSONに変換する（画像も自動取得）</div>
               <p className="text-sm text-gray-600 mb-1">
                 PowerShellで以下を実行します：
               </p>
               <code className="block bg-gray-100 text-gray-700 text-xs px-3 py-2 rounded">
                 python export_to_json.py
               </code>
-              <p className="text-xs text-gray-400 mt-1">
-                ※ <code>14_季節商品調査/</code> フォルダで実行してください
+              <p className="text-xs text-gray-500 mt-1">
+                ※ <code>14_季節商品調査/</code> フォルダで実行してください。<br />
+                商品URLからOGP画像を自動取得します（初回のみ数分）。<br />
+                初回実行前に一度だけ：<code className="bg-gray-100 px-1 rounded">pip install requests beautifulsoup4</code>
               </p>
             </div>
           </div>

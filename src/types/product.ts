@@ -37,4 +37,5 @@ export interface Product {
   色見た目: string;
   サイズ: string;
   行タイプ: string;
+  imageUrl?: string;
 }

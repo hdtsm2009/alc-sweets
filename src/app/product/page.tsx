@@ -104,7 +104,19 @@ function ProductDetail() {
         </div>
       </div>
 
-      <div className="bg-white rounded-2xl shadow-sm p-6 mb-6">
+      <div className="bg-white rounded-2xl shadow-sm overflow-hidden mb-6">
+        {product.imageUrl && (
+          <div className="w-full h-64 bg-gray-100">
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img
+              src={product.imageUrl}
+              alt={product.商品名}
+              className="w-full h-full object-cover"
+              onError={e => { (e.currentTarget as HTMLImageElement).parentElement!.style.display = "none"; }}
+            />
+          </div>
+        )}
+        <div className="p-6">
         <div className="flex items-start justify-between gap-4 mb-4">
           <div>
             <div className="text-sm text-gray-400 mb-1">{product.ブランド名} · {product.会社名}</div>
@@ -137,6 +149,7 @@ function ProductDetail() {
               実在確認: {product.実在確認レベル}
             </span>
           )}
+        </div>
         </div>
       </div>
 

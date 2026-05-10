@@ -143,36 +143,63 @@ export default function HomePage() {
           <Link
             key={p.商品ID}
             href={`/product/?id=${p.商品ID}`}
-            className="bg-white rounded-xl shadow-sm hover:shadow-md transition-shadow p-4 block"
+            className="bg-white rounded-xl shadow-sm hover:shadow-md transition-shadow block overflow-hidden"
           >
-            <div className="flex items-start justify-between gap-2 mb-2">
-              <div>
-                <div className="text-xs text-gray-400 mb-0.5">{p.ブランド名}</div>
-                <div className="font-bold text-gray-800 text-sm leading-tight">{p.商品名}</div>
+            {p.imageUrl ? (
+              <div className="relative w-full h-40 bg-gray-100">
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img
+                  src={p.imageUrl}
+                  alt={p.商品名}
+                  className="w-full h-full object-cover"
+                  onError={e => { (e.currentTarget as HTMLImageElement).style.display = "none"; }}
+                />
               </div>
-              <div className="flex flex-col gap-1 items-end shrink-0">
-                <span className={`text-xs px-2 py-0.5 rounded-full border font-bold ${PRIORITY_COLORS[p.商品会議優先度] || "bg-gray-100 text-gray-500 border-gray-200"}`}>
-                  {p.商品会議優先度}
-                </span>
-                {p.対象月 && (
-                  <span className="text-xs text-[#1F4E78] font-medium">{p.対象月}月</span>
-                )}
-              </div>
-            </div>
-            <div className="text-xs text-gray-500 flex gap-2 flex-wrap">
-              {p.主素材 && <span>🍓 {p.主素材}</span>}
-              {p.商品カテゴリ && <span>📦 {p.商品カテゴリ}</span>}
-            </div>
-            {p.ALC実装難易度 && (
-              <div className="mt-2">
-                <span className={`text-xs px-2 py-0.5 rounded ${DIFFICULTY_COLORS[p.ALC実装難易度] || "bg-gray-100 text-gray-500"}`}>
-                  実装: {p.ALC実装難易度}
-                </span>
+            ) : (
+              <div className="w-full h-20 bg-gradient-to-br from-[#1F4E78]/10 to-[#1F4E78]/5 flex items-center justify-center text-3xl">
+                {p.主素材?.includes("桃") || p.主素材?.includes("もも") ? "🍑" :
+                 p.主素材?.includes("いちご") || p.主素材?.includes("苺") ? "🍓" :
+                 p.主素材?.includes("マンゴ") ? "🥭" :
+                 p.主素材?.includes("りんご") ? "🍎" :
+                 p.主素材?.includes("柑橘") || p.主素材?.includes("レモン") || p.主素材?.includes("みかん") ? "🍊" :
+                 p.主素材?.includes("栗") ? "🌰" :
+                 p.主素材?.includes("ぶどう") || p.主素材?.includes("葡萄") ? "🍇" :
+                 p.主素材?.includes("メロン") ? "🍈" :
+                 p.主素材?.includes("チョコ") ? "🍫" :
+                 p.商品カテゴリ?.includes("タルト") ? "🥧" :
+                 p.商品カテゴリ?.includes("ケーキ") ? "🎂" : "🍰"}
               </div>
             )}
-            {p.真似すべき点 && (
-              <p className="text-xs text-gray-600 mt-2 line-clamp-2">{p.真似すべき点}</p>
-            )}
+            <div className="p-4">
+              <div className="flex items-start justify-between gap-2 mb-2">
+                <div>
+                  <div className="text-xs text-gray-400 mb-0.5">{p.ブランド名}</div>
+                  <div className="font-bold text-gray-800 text-sm leading-tight">{p.商品名}</div>
+                </div>
+                <div className="flex flex-col gap-1 items-end shrink-0">
+                  <span className={`text-xs px-2 py-0.5 rounded-full border font-bold ${PRIORITY_COLORS[p.商品会議優先度] || "bg-gray-100 text-gray-500 border-gray-200"}`}>
+                    {p.商品会議優先度}
+                  </span>
+                  {p.対象月 && (
+                    <span className="text-xs text-[#1F4E78] font-medium">{p.対象月}月</span>
+                  )}
+                </div>
+              </div>
+              <div className="text-xs text-gray-500 flex gap-2 flex-wrap">
+                {p.主素材 && <span>🍓 {p.主素材}</span>}
+                {p.商品カテゴリ && <span>📦 {p.商品カテゴリ}</span>}
+              </div>
+              {p.ALC実装難易度 && (
+                <div className="mt-2">
+                  <span className={`text-xs px-2 py-0.5 rounded ${DIFFICULTY_COLORS[p.ALC実装難易度] || "bg-gray-100 text-gray-500"}`}>
+                    実装: {p.ALC実装難易度}
+                  </span>
+                </div>
+              )}
+              {p.真似すべき点 && (
+                <p className="text-xs text-gray-600 mt-2 line-clamp-2">{p.真似すべき点}</p>
+              )}
+            </div>
           </Link>
         ))}
       </div>
