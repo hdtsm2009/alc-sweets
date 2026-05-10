@@ -19,8 +19,14 @@ export default function HomePage() {
   const [products, setProducts] = useState<Product[]>([]);
   const [loading, setLoading] = useState(true);
   const [query, setQuery] = useState("");
-  const currentMonth = String(new Date().getMonth() + 1);
-  const [filterMonth, setFilterMonth] = useState(currentMonth);
+  const [currentMonth, setCurrentMonth] = useState("");
+  const [filterMonth, setFilterMonth] = useState("");
+
+  useEffect(() => {
+    const m = String(new Date().getMonth() + 1);
+    setCurrentMonth(m);
+    setFilterMonth(m);
+  }, []);
   const [filterBrand, setFilterBrand] = useState("");
   const [filterPriority, setFilterPriority] = useState("");
   const [filterDifficulty, setFilterDifficulty] = useState("");
