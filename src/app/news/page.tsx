@@ -1,6 +1,6 @@
 "use client";
 import Link from "next/link";
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { useProducts, hasRecord, matchesQuery } from "@/lib/data";
 import { latestProducts, newsProducts } from "@/lib/news";
 import type { Product } from "@/types/product";
@@ -12,6 +12,18 @@ export default function NewsPage() {
   const [query, setQuery] = useState("");
   const [brand, setBrand] = useState("");
   const [view, setView] = useState<"latest" | "added">("latest");
+  const [ready, setReady] = useState(false);
+  useEffect(() => {
+    const restore = () => {
+      const params = new URLSearchParams(window.location.search);
+      setQuery(params.get("q") || ""); setBrand(params.get("brand") || "");
+      setView(params.get("view") === "added" ? "added" : "latest"); setReady(true);
+    };
+    restore(); window.addEventListener("popstate", restore);
+    return () => window.removeEventListener("popstate", restore);
+  }, []);
+  const newsUrl = "/news/?" + new URLSearchParams({ view, q: query, brand }).toString();
+  useEffect(() => { if (ready) window.history.replaceState(window.history.state, "", newsUrl); }, [newsUrl, ready]);
   const additions = useMemo(() => newsProducts(products), [products]);
   const latest = useMemo(() => latestProducts(products), [products]);
   const entries = view === "latest" ? latest : additions;
@@ -20,7 +32,7 @@ export default function NewsPage() {
   const dates = Array.from(new Set(filtered.map(dateOf)));
   const brands = Array.from(new Set(entries.map(p => p.ブランド名))).sort();
   if (error) return <div role="alert" className="text-center py-20"><p>{error}</p><button onClick={retry} className="action mt-3">再試行</button></div>;
-  if (loading) return <p className="text-center py-20 text-gray-500">新着情報を読み込み中...</p>;
+  if (loading || !ready) return <p className="text-center py-20 text-gray-500">新着情報を読み込み中...</p>;
   return <div>
     <div className="mb-7 border-b border-slate-200 pb-6">
       <p className="eyebrow">ALC / DB NEWS</p>
@@ -45,16 +57,16 @@ export default function NewsPage() {
       <div className="flex flex-wrap items-baseline gap-3 mb-4"><h2 className="section-title !mb-0"><time dateTime={date}>{date.replaceAll("-", ".")}</time></h2><span className="text-sm text-slate-500">{filtered.filter(p => dateOf(p) === date).length}商品の{view === "latest" ? "公式掲載を確認" : "DB初回収録"}{query || brand ? "（絞り込み後）" : ""}</span></div>
       <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-5">
         {filtered.filter(p => dateOf(p) === date).map(p => <article className="surface overflow-hidden flex flex-col" key={p.商品ID}>
-          <Link href={`/product/?id=${encodeURIComponent(p.商品ID)}&back=${encodeURIComponent("/news/")}`}><ProductImage product={p} /></Link>
+          <Link href={`/product/?id=${encodeURIComponent(p.商品ID)}&back=${encodeURIComponent(newsUrl)}`}><ProductImage product={p} /></Link>
           <div className="p-5 flex flex-col flex-1">
             <p className="text-xs text-slate-500 mb-2">{p.ブランド名} / {p.商品カテゴリ || "カテゴリ未記録"}</p>
-            <h3 className="text-lg font-bold text-[#1F4E78] leading-relaxed"><Link href={`/product/?id=${encodeURIComponent(p.商品ID)}&back=${encodeURIComponent("/news/")}`}>{p.商品名}</Link></h3>
+            <h3 className="text-lg font-bold text-[#1F4E78] leading-relaxed"><Link href={`/product/?id=${encodeURIComponent(p.商品ID)}&back=${encodeURIComponent(newsUrl)}`}>{p.商品名}</Link></h3>
             <p className="text-xs text-slate-500 mt-2">元DBの対象：{p.対象年 || "年未記録"} / {p.対象月 ? `${p.対象月}月` : "月未設定"}{view === "latest" && " ／ 最新情報は2026年秋"}</p>
             {view === "latest" && p.imageDisplayStatus === "matched" && p.dbFirstSeen !== p.informationCheckedAt && <div className="text-[11px] text-slate-500 mt-2 leading-relaxed"><p>写真は過去掲載分を含み、撮影年・仕様が最新情報と異なる場合があります。</p><p className="mt-1">{p.imageMatchNote}</p></div>}
             <p className="text-sm text-slate-600 mt-4 leading-relaxed">{p.latestDescription || (hasRecord(p.真似すべき点) ? p.真似すべき点 : hasRecord(p.主素材) ? `素材の記録：${p.主素材}` : "商品情報と掲載元を詳細ページで確認できます。")}</p>
             {p.informationCheckedAt && <div className="mt-3 text-xs text-slate-600 leading-relaxed"><p>{p.latestAvailability}</p>{p.latestSourceDate && <p>公式発表日：{p.latestSourceDate}</p>}{p.latestPrice && <p className="mt-2">掲載価格：{p.latestPrice}</p>}</div>}
             {hasRecord(p.応用案) && <div className="bg-slate-50 rounded-lg p-3 mt-4"><p className="text-[11px] text-slate-500 mb-1">DBに記録された開発ヒント</p><p className="text-sm text-slate-700">{p.応用案}</p></div>}
-            <div className="mt-auto pt-5 flex flex-wrap gap-2"><CandidateButton id={p.商品ID} /><Link className="action" href={`/product/?id=${encodeURIComponent(p.商品ID)}&back=${encodeURIComponent("/news/")}`}>詳細・出典 →</Link></div>
+            <div className="mt-auto pt-5 flex flex-wrap gap-2"><CandidateButton id={p.商品ID} /><Link className="action" href={`/product/?id=${encodeURIComponent(p.商品ID)}&back=${encodeURIComponent(newsUrl)}`}>詳細・出典 →</Link></div>
           </div>
         </article>)}
       </div>

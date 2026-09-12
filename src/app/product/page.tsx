@@ -6,10 +6,10 @@ import { useProducts, existenceLabel, salesLabel, PRIORITY_COLORS, DIFFICULTY_CO
 import Link from "next/link";
 import CandidateButton from "@/components/CandidateButton";
 import ProductImage from "@/components/ProductImage";
-import { COMPARISON_GROUPS, safeHttpUrl } from "@/lib/planning";
+import { DEVELOPMENT_GROUP, safeHttpUrl, useCandidates } from "@/lib/planning";
+import { listProducts, safeListBack, planningUrl, backAtResult } from "@/lib/search";
 
 const MONTH_NAMES = ["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"];
-const PRIORITY_ORDER: Record<string, number> = { S: 0, "A+": 1, A: 2, B: 3, C: 4 };
 
 function Row({ label, value }: { label: string; value: string | number | null | undefined }) {
   if (!value && value !== 0) return null;
@@ -41,19 +41,18 @@ function ProductDetail() {
   const searchParams = useSearchParams();
   const id = searchParams.get("id");
   const back = searchParams.get("back");
-  const validBack = back?.startsWith("/?") || back === "/news/";
-  const backUrl = validBack ? back! : searchParams.get("from") === "planning" ? "/planning/" : "/";
-  const suffix = validBack ? `&back=${encodeURIComponent(back!)}` : searchParams.get("from") === "planning" ? "&from=planning" : "";
+  const validBack = safeListBack(back);
+  const fromPlanning = searchParams.get("from") === "planning";
+  const { ids } = useCandidates();
   const { products, loading, error, retry } = useProducts();
-  const allProducts = [...products].sort((a, b) => {
-    const pa = PRIORITY_ORDER[a.商品会議優先度] ?? 5;
-    const pb = PRIORITY_ORDER[b.商品会議優先度] ?? 5;
-    return pa - pb || (Number(a.対象月) || 13) - (Number(b.対象月) || 13);
-  });
+  const allProducts = fromPlanning ? ids.map(candidate => products.find(p => p.商品ID === candidate)).filter(p => p !== undefined) : listProducts(products, validBack || "/");
   const product = products.find(p => p.商品ID === id) || null;
   const currentIndex = allProducts.findIndex(p => p.商品ID === id);
+  const resultBack = !fromPlanning && validBack ? backAtResult(validBack, currentIndex) : validBack;
+  const backUrl = fromPlanning ? planningUrl(resultBack || "/") : resultBack || "/";
+  const suffix = `${resultBack ? `&back=${encodeURIComponent(resultBack)}` : ""}${fromPlanning ? "&from=planning" : ""}`;
   const prevProduct = currentIndex > 0 ? allProducts[currentIndex - 1] : null;
-  const nextProduct = currentIndex < allProducts.length - 1 ? allProducts[currentIndex + 1] : null;
+  const nextProduct = currentIndex >= 0 && currentIndex < allProducts.length - 1 ? allProducts[currentIndex + 1] : null;
 
   if (error) return <div role="alert" className="text-center py-20"><p>{error}</p><button onClick={retry} className="mt-3 underline">再試行</button></div>;
   if (loading) return <div className="text-center py-20 text-gray-400">読み込み中...</div>;
@@ -67,8 +66,8 @@ function ProductDetail() {
   return (
     <div>
       {/* ナビゲーション */}
-      <div className="flex items-center justify-between mb-4">
-        <Link href={backUrl} className="text-sm text-[#1F4E78] hover:opacity-70">← {backUrl === "/planning/" ? "候補比較" : backUrl === "/news/" ? "DB新着" : "検索結果"}に戻る</Link>
+      <div className="flex flex-wrap gap-3 items-center justify-between mb-4">
+        <Link href={backUrl} className="text-sm text-[#1F4E78] hover:opacity-70">← {fromPlanning ? "候補比較" : backUrl.startsWith("/news/") ? "DB新着" : backUrl.startsWith("/images/") ? "画像の取得状況" : "検索結果"}に戻る</Link>
         <div className="flex gap-2">
           {prevProduct ? (
             <Link
@@ -82,7 +81,7 @@ function ProductDetail() {
             <span className="text-xs border border-gray-100 rounded-lg px-3 py-1.5 text-gray-300">◀ 前の商品</span>
           )}
           <span className="text-xs text-gray-400 flex items-center px-1">
-            全DB {currentIndex + 1} / {allProducts.length}
+            {currentIndex < 0 ? "現在の条件外" : `${fromPlanning ? "比較候補" : validBack ? "一覧内" : "全DB"} ${currentIndex + 1} / ${allProducts.length}`}
           </span>
           {nextProduct ? (
             <Link
@@ -98,7 +97,7 @@ function ProductDetail() {
         </div>
       </div>
 
-      <div className="flex flex-wrap items-center gap-3 mb-4 no-print"><CandidateButton id={product.商品ID} /><Link href="/planning/" className="action">候補を比較して試作メモへ</Link></div>
+      <div className="flex flex-wrap items-center gap-3 mb-4 no-print"><CandidateButton id={product.商品ID} /><Link href={planningUrl(resultBack || "/")} className="action">候補を比較して試作メモへ</Link></div>
 
       <div className="bg-white rounded-2xl shadow-sm overflow-hidden mb-6">
         <ProductImage product={product} large />
@@ -286,8 +285,8 @@ function ProductDetail() {
       <section className="surface p-5 mt-6">
         <h2 className="section-title">ALCで試すための製造・運用メモ</h2>
         <p className="text-sm text-gray-600 mb-4">Excelに記録された評価・仮説です。実際の原価、設備、調達、日持ちは試作で確認してください。</p>
-        <dl className="grid md:grid-cols-2 gap-4">{COMPARISON_GROUPS[1].fields.filter(([key]) => product[key]).map(([key, label]) => <div key={key} className="border-b pb-3"><dt className="text-sm text-gray-500 mb-1">{label}</dt><dd className="text-sm whitespace-pre-wrap">{product[key]}</dd></div>)}</dl>
-        <details className="mt-4 text-sm"><summary className="cursor-pointer text-gray-600">未記録の確認項目（{COMPARISON_GROUPS[1].fields.filter(([key]) => !product[key]).length}）</summary><ul className="mt-3 grid md:grid-cols-2 gap-2">{COMPARISON_GROUPS[1].fields.filter(([key]) => !product[key]).map(([key,label]) => <li key={key}>{label}：未記録</li>)}</ul></details>
+        <dl className="grid md:grid-cols-2 gap-4">{DEVELOPMENT_GROUP.fields.filter(([key]) => product[key]).map(([key, label]) => <div key={key} className="border-b pb-3"><dt className="text-sm text-gray-500 mb-1">{label}</dt><dd className="text-sm whitespace-pre-wrap">{product[key]}</dd></div>)}</dl>
+        <details className="mt-4 text-sm"><summary className="cursor-pointer text-gray-600">未記録の確認項目（{DEVELOPMENT_GROUP.fields.filter(([key]) => !product[key]).length}）</summary><ul className="mt-3 grid md:grid-cols-2 gap-2">{DEVELOPMENT_GROUP.fields.filter(([key]) => !product[key]).map(([key,label]) => <li key={key}>{label}：未記録</li>)}</ul></details>
       </section>
 
       {/* 下部ナビゲーション */}

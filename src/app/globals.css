@@ -19,6 +19,9 @@ body {
 .action:hover { background: #edf4fa; }
 .action-primary { background: #1f4e78; color: white; border-color: #1f4e78; }
 .action-primary:hover { background: #163a5a; }
+.search-chip { display: inline-flex; align-items: center; gap: 6px; border: 1px solid #cbd5e1; border-radius: 999px; padding: 7px 11px; font-size: 12px; color: #475569; background: white; }
+.search-chip:hover { background: #edf4fa; }
+.search-chip.is-active, .search-chip[aria-pressed="true"] { background: #1f4e78; color: white; border-color: #1f4e78; }
 button:disabled { opacity: .55; cursor: not-allowed; }
 input:focus-visible, select:focus-visible, textarea:focus-visible, button:focus-visible, a:focus-visible, [tabindex]:focus-visible { outline: 3px solid #d59c18; outline-offset: 3px; }
 .comparison-wrap { max-width: 100%; max-height: 65vh; overflow: auto; border: 1px solid #ccd8e2; border-radius: 12px; background: white; }
