@@ -90,3 +90,31 @@ test("OGP・未確認・不正画像は表示しない", () => {
   assert.equal(news.imageForProduct({...p,imageDisplayStatus:"matched",imageUrl:"javascript:alert(1)"}),undefined);
   assert.equal(news.imageForProduct({...p,imageDisplayStatus:"matched",imageSourceUrl:""}),undefined);
 });
+
+test("最新情報は確認日順で、初回収録日を変更しない", () => {
+  const values=[
+    {...product, 商品ID:"old",dbFirstSeen:"2020-01-01",informationCheckedAt:"2026-09-01",latestInfoUrl:"https://example.invalid/old"},
+    {...product, 商品ID:"new",dbFirstSeen:"2020-01-02",informationCheckedAt:"2026-09-12",latestInfoUrl:"https://example.invalid/new"},
+    {...product, 商品ID:"unchecked",dbFirstSeen:"2026-09-12"},
+  ];
+  assert.deepEqual(news.latestProducts(values).map(p=>p.商品ID),["new","old"]);
+  assert.equal(values[0].dbFirstSeen,"2020-01-01");
+});
+
+test("生成画像は説明と安全なローカルパスが必要", () => {
+  const p={...product,imageDisplayStatus:"generated",imageUrl:"/images/generated/TEST-1.png",imageGenerationBasis:"合成素材・形状は推定"};
+  assert.equal(news.imageForProduct(p),p.imageUrl);
+  assert.equal(news.imageForProduct({...p,imageGenerationBasis:""}),undefined);
+  for(const url of ["/images/generated/../../private.png","https://example.invalid/generated.png","javascript:alert(1)"]) assert.equal(news.imageForProduct({...p,imageUrl:url}),undefined);
+});
+
+test("期限付きSNS画像の保存先は回収画像フォルダのみ", () => {
+  const p={...product,imageDisplayStatus:"matched",imageUrl:"/images/recovered/TEST-1.jpg",imageSourceUrl:"https://example.invalid/post",imageCheckedAt:"2026-09-12"};
+  assert.equal(news.imageForProduct(p),p.imageUrl);
+  assert.equal(news.imageForProduct({...p,imageUrl:"/private.jpg"}),undefined);
+  assert.equal(news.imageForProduct({...p,imageSourceUrl:""}),undefined);
+});
+
+test("最新の商品説明も検索対象", () => {
+  assert.equal(data.matchesQuery({...product,latestDescription:"合成限定シトラス",latestUpdateSummary:"秋発売"},"シトラス 秋発売"),true);
+});

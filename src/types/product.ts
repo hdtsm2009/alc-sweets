@@ -51,6 +51,18 @@ export interface Product {
   dbFirstSeenKind?: string;
   dbFirstSeenBasis?: string;
   dbFirstSeenBatch?: string;
+  informationCheckedAt?: string;
+  latestInfoUrl?: string;
+  latestSourceDate?: string;
+  latestUpdateSummary?: string;
+  latestDescription?: string;
+  latestPrice?: string;
+  latestAvailability?: string;
+  imageKind?: string;
+  imageFailureReason?: string;
+  imageSearchDate?: string;
+  imageSearchSources?: string;
+  imageGenerationBasis?: string;
   対象年?: string;
   販売開始日?: string;
   販売終了日?: string;

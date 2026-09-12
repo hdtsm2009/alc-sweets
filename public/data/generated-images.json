@@ -1,0 +1,1212 @@
+{
+  "version": 1,
+  "items": {
+    "SWT-0221": {
+      "name": "ラ・メゾン アンソレイユターブル 春の桜と苺のタルト",
+      "brand": "ラ・メゾン アンソレイユターブル",
+      "basis": "DBの記録：タルト、主素材いちご、副素材桜、クリーム、見た目桜色、春らしい。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。",
+      "prompt": "Use case: product-mockup. Asset type: a square product-development concept thumbnail, not a documentary photograph of a real brand product. Create exactly one small whole strawberry and sakura cream tart as the only subject. Ingredients visible: fresh red strawberries, pale sakura-pink cream, golden pastry tart shell. A restrained piped cream ring and upright strawberry halves on top; no leaves, other fruits or loose ingredients. Photorealistic studio food photography on seamless pure white background, soft diffused light, gentle contact shadow, three-quarter view, full tart visible with generous white margin. Do not reproduce a branded product, logo, shop packaging or known commercial styling. The shape and arrangement are a hypothetical pastry concept. No text, labels, watermark, utensils, hands, plate, props, packaging or collage.",
+      "createdAt": "2026-09-12",
+      "reviewed": true,
+      "review": "苺・桜色クリーム・タルト、白背景、文字・他の果物なしを目視確認。",
+      "url": "/images/generated/SWT-0221.png",
+      "sha256": "0e95fb44c47a3c6716fb975ed256f83b5be60394d135b9a8fa872ab5cfbb142d"
+    },
+    "SWT-0222": {
+      "name": "カフェコムサ 抹茶と苺の春ケーキ",
+      "brand": "カフェコムサ",
+      "basis": "DBの記録：ケーキ、主素材抹茶、副素材いちご、小豆、見た目緑×赤。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。",
+      "prompt": "One single rectangular slice of matcha and strawberry cake. Green matcha sponge, a thin dark-red sweet azuki bean layer, and a restrained topping of red strawberry halves. The green cake and red berries are dominant. No fruits except strawberries. Use case: product-mockup. Asset type: one square thumbnail of a hypothetical product-development concept, not evidence of a real commercial product. Photorealistic studio food photography, seamless white background, soft diffused light and gentle contact shadow. Full single dessert visible with white margin, clear three-quarter angle. The shape, layers and arrangement are inferred concept choices. No brand replication, logos, text, labels, watermark, packaging, extra desserts, loose ingredients, utensils, hands, plates, props, scenery or collage.",
+      "createdAt": "2026-09-12",
+      "reviewed": true,
+      "review": "指定素材・色、単品・白背景、ブランド文字・余分な果物なしを目視確認。",
+      "url": "/images/generated/SWT-0222.png",
+      "sha256": "001e0f5309af367dd5a6516d40646644d0824261dc0f2b4fe25851a8a8ad0372"
+    },
+    "SWT-0223": {
+      "name": "フルーツピークス 初夏レモンチーズタルト",
+      "brand": "フルーツピークス",
+      "basis": "DBの記録：タルト、主素材レモン、副素材チーズ、クリーム、見た目黄色、爽やか。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。",
+      "prompt": "One single small whole lemon cheesecake tart. Golden pastry shell, creamy pale-yellow cheese filling, subtle whipped cream, and very thin glossy yellow lemon crescents on top. Fresh yellow and cream tones. No fruits except lemon. Use case: product-mockup. Asset type: one square thumbnail of a hypothetical product-development concept, not evidence of a real commercial product. Photorealistic studio food photography, seamless white background, soft diffused light and gentle contact shadow. Full single dessert visible with white margin, clear three-quarter angle. The shape, layers and arrangement are inferred concept choices. No brand replication, logos, text, labels, watermark, packaging, extra desserts, loose ingredients, utensils, hands, plates, props, scenery or collage.",
+      "createdAt": "2026-09-12",
+      "reviewed": true,
+      "review": "指定素材・色、単品・白背景、ブランド文字・余分な果物なしを目視確認。",
+      "url": "/images/generated/SWT-0223.png",
+      "sha256": "d6cbea3b598d006455ebb574b1f7c08b549e3bc082be36e3d045d3c09c3a5b09"
+    },
+    "SWT-0225": {
+      "name": "新宿高野 桃とバニラクリームのタルト",
+      "brand": "新宿高野",
+      "basis": "DBの記録：タルト、主素材桃、副素材バニラ、カスタード、見た目桃色、上面盛り。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。",
+      "prompt": "One single small whole peach and vanilla custard tart. A low golden pastry shell filled with vanilla custard, topped with pale pink peach wedges arranged in an overlapping fan. Pale peach pink and soft custard yellow. No fruits except peach. Use case: product-mockup. Asset type: one square thumbnail of a hypothetical product-development concept, not evidence of a real commercial product. Photorealistic studio food photography, seamless white background, soft diffused light and gentle contact shadow. Full single dessert visible with white margin, clear three-quarter angle. The shape, layers and arrangement are inferred concept choices. No brand replication, logos, text, labels, watermark, packaging, extra desserts, loose ingredients, utensils, hands, plates, props, scenery or collage.",
+      "createdAt": "2026-09-12",
+      "reviewed": true,
+      "review": "指定素材・色、単品・白背景、ブランド文字・余分な果物なしを目視確認。",
+      "url": "/images/generated/SWT-0225.png",
+      "sha256": "33420d0568e8e97957201549e893b3b4a844f895985991f5947184d65cd3c1e7"
+    },
+    "SWT-0226": {
+      "name": "千疋屋総本店 マンゴーとココナッツの夏ケーキ",
+      "brand": "千疋屋総本店",
+      "basis": "DBの記録：ケーキ、主素材マンゴー、副素材ココナッツ、クリーム、見た目黄色、トロピカル。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。",
+      "prompt": "One single small round mango and coconut cream cake. White coconut cream around the sides, a delicate coconut texture, vivid golden mango pieces neatly covering the top. Yellow and white tropical feeling conveyed only by the cake. No fruits except mango, no coconut shells. Use case: product-mockup. Asset type: one square thumbnail of a hypothetical product-development concept, not evidence of a real commercial product. Photorealistic studio food photography, seamless white background, soft diffused light and gentle contact shadow. Full single dessert visible with white margin, clear three-quarter angle. The shape, layers and arrangement are inferred concept choices. No brand replication, logos, text, labels, watermark, packaging, extra desserts, loose ingredients, utensils, hands, plates, props, scenery or collage.",
+      "createdAt": "2026-09-12",
+      "reviewed": true,
+      "review": "指定素材・色、単品・白背景、ブランド文字・余分な果物なしを目視確認。",
+      "url": "/images/generated/SWT-0226.png",
+      "sha256": "c16b56638d239ee61c06d583af37f2c3798cc7b07d42e4ad7259133f8d028be1"
+    },
+    "SWT-0229": {
+      "name": "アンリ・シャルパンティエ りんごとキャラメルのパイ",
+      "brand": "アンリ・シャルパンティエ",
+      "basis": "DBの記録：パイ、主素材りんご、副素材キャラメル、パイ、見た目焼き色、りんご。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。",
+      "prompt": "One single small whole apple and caramel pie. Flaky golden-brown pastry border, baked apple slices arranged in a concentric spiral, a restrained amber caramel glaze. Rich baked colors and visible apples. No other fruits. Use case: product-mockup. Asset type: one square thumbnail of a hypothetical product-development concept, not evidence of a real commercial product. Photorealistic studio food photography, seamless white background, soft diffused light and gentle contact shadow. Full single dessert visible with white margin, clear three-quarter angle. The shape, layers and arrangement are inferred concept choices. No brand replication, logos, text, labels, watermark, packaging, extra desserts, loose ingredients, utensils, hands, plates, props, scenery or collage.",
+      "createdAt": "2026-09-12",
+      "reviewed": true,
+      "review": "指定素材・色、単品・白背景、ブランド文字・余分な果物なしを目視確認。",
+      "url": "/images/generated/SWT-0229.png",
+      "sha256": "feba615d78de651b03fae6787977cd30d0c4216cd05b02397a44d91b2651cf17"
+    },
+    "SWT-0230": {
+      "name": "アンテノール ピスタチオショコラケーキ",
+      "brand": "アンテノール",
+      "basis": "DBの記録：ケーキ、主素材ピスタチオ、副素材チョコレート、見た目緑×茶。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。",
+      "prompt": "One single rectangular pistachio and chocolate cake. Clearly visible alternating pistachio-green and chocolate-brown layers, smooth chocolate upper surface, a small amount of chopped pistachio as the only garnish. No fruit. Use case: product-mockup. Asset type: one square thumbnail of a hypothetical product-development concept, not evidence of a real commercial product. Photorealistic studio food photography, seamless white background, soft diffused light and gentle contact shadow. Full single dessert visible with white margin, clear three-quarter angle. The shape, layers and arrangement are inferred concept choices. No brand replication, logos, text, labels, watermark, packaging, extra desserts, loose ingredients, utensils, hands, plates, props, scenery or collage.",
+      "createdAt": "2026-09-12",
+      "reviewed": true,
+      "review": "指定素材・色、単品・白背景、ブランド文字・余分な果物なしを目視確認。",
+      "url": "/images/generated/SWT-0230.png",
+      "sha256": "b53769a51e3f18874e05a55e1e4ee832369b385279fa6d1c657e9883fd773994"
+    },
+    "SWT-0231": {
+      "name": "銀座コージーコーナー 春の桜と苺のタルト",
+      "brand": "銀座コージーコーナー",
+      "basis": "DBの記録：タルト、主素材いちご、副素材桜、クリーム、見た目桜色、春らしい。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。",
+      "prompt": "One single small whole strawberry and sakura cream tart. Golden pastry shell, a smooth blush-pink sakura cream surface, red strawberry halves placed in one low circular arrangement, small restrained pink cream dots. A hypothetical spring tart, no flowers or leaves, no other fruit. Use case: product-mockup. Asset type: one square thumbnail of a hypothetical product-development concept, not evidence of a real commercial product. Photorealistic studio food photography, seamless white background, soft diffused light and gentle contact shadow. Full single dessert visible with white margin, clear three-quarter angle. The shape, layers and arrangement are inferred concept choices. No brand replication, logos, text, labels, watermark, packaging, extra desserts, loose ingredients, utensils, hands, plates, props, scenery or collage.",
+      "createdAt": "2026-09-12",
+      "reviewed": true,
+      "review": "指定素材・色、単品・白背景、ブランド文字・余分な果物なしを目視確認。",
+      "url": "/images/generated/SWT-0231.png",
+      "sha256": "b329933baf6862495a795fb3674512520dce06774c6ee33ae7c162b15a673a5b"
+    },
+    "SWT-0232": {
+      "name": "シャトレーゼ 抹茶と苺の春ケーキ",
+      "brand": "シャトレーゼ",
+      "basis": "DBの記録：ケーキ、主素材抹茶、副素材いちご、小豆、見た目緑×赤。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。",
+      "prompt": "One single small round matcha and strawberry cake with a visible cut-style cross-section on one side. Green matcha sponge and a thin azuki-bean filling, red strawberries arranged across the top. One cake only, not a separated extra slice. No other fruit. Use case: product-mockup. Asset type: one square thumbnail of a hypothetical product-development concept, not evidence of a real commercial product. Photorealistic studio food photography, seamless white background, soft diffused light and gentle contact shadow. Full single dessert visible with white margin, clear three-quarter angle. The shape, layers and arrangement are inferred concept choices. No brand replication, logos, text, labels, watermark, packaging, extra desserts, loose ingredients, utensils, hands, plates, props, scenery or collage.",
+      "createdAt": "2026-09-12",
+      "reviewed": true,
+      "review": "指定素材・色、単品・白背景、ブランド文字・余分な果物なしを目視確認。",
+      "url": "/images/generated/SWT-0232.png",
+      "sha256": "d98b6584f0f230ea7b2d2f7e5e734a50e066f0c002e70e1b16732b38f68e5ec2"
+    },
+    "SWT-0233": {
+      "name": "不二家 初夏レモンチーズタルト",
+      "brand": "不二家",
+      "basis": "DBの記録：タルト、主素材レモン、副素材チーズ、クリーム、見た目黄色、爽やか。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。",
+      "prompt": "One single lemon and cheese tartlet with a crisp golden crust, smooth pale yellow cheesecake filling, three small cream rosettes and thin translucent lemon slices set slightly off center. Yellow fresh palette, no other fruit. Use case: product-mockup. Asset type: one square thumbnail of a hypothetical product-development concept, not evidence of a real commercial product. Photorealistic studio food photography, seamless white background, soft diffused light and gentle contact shadow. Full single dessert visible with white margin, clear three-quarter angle. The shape, layers and arrangement are inferred concept choices. No brand replication, logos, text, labels, watermark, packaging, extra desserts, loose ingredients, utensils, hands, plates, props, scenery or collage.",
+      "createdAt": "2026-09-12",
+      "reviewed": true,
+      "review": "指定素材・色、単品・白背景、ブランド文字・余分な果物なしを目視確認。",
+      "url": "/images/generated/SWT-0233.png",
+      "sha256": "3ae1d63e892b9241dbffc53cc6bf14ea69a9ed0a70b89f58ac5b0ad87117224f"
+    },
+    "SWT-0235": {
+      "name": "カフェコムサ 桃とバニラクリームのタルト",
+      "brand": "カフェコムサ",
+      "basis": "DBの記録：タルト、主素材桃、副素材バニラ、カスタード、見た目桃色、上面盛り。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。",
+      "prompt": "One single small rectangular peach and vanilla custard tart. Crisp golden pastry base with straight sides, soft vanilla custard, pale-pink peach wedges overlapping across the entire top. No other fruit or decorations. Use case: product-mockup. Asset type: one square thumbnail of a hypothetical product-development concept, not evidence of a real commercial product. Photorealistic studio food photography, seamless white background, soft diffused light and gentle contact shadow. Full single dessert visible with white margin, clear three-quarter angle. The shape, layers and arrangement are inferred concept choices. No brand replication, logos, text, labels, watermark, packaging, extra desserts, loose ingredients, utensils, hands, plates, props, scenery or collage.",
+      "createdAt": "2026-09-12",
+      "reviewed": true,
+      "review": "指定素材・色、単品・白背景、ブランド文字・余分な果物なしを目視確認。",
+      "url": "/images/generated/SWT-0235.png",
+      "sha256": "61ba1a5ce5c2347411cc4cc5a8e3ace156d3ee986fa65b508024c50751b776fe"
+    },
+    "SWT-0236": {
+      "name": "フルーツピークス マンゴーとココナッツの夏ケーキ",
+      "brand": "フルーツピークス",
+      "basis": "DBの記録：ケーキ、主素材マンゴー、副素材ココナッツ、クリーム、見た目黄色、トロピカル。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。",
+      "prompt": "One single square slice of mango and coconut cream cake. Cream-colored coconut layers with a thin golden mango layer, top finished with neat ripe mango cubes and delicate coconut flakes. No other fruits and no extra objects. Use case: product-mockup. Asset type: one square thumbnail of a hypothetical product-development concept, not evidence of a real commercial product. Photorealistic studio food photography, seamless white background, soft diffused light and gentle contact shadow. Full single dessert visible with white margin, clear three-quarter angle. The shape, layers and arrangement are inferred concept choices. No brand replication, logos, text, labels, watermark, packaging, extra desserts, loose ingredients, utensils, hands, plates, props, scenery or collage.",
+      "createdAt": "2026-09-12",
+      "reviewed": true,
+      "review": "指定素材・色、単品・白背景、ブランド文字・余分な果物なしを目視確認。",
+      "url": "/images/generated/SWT-0236.png",
+      "sha256": "ab52e7f9a15eb58fb304d0221403341060e15d357264b2fc3faa1c14bf125e3e"
+    },
+    "SWT-0237": {
+      "name": "HARBS シャインマスカットのタルト",
+      "brand": "HARBS",
+      "basis": "DBの記録：タルト、主素材シャインマスカット、副素材レアチーズ、クリーム、見た目緑、高級感。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。",
+      "prompt": "One single whole Shine Muscat grape and rare-cheesecake tart. Golden tart shell, white no-bake cheesecake filling, bright translucent green seedless muscat grapes arranged across the top, small restrained white cream accents. No other fruits. Use case: product-mockup. Asset type: one square thumbnail of a hypothetical product-development concept, not evidence of a real commercial product. Photorealistic studio food photography, seamless white background, soft diffused light and gentle contact shadow. Full single dessert visible with white margin, clear three-quarter angle. The shape, layers and arrangement are inferred concept choices. No brand replication, logos, text, labels, watermark, packaging, extra desserts, loose ingredients, utensils, hands, plates, props, scenery or collage.",
+      "createdAt": "2026-09-12",
+      "reviewed": true,
+      "review": "指定素材・色、単品・白背景、ブランド文字・余分な果物なしを目視確認。",
+      "url": "/images/generated/SWT-0237.png",
+      "sha256": "7171bcfd708f6686201f79cc2268a8024f457620f7b3b6ffcff7914e68766ccc"
+    },
+    "SWT-0238": {
+      "name": "新宿高野 栗と洋梨の秋タルト",
+      "brand": "新宿高野",
+      "basis": "DBの記録：タルト、主素材栗、副素材洋梨、クリーム、見た目栗色、秋。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。",
+      "prompt": "One single small whole chestnut and pear tart. Golden tart pastry, ivory cream, curved pale poached-pear slices and glossy brown chestnut pieces arranged in alternating segments. Warm chestnut-brown autumn palette. No other fruits or nuts. Use case: product-mockup. Asset type: one square thumbnail of a hypothetical product-development concept, not evidence of a real commercial product. Photorealistic studio food photography, seamless white background, soft diffused light and gentle contact shadow. Full single dessert visible with white margin, clear three-quarter angle. The shape, layers and arrangement are inferred concept choices. No brand replication, logos, text, labels, watermark, packaging, extra desserts, loose ingredients, utensils, hands, plates, props, scenery or collage.",
+      "createdAt": "2026-09-12",
+      "reviewed": true,
+      "review": "指定素材・色、単品・白背景、ブランド文字・余分な果物なしを目視確認。",
+      "url": "/images/generated/SWT-0238.png",
+      "sha256": "1d4ec6bc4703c50a3f575c2abc14132128484d3c8d77c37e550830a681357a5a"
+    },
+    "SWT-0239": {
+      "name": "千疋屋総本店 りんごとキャラメルのパイ",
+      "brand": "千疋屋総本店",
+      "basis": "DBの記録：パイ、主素材りんご、副素材キャラメル、パイ、見た目焼き色、りんご。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。",
+      "prompt": "One single rectangular apple and caramel puff-pastry pie. Laminated golden flaky border, thin baked apple slices in two neat rows, a light amber caramel sheen. Apples are the only fruit, no cream or extra garnish. Use case: product-mockup. Asset type: one square thumbnail of a hypothetical product-development concept, not evidence of a real commercial product. Photorealistic studio food photography, seamless white background, soft diffused light and gentle contact shadow. Full single dessert visible with white margin, clear three-quarter angle. The shape, layers and arrangement are inferred concept choices. No brand replication, logos, text, labels, watermark, packaging, extra desserts, loose ingredients, utensils, hands, plates, props, scenery or collage.",
+      "createdAt": "2026-09-12",
+      "reviewed": true,
+      "review": "指定素材・色、単品・白背景、ブランド文字・余分な果物なしを目視確認。",
+      "url": "/images/generated/SWT-0239.png",
+      "sha256": "7e36618ef6388acfe3b7753276c87b92a8ab6c15f85b41a9d4f6ab7dbd1b8d8e"
+    },
+    "SWT-0241": {
+      "name": "資生堂パーラー 春の桜と苺のタルト",
+      "brand": "資生堂パーラー",
+      "basis": "DBの記録：タルト、主素材いちご、副素材桜、クリーム、見た目桜色、春らしい。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。",
+      "prompt": "One single shallow round strawberry and sakura cream tart. Golden fine pastry crust, pale cherry-blossom-pink cream, red strawberry wedges in an asymmetric crescent, rest of the pink cream surface smooth. No actual flowers, no leaves, no other fruit. Use case: product-mockup. Asset type: one square thumbnail of a hypothetical product-development concept, not evidence of a real commercial product. Photorealistic studio food photography, seamless white background, soft diffused light and gentle contact shadow. Full single dessert visible with white margin, clear three-quarter angle. The shape, layers and arrangement are inferred concept choices. No brand replication, logos, text, labels, watermark, packaging, extra desserts, loose ingredients, utensils, hands, plates, props, scenery or collage.",
+      "createdAt": "2026-09-12",
+      "reviewed": true,
+      "review": "指定素材・色、単品・白背景、ブランド文字・余分な果物なしを目視確認。",
+      "url": "/images/generated/SWT-0241.png",
+      "sha256": "c9aaa8759f2e98d7e69249388a2a69ae903b33ae8657ec71682bbd779b3b9a78"
+    },
+    "SWT-0242": {
+      "name": "アンリ・シャルパンティエ 抹茶と苺の春ケーキ",
+      "brand": "アンリ・シャルパンティエ",
+      "basis": "DBの記録：ケーキ、主素材抹茶、副素材いちご、小豆、見た目緑×赤。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。",
+      "prompt": "One single triangular slice of matcha and strawberry cake. Green matcha sponge, a thin dark azuki bean layer and sliced strawberries visible in the cake, restrained strawberries on top. Green and red, no other fruits. Use case: product-mockup. Asset type: one square thumbnail of a hypothetical product-development concept, not evidence of a real commercial product. Photorealistic studio food photography, seamless white background, soft diffused light and gentle contact shadow. Full single dessert visible with white margin, clear three-quarter angle. The shape, layers and arrangement are inferred concept choices. No brand replication, logos, text, labels, watermark, packaging, extra desserts, loose ingredients, utensils, hands, plates, props, scenery or collage.",
+      "createdAt": "2026-09-12",
+      "reviewed": true,
+      "review": "指定素材・色、単品・白背景、ブランド文字・余分な果物なしを目視確認。",
+      "url": "/images/generated/SWT-0242.png",
+      "sha256": "15c112061fc287f5c4f862412b01c23629bdb154998cc4dcbf3dd539b5f32cdb"
+    },
+    "SWT-0243": {
+      "name": "アンテノール 初夏レモンチーズタルト",
+      "brand": "アンテノール",
+      "basis": "DBの記録：タルト、主素材レモン、副素材チーズ、クリーム、見た目黄色、爽やか。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。",
+      "prompt": "One single small whole lemon cheese tart. Smooth yellow lemon-cheese filling inside a golden pastry shell, alternating small white cream peaks and thin yellow lemon half-moons around the outer edge. No other fruit, no herbs. Use case: product-mockup. Asset type: one square thumbnail of a hypothetical product-development concept, not evidence of a real commercial product. Photorealistic studio food photography, seamless white background, soft diffused light and gentle contact shadow. Full single dessert visible with white margin, clear three-quarter angle. The shape, layers and arrangement are inferred concept choices. No brand replication, logos, text, labels, watermark, packaging, extra desserts, loose ingredients, utensils, hands, plates, props, scenery or collage.",
+      "createdAt": "2026-09-12",
+      "reviewed": true,
+      "review": "指定素材・色、単品・白背景、ブランド文字・余分な果物なしを目視確認。",
+      "url": "/images/generated/SWT-0243.png",
+      "sha256": "6139952c1e5f2d07c222a5c4264b2b958ddf26818c651978b432c6acf9e438ed"
+    },
+    "SWT-0245": {
+      "name": "シャトレーゼ 桃とバニラクリームのタルト",
+      "brand": "シャトレーゼ",
+      "basis": "DBの記録：タルト、主素材桃、副素材バニラ、カスタード、見た目桃色、上面盛り。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。",
+      "prompt": "One single whole peach and vanilla custard tart. A crisp golden shell, vanilla custard, pale pink peach segments arranged as a gentle flower-like fan covering the top. This arrangement is an invented concept, not a branded replica. No other fruits and no actual flowers. Use case: product-mockup. Asset type: one square thumbnail of a hypothetical product-development concept, not evidence of a real commercial product. Photorealistic studio food photography, seamless white background, soft diffused light and gentle contact shadow. Full single dessert visible with white margin, clear three-quarter angle. The shape, layers and arrangement are inferred concept choices. No brand replication, logos, text, labels, watermark, packaging, extra desserts, loose ingredients, utensils, hands, plates, props, scenery or collage.",
+      "createdAt": "2026-09-12",
+      "reviewed": true,
+      "review": "指定素材・色、単品・白背景、ブランド文字・余分な果物なしを目視確認。",
+      "url": "/images/generated/SWT-0245.png",
+      "sha256": "7fbd3aebcab4de0dc876a4ddfbf07cae0ba73012539acfdaaf1b91f82a4eefd6"
+    },
+    "SWT-0246": {
+      "name": "不二家 マンゴーとココナッツの夏ケーキ",
+      "brand": "不二家",
+      "basis": "DBの記録：ケーキ、主素材マンゴー、副素材ココナッツ、クリーム、見た目黄色、トロピカル。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。",
+      "prompt": "One single round mango and coconut cream cake. Smooth ivory coconut cream sides, a flat golden mango top, several ripe mango wedges centered neatly, subtle coconut shavings integrated into the cake. No other fruit. Use case: product-mockup. Asset type: one square thumbnail of a hypothetical product-development concept, not evidence of a real commercial product. Photorealistic studio food photography, seamless white background, soft diffused light and gentle contact shadow. Full single dessert visible with white margin, clear three-quarter angle. The shape, layers and arrangement are inferred concept choices. No brand replication, logos, text, labels, watermark, packaging, extra desserts, loose ingredients, utensils, hands, plates, props, scenery or collage.",
+      "createdAt": "2026-09-12",
+      "reviewed": true,
+      "review": "指定素材・色、単品・白背景、ブランド文字・余分な果物なしを目視確認。",
+      "url": "/images/generated/SWT-0246.png",
+      "sha256": "8a1dca8f4facf202806273b064da85b87e009401a67644e53939a652d797470c"
+    },
+    "SWT-0247": {
+      "name": "ラ・メゾン アンソレイユターブル シャインマスカットのタルト",
+      "brand": "ラ・メゾン アンソレイユターブル",
+      "basis": "DBの記録：タルト、主素材シャインマスカット、副素材レアチーズ、クリーム、見た目緑、高級感。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。",
+      "prompt": "One single small round Shine Muscat and rare-cheese tart. A golden shell, white no-bake cheese filling, green muscat grape halves arranged like overlapping tiles across the top, a slim white cream border. No other fruit. Use case: product-mockup. Asset type: one square thumbnail of a hypothetical product-development concept, not evidence of a real commercial product. Photorealistic studio food photography, seamless white background, soft diffused light and gentle contact shadow. Full single dessert visible with white margin, clear three-quarter angle. The shape, layers and arrangement are inferred concept choices. No brand replication, logos, text, labels, watermark, packaging, extra desserts, loose ingredients, utensils, hands, plates, props, scenery or collage.",
+      "createdAt": "2026-09-12",
+      "reviewed": true,
+      "review": "指定素材・色、単品・白背景、ブランド文字・余分な果物なしを目視確認。",
+      "url": "/images/generated/SWT-0247.png",
+      "sha256": "bda0313a71a27cafeecc0f253ca9b6aa02ec6e7dfa014d145a88a1ea9c9b539f"
+    },
+    "SWT-0248": {
+      "name": "カフェコムサ 栗と洋梨の秋タルト",
+      "brand": "カフェコムサ",
+      "basis": "DBの記録：タルト、主素材栗、副素材洋梨、クリーム、見た目栗色、秋。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。",
+      "prompt": "One single chestnut and pear tartlet with golden pastry, cream filling, a low mound of chestnut cream and a few brown chestnut pieces, delicate curved pear slices positioned neatly on top. Warm brown and ivory tones. No other fruits or nuts. Use case: product-mockup. Asset type: one square thumbnail of a hypothetical product-development concept, not evidence of a real commercial product. Photorealistic studio food photography, seamless white background, soft diffused light and gentle contact shadow. Full single dessert visible with white margin, clear three-quarter angle. The shape, layers and arrangement are inferred concept choices. No brand replication, logos, text, labels, watermark, packaging, extra desserts, loose ingredients, utensils, hands, plates, props, scenery or collage.",
+      "createdAt": "2026-09-12",
+      "reviewed": true,
+      "review": "指定素材・色、単品・白背景、ブランド文字・余分な果物なしを目視確認。",
+      "url": "/images/generated/SWT-0248.png",
+      "sha256": "4cecb016a8273584ad30f20511258cdb621a053916e16ccd451bb3d13486ee58"
+    },
+    "SWT-0249": {
+      "name": "フルーツピークス りんごとキャラメルのパイ",
+      "brand": "フルーツピークス",
+      "basis": "DBの記録：パイ、主素材りんご、副素材キャラメル、パイ、見た目焼き色、りんご。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。 生成上の推定：低い丸形のアップルパイを1個。薄切りりんごを重ね、艶のあるキャラメルを少量、焼けたパイ生地の層が見える。格子や別の果物は足さない。",
+      "prompt": "Use case: product-mockup. 商品開発用の架空スイーツ参考イメージを1枚生成。実在ブランド商品の外観再現ではありません。白い無地背景、柔らかいスタジオ光、写真調、横長3:2、斜め45度から、中央に単品、周囲に余白。素材とカテゴリは次の記録だけに従う: 主素材 りんご、副素材 キャラメル、パイ、カテゴリ パイ、色 焼き色、りんご。造形の参考案: 低い丸形のアップルパイを1個。薄切りりんごを重ね、艶のあるキャラメルを少量、焼けたパイ生地の層が見える。格子や別の果物は足さない。 この形・層・盛り付けは参考の推定です。ブランド名、ロゴ、文字、値札、透かし、包装箱、食器、カトラリー、周囲の飾り果物、無関係な素材を一切入れない。",
+      "createdAt": "2026-09-12",
+      "visualCheck": "生成画像を目視確認。指定素材・カテゴリ・色と一致し、単品・白背景・文字やロゴなし。",
+      "url": "/images/generated/SWT-0249.png",
+      "sha256": "4a03605e1193a055478d9662a52b21f2aee6a02b972da41f05acca1ab94fc0ac"
+    },
+    "SWT-0250": {
+      "name": "HARBS ピスタチオショコラケーキ",
+      "brand": "HARBS",
+      "basis": "DBの記録：ケーキ、主素材ピスタチオ、副素材チョコレート、見た目緑×茶。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。 生成上の推定：ピスタチオとチョコレートだけのケーキを三角形の1カット。深い緑色のピスタチオ層と茶色のチョコレート層が見える。上面には砕いたピスタチオを少量。",
+      "prompt": "Use case: product-mockup. 商品開発用の架空スイーツ参考イメージを1枚生成。実在ブランド商品の外観再現ではありません。白い無地背景、柔らかいスタジオ光、写真調、横長3:2、斜め45度から、中央に単品、周囲に余白。素材とカテゴリは次の記録だけに従う: 主素材 ピスタチオ、副素材 チョコレート、カテゴリ ケーキ、色 緑×茶。造形の参考案: ピスタチオとチョコレートだけのケーキを三角形の1カット。深い緑色のピスタチオ層と茶色のチョコレート層が見える。上面には砕いたピスタチオを少量。 この形・層・盛り付けは参考の推定です。ブランド名、ロゴ、文字、値札、透かし、包装箱、食器、カトラリー、周囲の飾り果物、無関係な素材を一切入れない。",
+      "createdAt": "2026-09-12",
+      "visualCheck": "生成画像を目視確認。指定素材・カテゴリ・色と一致し、単品・白背景・文字やロゴなし。",
+      "url": "/images/generated/SWT-0250.png",
+      "sha256": "4c6dad13c7eeb5e7987584704e63c9a0a76fb0112926825bc483b7cfe2149b13"
+    },
+    "SWT-0251": {
+      "name": "新宿高野 春の桜と苺のタルト",
+      "brand": "新宿高野",
+      "basis": "DBの記録：タルト、主素材いちご、副素材桜、クリーム、見た目桜色、春らしい。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。 生成上の推定：小さな丸形のタルトを1個。薄い桜色のクリームの上にいちごを整然と載せる。食用桜を少量だけ、淡い春の色調。",
+      "prompt": "Use case: product-mockup. 商品開発用の架空スイーツ参考イメージを1枚生成。実在ブランド商品の外観再現ではありません。白い無地背景、柔らかいスタジオ光、写真調、横長3:2、斜め45度から、中央に単品、周囲に余白。素材とカテゴリは次の記録だけに従う: 主素材 いちご、副素材 桜、クリーム、カテゴリ タルト、色 桜色、春らしい。造形の参考案: 小さな丸形のタルトを1個。薄い桜色のクリームの上にいちごを整然と載せる。食用桜を少量だけ、淡い春の色調。 この形・層・盛り付けは参考の推定です。ブランド名、ロゴ、文字、値札、透かし、包装箱、食器、カトラリー、周囲の飾り果物、無関係な素材を一切入れない。",
+      "createdAt": "2026-09-12",
+      "visualCheck": "生成画像を目視確認。指定素材・カテゴリ・色と一致し、単品・白背景・文字やロゴなし。",
+      "url": "/images/generated/SWT-0251.png",
+      "sha256": "7a55259f74f98bd44c7e62d157079d623973a170ee7469615f3839a8660051dc"
+    },
+    "SWT-0252": {
+      "name": "千疋屋総本店 抹茶と苺の春ケーキ",
+      "brand": "千疋屋総本店",
+      "basis": "DBの記録：ケーキ、主素材抹茶、副素材いちご、小豆、見た目緑×赤。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。 生成上の推定：抹茶、いちご、小豆のケーキを四角い1カット。抹茶の緑色の層、薄い小豆の層、上面の赤いいちごが見える。",
+      "prompt": "Use case: product-mockup. 商品開発用の架空スイーツ参考イメージを1枚生成。実在ブランド商品の外観再現ではありません。白い無地背景、柔らかいスタジオ光、写真調、横長3:2、斜め45度から、中央に単品、周囲に余白。素材とカテゴリは次の記録だけに従う: 主素材 抹茶、副素材 いちご、小豆、カテゴリ ケーキ、色 緑×赤。造形の参考案: 抹茶、いちご、小豆のケーキを四角い1カット。抹茶の緑色の層、薄い小豆の層、上面の赤いいちごが見える。 この形・層・盛り付けは参考の推定です。ブランド名、ロゴ、文字、値札、透かし、包装箱、食器、カトラリー、周囲の飾り果物、無関係な素材を一切入れない。",
+      "createdAt": "2026-09-12",
+      "visualCheck": "生成画像を目視確認。指定素材・カテゴリ・色と一致し、単品・白背景・文字やロゴなし。",
+      "url": "/images/generated/SWT-0252.png",
+      "sha256": "09593fed8e0ea6e2b3113e2605bd6b59f1d449c3b4acaa2a2e750a85eddeebec"
+    },
+    "SWT-0255": {
+      "name": "アンリ・シャルパンティエ 桃とバニラクリームのタルト",
+      "brand": "アンリ・シャルパンティエ",
+      "basis": "DBの記録：タルト、主素材桃、副素材バニラ、カスタード、見た目桃色、上面盛り。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。 生成上の推定：小さな丸形タルトを1個。淡い桃色の薄い桃のスライスを上面に重ね、薄いバニラカスタードが縁から見える。桃だけを上面にたっぷり。",
+      "prompt": "Use case: product-mockup. 商品開発用の架空スイーツ参考イメージを1枚生成。実在ブランド商品の外観再現ではありません。白い無地背景、柔らかいスタジオ光、写真調、横長3:2、斜め45度から、中央に単品、余白あり。指定素材: 主素材 桃、副素材 バニラ、カスタード、カテゴリ タルト、色 桃色、上面盛り。参考の造形: 小さな丸形タルトを1個。淡い桃色の薄い桃のスライスを上面に重ね、薄いバニラカスタードが縁から見える。桃だけを上面にたっぷり。 形状・層・盛り付けは推定。ブランド名、ロゴ、文字、値札、透かし、包装箱、食器、カトラリー、周囲の飾り果物、指定外の果物やハーブを一切入れない。",
+      "createdAt": "2026-09-12",
+      "visualCheck": "生成画像を目視確認。指定素材・カテゴリ・色と一致し、単品・白背景・文字やロゴなし。",
+      "url": "/images/generated/SWT-0255.png",
+      "sha256": "99d6e155393436922d0a9cc360a852244171439fd91b10f0106473855c2d88b8"
+    },
+    "SWT-0256": {
+      "name": "アンテノール マンゴーとココナッツの夏ケーキ",
+      "brand": "アンテノール",
+      "basis": "DBの記録：ケーキ、主素材マンゴー、副素材ココナッツ、クリーム、見た目黄色、トロピカル。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。 生成上の推定：マンゴーとココナッツクリームのケーキを三角形の1カット。白いココナッツクリーム層、黄色のマンゴー果肉とクリームを上面に。ココナッツは少量の削り粉で表現。",
+      "prompt": "Use case: product-mockup. 商品開発用の架空スイーツ参考イメージを1枚生成。実在ブランド商品の外観再現ではありません。白い無地背景、柔らかいスタジオ光、写真調、横長3:2、斜め45度から、中央に単品、余白あり。指定素材: 主素材 マンゴー、副素材 ココナッツ、クリーム、カテゴリ ケーキ、色 黄色、トロピカル。参考の造形: マンゴーとココナッツクリームのケーキを三角形の1カット。白いココナッツクリーム層、黄色のマンゴー果肉とクリームを上面に。ココナッツは少量の削り粉で表現。 形状・層・盛り付けは推定。ブランド名、ロゴ、文字、値札、透かし、包装箱、食器、カトラリー、周囲の飾り果物、指定外の果物やハーブを一切入れない。",
+      "createdAt": "2026-09-12",
+      "visualCheck": "生成画像を目視確認。指定素材・カテゴリ・色と一致し、単品・白背景・文字やロゴなし。",
+      "url": "/images/generated/SWT-0256.png",
+      "sha256": "fc2f88fc02900defde4e90021f6f3ad1d318871257f1dd6aaba0ef68440c7be3"
+    },
+    "SWT-0257": {
+      "name": "銀座コージーコーナー シャインマスカットのタルト",
+      "brand": "銀座コージーコーナー",
+      "basis": "DBの記録：タルト、主素材シャインマスカット、副素材レアチーズ、クリーム、見た目緑、高級感。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。 生成上の推定：丸いホールタルトを1個。黄金色の薄いタルト台、白いレアチーズクリーム、上面を黄緑色のシャインマスカットの半割りで覆う。果物はぶどうだけ。",
+      "prompt": "Use case: product-mockup. 商品開発用の架空スイーツ参考イメージを1枚生成。実在ブランド商品の外観再現ではありません。白い無地背景、柔らかいスタジオ光、写真調、横長3:2、斜め45度から、中央に単品、余白あり。指定素材: 主素材 シャインマスカット、副素材 レアチーズ、クリーム、カテゴリ タルト、色 緑、高級感。参考の造形: 丸いホールタルトを1個。黄金色の薄いタルト台、白いレアチーズクリーム、上面を黄緑色のシャインマスカットの半割りで覆う。果物はぶどうだけ。 形状・層・盛り付けは推定。ブランド名、ロゴ、文字、値札、透かし、包装箱、食器、カトラリー、周囲の飾り果物、指定外の果物やハーブを一切入れない。",
+      "createdAt": "2026-09-12",
+      "visualCheck": "生成画像を目視確認。指定素材・カテゴリ・色と一致し、単品・白背景・文字やロゴなし。",
+      "url": "/images/generated/SWT-0257.png",
+      "sha256": "1cddf206831106774b9a8338befad0ae5f523620a4321a5c4dabfe93ece55111"
+    },
+    "SWT-0258": {
+      "name": "シャトレーゼ 栗と洋梨の秋タルト",
+      "brand": "シャトレーゼ",
+      "basis": "DBの記録：タルト、主素材栗、副素材洋梨、クリーム、見た目栗色、秋。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。 生成上の推定：小さな円形タルトを1個。淡い洋梨スライスを輪状に並べ、栗色のクリームと栗を中央に少量。薄いタルト台とクリームの層が見える。",
+      "prompt": "Use case: product-mockup. 商品開発用の架空スイーツ参考イメージを1枚生成。実在ブランド商品の外観再現ではありません。白い無地背景、柔らかいスタジオ光、写真調、横長3:2、斜め45度から、中央に単品、余白あり。指定素材: 主素材 栗、副素材 洋梨、クリーム、カテゴリ タルト、色 栗色、秋。参考の造形: 小さな円形タルトを1個。淡い洋梨スライスを輪状に並べ、栗色のクリームと栗を中央に少量。薄いタルト台とクリームの層が見える。 形状・層・盛り付けは推定。ブランド名、ロゴ、文字、値札、透かし、包装箱、食器、カトラリー、周囲の飾り果物、指定外の果物やハーブを一切入れない。",
+      "createdAt": "2026-09-12",
+      "visualCheck": "生成画像を目視確認。指定素材・カテゴリ・色と一致し、単品・白背景・文字やロゴなし。",
+      "url": "/images/generated/SWT-0258.png",
+      "sha256": "a583840e57e3a859aeef284eb6252dcbbdf859fd4fa213c9047a0a4125a51e20"
+    },
+    "SWT-0259": {
+      "name": "不二家 りんごとキャラメルのパイ",
+      "brand": "不二家",
+      "basis": "DBの記録：パイ、主素材りんご、副素材キャラメル、パイ、見た目焼き色、りんご。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。 生成上の推定：りんごとキャラメルのパイを長方形の単品1個。薄切りりんごを一方向に少しずつ重ね、パイ生地を縁まで香ばしく焼き、少量のキャラメルの艶。りんご以外の果物なし。",
+      "prompt": "Use case: product-mockup. 商品開発用の架空スイーツ参考イメージを1枚生成。実在ブランド商品の外観再現ではありません。白い無地背景、柔らかいスタジオ光、写真調、横長3:2、斜め45度から、中央に単品、余白あり。指定素材: 主素材 りんご、副素材 キャラメル、パイ、カテゴリ パイ、色 焼き色、りんご。参考の造形: りんごとキャラメルのパイを長方形の単品1個。薄切りりんごを一方向に少しずつ重ね、パイ生地を縁まで香ばしく焼き、少量のキャラメルの艶。りんご以外の果物なし。 形状・層・盛り付けは推定。ブランド名、ロゴ、文字、値札、透かし、包装箱、食器、カトラリー、周囲の飾り果物、指定外の果物やハーブを一切入れない。",
+      "createdAt": "2026-09-12",
+      "visualCheck": "生成画像を目視確認。指定素材・カテゴリ・色と一致し、単品・白背景・文字やロゴなし。",
+      "url": "/images/generated/SWT-0259.png",
+      "sha256": "de620be102ad1891326776b8fdc1811ddb95af28d5abcd774173056de1d8a658"
+    },
+    "SWT-0260": {
+      "name": "ラ・メゾン アンソレイユターブル ピスタチオショコラケーキ",
+      "brand": "ラ・メゾン アンソレイユターブル",
+      "basis": "DBの記録：ケーキ、主素材ピスタチオ、副素材チョコレート、見た目緑×茶。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。 生成上の推定：ピスタチオとチョコレートの小さな円柱形ケーキを1個。下側は茶色のチョコレート、上側は柔らかなピスタチオグリーン。チョコレートの薄片とピスタチオだけを控えめに載せる。",
+      "prompt": "Use case: product-mockup. 商品開発用の架空スイーツ参考イメージを1枚生成。実在ブランド商品の外観再現ではありません。白い無地背景、柔らかいスタジオ光、写真調、横長3:2、斜め45度から、中央に単品、余白あり。指定素材: 主素材 ピスタチオ、副素材 チョコレート、カテゴリ ケーキ、色 緑×茶。参考の造形: ピスタチオとチョコレートの小さな円柱形ケーキを1個。下側は茶色のチョコレート、上側は柔らかなピスタチオグリーン。チョコレートの薄片とピスタチオだけを控えめに載せる。 形状・層・盛り付けは推定。ブランド名、ロゴ、文字、値札、透かし、包装箱、食器、カトラリー、周囲の飾り果物、指定外の果物やハーブを一切入れない。",
+      "createdAt": "2026-09-12",
+      "visualCheck": "生成画像を目視確認。指定素材・カテゴリ・色と一致し、単品・白背景・文字やロゴなし。",
+      "url": "/images/generated/SWT-0260.png",
+      "sha256": "0447abb5b90eca76aa4933a6e9c2a0e61445a2d12993a620e2d62de61674a6d7"
+    },
+    "SWT-0261": {
+      "name": "カフェコムサ 春の桜と苺のタルト",
+      "brand": "カフェコムサ",
+      "basis": "DBの記録：タルト、主素材いちご、副素材桜、クリーム、見た目桜色、春らしい。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。 生成上の推定：いちごと桜クリームのタルトを三角形の1カット。淡い桜色のクリームと焼き色のタルト台、上面に半割りいちご。食用桜の小さな花びらだけを数枚。葉や他の果物なし。",
+      "prompt": "Use case: product-mockup. 商品開発用の架空スイーツ参考イメージを1枚生成。実在ブランド商品の外観再現ではありません。白い無地背景、柔らかいスタジオ光、写真調、横長3:2、斜め45度から、中央に単品、余白あり。指定素材: 主素材 いちご、副素材 桜、クリーム、カテゴリ タルト、色 桜色、春らしい。参考の造形: いちごと桜クリームのタルトを三角形の1カット。淡い桜色のクリームと焼き色のタルト台、上面に半割りいちご。食用桜の小さな花びらだけを数枚。葉や他の果物なし。 形状・層・盛り付けは推定。ブランド名、ロゴ、文字、値札、透かし、包装箱、食器、カトラリー、周囲の飾り果物、指定外の果物やハーブを一切入れない。",
+      "createdAt": "2026-09-12",
+      "visualCheck": "生成画像を目視確認。指定素材・カテゴリ・色と一致し、単品・白背景・文字やロゴなし。",
+      "url": "/images/generated/SWT-0261.png",
+      "sha256": "56dea2dc9aaa2a992cf51d748c0e1b660adcedf97f695ce30bdf33bd523540e3"
+    },
+    "SWT-0262": {
+      "name": "フルーツピークス 抹茶と苺の春ケーキ",
+      "brand": "フルーツピークス",
+      "basis": "DBの記録：ケーキ、主素材抹茶、副素材いちご、小豆、見た目緑×赤。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。 生成上の推定：抹茶、いちご、小豆の小さな丸形ケーキ1個。抹茶の緑を主体に、上面に赤いいちごを3切れ、小豆の薄い層が側面に見える。洋風ケーキとして自然な構造。",
+      "prompt": "Use case: product-mockup. 商品開発用の架空スイーツ参考イメージを1枚生成。実在ブランド商品の外観再現ではありません。白い無地背景、柔らかいスタジオ光、写真調、横長3:2、斜め45度から、中央に単品、余白あり。指定素材: 主素材 抹茶、副素材 いちご、小豆、カテゴリ ケーキ、色 緑×赤。参考の造形: 抹茶、いちご、小豆の小さな丸形ケーキ1個。抹茶の緑を主体に、上面に赤いいちごを3切れ、小豆の薄い層が側面に見える。洋風ケーキとして自然な構造。 形状・層・盛り付けは推定。ブランド名、ロゴ、文字、値札、透かし、包装箱、食器、カトラリー、周囲の飾り果物、指定外の果物やハーブを一切入れない。",
+      "createdAt": "2026-09-12",
+      "visualCheck": "生成画像を目視確認。指定素材・カテゴリ・色と一致し、単品・白背景・文字やロゴなし。",
+      "url": "/images/generated/SWT-0262.png",
+      "sha256": "225158622449c5d29a8eaa6544790852ba714d68d1658c5dc4ad7a74b4cec820"
+    },
+    "SWT-0263": {
+      "name": "HARBS 初夏レモンチーズタルト",
+      "brand": "HARBS",
+      "basis": "DBの記録：タルト、主素材レモン、副素材チーズ、クリーム、見た目黄色、爽やか。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。 生成上の推定：小さな丸形のレモンチーズタルトを1個。薄い黄金色のタルト台、淡いレモン色の滑らかなチーズクリーム層。上面中央に薄切りレモン半枚と白いクリームを控えめに載せる。",
+      "prompt": "Use case: product-mockup. 商品開発用の架空スイーツ参考イメージを1枚生成。実在ブランド商品の外観再現ではありません。白い無地背景、柔らかいスタジオ光、写真調、横長3:2、斜め45度から、中央に単品、余白あり。指定素材: 主素材 レモン、副素材 チーズ、クリーム、カテゴリ タルト、色 黄色、爽やか。参考の造形: 小さな丸形のレモンチーズタルトを1個。薄い黄金色のタルト台、淡いレモン色の滑らかなチーズクリーム層。上面中央に薄切りレモン半枚と白いクリームを控えめに載せる。 形状・層・盛り付けは推定。ブランド名、ロゴ、文字、値札、透かし、包装箱、食器、カトラリー、周囲の飾り果物、指定外の果物やハーブを一切入れない。",
+      "createdAt": "2026-09-12",
+      "visualCheck": "生成画像を目視確認。指定素材・カテゴリ・色と一致し、単品・白背景・文字やロゴなし。",
+      "url": "/images/generated/SWT-0263.png",
+      "sha256": "4c56b9a495d5ac2357b90f4145ae741aee4077567fc336d6c764595c03212ce2"
+    },
+    "SWT-0265": {
+      "name": "千疋屋総本店 桃とバニラクリームのタルト",
+      "brand": "千疋屋総本店",
+      "basis": "DBの記録：タルト、主素材桃、副素材バニラ、カスタード、見た目桃色、上面盛り。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。 生成上の推定：桃とバニラカスタードのタルトを三角形の1カット。桃色の薄切り桃を上面にゆったり重ね、側面に淡い黄色のバニラカスタードと焼いたタルト台が見える。",
+      "prompt": "Use case: product-mockup. 商品開発用の架空スイーツ参考イメージを1枚生成。実在ブランド商品の外観再現ではありません。白い無地背景、柔らかいスタジオ光、写真調、横長3:2、斜め45度から、中央に単品、余白あり。指定素材: 主素材 桃、副素材 バニラ、カスタード、カテゴリ タルト、色 桃色、上面盛り。参考の造形: 桃とバニラカスタードのタルトを三角形の1カット。桃色の薄切り桃を上面にゆったり重ね、側面に淡い黄色のバニラカスタードと焼いたタルト台が見える。 形状・層・盛り付けは推定。ブランド名、ロゴ、文字、値札、透かし、包装箱、食器、カトラリー、周囲の飾り果物、指定外の果物やハーブを一切入れない。",
+      "createdAt": "2026-09-12",
+      "visualCheck": "生成画像を目視確認。指定素材・カテゴリ・色と一致し、単品・白背景・文字やロゴなし。",
+      "url": "/images/generated/SWT-0265.png",
+      "sha256": "b3308bfda04146b774345f881eb294daece5b7451f878c55efe831bf61d61b24"
+    },
+    "SWT-0267": {
+      "name": "資生堂パーラー シャインマスカットのタルト",
+      "brand": "資生堂パーラー",
+      "basis": "DBの記録：タルト、主素材シャインマスカット、副素材レアチーズ、クリーム、見た目緑、高級感。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。 生成上の推定：シャインマスカットのタルトを長方形の単品1個。黄金色のタルト生地に厚すぎない白いレアチーズクリーム、その上に黄緑色のぶどうの半割りを二列に並べる。",
+      "prompt": "Use case: product-mockup. 商品開発用の架空スイーツ参考イメージを1枚生成。実在ブランド商品の外観再現ではありません。白い無地背景、柔らかいスタジオ光、写真調、横長3:2、斜め45度から、中央に単品、余白あり。指定素材: 主素材 シャインマスカット、副素材 レアチーズ、クリーム、カテゴリ タルト、色 緑、高級感。参考の造形: シャインマスカットのタルトを長方形の単品1個。黄金色のタルト生地に厚すぎない白いレアチーズクリーム、その上に黄緑色のぶどうの半割りを二列に並べる。 形状・層・盛り付けは推定。ブランド名、ロゴ、文字、値札、透かし、包装箱、食器、カトラリー、周囲の飾り果物、指定外の果物やハーブを一切入れない。",
+      "createdAt": "2026-09-12",
+      "visualCheck": "生成画像を目視確認。指定素材・カテゴリ・色と一致し、単品・白背景・文字やロゴなし。",
+      "url": "/images/generated/SWT-0267.png",
+      "sha256": "ceee68849b4c869cadb77e177c80c7be0054ee463ea7b122eee8aa067974623a"
+    },
+    "SWT-0268": {
+      "name": "アンリ・シャルパンティエ 栗と洋梨の秋タルト",
+      "brand": "アンリ・シャルパンティエ",
+      "basis": "DBの記録：タルト、主素材栗、副素材洋梨、クリーム、見た目栗色、秋。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。 生成上の推定：栗と洋梨のタルトを三角形の1カット。薄い焼き色のタルト台、洋梨とクリームの層、上面に栗色のクリームを絞り、栗1個と淡い洋梨のスライスを添える。",
+      "prompt": "Use case: product-mockup. 商品開発用の架空スイーツ参考イメージを1枚生成。実在ブランド商品の外観再現ではありません。白い無地背景、柔らかいスタジオ光、写真調、横長3:2、斜め45度から、中央に単品、余白あり。指定素材: 主素材 栗、副素材 洋梨、クリーム、カテゴリ タルト、色 栗色、秋。参考の造形: 栗と洋梨のタルトを三角形の1カット。薄い焼き色のタルト台、洋梨とクリームの層、上面に栗色のクリームを絞り、栗1個と淡い洋梨のスライスを添える。 形状・層・盛り付けは推定。ブランド名、ロゴ、文字、値札、透かし、包装箱、食器、カトラリー、周囲の飾り果物、指定外の果物やハーブを一切入れない。",
+      "createdAt": "2026-09-12",
+      "visualCheck": "生成画像を目視確認。指定素材・カテゴリ・色と一致し、単品・白背景・文字やロゴなし。",
+      "url": "/images/generated/SWT-0268.png",
+      "sha256": "67ed7b0bfb300f0d499c268f6fd6399be31ae8799251acf0ed81a553d9e40393"
+    },
+    "SWT-0269": {
+      "name": "アンテノール りんごとキャラメルのパイ",
+      "brand": "アンテノール",
+      "basis": "DBの記録：パイ、主素材りんご、副素材キャラメル、パイ、見た目焼き色、りんご。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。 生成上の推定：りんごとキャラメルの小さなパイを1個。丸い焼き色のパイ台に、角切りりんごを低くこんもり盛り、細いキャラメルの筋をかける。パイの縁は自然な折り込みで香ばしく。",
+      "prompt": "Use case: product-mockup. 商品開発用の架空スイーツ参考イメージを1枚生成。実在ブランド商品の外観再現ではありません。白い無地背景、柔らかいスタジオ光、写真調、横長3:2、斜め45度から、中央に単品、余白あり。指定素材: 主素材 りんご、副素材 キャラメル、パイ、カテゴリ パイ、色 焼き色、りんご。参考の造形: りんごとキャラメルの小さなパイを1個。丸い焼き色のパイ台に、角切りりんごを低くこんもり盛り、細いキャラメルの筋をかける。パイの縁は自然な折り込みで香ばしく。 形状・層・盛り付けは推定。ブランド名、ロゴ、文字、値札、透かし、包装箱、食器、カトラリー、周囲の飾り果物、指定外の果物やハーブを一切入れない。",
+      "createdAt": "2026-09-12",
+      "visualCheck": "生成画像を目視確認。指定素材・カテゴリ・色と一致し、単品・白背景・文字やロゴなし。",
+      "url": "/images/generated/SWT-0269.png",
+      "sha256": "016a5a2c3a5c6c92496f51188837ad3f61d5244e3cec83ba4755200531b56bf8"
+    },
+    "SWT-0270": {
+      "name": "銀座コージーコーナー ピスタチオショコラケーキ",
+      "brand": "銀座コージーコーナー",
+      "basis": "DBの記録：ケーキ、主素材ピスタチオ、副素材チョコレート、見た目緑×茶。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。 生成上の推定：ピスタチオとチョコレートのケーキを四角い1カット。チョコレートの茶色の薄い層とピスタチオグリーンの厚い層を交互に重ね、上面は滑らかなチョコレートに少量の砕いたピスタチオ。",
+      "prompt": "Use case: product-mockup. 商品開発用の架空スイーツ参考イメージを1枚生成。実在ブランド商品の外観再現ではありません。白い無地背景、柔らかいスタジオ光、写真調、横長3:2、斜め45度から、中央に単品、余白あり。指定素材: 主素材 ピスタチオ、副素材 チョコレート、カテゴリ ケーキ、色 緑×茶。参考の造形: ピスタチオとチョコレートのケーキを四角い1カット。チョコレートの茶色の薄い層とピスタチオグリーンの厚い層を交互に重ね、上面は滑らかなチョコレートに少量の砕いたピスタチオ。 形状・層・盛り付けは推定。ブランド名、ロゴ、文字、値札、透かし、包装箱、食器、カトラリー、周囲の飾り果物、指定外の果物やハーブを一切入れない。",
+      "createdAt": "2026-09-12",
+      "visualCheck": "生成画像を目視確認。指定素材・カテゴリ・色と一致し、単品・白背景・文字やロゴなし。",
+      "url": "/images/generated/SWT-0270.png",
+      "sha256": "de49dd5802e60ae2623a00a8d0c4f1cb0afe80a74b9cb14f7813974867af30e9"
+    },
+    "SWT-0271": {
+      "name": "シャトレーゼ 春の桜と苺のタルト",
+      "brand": "シャトレーゼ",
+      "basis": "DBの記録：タルト、主素材いちご、副素材桜、クリーム、見た目桜色、春らしい。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。 生成上の推定：桜といちごの小さな長方形タルトを1個。焼いたタルト台の上に淡い桜色のクリームを低く絞り、半割りいちごを並べる。小さな食用桜の花びらを数枚だけ。",
+      "prompt": "Use case: product-mockup. 商品開発用の架空スイーツ参考イメージを1枚生成。実在ブランド商品の外観再現ではありません。白い無地背景、柔らかいスタジオ光、写真調、横長3:2、斜め45度から、中央に単品、余白あり。指定素材: 主素材 いちご、副素材 桜、クリーム、カテゴリ タルト、色 桜色、春らしい。参考の造形: 桜といちごの小さな長方形タルトを1個。焼いたタルト台の上に淡い桜色のクリームを低く絞り、半割りいちごを並べる。小さな食用桜の花びらを数枚だけ。 形状・層・盛り付けは推定。ブランド名、ロゴ、文字、値札、透かし、包装箱、食器、カトラリー、周囲の飾り果物、指定外の果物やハーブを一切入れない。",
+      "createdAt": "2026-09-12",
+      "visualCheck": "生成画像を目視確認。指定素材・カテゴリ・色と一致し、単品・白背景・文字やロゴなし。",
+      "url": "/images/generated/SWT-0271.png",
+      "sha256": "0116e82eb2642188302da530e0ea0415178fed1babb8f2e18f5c8f165b5b0476"
+    },
+    "SWT-0272": {
+      "name": "不二家 抹茶と苺の春ケーキ",
+      "brand": "不二家",
+      "basis": "DBの記録：ケーキ、主素材抹茶、副素材いちご、小豆、見た目緑×赤。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。 生成上の推定：抹茶といちご、小豆のケーキを三角形の1カット。緑色の抹茶ケーキ層と薄い小豆層、上面に緑の抹茶クリームと赤いいちごを2切れ載せる。",
+      "prompt": "Use case: product-mockup. 商品開発用の架空スイーツ参考イメージを1枚生成。実在ブランド商品の外観再現ではありません。白い無地背景、柔らかいスタジオ光、写真調、横長3:2、斜め45度から、中央に単品、余白あり。指定素材: 主素材 抹茶、副素材 いちご、小豆、カテゴリ ケーキ、色 緑×赤。参考の造形: 抹茶といちご、小豆のケーキを三角形の1カット。緑色の抹茶ケーキ層と薄い小豆層、上面に緑の抹茶クリームと赤いいちごを2切れ載せる。 形状・層・盛り付けは推定。ブランド名、ロゴ、文字、値札、透かし、包装箱、食器、カトラリー、周囲の飾り果物、指定外の果物やハーブを一切入れない。",
+      "createdAt": "2026-09-12",
+      "visualCheck": "生成画像を目視確認。指定素材・カテゴリ・色と一致し、単品・白背景・文字やロゴなし。",
+      "url": "/images/generated/SWT-0272.png",
+      "sha256": "953e249971e15b526cb5bacbf665336306302bbc13b3f12b2913fcc6c9187181"
+    },
+    "SWT-0273": {
+      "name": "ラ・メゾン アンソレイユターブル 初夏レモンチーズタルト",
+      "brand": "ラ・メゾン アンソレイユターブル",
+      "basis": "DBの記録：タルト、主素材レモン、副素材チーズ、クリーム、見た目黄色、爽やか。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。 生成上の推定：レモンチーズタルトを三角形の1カット。薄い黄金色のタルト台と淡い黄色の滑らかなチーズ層、上面には白いクリームを細く絞り、レモンの果皮を少量だけ散らす。",
+      "prompt": "Use case: product-mockup. 商品開発用の架空スイーツ参考イメージを1枚生成。実在ブランド商品の外観再現ではありません。白い無地背景、柔らかいスタジオ光、写真調、横長3:2、斜め45度から、中央に単品、余白あり。指定素材: 主素材 レモン、副素材 チーズ、クリーム、カテゴリ タルト、色 黄色、爽やか。参考の造形: レモンチーズタルトを三角形の1カット。薄い黄金色のタルト台と淡い黄色の滑らかなチーズ層、上面には白いクリームを細く絞り、レモンの果皮を少量だけ散らす。 形状・層・盛り付けは推定。ブランド名、ロゴ、文字、値札、透かし、包装箱、食器、カトラリー、周囲の飾り果物、指定外の果物やハーブを一切入れない。",
+      "createdAt": "2026-09-12",
+      "visualCheck": "生成画像を目視確認。指定素材・カテゴリ・色と一致し、単品・白背景・文字やロゴなし。",
+      "url": "/images/generated/SWT-0273.png",
+      "sha256": "7e264d09589a409a6fe0648007eedf1e2e99344abb3fea8bb24bc8d29ca84b7e"
+    },
+    "SWT-0275": {
+      "name": "フルーツピークス 桃とバニラクリームのタルト",
+      "brand": "フルーツピークス",
+      "basis": "DBの記録：タルト、主素材桃、副素材バニラ、カスタード、見た目桃色、上面盛り。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。 生成上の推定：小さな長方形の桃とバニラカスタードのタルトを1個。黄金色のタルト生地の上に淡い黄色のバニラカスタード、さらに淡い桃色の厚めの桃スライスを斜めに重ねて上面に盛る。",
+      "prompt": "Use case: product-mockup. 商品開発用の架空スイーツ参考イメージを1枚生成。実在ブランド商品の外観再現ではありません。白い無地背景、柔らかいスタジオ光、写真調、横長3:2、斜め45度から、中央に単品、余白あり。指定素材: 主素材 桃、副素材 バニラ、カスタード、カテゴリ タルト、色 桃色、上面盛り。参考の造形: 小さな長方形の桃とバニラカスタードのタルトを1個。黄金色のタルト生地の上に淡い黄色のバニラカスタード、さらに淡い桃色の厚めの桃スライスを斜めに重ねて上面に盛る。 形状・層・盛り付けは推定。ブランド名、ロゴ、文字、値札、透かし、包装箱、食器、カトラリー、周囲の飾り果物、指定外の果物やハーブを一切入れない。",
+      "createdAt": "2026-09-12",
+      "visualCheck": "生成画像を目視確認。指定素材・カテゴリ・色と一致し、単品・白背景・文字やロゴなし。",
+      "url": "/images/generated/SWT-0275.png",
+      "sha256": "327071d2858d04bae172802d976ab1097007611f1f4ac3496707f9fb30e61e37"
+    },
+    "SWT-0276": {
+      "name": "HARBS マンゴーとココナッツの夏ケーキ",
+      "brand": "HARBS",
+      "basis": "DBの記録：ケーキ、主素材マンゴー、副素材ココナッツ、クリーム、見た目黄色、トロピカル。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。",
+      "prompt": "Use case: product-mockup. Create one photorealistic food product development concept, NOT a verified photograph of any existing brand product. Subject: a single slice of mango and coconut cream summer cake. Mango is the main ingredient; coconut and cream are secondary. Fresh golden-yellow mango pieces on top, pale coconut cream and light sponge layers, refined simple tropical yellow-and-white appearance. Three-quarter close view, centered, entire individual slice visible, pure white seamless background, soft natural studio light and subtle contact shadow, natural realistic edible textures, square composition. This is an inferred recipe concept: shape, layers and garnish are interpretive, no brand imitation. No text, logos, tags, packaging, plates, cutlery, mint leaves, additional fruit, collage or multiple cakes.",
+      "createdAt": "2026-09-12",
+      "inspection": "目視確認済み。素材、色、カテゴリと白背景に適合。",
+      "url": "/images/generated/SWT-0276.png",
+      "sha256": "948a4bb527e13898715e4b38fadb2123b599157ddbdd9584e5ea1337dda4a975"
+    },
+    "SWT-0277": {
+      "name": "新宿高野 シャインマスカットのタルト",
+      "brand": "新宿高野",
+      "basis": "DBの記録：タルト、主素材シャインマスカット、副素材レアチーズ、クリーム、見た目緑、高級感。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。",
+      "prompt": "Use case: product-mockup. 商品開発のための参考イメージを写真調で1枚生成。実在商品や特定ブランドの外観を再現した写真ではない。記録に記載された素材・カテゴリ・色に忠実にする。構図: 単品が中央、全体を見せる斜め45度の近接商品写真、正方形、純白の無地背景、自然な柔らかい光、淡い接地影、食べ物の質感は現実的。禁止: ロゴ・文字・ラベル・透かし・箱・皿・フォーク・背景小物・ミントなど記載外の植物・記載外の果物・複数商品・コラージュ。形状、層、盛り付けは説明から推定した案。題材: シャインマスカットが主役のタルト1カット。みずみずしい緑の粒を半割りと丸ごとで上面に並べ、白いレアチーズとクリーム、焼き色のついた薄いタルト台。緑と白の上品な配色。",
+      "createdAt": "2026-09-12",
+      "inspection": "目視確認済み。記録素材・色・カテゴリと白背景に適合。",
+      "url": "/images/generated/SWT-0277.png",
+      "sha256": "726ffcc868597be9e4573221848fa764e536fa3af458f159add99380c3362fee"
+    },
+    "SWT-0278": {
+      "name": "千疋屋総本店 栗と洋梨の秋タルト",
+      "brand": "千疋屋総本店",
+      "basis": "DBの記録：タルト、主素材栗、副素材洋梨、クリーム、見た目栗色、秋。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。",
+      "prompt": "Use case: product-mockup. 商品開発のための参考イメージを写真調で1枚生成。実在商品や特定ブランドの外観を再現した写真ではない。記録に記載された素材・カテゴリ・色に忠実にする。構図: 単品が中央、全体を見せる斜め45度の近接商品写真、正方形、純白の無地背景、自然な柔らかい光、淡い接地影、食べ物の質感は現実的。禁止: ロゴ・文字・ラベル・透かし・箱・皿・フォーク・背景小物・ミントなど記載外の植物・記載外の果物・複数商品・コラージュ。形状、層、盛り付けは説明から推定した案。題材: 栗が主役、洋梨とクリームを組み合わせた秋タルト1カット。栗色のなめらかなマロンクリーム、柔らかな洋梨の薄切り、栗片、香ばしいタルト台。落ち着いた栗色。",
+      "createdAt": "2026-09-12",
+      "inspection": "目視確認済み。記録素材・色・カテゴリと白背景に適合。",
+      "url": "/images/generated/SWT-0278.png",
+      "sha256": "dcc86a8cf711443bc97c735df3e567dec2a8ec24145067ca1a9aaed9b7eb1739"
+    },
+    "SWT-0281": {
+      "name": "アンリ・シャルパンティエ 春の桜と苺のタルト",
+      "brand": "アンリ・シャルパンティエ",
+      "basis": "DBの記録：タルト、主素材いちご、副素材桜、クリーム、見た目桜色、春らしい。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。",
+      "prompt": "Use case: product-mockup. 商品開発のための参考イメージを写真調で1枚生成。実在商品や特定ブランドの外観を再現した写真ではない。記録に記載された素材・カテゴリ・色に忠実にする。構図: 単品が中央、全体を見せる斜め45度の近接商品写真、正方形、純白の無地背景、自然な柔らかい光、淡い接地影、食べ物の質感は現実的。禁止: ロゴ・文字・ラベル・透かし・箱・皿・フォーク・背景小物・ミントなど記載外の植物・記載外の果物・複数商品・コラージュ。形状、層、盛り付けは説明から推定した案。題材: いちごが主役の春の桜と苺の小さな丸いタルト1個。桜風味の淡いピンクのクリーム、赤いいちごを上面に、数枚の食用桜の花弁。焼き色のついたタルト台。",
+      "createdAt": "2026-09-12",
+      "inspection": "目視確認済み。記録素材・色・カテゴリと白背景に適合。",
+      "url": "/images/generated/SWT-0281.png",
+      "sha256": "10d992aee5f5bef62151fa189743d902d767dc72688d98602ba091b435738fc3"
+    },
+    "SWT-0282": {
+      "name": "アンテノール 抹茶と苺の春ケーキ",
+      "brand": "アンテノール",
+      "basis": "DBの記録：ケーキ、主素材抹茶、副素材いちご、小豆、見た目緑×赤。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。",
+      "prompt": "Use case: product-mockup. 商品開発のための参考イメージを写真調で1枚生成。実在商品や特定ブランドの外観を再現した写真ではない。記録に記載された素材・カテゴリ・色に忠実にする。構図: 単品が中央、全体を見せる斜め45度の近接商品写真、正方形、純白の無地背景、自然な柔らかい光、淡い接地影、食べ物の質感は現実的。禁止: ロゴ・文字・ラベル・透かし・箱・皿・フォーク・背景小物・ミントなど記載外の植物・記載外の果物・複数商品・コラージュ。形状、層、盛り付けは説明から推定した案。題材: 抹茶が主役の抹茶と苺の春ケーキ1カット。緑の抹茶スポンジと抹茶クリーム、小豆の薄層、上面の赤い苺。緑と赤の自然な色。",
+      "createdAt": "2026-09-12",
+      "inspection": "目視確認済み。記録素材・色・カテゴリと白背景に適合。",
+      "url": "/images/generated/SWT-0282.png",
+      "sha256": "3b1af3b9d8fc70e136c7f2682af60d713f743cbf85ae70933597932472497dab"
+    },
+    "SWT-0283": {
+      "name": "銀座コージーコーナー 初夏レモンチーズタルト",
+      "brand": "銀座コージーコーナー",
+      "basis": "DBの記録：タルト、主素材レモン、副素材チーズ、クリーム、見た目黄色、爽やか。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。",
+      "prompt": "Use case: product-mockup. 商品開発のための参考イメージを写真調で1枚生成。実在商品や特定ブランドの外観を再現した写真ではない。記録に記載された素材・カテゴリ・色に忠実にする。構図: 単品が中央、全体を見せる斜め45度の近接商品写真、正方形、純白の無地背景、自然な柔らかい光、淡い接地影、食べ物の質感は現実的。禁止: ロゴ・文字・ラベル・透かし・箱・皿・フォーク・背景小物・ミントなど記載外の植物・記載外の果物・複数商品・コラージュ。形状、層、盛り付けは説明から推定した案。題材: 初夏のレモンチーズタルト1カット。黄色い薄いレモン層、白いチーズとクリームの厚い層、薄切りレモン少量、焼き色のついたタルト台。爽やかな黄と白。",
+      "createdAt": "2026-09-12",
+      "inspection": "目視確認済み。記録素材・色・カテゴリと白背景に適合。",
+      "url": "/images/generated/SWT-0283.png",
+      "sha256": "ffd7b8d22d0acae7e179a97b57ac1f9bcbfc4d9c495fa1bf63e222de7e2ecf4e"
+    },
+    "SWT-0285": {
+      "name": "不二家 桃とバニラクリームのタルト",
+      "brand": "不二家",
+      "basis": "DBの記録：タルト、主素材桃、副素材バニラ、カスタード、見た目桃色、上面盛り。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。",
+      "prompt": "Use case: product-mockup. 商品開発のための参考イメージを写真調で1枚生成。実在商品や特定ブランドの外観を再現した写真ではない。記録に記載された素材・カテゴリ・色に忠実にする。構図: 単品が中央、全体を見せる斜め45度の近接商品写真、正方形、純白の無地背景、自然な柔らかい光、淡い接地影、食べ物の質感は現実的。禁止: ロゴ・文字・ラベル・透かし・箱・皿・フォーク・背景小物・ミントなど記載外の植物・記載外の果物・複数商品・コラージュ。形状、層、盛り付けは説明から推定した案。題材: 桃とバニラクリームの小さい丸いタルト1個。淡い桃色の桃の薄切りを上面に重ねて盛る。バニラを感じるカスタードクリーム、焼き色のついたタルト台。桃以外の果実なし。",
+      "createdAt": "2026-09-12",
+      "inspection": "目視確認済み。記録素材・色・カテゴリと白背景に適合。",
+      "url": "/images/generated/SWT-0285.png",
+      "sha256": "cfeedd608c8f06b92ecabbb804faa0aa7e12b14c4b4e36070681cf0979b50c27"
+    },
+    "SWT-0286": {
+      "name": "ラ・メゾン アンソレイユターブル マンゴーとココナッツの夏ケーキ",
+      "brand": "ラ・メゾン アンソレイユターブル",
+      "basis": "DBの記録：ケーキ、主素材マンゴー、副素材ココナッツ、クリーム、見た目黄色、トロピカル。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。",
+      "prompt": "Use case: product-mockup. 商品開発のための参考イメージを写真調で1枚生成。実在商品や特定ブランドの外観を再現した写真ではない。記録に記載された素材・カテゴリ・色に忠実にする。構図: 単品が中央、全体を見せる斜め45度の近接商品写真、正方形、純白の無地背景、自然な柔らかい光、淡い接地影、食べ物の質感は現実的。禁止: ロゴ・文字・ラベル・透かし・箱・皿・フォーク・背景小物・ミントなど記載外の植物・記載外の果物・複数商品・コラージュ。形状、層、盛り付けは説明から推定した案。題材: マンゴーが主役のマンゴーとココナッツの夏ケーキ、単品の長方形ケーキ1個。濃い黄色のマンゴー片と薄いマンゴー層、白いココナッツクリームと軽いスポンジ、ココナッツの削りを少量。黄色と白。",
+      "createdAt": "2026-09-12",
+      "inspection": "目視確認済み。記録素材・色・カテゴリと白背景に適合。",
+      "url": "/images/generated/SWT-0286.png",
+      "sha256": "7d18428a8891efafcc4f6e2272ec9bafd489826d67a95d35a7c4734edba0811b"
+    },
+    "SWT-0287": {
+      "name": "カフェコムサ シャインマスカットのタルト",
+      "brand": "カフェコムサ",
+      "basis": "DBの記録：タルト、主素材シャインマスカット、副素材レアチーズ、クリーム、見た目緑、高級感。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。",
+      "prompt": "Use case: product-mockup. 商品開発のための参考イメージを写真調で1枚生成。実在商品や特定ブランドの外観を再現した写真ではない。記録に記載された素材・カテゴリ・色に忠実にする。構図: 単品が中央、全体を見せる斜め45度の近接商品写真、正方形、純白の無地背景、自然な柔らかい光、淡い接地影、食べ物の質感は現実的。禁止: ロゴ・文字・ラベル・透かし・箱・皿・フォーク・背景小物・ミントなど記載外の植物・記載外の果物・複数商品・コラージュ。形状、層、盛り付けは説明から推定した案。題材: シャインマスカットとレアチーズとクリームの小さな丸いタルト1個。自然な緑の大粒ぶどうを整然と上に並べ、クリームを控えめに添える。薄いサクサクのタルト台。緑と白の気品。",
+      "createdAt": "2026-09-12",
+      "inspection": "目視確認済み。記録素材・色・カテゴリと白背景に適合。",
+      "url": "/images/generated/SWT-0287.png",
+      "sha256": "91bb8a45842ea617466f177c257e07374721951d9e28ce336e1d437702817823"
+    },
+    "SWT-0289": {
+      "name": "HARBS りんごとキャラメルのパイ",
+      "brand": "HARBS",
+      "basis": "DBの記録：パイ、主素材りんご、副素材キャラメル、パイ、見た目焼き色、りんご。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。",
+      "prompt": "Use case: product-mockup. 商品開発のための参考イメージを写真調で1枚生成。実在商品や特定ブランドの外観を再現した写真ではない。記録に記載された素材・カテゴリ・色に忠実にする。構図: 単品が中央、全体を見せる斜め45度の近接商品写真、正方形、純白の無地背景、自然な柔らかい光、淡い接地影、食べ物の質感は現実的。禁止: ロゴ・文字・ラベル・透かし・箱・皿・フォーク・背景小物・ミントなど記載外の植物・記載外の果物・複数商品・コラージュ。形状、層、盛り付けは説明から推定した案。題材: りんごとキャラメルのパイ1カット。しっかり焼いた黄金色のフレーク状パイ生地、柔らかなりんごの厚切りが中に重なり、控えめな琥珀色のキャラメルが艶を出す。余分な素材なし。",
+      "createdAt": "2026-09-12",
+      "inspection": "目視確認済み。記録素材・色・カテゴリと白背景に適合。",
+      "url": "/images/generated/SWT-0289.png",
+      "sha256": "97972b6b5e90abbb65dcabdb21611a5acdaf99db582cfd51641524b9b32c3452"
+    },
+    "SWT-0288": {
+      "name": "フルーツピークス 栗と洋梨の秋タルト",
+      "brand": "フルーツピークス",
+      "basis": "DBの記録：タルト、主素材栗、副素材洋梨、クリーム、見た目栗色、秋。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。",
+      "prompt": "Use case: product-mockup. 商品開発のための参考イメージを写真調で1枚生成。実在商品や特定ブランドの外観を再現した写真ではない。記録に記載された素材・カテゴリ・色に忠実にする。構図: 単品が中央、全体を見せる斜め45度の近接商品写真、正方形、純白の無地背景、自然な柔らかい光、淡い接地影、食べ物の質感は現実的。禁止: ロゴ・文字・ラベル・透かし・箱・皿・フォーク・背景小物・ミントなど記載外の植物・記載外の果物・複数商品・コラージュ。形状、層、盛り付けは説明から推定した案。題材: 栗と洋梨の秋タルト、小さな丸い単品1個。栗色のクリームを細い線状に絞り、艶のある栗1個と薄切り洋梨の扇を上に載せる。薄いタルト台、栗が主役。栗色と乳白色。 修正: この画像の栗のてっぺんにある金箔のみを完全に取り除いてください。栗と洋梨と栗色クリームとタルト台はそのまま、構図・白背景・光・質感も変えない。食材の追加禁止。装飾金箔や銀箔はなし。",
+      "createdAt": "2026-09-12",
+      "inspection": "目視確認済み。記録外の金箔が生じた初稿を修正し、金箔除去を確認。",
+      "url": "/images/generated/SWT-0288.png",
+      "sha256": "d75135a3c690b8ec2d7b8d6bbe8d771d2e4553f14e2460bb7c2c4967c82ca76f"
+    },
+    "SWT-0290": {
+      "name": "新宿高野 ピスタチオショコラケーキ",
+      "brand": "新宿高野",
+      "basis": "DBの記録：ケーキ、主素材ピスタチオ、副素材チョコレート、見た目緑×茶。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。",
+      "prompt": "Use case: product-mockup. 商品開発のための参考イメージを写真調で1枚生成。実在商品や特定ブランドの外観を再現した写真ではない。記録に記載された素材・カテゴリ・色に忠実にする。構図: 単品が中央、全体を見せる斜め45度の近接商品写真、正方形、純白の無地背景、自然な柔らかい光、淡い接地影、食べ物の質感は現実的。禁止: ロゴ・文字・ラベル・透かし・箱・皿・フォーク・背景小物・ミントなど記載外の植物・記載外の果物・複数商品・コラージュ。形状、層、盛り付けは説明から推定した案。題材: ピスタチオとチョコレートのケーキ、単品の長方形1個。緑のピスタチオクリーム層と茶色いチョコレートケーキ層。上に薄いチョコレートと少量の刻んだピスタチオ。緑と茶。",
+      "createdAt": "2026-09-12",
+      "inspection": "目視確認済み。記録素材・色・カテゴリと白背景に適合。",
+      "url": "/images/generated/SWT-0290.png",
+      "sha256": "ef7035cdbb92a4a802c3db6e9b908f7d7e98e8ccc54d4fa4ccf6b0510b6e685e"
+    },
+    "SWT-0291": {
+      "name": "千疋屋総本店 春の桜と苺のタルト",
+      "brand": "千疋屋総本店",
+      "basis": "DBの記録：タルト、主素材いちご、副素材桜、クリーム、見た目桜色、春らしい。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。",
+      "prompt": "Use case: product-mockup. 商品開発のための参考イメージを写真調で1枚生成。実在商品や特定ブランドの外観を再現した写真ではない。記録に記載された素材・カテゴリ・色に忠実にする。構図: 単品が中央、全体を見せる斜め45度の近接商品写真、正方形、純白の無地背景、自然な柔らかい光、淡い接地影、食べ物の質感は現実的。禁止: ロゴ・文字・ラベル・透かし・箱・皿・フォーク・背景小物・ミントなど記載外の植物・記載外の果物・複数商品・コラージュ・金箔・銀箔。形状、層、盛り付けは説明から推定した案。題材: 春の桜と苺のタルト1カット。赤いいちごの半割りを上面に、桜の風味を想起させる淡い桜色クリーム、焼き色のあるタルト台。桜の食用花弁を数枚だけ。柔らかい春の色。",
+      "createdAt": "2026-09-12",
+      "inspection": "目視確認済み。記録素材・色・カテゴリと白背景に適合。",
+      "url": "/images/generated/SWT-0291.png",
+      "sha256": "9421e92f81f622c7517614e82cc27a914a1d17f0d6836847ec9bf54083d11e65"
+    },
+    "SWT-0293": {
+      "name": "資生堂パーラー 初夏レモンチーズタルト",
+      "brand": "資生堂パーラー",
+      "basis": "DBの記録：タルト、主素材レモン、副素材チーズ、クリーム、見た目黄色、爽やか。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。",
+      "prompt": "Use case: product-mockup. 商品開発のための参考イメージを写真調で1枚生成。実在商品や特定ブランドの外観を再現した写真ではない。記録に記載された素材・カテゴリ・色に忠実にする。構図: 単品が中央、全体を見せる斜め45度の近接商品写真、正方形、純白の無地背景、自然な柔らかい光、淡い接地影、食べ物の質感は現実的。禁止: ロゴ・文字・ラベル・透かし・箱・皿・フォーク・背景小物・ミントなど記載外の植物・記載外の果物・複数商品・コラージュ・金箔・銀箔。形状、層、盛り付けは説明から推定した案。題材: 初夏のレモンとチーズの小さな丸いタルト1個。滑らかな白いチーズクリームと明るい黄色のレモン層、薄切りレモンを一枚、クリーム小さな絞り。香ばしいタルト台。",
+      "createdAt": "2026-09-12",
+      "inspection": "目視確認済み。記録素材・色・カテゴリと白背景に適合。",
+      "url": "/images/generated/SWT-0293.png",
+      "sha256": "f2cd8cccb96dfeb0fa559892b202fb0c9dbf1e10ce9735fe18e912b982209e51"
+    },
+    "SWT-0295": {
+      "name": "アンテノール 桃とバニラクリームのタルト",
+      "brand": "アンテノール",
+      "basis": "DBの記録：タルト、主素材桃、副素材バニラ、カスタード、見た目桃色、上面盛り。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。",
+      "prompt": "Use case: product-mockup. 商品開発のための参考イメージを写真調で1枚生成。実在商品や特定ブランドの外観を再現した写真ではない。記録に記載された素材・カテゴリ・色に忠実にする。構図: 単品が中央、全体を見せる斜め45度の近接商品写真、正方形、純白の無地背景、自然な柔らかい光、淡い接地影、食べ物の質感は現実的。禁止: ロゴ・文字・ラベル・透かし・箱・皿・フォーク・背景小物・ミントなど記載外の植物・記載外の果物・複数商品・コラージュ・金箔・銀箔。形状、層、盛り付けは説明から推定した案。題材: 桃とバニラカスタードのタルト1カット。桃色の新鮮な桃を厚く上に盛り、バニラの微細な粒があるカスタードクリーム、薄いサクサクのタルト台。果実は桃だけ。",
+      "createdAt": "2026-09-12",
+      "inspection": "目視確認済み。記録素材・色・カテゴリと白背景に適合。",
+      "url": "/images/generated/SWT-0295.png",
+      "sha256": "a66355406a8e8b77a4879369dada3a78f8dcdeb324d1bb212625ade679ddff59"
+    },
+    "SWT-0296": {
+      "name": "銀座コージーコーナー マンゴーとココナッツの夏ケーキ",
+      "brand": "銀座コージーコーナー",
+      "basis": "DBの記録：ケーキ、主素材マンゴー、副素材ココナッツ、クリーム、見た目黄色、トロピカル。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。",
+      "prompt": "Use case: product-mockup. 商品開発のための参考イメージを写真調で1枚生成。実在商品や特定ブランドの外観を再現した写真ではない。記録に記載された素材・カテゴリ・色に忠実にする。構図: 単品が中央、全体を見せる斜め45度の近接商品写真、正方形、純白の無地背景、自然な柔らかい光、淡い接地影、食べ物の質感は現実的。禁止: ロゴ・文字・ラベル・透かし・箱・皿・フォーク・背景小物・ミントなど記載外の植物・記載外の果物・複数商品・コラージュ・金箔・銀箔。形状、層、盛り付けは説明から推定した案。題材: マンゴーとココナッツの夏ケーキ、小さな丸い単品1個。マンゴー果肉を黄色い上面に盛り、白いココナッツクリームと柔らかなスポンジ。黄金色と白の簡潔な仕上げ。",
+      "createdAt": "2026-09-12",
+      "inspection": "目視確認済み。記録素材・色・カテゴリと白背景に適合。",
+      "url": "/images/generated/SWT-0296.png",
+      "sha256": "dcb69950d9133d3428c8e04af144cc15d33a43672418f8d160154caf0130f9f5"
+    },
+    "SWT-0297": {
+      "name": "シャトレーゼ シャインマスカットのタルト",
+      "brand": "シャトレーゼ",
+      "basis": "DBの記録：タルト、主素材シャインマスカット、副素材レアチーズ、クリーム、見た目緑、高級感。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。",
+      "prompt": "Use case: product-mockup. 商品開発のための参考イメージを写真調で1枚生成。実在商品や特定ブランドの外観を再現した写真ではない。記録に記載された素材・カテゴリ・色に忠実にする。構図: 単品が中央、全体を見せる斜め45度の近接商品写真、正方形、純白の無地背景、自然な柔らかい光、淡い接地影、食べ物の質感は現実的。禁止: ロゴ・文字・ラベル・透かし・箱・皿・フォーク・背景小物・ミントなど記載外の植物・記載外の果物・複数商品・コラージュ・金箔・銀箔。形状、層、盛り付けは説明から推定した案。題材: シャインマスカットのタルト1カット。半割りの透明感ある緑のぶどうを上面にぎっしり、白いレアチーズとクリーム、焼き色のタルト台。緑と白、光沢は自然に。",
+      "createdAt": "2026-09-12",
+      "inspection": "目視確認済み。記録素材・色・カテゴリと白背景に適合。",
+      "url": "/images/generated/SWT-0297.png",
+      "sha256": "de0dbe937364b555833f0dad0e9fbd147cd644fa04867b9a6ed2ca46c3e5911a"
+    },
+    "SWT-0298": {
+      "name": "不二家 栗と洋梨の秋タルト",
+      "brand": "不二家",
+      "basis": "DBの記録：タルト、主素材栗、副素材洋梨、クリーム、見た目栗色、秋。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。",
+      "prompt": "Use case: product-mockup. 商品開発のための参考イメージを写真調で1枚生成。実在商品や特定ブランドの外観を再現した写真ではない。記録に記載された素材・カテゴリ・色に忠実にする。構図: 単品が中央、全体を見せる斜め45度の近接商品写真、正方形、純白の無地背景、自然な柔らかい光、淡い接地影、食べ物の質感は現実的。禁止: ロゴ・文字・ラベル・透かし・箱・皿・フォーク・背景小物・ミントなど記載外の植物・記載外の果物・複数商品・コラージュ・金箔・銀箔。形状、層、盛り付けは説明から推定した案。題材: 栗と洋梨の秋タルト、単品の長方形1カット。栗の茶色いクリームが主役、薄切り洋梨をクリームの上に扇形で配置、栗片少量、下は焼き色のタルト台。栗色が中心。",
+      "createdAt": "2026-09-12",
+      "inspection": "目視確認済み。記録素材・色・カテゴリと白背景に適合。",
+      "url": "/images/generated/SWT-0298.png",
+      "sha256": "d9393b5fb30e0dc24ff94f740078ad6c589b315c18ac6e247185261ecf07a407"
+    },
+    "SWT-0299": {
+      "name": "ラ・メゾン アンソレイユターブル りんごとキャラメルのパイ",
+      "brand": "ラ・メゾン アンソレイユターブル",
+      "basis": "DBの記録：パイ、主素材りんご、副素材キャラメル、パイ、見た目焼き色、りんご。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。",
+      "prompt": "Use case: product-mockup. 商品開発のための参考イメージを写真調で1枚生成。実在商品や特定ブランドの外観を再現した写真ではない。記録に記載された素材・カテゴリ・色に忠実にする。構図: 単品が中央、全体を見せる斜め45度の近接商品写真、正方形、純白の無地背景、自然な柔らかい光、淡い接地影、食べ物の質感は現実的。禁止: ロゴ・文字・ラベル・透かし・箱・皿・フォーク・背景小物・ミントなど記載外の植物・記載外の果物・複数商品・コラージュ・金箔・銀箔。形状、層、盛り付けは説明から推定した案。題材: りんごとキャラメルの小さな丸いパイ1個。黄金色で層のある薄いパイ生地、表面には火の通ったりんごの薄切りを重ね、琥珀色のキャラメルを控えめに絡める。焼き色が美しい。",
+      "createdAt": "2026-09-12",
+      "inspection": "目視確認済み。記録素材・色・カテゴリと白背景に適合。",
+      "url": "/images/generated/SWT-0299.png",
+      "sha256": "66c8c662cf022f96500ae8d0a966dc577e1cef96d85fc86b16d4f76709806c81"
+    },
+    "SWT-0300": {
+      "name": "カフェコムサ ピスタチオショコラケーキ",
+      "brand": "カフェコムサ",
+      "basis": "DBの記録：ケーキ、主素材ピスタチオ、副素材チョコレート、見た目緑×茶。実在・実物外観は未確認。形状・層・盛り付けは参考の推定。",
+      "prompt": "Use case: product-mockup. 商品開発のための参考イメージを写真調で1枚生成。実在商品や特定ブランドの外観を再現した写真ではない。記録に記載された素材・カテゴリ・色に忠実にする。構図: 単品が中央、全体を見せる斜め45度の近接商品写真、正方形、純白の無地背景、自然な柔らかい光、淡い接地影、食べ物の質感は現実的。禁止: ロゴ・文字・ラベル・透かし・箱・皿・フォーク・背景小物・ミントなど記載外の植物・記載外の果物・複数商品・コラージュ・金箔・銀箔。形状、層、盛り付けは説明から推定した案。題材: ピスタチオとチョコレートのケーキ1カット。自然な緑色のピスタチオムース、濃い茶色のチョコレートスポンジとガナッシュが層を作る。上は少量の砕いたピスタチオだけ。緑と茶。",
+      "createdAt": "2026-09-12",
+      "inspection": "目視確認済み。記録素材・色・カテゴリと白背景に適合。",
+      "url": "/images/generated/SWT-0300.png",
+      "sha256": "8ee4f435f3d42ab85de55bde338e005f7bad4afe9b9fd43b77753b861c65b547"
+    },
+    "SWT-0234": {
+      "name": "ラ・メゾン アンソレイユターブル メロンと杏仁の初夏デザート",
+      "brand": "ラ・メゾン アンソレイユターブル",
+      "basis": "DBに記録された素材：メロン、杏仁、ゼリー。形態：ケーキ/ヴェリーヌ、商品形態に準ずる。色・外観の記録：緑、涼感。写真・原レシピとの一致は未確認。細部の形状・配合・配置は推定です。",
+      "prompt": "One single glass verrine with ivory almond pudding, a clear jelly layer and pale green melon pieces. No cake or other fruit. The layer order and glass shape are inferred concept choices. Use case: product-mockup. Asset type: one square thumbnail of a hypothetical product-development concept, not evidence of a real commercial product. Photorealistic studio food photography, seamless white background, soft diffused light and gentle contact shadow. Full single dessert visible with white margin, clear three-quarter angle. The shape, layers and arrangement are inferred concept choices. No brand replication, logos, text, labels, watermark, packaging, extra desserts, loose ingredients, utensils, hands, plates, props, scenery or collage.",
+      "createdAt": "2026-09-12",
+      "reviewed": true,
+      "review": "素材と色、単品・白背景、文字・無関係な果物なしを目視確認。",
+      "url": "/images/generated/SWT-0234.png",
+      "sha256": "b564d92d6bf62f5d90bf717ae51edee0f45dd75555f0141fd2ee691dc0cbb034"
+    },
+    "SWT-0253": {
+      "name": "京橋千疋屋 初夏レモンチーズタルト",
+      "brand": "京橋千疋屋",
+      "basis": "DBに記録された素材：レモン、チーズ、クリーム。形態：タルト、商品形態に準ずる。色・外観の記録：黄色、爽やか。写真・原レシピとの一致は未確認。細部の形状・配合・配置は推定です。",
+      "prompt": "One small whole lemon cheesecake tart with a golden pastry shell, ivory cheese filling and pale yellow lemon cream, a few thin lemon slices on top. No other fruit. Use case: product-mockup. Asset type: one square thumbnail of a hypothetical product-development concept, not evidence of a real commercial product. Photorealistic studio food photography, seamless white background, soft diffused light and gentle contact shadow. Full single dessert visible with white margin, clear three-quarter angle. The shape, layers and arrangement are inferred concept choices. No brand replication, logos, text, labels, watermark, packaging, extra desserts, loose ingredients, utensils, hands, plates, props, scenery or collage.",
+      "createdAt": "2026-09-12",
+      "reviewed": true,
+      "review": "素材と色、単品・白背景、文字・無関係な果物なしを目視確認。",
+      "url": "/images/generated/SWT-0253.png",
+      "sha256": "be00b56d6081692e01c8e661153f079b19e086c0c47eba0a09a3c63488cf8389"
+    },
+    "SWT-0266": {
+      "name": "京橋千疋屋 マンゴーとココナッツの夏ケーキ",
+      "brand": "京橋千疋屋",
+      "basis": "DBに記録された素材：マンゴー、ココナッツ、クリーム。形態：ケーキ、商品形態に準ずる。色・外観の記録：黄色、トロピカル。写真・原レシピとの一致は未確認。細部の形状・配合・配置は推定です。",
+      "prompt": "One single triangular slice of golden mango and coconut cream cake with visible ivory cream layers and ripe mango pieces. No other fruit or toppings. Use case: product-mockup. Asset type: one square thumbnail of a hypothetical product-development concept, not evidence of a real commercial product. Photorealistic studio food photography, seamless white background, soft diffused light and gentle contact shadow. Full single dessert visible with white margin, clear three-quarter angle. The shape, layers and arrangement are inferred concept choices. No brand replication, logos, text, labels, watermark, packaging, extra desserts, loose ingredients, utensils, hands, plates, props, scenery or collage.",
+      "createdAt": "2026-09-12",
+      "reviewed": true,
+      "review": "素材と色、単品・白背景、文字・無関係な果物なしを目視確認。",
+      "url": "/images/generated/SWT-0266.png",
+      "sha256": "9f747f52bf5d3918239faeb083b26590bdaf50a0285fe52b7b1b1dd01589613c"
+    },
+    "SWT-0488": {
+      "name": "イチゴのフォレノワール（フォレ・ノワール・オ・フレーズ）",
+      "brand": "ア・ラ・カンパーニュ",
+      "basis": "DBに記録された素材：イチゴ、。形態：ケーキ、。色・外観の記録：。写真・原レシピとの一致は未確認。細部の形状・配合・配置は推定です。 公式2026年5月記事の検索索引に記録された構成：イチゴ、チョコレートスポンジ、バニラ風味シャンティクリーム。形・層数・配置・器色は推定。",
+      "prompt": "One single rectangular slice of strawberry and chocolate sponge cake. Layers of dark cocoa sponge sandwich fresh red strawberry pieces and ivory vanilla Chantilly cream. Simple white cream top and strawberries, no other fruits or garnishes. This follows documented ingredient structure; rectangular form, layer counts and decoration are inferred. Use case: product-mockup. Asset type: one square thumbnail of a hypothetical product-development concept, not evidence of a real commercial product. Photorealistic studio food photography, seamless white background, soft diffused light and gentle contact shadow. Full single dessert visible with white margin, clear three-quarter angle. The shape, layers and arrangement are inferred concept choices. No brand replication, logos, text, labels, watermark, packaging, extra desserts, loose ingredients, utensils, hands, plates, props, scenery or collage.",
+      "createdAt": "2026-09-12",
+      "reviewed": true,
+      "review": "記録素材とカテゴリ、単品・白背景、ブランド文字なしを目視確認。",
+      "url": "/images/generated/SWT-0488.png",
+      "sha256": "8e62363157bedd9441cc4d784e5083346e15680be810f7f83abfd6ede329d439"
+    },
+    "SWT-0491": {
+      "name": "抹茶のタルト（タルト・オ・テ・ヴェール）",
+      "brand": "ア・ラ・カンパーニュ",
+      "basis": "DBに記録された素材：抹茶、。形態：タルト、。色・外観の記録：。写真・原レシピとの一致は未確認。細部の形状・配合・配置は推定です。 公式2026年5月記事の検索索引に記録された構成：抹茶のアーモンドクリーム、ガナッシュ、マスカルポーネクリーム。形・層数・配置・器色は推定。",
+      "prompt": "One single small round matcha tart. Golden pastry shell holding rich green matcha almond cream and matcha ganache, with a restrained ring of ivory mascarpone cream. No fruit, nuts on top, or other flavor. Structure and decoration are inferred from documented fillings. Use case: product-mockup. Asset type: one square thumbnail of a hypothetical product-development concept, not evidence of a real commercial product. Photorealistic studio food photography, seamless white background, soft diffused light and gentle contact shadow. Full single dessert visible with white margin, clear three-quarter angle. The shape, layers and arrangement are inferred concept choices. No brand replication, logos, text, labels, watermark, packaging, extra desserts, loose ingredients, utensils, hands, plates, props, scenery or collage.",
+      "createdAt": "2026-09-12",
+      "reviewed": true,
+      "review": "記録素材とカテゴリ、単品・白背景、ブランド文字なしを目視確認。",
+      "url": "/images/generated/SWT-0491.png",
+      "sha256": "14c0dcbb14b45d13ce170882c0abf19f40842dc908b806079a4b42e129c4442b"
+    },
+    "SWT-0495": {
+      "name": "カスタードプリン（クレーム・キャラメル）",
+      "brand": "ア・ラ・カンパーニュ",
+      "basis": "DBに記録された素材：カスタード、。形態：プリン・ゼリー、。色・外観の記録：。写真・原レシピとの一致は未確認。細部の形状・配合・配置は推定です。 公式2026年5月記事の検索索引に記録された構成：カスタード。形・層数・配置・器色は推定。",
+      "prompt": "One single smooth custard caramel pudding in a plain small ivory enamel cup with a fine dark rim. Pale yellow custard, thin amber caramel surface, no fruit or toppings. No number or logo on the cup. Vessel color and shape are inferred; custard and enamel cup are documented. Use case: product-mockup. Asset type: one square thumbnail of a hypothetical product-development concept, not evidence of a real commercial product. Photorealistic studio food photography, seamless white background, soft diffused light and gentle contact shadow. Full single dessert visible with white margin, clear three-quarter angle. The shape, layers and arrangement are inferred concept choices. No brand replication, logos, text, labels, watermark, packaging, extra desserts, loose ingredients, utensils, hands, plates, props, scenery or collage.",
+      "createdAt": "2026-09-12",
+      "reviewed": true,
+      "review": "記録素材とカテゴリ、単品・白背景、ブランド文字なしを目視確認。",
+      "url": "/images/generated/SWT-0495.png",
+      "sha256": "415fd65e94eb3ff8c0f4207c5702610c59578d7f35b0ac5de61a3b4c41738c7e"
+    },
+    "SWT-0020": {
+      "name": "とちあいかのタルト",
+      "brand": "フルーツピークス",
+      "basis": "DBに記録された素材：いちご、品種別クリーム、生地。形態：タルト、品種別タルト。色・外観の記録：赤一色。写真・原レシピとの一致は未確認。細部の形状・配合・配置は推定です。",
+      "prompt": "One small whole strawberry tart with a golden pastry shell, ivory cream and dense fresh red strawberries. Only strawberries are used, no leaves, flowers or other fruit. Form and arrangement are inferred from a generic strawberry tart record. Use case: product-mockup. Asset type: one square thumbnail of a hypothetical product-development concept, not evidence of a real commercial product. Photorealistic studio food photography, seamless white background, soft diffused light and gentle contact shadow. Full single dessert visible with white margin, clear three-quarter angle. The shape, layers and arrangement are inferred concept choices. No brand replication, logos, text, labels, watermark, packaging, extra desserts, loose ingredients, utensils, hands, plates, props, scenery or collage.",
+      "createdAt": "2026-09-12",
+      "reviewed": true,
+      "review": "素材と色、単品・白背景、文字や別の果物がないことを目視確認。",
+      "url": "/images/generated/SWT-0020.png",
+      "sha256": "cc75543aae5df9841feffb9a6a708a86aff2441a252ea6174b7c90938c1d3db7"
+    },
+    "SWT-0076": {
+      "name": "いちごロワイヤル",
+      "brand": "新宿高野",
+      "basis": "DBに記録された素材：いちご、クリーム。形態：ケーキ、苺主役。色・外観の記録：赤、華やか。写真・原レシピとの一致は未確認。細部の形状・配合・配置は推定です。",
+      "prompt": "One single refined triangular strawberry cream cake slice, with ivory cream and pale sponge, topped generously with red strawberries. No other fruit or garnish. Layer counts, shape and arrangement are hypothetical. Use case: product-mockup. Asset type: one square thumbnail of a hypothetical product-development concept, not evidence of a real commercial product. Photorealistic studio food photography, seamless white background, soft diffused light and gentle contact shadow. Full single dessert visible with white margin, clear three-quarter angle. The shape, layers and arrangement are inferred concept choices. No brand replication, logos, text, labels, watermark, packaging, extra desserts, loose ingredients, utensils, hands, plates, props, scenery or collage.",
+      "createdAt": "2026-09-12",
+      "reviewed": true,
+      "review": "素材と色、単品・白背景、文字や別の果物がないことを目視確認。",
+      "url": "/images/generated/SWT-0076.png",
+      "sha256": "a139ce1fe02f84d09885e3ae979a1806003548cc301dbd53485a7f7e40711b69"
+    },
+    "SWT-0155": {
+      "name": "ホール苺ムース",
+      "brand": "京橋千疋屋",
+      "basis": "DBに記録された素材：いちご、ムース。形態：ムースケーキ、商品形態に準ずる。色・外観の記録：苺ムース。写真・原レシピとの一致は未確認。細部の形状・配合・配置は推定です。",
+      "prompt": "One whole small round strawberry mousse cake, with a simple smooth pale pink mousse exterior and a few fresh strawberry halves on top. No other fruit, nuts, chocolate, leaves or flowers. Shape and decoration are inferred. Use case: product-mockup. Asset type: one square thumbnail of a hypothetical product-development concept, not evidence of a real commercial product. Photorealistic studio food photography, seamless white background, soft diffused light and gentle contact shadow. Full single dessert visible with white margin, clear three-quarter angle. The shape, layers and arrangement are inferred concept choices. No brand replication, logos, text, labels, watermark, packaging, extra desserts, loose ingredients, utensils, hands, plates, props, scenery or collage.",
+      "createdAt": "2026-09-12",
+      "reviewed": true,
+      "review": "素材と色、単品・白背景、文字や別の果物がないことを目視確認。",
+      "url": "/images/generated/SWT-0155.png",
+      "sha256": "e164b804bcc2b19b4d160eb5037938d955f7fadf573a648024ecdcb5642544a5"
+    },
+    "SWT-0284": {
+      "name": "シャトレーゼ メロンと杏仁の初夏デザート",
+      "brand": "シャトレーゼ",
+      "basis": "DBに記録された素材：メロン、杏仁、ゼリー。形態：ケーキ/ヴェリーヌ、商品形態に準ずる。色・外観の記録：緑、涼感。写真・原レシピとの一致は未確認。細部の形状・配合・配置は推定です。",
+      "prompt": "One single short cylindrical clear glass verrine filled with smooth ivory almond pudding at the bottom, pale translucent melon jelly above, topped with small ripe green melon cubes. Only melon fruit. Glass form and layer arrangement are inferred. Use case: product-mockup. Asset type: one square thumbnail of a hypothetical product-development concept, not evidence of a real commercial product. Photorealistic studio food photography, seamless white background, soft diffused light and gentle contact shadow. Full single dessert visible with white margin, clear three-quarter angle. The shape, layers and arrangement are inferred concept choices. No brand replication, logos, text, labels, watermark, packaging, extra desserts, loose ingredients, utensils, hands, plates, props, scenery or collage.",
+      "createdAt": "2026-09-12",
+      "reviewed": true,
+      "review": "素材・色・形態、単品・白背景、文字・別の果物がないことを目視確認。",
+      "url": "/images/generated/SWT-0284.png",
+      "sha256": "e358ab14cb06a292f7abe257c230c7c5ae89bd21b61f3ae3bf8a8fdddfbb76e5"
+    },
+    "SWT-0357": {
+      "name": "プレミアムジェリー 白桃",
+      "brand": "千疋屋総本店",
+      "basis": "DBに記録された素材：白桃（大玉果肉）、甘さ控えめゼリー。形態：ゼリー（プレミアム）、。色・外観の記録：丸瓶ガラス容器・果実が透けて見える。写真・原レシピとの一致は未確認。細部の形状・配合・配置は推定です。",
+      "prompt": "One single round transparent glass jar of delicate clear white peach jelly holding large pieces of pale ivory white peach. Open jar, no lid, label or branding, no red skin, no other fruit or decorations. Jar form and fruit arrangement are inferred from a documented round glass container. Use case: product-mockup. Asset type: one square thumbnail of a hypothetical product-development concept, not evidence of a real commercial product. Photorealistic studio food photography, seamless white background, soft diffused light and gentle contact shadow. Full single dessert visible with white margin, clear three-quarter angle. The shape, layers and arrangement are inferred concept choices. No brand replication, logos, text, labels, watermark, packaging, extra desserts, loose ingredients, utensils, hands, plates, props, scenery or collage.",
+      "createdAt": "2026-09-12",
+      "reviewed": true,
+      "review": "素材・色・形態、単品・白背景、文字・別の果物がないことを目視確認。",
+      "url": "/images/generated/SWT-0357.png",
+      "sha256": "b5d608beef534049c782e6f9b6f3dc55600c5b19785b2ec97459eed7739b2a6f"
+    },
+    "SWT-0502": {
+      "name": "2色のメロンのタルト（アディクト・オ・ムロン）",
+      "brand": "ア・ラ・カンパーニュ",
+      "basis": "DBに記録された素材：メロン、。形態：タルト、。色・外観の記録：。写真・原レシピとの一致は未確認。細部の形状・配合・配置は推定です。 2色は商品名に基づく緑肉・赤肉メロン。タルト土台の配合、クリーム、果実の切り方・配置は推定。",
+      "prompt": "One whole small round golden pastry tart topped densely with alternating green and orange ripe melon wedges, no other fruit, flowers or mint. Pastry shell and a restrained pale cream filling support the melon. Size, cream recipe and wedge arrangement are inferred. Use case: product-mockup. Asset type: one square thumbnail of a hypothetical product-development concept, not evidence of a real commercial product. Photorealistic studio food photography, seamless white background, soft diffused light and gentle contact shadow. Full single dessert visible with white margin, clear three-quarter angle. The shape, layers and arrangement are inferred concept choices. No brand replication, logos, text, labels, watermark, packaging, extra desserts, loose ingredients, utensils, hands, plates, props, scenery or collage.",
+      "createdAt": "2026-09-12",
+      "reviewed": true,
+      "review": "素材・色・形態、単品・白背景、文字・別の果物がないことを目視確認。",
+      "url": "/images/generated/SWT-0502.png",
+      "sha256": "794e4883895f472746af39c79c90f7d9271412a751d45cd4d79f132119a2b741"
+    },
+    "SWT-0179": {
+      "name": "北海道産3種のチーズタルト",
+      "brand": "ラ・メゾン アンソレイユターブル",
+      "basis": "DBに記録された素材：チーズ、タルト台。形態：タルト、商品形態に準ずる。色・外観の記録：チーズタルト。写真・原レシピとの一致は未確認。細部の形状・配合・配置は推定です。 公式通販検索索引（https://www.la-maison-online.jp/view/item/000000000851）でクリームチーズ・カマンベール・マスカルポーネ、直径15cmを確認。焼き色・厚さ・縁の形は推定。",
+      "prompt": "One small whole round baked cheesecake tart with a golden buttery shortcrust shell and a smooth gently browned ivory cheese filling. The documented cheeses are cream cheese, camembert and mascarpone. No fruit, nuts, sauce, whipped topping, garnish or separate cheese. Tart dimensions, surface browning and rim shape are inferred concept choices. Use case: product-mockup. Asset type: one square thumbnail of a hypothetical product-development concept, not evidence of a real commercial product. Photorealistic studio food photography, seamless white background, soft diffused light and gentle contact shadow. Full single dessert visible with white margin, clear three-quarter angle. The shape, layers and arrangement are inferred concept choices. No brand replication, logos, text, labels, watermark, packaging, extra desserts, loose ingredients, utensils, hands, plates, props, scenery or collage.",
+      "createdAt": "2026-09-12",
+      "reviewed": true,
+      "review": "記録された素材・カテゴリ、単品・白背景、余分な果物やロゴがないことを目視確認。",
+      "url": "/images/generated/SWT-0179.png",
+      "sha256": "01fdc75ce05edabdda77f018885dbf753aa5d5c96387a28271a4c6372f71d805"
+    },
+    "SWT-0399": {
+      "name": "佐賀県産\"いちごさん\"のタルト",
+      "brand": "キル フェ ボン",
+      "basis": "DBに記録された素材：いちご、。形態：タルト、。色・外観の記録：大粒いちごをぎっしり並べたタルト。写真・原レシピとの一致は未確認。細部の形状・配合・配置は推定です。",
+      "prompt": "One single whole large strawberry tart with a thin golden pastry base fully covered by tightly arranged large glossy red strawberries cut in halves. No leaves, flowers, other fruit or decorations. Filling recipe and strawberry arrangement are unknown and inferred minimally. This is only a generic ingredient-based concept, not a reconstruction of a branded tart. Use case: product-mockup. Asset type: one square thumbnail of a hypothetical product-development concept, not evidence of a real commercial product. Photorealistic studio food photography, seamless white background, soft diffused light and gentle contact shadow. Full single dessert visible with white margin, clear three-quarter angle. The shape, layers and arrangement are inferred concept choices. No brand replication, logos, text, labels, watermark, packaging, extra desserts, loose ingredients, utensils, hands, plates, props, scenery or collage.",
+      "createdAt": "2026-09-12",
+      "reviewed": true,
+      "review": "記録された素材・カテゴリ、単品・白背景、余分な果物やロゴがないことを目視確認。",
+      "url": "/images/generated/SWT-0399.png",
+      "sha256": "d6adcae3996b5d254212460db72f0464f4bbd94570a6de7b43a4ac09110defb7"
+    },
+    "SWT-0478": {
+      "name": "マロンプディング（モンブラン風味プリン）",
+      "brand": "アンジェリーナ",
+      "basis": "DBに記録された素材：マロンペースト、。形態：プリン、。色・外観の記録：マロン色のプリン。写真・原レシピとの一致は未確認。細部の形状・配合・配置は推定です。 公開企業記事（https://prtimes.jp/main/html/rd/p/000000004.000140397.html）にマロンプディングの説明あり。掲載画像は複数商品の集合写真のため単品実写真には採用せず。器・表面形状は推定。",
+      "prompt": "One single small straight clear glass cup filled with smooth pale chestnut-brown pudding made with chestnut paste, a flat plain surface. No cream, caramel, nuts, chestnut pieces, fruit or decorations. Glass shape and smoothness are inferred concept choices, with no brand packaging. Use case: product-mockup. Asset type: one square thumbnail of a hypothetical product-development concept, not evidence of a real commercial product. Photorealistic studio food photography, seamless white background, soft diffused light and gentle contact shadow. Full single dessert visible with white margin, clear three-quarter angle. The shape, layers and arrangement are inferred concept choices. No brand replication, logos, text, labels, watermark, packaging, extra desserts, loose ingredients, utensils, hands, plates, props, scenery or collage.",
+      "createdAt": "2026-09-12",
+      "reviewed": true,
+      "review": "記録された素材・カテゴリ、単品・白背景、余分な果物やロゴがないことを目視確認。",
+      "url": "/images/generated/SWT-0478.png",
+      "sha256": "80eb92a2797a66b79bf1213329339866fea781d0d56499bfd88fdcef6ea9de28"
+    },
+    "SWT-0045": {
+      "name": "柑橘ロール",
+      "brand": "京橋千疋屋",
+      "basis": "DBに記録された素材：柑橘、ロール生地、クリーム。形態：ロールケーキ、ロール断面。色・外観の記録：黄色系。写真・原レシピとの一致は未確認。細部の形状・配合・配置は推定です。 生成上の推定：柑橘の黄色い果肉と白いクリームを巻いたロールケーキを厚めの1カット。断面の渦と柑橘が見え、上面の飾りは足さない。",
+      "prompt": "Use case: product-mockup. 商品開発の検討に使う参考イメージを1枚生成。実在するブランド商品の外観再現ではありません。白い無地背景、柔らかいスタジオ光、写真調、横長3:2、斜め45度から、中央に単品、余白あり。DB記録の主素材 柑橘、副素材 ロール生地、クリーム、カテゴリ ロールケーキ、形態 ロール断面。参考の造形: 柑橘の黄色い果肉と白いクリームを巻いたロールケーキを厚めの1カット。断面の渦と柑橘が見え、上面の飾りは足さない。 配置や層は推定。ブランド名、ロゴ、文字、値札、透かし、包装箱、皿、カトラリー、周囲の飾り果物、指定外の果物やハーブを一切入れない。",
+      "createdAt": "2026-09-12",
+      "failureReason": "登録URLが現行個別商品を示さず、公式カタログ・同名Web検索・公開Instagram/X検索で個別写真を確認できなかった。",
+      "searchSources": [
+        "https://www.senbikiya.co.jp/2026/04/01/2406tocake",
+        "同名商品の公開Web検索",
+        "同名商品のInstagram/X検索（2026-09-12）"
+      ],
+      "visualCheck": "生成画像を目視確認。素材・カテゴリと一致し、単品・白背景・文字やロゴなし。",
+      "url": "/images/generated/SWT-0045.png",
+      "sha256": "900f02051f2ee4b51b3a179b42fc0c3d430a474d574456bd971c2ab4f3f91993"
+    },
+    "SWT-0071": {
+      "name": "petitハピネス～やよいひめ＆メロン～",
+      "brand": "新宿高野",
+      "basis": "DBに記録された素材：いちご、メロン。形態：ケーキ、小型ケーキ。色・外観の記録：赤×緑。写真・原レシピとの一致は未確認。細部の形状・配合・配置は推定です。 生成上の推定：いちごと緑のメロンを載せた小型の円柱形ショートケーキ1個。白いクリームと淡いスポンジの小ぶりなケーキに、赤いいちごと黄緑色のメロン果肉を控えめに盛る。",
+      "prompt": "Use case: product-mockup. 商品開発の検討に使う参考イメージを1枚生成。実在するブランド商品の外観再現ではありません。白い無地背景、柔らかいスタジオ光、写真調、横長3:2、斜め45度から、中央に単品、余白あり。DB記録の主素材 いちご、副素材 メロン、カテゴリ ケーキ、形態 小型ケーキ。参考の造形: いちごと緑のメロンを載せた小型の円柱形ショートケーキ1個。白いクリームと淡いスポンジの小ぶりなケーキに、赤いいちごと黄緑色のメロン果肉を控えめに盛る。 配置や層は推定。ブランド名、ロゴ、文字、値札、透かし、包装箱、皿、カトラリー、周囲の飾り果物、指定外の果物やハーブを一切入れない。",
+      "createdAt": "2026-09-12",
+      "failureReason": "2026年公式発表に他ブランド商品との2品集合写真と商品説明はあるが、単品写真を確認できなかった。https://prtimes.jp/main/html/rd/p/000002399.000031382.html",
+      "searchSources": [
+        "https://takano.jp/takano/product/recommend/cake/",
+        "同名商品の公開Web検索",
+        "同名商品のInstagram/X検索（2026-09-12）"
+      ],
+      "visualCheck": "生成画像を目視確認。素材・カテゴリと一致し、単品・白背景・文字やロゴなし。",
+      "url": "/images/generated/SWT-0071.png",
+      "sha256": "6db7f5ad589cb94a24410eb559416ef232e3bec4f9d405b5a30bfdf75831784e"
+    },
+    "SWT-0077": {
+      "name": "ハピネス～やよいひめ＆メロン～",
+      "brand": "新宿高野",
+      "basis": "DBに記録された素材：いちご、メロン。形態：デコレーションケーキ、4号ホール。色・外観の記録：赤×緑。写真・原レシピとの一致は未確認。細部の形状・配合・配置は推定です。 生成上の推定：直径約12cm、4号サイズの丸いホールケーキ1個。白いクリームで覆い、上面に赤いいちごと緑のメロン果肉を交互に飾る。余分な果物や葉はない。",
+      "prompt": "Use case: product-mockup. 商品開発の検討に使う参考イメージを1枚生成。実在するブランド商品の外観再現ではありません。白い無地背景、柔らかいスタジオ光、写真調、横長3:2、斜め45度から、中央に単品、余白あり。DB記録の主素材 いちご、副素材 メロン、カテゴリ デコレーションケーキ、形態 4号ホール。参考の造形: 直径約12cm、4号サイズの丸いホールケーキ1個。白いクリームで覆い、上面に赤いいちごと緑のメロン果肉を交互に飾る。余分な果物や葉はない。 配置や層は推定。ブランド名、ロゴ、文字、値札、透かし、包装箱、皿、カトラリー、周囲の飾り果物、指定外の果物やハーブを一切入れない。",
+      "createdAt": "2026-09-12",
+      "failureReason": "現行公式カタログと同名Web検索では4号ホールの写真を特定できず、公開Instagram/Xの同名検索も該当なし。",
+      "searchSources": [
+        "https://takano.jp/takano/product/recommend/cake/",
+        "同名商品の公開Web検索",
+        "同名商品のInstagram/X検索（2026-09-12）"
+      ],
+      "visualCheck": "生成画像を目視確認。素材・カテゴリと一致し、単品・白背景・文字やロゴなし。",
+      "url": "/images/generated/SWT-0077.png",
+      "sha256": "99e0e1f726a2a3659c45cb0ea41b7a12f64e9bea652809904fa69466bcacf99c"
+    },
+    "SWT-0140": {
+      "name": "ひなまつりミニホールケーキ",
+      "brand": "不二家",
+      "basis": "DBに記録された素材：いちご、クリーム。形態：デコレーションケーキ、商品形態に準ずる。色・外観の記録：かわいい、ひな祭り。写真・原レシピとの一致は未確認。細部の形状・配合・配置は推定です。 生成上の推定：ひなまつりを楽しむ小さな円形ホールケーキを1個。白いクリームと赤いいちごだけの愛らしいデコレーション。人形、文字、ピックは入れず、苺とクリームで春らしさを表す。",
+      "prompt": "Use case: product-mockup. 商品開発の検討に使う参考イメージを1枚生成。実在するブランド商品の外観再現ではありません。白い無地背景、柔らかいスタジオ光、写真調、横長3:2、斜め45度から、中央に単品、余白あり。DB記録の主素材 いちご、副素材 クリーム、カテゴリ デコレーションケーキ、形態 商品形態に準ずる。参考の造形: ひなまつりを楽しむ小さな円形ホールケーキを1個。白いクリームと赤いいちごだけの愛らしいデコレーション。人形、文字、ピックは入れず、苺とクリームで春らしさを表す。 配置や層は推定。ブランド名、ロゴ、文字、値札、透かし、包装箱、皿、カトラリー、周囲の飾り果物、指定外の果物やハーブを一切入れない。",
+      "createdAt": "2026-09-12",
+      "failureReason": "登録先の不二家公式ひなまつり発表に同名商品がなく、公開Web/SNSでも同名の現物写真を特定できなかった。",
+      "searchSources": [
+        "https://prtimes.jp/main/html/rd/p/000000377.000097396.html",
+        "同名商品の公開Web検索",
+        "同名商品のInstagram/X検索（2026-09-12）"
+      ],
+      "visualCheck": "生成画像を目視確認。素材・カテゴリと一致し、単品・白背景・文字やロゴなし。",
+      "url": "/images/generated/SWT-0140.png",
+      "sha256": "90d58f7125c8e3fd183e4323c2b7d2a2adf6a3f8e04b1f2527738dcae0baead8"
+    },
+    "SWT-0176": {
+      "name": "御用邸パンプキンチーズケーキ",
+      "brand": "チーズガーデン",
+      "basis": "DBに記録された素材：かぼちゃ、チーズ。形態：チーズケーキ、商品形態に準ずる。色・外観の記録：秋色。写真・原レシピとの一致は未確認。細部の形状・配合・配置は推定です。 生成上の推定：かぼちゃとチーズを使った小さな丸いベイクドチーズケーキ1個。自然な橙がかった焼き色の表面、側面は淡いかぼちゃ色、飾りや果物を足さない。",
+      "prompt": "Use case: product-mockup. 商品開発の検討に使う参考イメージを1枚生成。実在するブランド商品の外観再現ではありません。白い無地背景、柔らかいスタジオ光、写真調、横長3:2、斜め45度から、中央に単品、余白あり。DB記録の主素材 かぼちゃ、副素材 チーズ、カテゴリ チーズケーキ、形態 商品形態に準ずる。参考の造形: かぼちゃとチーズを使った小さな丸いベイクドチーズケーキ1個。自然な橙がかった焼き色の表面、側面は淡いかぼちゃ色、飾りや果物を足さない。 配置や層は推定。ブランド名、ロゴ、文字、値札、透かし、包装箱、皿、カトラリー、周囲の飾り果物、指定外の果物やハーブを一切入れない。",
+      "createdAt": "2026-09-12",
+      "failureReason": "公式検索ではパンプキンチーズクッキーは見つかったが、同名のチーズケーキは確認できなかった。DB実在Cの参考テーマ。",
+      "searchSources": [
+        "https://cheesegarden.jp/",
+        "同名商品の公開Web検索",
+        "同名商品のInstagram/X検索（2026-09-12）"
+      ],
+      "visualCheck": "生成画像を目視確認。素材・カテゴリと一致し、単品・白背景・文字やロゴなし。",
+      "url": "/images/generated/SWT-0176.png",
+      "sha256": "002aaa8d97aa2b347e52ccd5ddc6572edf3b47adc03f725b09e4ce2a600c9869"
+    },
+    "SWT-0224": {
+      "name": "HARBS メロンと杏仁の初夏デザート",
+      "brand": "HARBS",
+      "basis": "DBに記録された素材：メロン、杏仁、ゼリー。形態：ケーキ/ヴェリーヌ、商品形態に準ずる。色・外観の記録：緑、涼感。写真・原レシピとの一致は未確認。細部の形状・配合・配置は推定です。 生成上の推定：透明な無地の円筒カップ1個に入ったメロンと杏仁のヴェリーヌ。下に白い杏仁、上に透明なゼリーと緑のメロン角切りを重ねる。カップは商品の必要な容器としてだけ写し、皿は使わない。",
+      "prompt": "Use case: product-mockup. 商品開発の検討に使う参考イメージを1枚生成。実在するブランド商品の外観再現ではありません。白い無地背景、柔らかいスタジオ光、写真調、横長3:2、斜め45度から、中央に単品、余白あり。DB記録の主素材 メロン、副素材 杏仁、ゼリー、カテゴリ ケーキ/ヴェリーヌ、形態 商品形態に準ずる。参考の造形: 透明な無地の円筒カップ1個に入ったメロンと杏仁のヴェリーヌ。下に白い杏仁、上に透明なゼリーと緑のメロン角切りを重ねる。カップは商品の必要な容器としてだけ写し、皿は使わない。 配置や層は推定。ブランド名、ロゴ、文字、値札、透かし、包装箱、皿、カトラリー、周囲の飾り果物、指定外の果物やハーブを一切入れない。",
+      "createdAt": "2026-09-12",
+      "failureReason": "公式カタログ・同名公開Web/SNSで個別商品を確認できなかった。DB実在Cの参考テーマ。",
+      "searchSources": [
+        "https://www.harbs.co.jp/menu_cake/",
+        "同名商品の公開Web検索",
+        "同名商品のInstagram/X検索（2026-09-12）"
+      ],
+      "visualCheck": "生成画像を目視確認。素材・カテゴリと一致し、単品・白背景・文字やロゴなし。",
+      "url": "/images/generated/SWT-0224.png",
+      "sha256": "80ed6b619372556c46c3c57445f2b0daaccf89b4531ce95da427089d7fe809f5"
+    },
+    "SWT-0240": {
+      "name": "京橋千疋屋 ピスタチオショコラケーキ",
+      "brand": "京橋千疋屋",
+      "basis": "DBに記録された素材：ピスタチオ、チョコレート。形態：ケーキ、商品形態に準ずる。色・外観の記録：緑×茶。写真・原レシピとの一致は未確認。細部の形状・配合・配置は推定です。 生成上の推定：ピスタチオとチョコレートの長方形ケーキを1カット。鮮やか過ぎないピスタチオグリーンの層、薄い茶色のチョコレート層、上面に少量の砕いたピスタチオ。",
+      "prompt": "Use case: product-mockup. 商品開発の検討に使う参考イメージを1枚生成。実在するブランド商品の外観再現ではありません。白い無地背景、柔らかいスタジオ光、写真調、横長3:2、斜め45度から、中央に単品、余白あり。DB記録の主素材 ピスタチオ、副素材 チョコレート、カテゴリ ケーキ、形態 商品形態に準ずる。参考の造形: ピスタチオとチョコレートの長方形ケーキを1カット。鮮やか過ぎないピスタチオグリーンの層、薄い茶色のチョコレート層、上面に少量の砕いたピスタチオ。 配置や層は推定。ブランド名、ロゴ、文字、値札、透かし、包装箱、皿、カトラリー、周囲の飾り果物、指定外の果物やハーブを一切入れない。",
+      "createdAt": "2026-09-12",
+      "failureReason": "登録先は個別商品の根拠にならず、同名公開Web/SNSで現物写真を確認できなかった。",
+      "searchSources": [
+        "https://www.senbikiya.co.jp/2026/04/01/2406tocake",
+        "同名商品の公開Web検索",
+        "同名商品のInstagram/X検索（2026-09-12）"
+      ],
+      "visualCheck": "生成画像を目視確認。素材・カテゴリと一致し、単品・白背景・文字やロゴなし。",
+      "url": "/images/generated/SWT-0240.png",
+      "sha256": "5111c75af3c62ae3bebf309ace00c770d074fcb835c118c20315e93186304fb6"
+    },
+    "SWT-0254": {
+      "name": "資生堂パーラー メロンと杏仁の初夏デザート",
+      "brand": "資生堂パーラー",
+      "basis": "DBに記録された素材：メロン、杏仁、ゼリー。形態：ケーキ/ヴェリーヌ、商品形態に準ずる。色・外観の記録：緑、涼感。写真・原レシピとの一致は未確認。細部の形状・配合・配置は推定です。 生成上の推定：透明な無地の小さな丸いカップ1個に入ったメロンと杏仁のデザート。白い杏仁を満たし、透明なゼリーを薄く重ね、上面に緑のメロンの扇状スライスを低く載せる。皿なし。",
+      "prompt": "Use case: product-mockup. 商品開発の検討に使う参考イメージを1枚生成。実在するブランド商品の外観再現ではありません。白い無地背景、柔らかいスタジオ光、写真調、横長3:2、斜め45度から、中央に単品、余白あり。DB記録の主素材 メロン、副素材 杏仁、ゼリー、カテゴリ ケーキ/ヴェリーヌ、形態 商品形態に準ずる。参考の造形: 透明な無地の小さな丸いカップ1個に入ったメロンと杏仁のデザート。白い杏仁を満たし、透明なゼリーを薄く重ね、上面に緑のメロンの扇状スライスを低く載せる。皿なし。 配置や層は推定。ブランド名、ロゴ、文字、値札、透かし、包装箱、皿、カトラリー、周囲の飾り果物、指定外の果物やハーブを一切入れない。",
+      "createdAt": "2026-09-12",
+      "failureReason": "公式情報・同名公開Web/SNSで個別商品を確認できなかった。DB実在Cの参考テーマ。",
+      "searchSources": [
+        "https://parlour.shiseido.co.jp/items/",
+        "同名商品の公開Web検索",
+        "同名商品のInstagram/X検索（2026-09-12）"
+      ],
+      "visualCheck": "生成画像を目視確認。素材・カテゴリと一致し、単品・白背景・文字やロゴなし。",
+      "url": "/images/generated/SWT-0254.png",
+      "sha256": "d988c9bf25f2a666d6030b3b263ce68d3003f72698a990d394f087676a1ba502"
+    },
+    "SWT-0274": {
+      "name": "カフェコムサ メロンと杏仁の初夏デザート",
+      "brand": "カフェコムサ",
+      "basis": "DBに記録された素材：メロン、杏仁、ゼリー。形態：ケーキ/ヴェリーヌ、商品形態に準ずる。色・外観の記録：緑、涼感。写真・原レシピとの一致は未確認。細部の形状・配合・配置は推定です。 生成上の推定：透明な無地の背の低い角形カップ1個に入ったメロンと杏仁のヴェリーヌ。白い杏仁と透明なゼリーの2層、上面にくり抜いた緑のメロンを3つ載せる。カップ以外の食器なし。",
+      "prompt": "Use case: product-mockup. 商品開発の検討に使う参考イメージを1枚生成。実在するブランド商品の外観再現ではありません。白い無地背景、柔らかいスタジオ光、写真調、横長3:2、斜め45度から、中央に単品、余白あり。DB記録の主素材 メロン、副素材 杏仁、ゼリー、カテゴリ ケーキ/ヴェリーヌ、形態 商品形態に準ずる。参考の造形: 透明な無地の背の低い角形カップ1個に入ったメロンと杏仁のヴェリーヌ。白い杏仁と透明なゼリーの2層、上面にくり抜いた緑のメロンを3つ載せる。カップ以外の食器なし。 配置や層は推定。ブランド名、ロゴ、文字、値札、透かし、包装箱、皿、カトラリー、周囲の飾り果物、指定外の果物やハーブを一切入れない。",
+      "createdAt": "2026-09-12",
+      "failureReason": "公式情報・同名公開Web/SNSで個別商品を確認できなかった。DB実在Cの参考テーマ。",
+      "searchSources": [
+        "https://www.cafe-commeca.co.jp/",
+        "同名商品の公開Web検索",
+        "同名商品のInstagram/X検索（2026-09-12）"
+      ],
+      "visualCheck": "生成画像を目視確認。素材・カテゴリと一致し、単品・白背景・文字やロゴなし。",
+      "url": "/images/generated/SWT-0274.png",
+      "sha256": "8465b2d9405a0067dae79317ed3dc26d142cb905785293cf261e2d262633f10d"
+    },
+    "SWT-0292": {
+      "name": "京橋千疋屋 抹茶と苺の春ケーキ",
+      "brand": "京橋千疋屋",
+      "basis": "DBに記録された素材：抹茶、いちご、小豆。形態：ケーキ、商品形態に準ずる。色・外観の記録：緑×赤。写真・原レシピとの一致は未確認。細部の形状・配合・配置は推定です。 生成上の推定：抹茶といちごと小豆のケーキを四角い1カット。緑の抹茶生地と薄い小豆の層が見え、上面に赤いいちごを2切れだけ載せる。和風ケーキとして落ち着いた緑と赤。",
+      "prompt": "Use case: product-mockup. 商品開発の検討に使う参考イメージを1枚生成。実在するブランド商品の外観再現ではありません。白い無地背景、柔らかいスタジオ光、写真調、横長3:2、斜め45度から、中央に単品、余白あり。DB記録の主素材 抹茶、副素材 いちご、小豆、カテゴリ ケーキ、形態 商品形態に準ずる。参考の造形: 抹茶といちごと小豆のケーキを四角い1カット。緑の抹茶生地と薄い小豆の層が見え、上面に赤いいちごを2切れだけ載せる。和風ケーキとして落ち着いた緑と赤。 配置や層は推定。ブランド名、ロゴ、文字、値札、透かし、包装箱、皿、カトラリー、周囲の飾り果物、指定外の果物やハーブを一切入れない。",
+      "createdAt": "2026-09-12",
+      "failureReason": "登録先は個別商品の根拠にならず、同名公開Web/SNSで現物写真を確認できなかった。",
+      "searchSources": [
+        "https://www.senbikiya.co.jp/2026/04/01/2406tocake",
+        "同名商品の公開Web検索",
+        "同名商品のInstagram/X検索（2026-09-12）"
+      ],
+      "visualCheck": "生成画像を目視確認。素材・カテゴリと一致し、単品・白背景・文字やロゴなし。",
+      "url": "/images/generated/SWT-0292.png",
+      "sha256": "7b3d0497e62b600a4910be8a017e9ef442b7f5128390720773fe163ca32e44b9"
+    },
+    "SWT-0428": {
+      "name": "茨城県産2種のメロン（イバラキング×クインシー）のタルト",
+      "brand": "キル フェ ボン",
+      "basis": "DBに記録された素材：メロン（青肉・赤肉）、カスタード。形態：タルト、。色・外観の記録：青肉と赤肉のコントラストが彩り美しい。写真・原レシピとの一致は未確認。細部の形状・配合・配置は推定です。 生成上の推定：青肉と赤肉の2種のメロンの丸いホールタルト1個。薄い焼き色のタルト台と淡い黄色のカスタード。上面は黄緑色のメロンと橙色のメロンを交互に重ねる。その他の果物、葉、文字なし。",
+      "prompt": "Use case: product-mockup. 商品開発の検討に使う参考イメージを1枚生成。実在するブランド商品の外観再現ではありません。白い無地背景、柔らかいスタジオ光、写真調、横長3:2、斜め45度から、中央に単品、余白あり。DB記録の主素材 メロン（青肉・赤肉）、副素材 カスタード、カテゴリ タルト、形態 。参考の造形: 青肉と赤肉の2種のメロンの丸いホールタルト1個。薄い焼き色のタルト台と淡い黄色のカスタード。上面は黄緑色のメロンと橙色のメロンを交互に重ねる。その他の果物、葉、文字なし。 配置や層は推定。ブランド名、ロゴ、文字、値札、透かし、包装箱、皿、カトラリー、周囲の飾り果物、指定外の果物やハーブを一切入れない。",
+      "createdAt": "2026-09-12",
+      "failureReason": "登録先Melon Week 2025本文には別の4商品があり、DBの2種メロン商品とは一致しない。2026年の類似名商品との同一性は未確認。公開SNSの完全名検索も該当なし。",
+      "searchSources": [
+        "https://digitalpr.jp/r/106535",
+        "同名商品の公開Web検索",
+        "同名商品のInstagram/X検索（2026-09-12）"
+      ],
+      "visualCheck": "生成画像を目視確認。素材・カテゴリと一致し、単品・白背景・文字やロゴなし。",
+      "url": "/images/generated/SWT-0428.png",
+      "sha256": "548db7e6a77ae774fed4ae8c7da37769fd7171e9f0dab7d9afa62d583fe3352a"
+    },
+    "SWT-0489": {
+      "name": "イチゴとキャラメルのタルト（タルト・オ・フレーズ・エ・キャラメル）",
+      "brand": "ア・ラ・カンパーニュ",
+      "basis": "DBに記録された素材：イチゴ、。形態：タルト、。色・外観の記録：。写真・原レシピとの一致は未確認。細部の形状・配合・配置は推定です。 生成上の推定：いちご、生クリーム、キャラメル、パイ生地で仕立てたタルトを三角形の1カット。香ばしいパイの層、白い生クリーム、上面の赤いいちごに細いキャラメルの艶。これらの構成以外は加えない。",
+      "prompt": "Use case: product-mockup. 商品開発の検討に使う参考イメージを1枚生成。実在するブランド商品の外観再現ではありません。白い無地背景、柔らかいスタジオ光、写真調、横長3:2、斜め45度から、中央に単品、余白あり。DB記録の主素材 イチゴ、副素材 、カテゴリ タルト、形態 。参考の造形: いちご、生クリーム、キャラメル、パイ生地で仕立てたタルトを三角形の1カット。香ばしいパイの層、白い生クリーム、上面の赤いいちごに細いキャラメルの艶。これらの構成以外は加えない。 配置や層は推定。ブランド名、ロゴ、文字、値札、透かし、包装箱、皿、カトラリー、周囲の飾り果物、指定外の果物やハーブを一切入れない。",
+      "createdAt": "2026-09-12",
+      "failureReason": "公式2026年5月の索引に苺・生クリーム・キャラメル・パイの説明はあるが、公式APIと公開Web/SNSで商品写真を確認できなかった。",
+      "searchSources": [
+        "https://www.alacampagne.jp/products/tarte/",
+        "同名商品の公開Web検索",
+        "同名商品のInstagram/X検索（2026-09-12）"
+      ],
+      "visualCheck": "生成画像を目視確認。素材・カテゴリと一致し、単品・白背景・文字やロゴなし。",
+      "url": "/images/generated/SWT-0489.png",
+      "sha256": "3bfde10f4f38aa0144bf5be03367e757f985b5afd667b0efdfb47c43fb198316"
+    },
+    "SWT-0492": {
+      "name": "2種のメロンのタルト（タルト・オ・ムロン・ブロデ）",
+      "brand": "ア・ラ・カンパーニュ",
+      "basis": "DBに記録された素材：メロン、。形態：タルト、。色・外観の記録：。写真・原レシピとの一致は未確認。細部の形状・配合・配置は推定です。 生成上の推定：アールスメロンの青肉とクインシーメロンの赤肉を使う丸いホールタルト1個。焼き色のタルト台に、緑色と橙色の厚いメロンスライスを交互に盛り付ける。細部は推定、余計な果物や葉なし。",
+      "prompt": "Use case: product-mockup. 商品開発の検討に使う参考イメージを1枚生成。実在するブランド商品の外観再現ではありません。白い無地背景、柔らかいスタジオ光、写真調、横長3:2、斜め45度から、中央に単品、余白あり。DB記録の主素材 メロン、副素材 、カテゴリ タルト、形態 。参考の造形: アールスメロンの青肉とクインシーメロンの赤肉を使う丸いホールタルト1個。焼き色のタルト台に、緑色と橙色の厚いメロンスライスを交互に盛り付ける。細部は推定、余計な果物や葉なし。 配置や層は推定。ブランド名、ロゴ、文字、値札、透かし、包装箱、皿、カトラリー、周囲の飾り果物、指定外の果物やハーブを一切入れない。",
+      "createdAt": "2026-09-12",
+      "failureReason": "公式2026年5月の索引にアールスメロンとクインシーメロンの説明はあるが、公式APIと公開Web/SNSで商品写真を確認できなかった。",
+      "searchSources": [
+        "https://www.alacampagne.jp/products/tarte/",
+        "同名商品の公開Web検索",
+        "同名商品のInstagram/X検索（2026-09-12）"
+      ],
+      "visualCheck": "生成画像を目視確認。素材・カテゴリと一致し、単品・白背景・文字やロゴなし。",
+      "url": "/images/generated/SWT-0492.png",
+      "sha256": "6bfd36528c2b48c0c4f03852a690abcb0d95ff37bdb0c630a593dff181718f90"
+    },
+    "SWT-0500": {
+      "name": "緑のメロンのタルト（アディクト・オ・ムロン・ヴェール）",
+      "brand": "ア・ラ・カンパーニュ",
+      "basis": "DBに記録された素材：メロン、。形態：タルト、。色・外観の記録：。写真・原レシピとの一致は未確認。細部の形状・配合・配置は推定です。 生成上の推定：緑色のメロンだけを上面に載せた小さな円形タルト1個。黄金色の薄いタルト台、黄緑色の厚いメロンの扇状スライスを一周並べる。未知のクリーム層は強調しない。",
+      "prompt": "Use case: product-mockup. 商品開発の検討に使う参考イメージを1枚生成。実在するブランド商品の外観再現ではありません。白い無地背景、柔らかいスタジオ光、写真調、横長3:2、斜め45度から、中央に単品、余白あり。DB記録の主素材 メロン、副素材 、カテゴリ タルト、形態 。参考の造形: 緑色のメロンだけを上面に載せた小さな円形タルト1個。黄金色の薄いタルト台、黄緑色の厚いメロンの扇状スライスを一周並べる。未知のクリーム層は強調しない。 配置や層は推定。ブランド名、ロゴ、文字、値札、透かし、包装箱、皿、カトラリー、周囲の飾り果物、指定外の果物やハーブを一切入れない。",
+      "createdAt": "2026-09-12",
+      "failureReason": "公式APIおよび公開Web/SNSで同名の写真・細部の構成を確認できず、商品名とDBの緑のメロン・タルトだけを基にした。",
+      "searchSources": [
+        "https://www.alacampagne.jp/products/tarte/",
+        "同名商品の公開Web検索",
+        "同名商品のInstagram/X検索（2026-09-12）"
+      ],
+      "visualCheck": "生成画像を目視確認。素材・カテゴリと一致し、単品・白背景・文字やロゴなし。",
+      "url": "/images/generated/SWT-0500.png",
+      "sha256": "48f181544664b255e56bcde7bbd8790049ce5766af51489b80fcfde192c3657e"
+    },
+    "SWT-0506": {
+      "name": "2種のパイナップルのタルト（タルト・オ・アナナス・ドゥーブル）",
+      "brand": "ア・ラ・カンパーニュ",
+      "basis": "DBに記録された素材：パイナップル、。形態：タルト、。色・外観の記録：。写真・原レシピとの一致は未確認。細部の形状・配合・配置は推定です。 生成上の推定：2種のパイナップルを使う小さな丸いタルト1個。焼き色のタルト台に、自然な黄色のパイナップル果肉を大小のくし形に切って整然と盛る。品種の外観差は未確認なので不自然な色分けはしない。皮や葉や他の果物は載せない。",
+      "prompt": "Use case: product-mockup. 商品開発の検討に使う参考イメージを1枚生成。実在するブランド商品の外観再現ではありません。白い無地背景、柔らかいスタジオ光、写真調、横長3:2、斜め45度から、中央に単品、余白あり。DB記録の主素材 パイナップル、副素材 、カテゴリ タルト、形態 。参考の造形: 2種のパイナップルを使う小さな丸いタルト1個。焼き色のタルト台に、自然な黄色のパイナップル果肉を大小のくし形に切って整然と盛る。品種の外観差は未確認なので不自然な色分けはしない。皮や葉や他の果物は載せない。 配置や層は推定。ブランド名、ロゴ、文字、値札、透かし、包装箱、皿、カトラリー、周囲の飾り果物、指定外の果物やハーブを一切入れない。",
+      "createdAt": "2026-09-12",
+      "failureReason": "公式APIおよび公開Web/SNSで同名の写真・2品種の具体名を確認できず、DBのパイナップル・タルトだけを基にした。",
+      "searchSources": [
+        "https://www.alacampagne.jp/products/tarte/",
+        "同名商品の公開Web検索",
+        "同名商品のInstagram/X検索（2026-09-12）"
+      ],
+      "visualCheck": "生成画像を目視確認。素材・カテゴリと一致し、単品・白背景・文字やロゴなし。",
+      "url": "/images/generated/SWT-0506.png",
+      "sha256": "844ce7273b00397ece3edd257c38ae3972b8dfb7e7d90b09edca9b8eedfedaff"
+    },
+    "SWT-0068": {
+      "name": "グリーンティムース",
+      "brand": "HARBS",
+      "basis": "DBに記録された素材：抹茶、大納言小豆、生クリーム。形態：ムースケーキ、ムース。色・外観の記録：緑、和素材。写真・原レシピとの一致は未確認。細部の形状・配合・配置は推定です。",
+      "prompt": "Use case: product-mockup. 商品開発のための参考イメージを写真調で1枚生成。実在商品や特定ブランドの外観を再現した写真ではない。記録に記載された素材・カテゴリ・色に忠実にする。構図: 単品が中央、全体を見せる斜め45度の近接商品写真、正方形、純白の無地背景、自然な柔らかい光、淡い接地影、食べ物の質感は現実的。禁止: ロゴ・文字・ラベル・透かし・箱・皿・フォーク・背景小物・ミントなど記載外の植物・記載外の果物・複数商品・コラージュ・金箔・銀箔。形状、層、盛り付けは説明から推定した案。題材: グリーンティムースの三角形ケーキ1カット。鮮やかだが自然な抹茶の緑、なめらかな抹茶ムースと薄い抹茶スポンジ、底側のムースに大納言小豆、上面にはたっぷりとした白い生クリーム。果物やハーブなし。",
+      "createdAt": "2026-09-12",
+      "inspection": "目視確認済み。記録した素材・色に対応。形状・層・盛り付けは参考案。",
+      "url": "/images/generated/SWT-0068.png",
+      "sha256": "f5a91c5c4ece248096ef3560fb51fddc7b156077f6f5f9b88e2d0f56a5d04f1d"
+    },
+    "SWT-0078": {
+      "name": "夏メロンと台湾パインのデュオフルール",
+      "brand": "新宿高野",
+      "basis": "DBに記録された素材：メロン、台湾パイン。形態：ケーキ、フルーツ盛り。色・外観の記録：緑×黄。写真・原レシピとの一致は未確認。細部の形状・配合・配置は推定です。 公開投稿の説明にあるパインのジュレ・メロンムースと大きめの果肉という構成も参照。写真のキャプションに矛盾があり、実写真としては採用していない。カップ形状と配置は推定。",
+      "prompt": "Use case: product-mockup. 商品開発のための参考イメージを写真調で1枚生成。実在商品や特定ブランドの外観を再現した写真ではない。記録に記載された素材・カテゴリ・色に忠実にする。構図: 単品が中央、全体を見せる斜め45度の近接商品写真、正方形、純白の無地背景、自然な柔らかい光、淡い接地影、食べ物の質感は現実的。禁止: ロゴ・文字・ラベル・透かし・箱・皿・フォーク・背景小物・ミントなど記載外の植物・記載外の果物・複数商品・コラージュ・金箔・銀箔。形状、層、盛り付けは説明から推定した案。題材: 夏メロンと台湾パインのカップデザート1個。透明な短い丸型カップ。パインの爽やかな淡黄色ジュレの上に淡い緑のメロンムースを重ね、大きく切った緑の夏メロンと黄色い台湾パインを飾る。果物はこの2種類だけ。",
+      "createdAt": "2026-09-12",
+      "inspection": "目視確認済み。記録した素材・色に対応。形状・層・盛り付けは参考案。",
+      "url": "/images/generated/SWT-0078.png",
+      "sha256": "30c2b0a0308905994123d9a8b5bed6aa1660072dcaf56812b53993057df1489b"
+    },
+    "SWT-0110": {
+      "name": "ロング苺ショートケーキ",
+      "brand": "京橋千疋屋",
+      "basis": "DBに記録された素材：いちご、クリーム。形態：ショートケーキ、商品形態に準ずる。色・外観の記録：ロング形状。写真・原レシピとの一致は未確認。細部の形状・配合・配置は推定です。",
+      "prompt": "Use case: product-mockup. 商品開発のための参考イメージを写真調で1枚生成。実在商品や特定ブランドの外観を再現した写真ではない。記録に記載された素材・カテゴリ・色に忠実にする。構図: 単品が中央、全体を見せる斜め45度の近接商品写真、正方形、純白の無地背景、自然な柔らかい光、淡い接地影、食べ物の質感は現実的。禁止: ロゴ・文字・ラベル・透かし・箱・皿・フォーク・背景小物・ミントなど記載外の植物・記載外の果物・複数商品・コラージュ・金箔・銀箔。形状、層、盛り付けは説明から推定した案。題材: ロング苺ショートケーキを1本。細長い長方形のホールサイズ。柔らかなスポンジと白いクリーム、苺の断面が見えるサンドの層。上にも一列に赤い苺を並べる。フルーツは苺だけ。プレートや文字は無し。",
+      "createdAt": "2026-09-12",
+      "inspection": "目視確認済み。記録した素材・色に対応。形状・層・盛り付けは参考案。",
+      "url": "/images/generated/SWT-0110.png",
+      "sha256": "a25c87eddf601263067d6b06783394978f008a2a185161b93775e8f64d50acd4"
+    },
+    "SWT-0114": {
+      "name": "ミックスベリームース",
+      "brand": "京橋千疋屋",
+      "basis": "DBに記録された素材：ベリー、ムース。形態：ムース、商品形態に準ずる。色・外観の記録：赤紫。写真・原レシピとの一致は未確認。細部の形状・配合・配置は推定です。",
+      "prompt": "Use case: product-mockup. 商品開発のための参考イメージを写真調で1枚生成。実在商品や特定ブランドの外観を再現した写真ではない。記録に記載された素材・カテゴリ・色に忠実にする。構図: 単品が中央、全体を見せる斜め45度の近接商品写真、正方形、純白の無地背景、自然な柔らかい光、淡い接地影、食べ物の質感は現実的。禁止: ロゴ・文字・ラベル・透かし・箱・皿・フォーク・背景小物・ミントなど記載外の植物・記載外の果物・複数商品・コラージュ・金箔・銀箔。形状、層、盛り付けは説明から推定した案。題材: ミックスベリーのムースを単品で1個。赤紫色のなめらかな小さな円形ムースケーキ、同じベリーピューレの薄い艶のある上面。外に果物、ホイップ、チョコレート、ミント等の装飾を一切付けない。果物の種類を特定する粒や果実は描かない。",
+      "createdAt": "2026-09-12",
+      "inspection": "目視確認済み。記録した素材・色に対応。形状・層・盛り付けは参考案。",
+      "url": "/images/generated/SWT-0114.png",
+      "sha256": "40b5a16ffe4ac72221e5ce749506317f7e6d5610ae7908ce56b232b7521852f3"
+    },
+    "SWT-0154": {
+      "name": "バナナロール",
+      "brand": "京橋千疋屋",
+      "basis": "DBに記録された素材：バナナ、ロール生地。形態：ロールケーキ、商品形態に準ずる。色・外観の記録：ロール断面。写真・原レシピとの一致は未確認。細部の形状・配合・配置は推定です。 バナナの周囲の白いクリームは一般的なロールケーキの構成として推定。",
+      "prompt": "Use case: product-mockup. 商品開発のための参考イメージを写真調で1枚生成。実在商品や特定ブランドの外観を再現した写真ではない。記録に記載された素材・カテゴリ・色に忠実にする。構図: 単品が中央、全体を見せる斜め45度の近接商品写真、正方形、純白の無地背景、自然な柔らかい光、淡い接地影、食べ物の質感は現実的。禁止: ロゴ・文字・ラベル・透かし・箱・皿・フォーク・背景小物・ミントなど記載外の植物・記載外の果物・複数商品・コラージュ・金箔・銀箔。形状、層、盛り付けは説明から推定した案。題材: バナナロールケーキ、厚い1カット。淡黄色の柔らかなロールスポンジでバナナ果肉を巻く。中央にバナナの円形の断面が見える。色は淡い黄色と焼き色。チョコレート、粉糖、トッピング、果物の追加は無し。",
+      "createdAt": "2026-09-12",
+      "inspection": "目視確認済み。記録した素材・色に対応。形状・層・盛り付けは参考案。",
+      "url": "/images/generated/SWT-0154.png",
+      "sha256": "8f8c5f9afc8dd28dcb50f6764388eb405e06d8a1e1f5162c6e651ca99f9d8478"
+    },
+    "SWT-0227": {
+      "name": "京橋千疋屋 シャインマスカットのタルト",
+      "brand": "京橋千疋屋",
+      "basis": "DBに記録された素材：シャインマスカット、レアチーズ、クリーム。形態：タルト、商品形態に準ずる。色・外観の記録：緑、高級感。写真・原レシピとの一致は未確認。細部の形状・配合・配置は推定です。",
+      "prompt": "Use case: product-mockup. 商品開発のための参考イメージを写真調で1枚生成。実在商品や特定ブランドの外観を再現した写真ではない。記録に記載された素材・カテゴリ・色に忠実にする。構図: 単品が中央、全体を見せる斜め45度の近接商品写真、正方形、純白の無地背景、自然な柔らかい光、淡い接地影、食べ物の質感は現実的。禁止: ロゴ・文字・ラベル・透かし・箱・皿・フォーク・背景小物・ミントなど記載外の植物・記載外の果物・複数商品・コラージュ・金箔・銀箔。形状、層、盛り付けは説明から推定した案。題材: シャインマスカットのタルト、三角形1カット。鮮やかで自然な緑の半割りマスカットが上に並び、白いレアチーズとクリーム、焼き色のタルト台が層を作る。ぶどう以外の飾りなし。",
+      "createdAt": "2026-09-12",
+      "inspection": "目視確認済み。記録した素材・色に対応。形状・層・盛り付けは参考案。",
+      "url": "/images/generated/SWT-0227.png",
+      "sha256": "44cbe8ac4b2c022e8409a0b133778a6fae8e62de4b6b9564dc7354574eeb3bb7"
+    },
+    "SWT-0244": {
+      "name": "銀座コージーコーナー メロンと杏仁の初夏デザート",
+      "brand": "銀座コージーコーナー",
+      "basis": "DBに記録された素材：メロン、杏仁、ゼリー。形態：ケーキ/ヴェリーヌ、商品形態に準ずる。色・外観の記録：緑、涼感。写真・原レシピとの一致は未確認。細部の形状・配合・配置は推定です。",
+      "prompt": "Use case: product-mockup. 商品開発のための参考イメージを写真調で1枚生成。実在商品や特定ブランドの外観を再現した写真ではない。記録に記載された素材・カテゴリ・色に忠実にする。構図: 単品が中央、全体を見せる斜め45度の近接商品写真、正方形、純白の無地背景、自然な柔らかい光、淡い接地影、食べ物の質感は現実的。禁止: ロゴ・文字・ラベル・透かし・箱・皿・フォーク・背景小物・ミントなど記載外の植物・記載外の果物・複数商品・コラージュ・金箔・銀箔。形状、層、盛り付けは説明から推定した案。題材: メロンと杏仁の初夏デザート1個。低い透明な円筒カップ、白い杏仁と透明感のある淡い緑のゼリーの層、上に緑のメロンを角切りで控えめに盛る。素材はメロン、杏仁、ゼリーのみ。涼しげな緑と白。",
+      "createdAt": "2026-09-12",
+      "inspection": "目視確認済み。記録した素材・色に対応。形状・層・盛り付けは参考案。",
+      "url": "/images/generated/SWT-0244.png",
+      "sha256": "e355eda42baa501c69fc3757cc9012cda863deae7ff5041f4e7c691a6874ce8b"
+    },
+    "SWT-0264": {
+      "name": "新宿高野 メロンと杏仁の初夏デザート",
+      "brand": "新宿高野",
+      "basis": "DBに記録された素材：メロン、杏仁、ゼリー。形態：ケーキ/ヴェリーヌ、商品形態に準ずる。色・外観の記録：緑、涼感。写真・原レシピとの一致は未確認。細部の形状・配合・配置は推定です。",
+      "prompt": "Use case: product-mockup. 商品開発のための参考イメージを写真調で1枚生成。実在商品や特定ブランドの外観を再現した写真ではない。記録に記載された素材・カテゴリ・色に忠実にする。構図: 単品が中央、全体を見せる斜め45度の近接商品写真、正方形、純白の無地背景、自然な柔らかい光、淡い接地影、食べ物の質感は現実的。禁止: ロゴ・文字・ラベル・透かし・箱・皿・フォーク・背景小物・ミントなど記載外の植物・記載外の果物・複数商品・コラージュ・金箔・銀箔。形状、層、盛り付けは説明から推定した案。題材: メロンと杏仁の初夏デザート1個。背の低い透明な角型カップに白い杏仁、その上に淡い緑のゼリーと大きめの緑のメロンカットを重ねる。色は白と緑。メロン以外の果実も飾りも無し。",
+      "createdAt": "2026-09-12",
+      "inspection": "目視確認済み。記録した素材・色に対応。形状・層・盛り付けは参考案。",
+      "url": "/images/generated/SWT-0264.png",
+      "sha256": "02f8872973e5f0bc4ab5b9ead03bdffeb67e5856b6d2b6893cd11a8eb54c4cfc"
+    },
+    "SWT-0279": {
+      "name": "京橋千疋屋 りんごとキャラメルのパイ",
+      "brand": "京橋千疋屋",
+      "basis": "DBに記録された素材：りんご、キャラメル、パイ。形態：パイ、商品形態に準ずる。色・外観の記録：焼き色、りんご。写真・原レシピとの一致は未確認。細部の形状・配合・配置は推定です。",
+      "prompt": "Use case: product-mockup. 商品開発のための参考イメージを写真調で1枚生成。実在商品や特定ブランドの外観を再現した写真ではない。記録に記載された素材・カテゴリ・色に忠実にする。構図: 単品が中央、全体を見せる斜め45度の近接商品写真、正方形、純白の無地背景、自然な柔らかい光、淡い接地影、食べ物の質感は現実的。禁止: ロゴ・文字・ラベル・透かし・箱・皿・フォーク・背景小物・ミントなど記載外の植物・記載外の果物・複数商品・コラージュ・金箔・銀箔。形状、層、盛り付けは説明から推定した案。題材: りんごとキャラメルのパイ、長方形の単品1カット。薄く重なった香ばしい黄金色のパイ生地の上に、火を通したりんごの薄切りと琥珀色のキャラメル。焼き色を主役にする。クリームや他の果物は添えない。",
+      "createdAt": "2026-09-12",
+      "inspection": "目視確認済み。記録した素材・色に対応。形状・層・盛り付けは参考案。",
+      "url": "/images/generated/SWT-0279.png",
+      "sha256": "3ae6ce4eec785fd4207201c66c3cfd45558a1f5e62087017b6961a318d3e1821"
+    },
+    "SWT-0294": {
+      "name": "アンリ・シャルパンティエ メロンと杏仁の初夏デザート",
+      "brand": "アンリ・シャルパンティエ",
+      "basis": "DBに記録された素材：メロン、杏仁、ゼリー。形態：ケーキ/ヴェリーヌ、商品形態に準ずる。色・外観の記録：緑、涼感。写真・原レシピとの一致は未確認。細部の形状・配合・配置は推定です。",
+      "prompt": "Use case: product-mockup. 商品開発のための参考イメージを写真調で1枚生成。実在商品や特定ブランドの外観を再現した写真ではない。記録に記載された素材・カテゴリ・色に忠実にする。構図: 単品が中央、全体を見せる斜め45度の近接商品写真、正方形、純白の無地背景、自然な柔らかい光、淡い接地影、食べ物の質感は現実的。禁止: ロゴ・文字・ラベル・透かし・箱・皿・フォーク・背景小物・ミントなど記載外の植物・記載外の果物・複数商品・コラージュ・金箔・銀箔。形状、層、盛り付けは説明から推定した案。題材: メロンと杏仁の初夏デザート1個。小さな透明な丸いグラスに、白い杏仁、きらきらした透明の淡緑のゼリー、丸くくり抜いた緑のメロン数個。白と透明な緑を主役に。メロン以外の飾り無し。",
+      "createdAt": "2026-09-12",
+      "inspection": "目視確認済み。記録した素材・色に対応。形状・層・盛り付けは参考案。",
+      "url": "/images/generated/SWT-0294.png",
+      "sha256": "69b35f3e96de0e9baa9a6703b1e265b165e33da21dda6fb3c1eef13b25e948e5"
+    },
+    "SWT-0497": {
+      "name": "マンゴーのタルト（タルト・ア・ラ・マンゴー）",
+      "brand": "ア・ラ・カンパーニュ",
+      "basis": "DBに記録された素材：マンゴー、。形態：タルト、。色・外観の記録：。写真・原レシピとの一致は未確認。細部の形状・配合・配置は推定です。",
+      "prompt": "Use case: product-mockup. 商品開発のための参考イメージを写真調で1枚生成。実在商品や特定ブランドの外観を再現した写真ではない。記録に記載された素材・カテゴリ・色に忠実にする。構図: 単品が中央、全体を見せる斜め45度の近接商品写真、正方形、純白の無地背景、自然な柔らかい光、淡い接地影、食べ物の質感は現実的。禁止: ロゴ・文字・ラベル・透かし・箱・皿・フォーク・背景小物・ミントなど記載外の植物・記載外の果物・複数商品・コラージュ・金箔・銀箔。形状、層、盛り付けは説明から推定した案。題材: マンゴーのタルト1カット。サクサクとした焼き色のタルト台に、濃厚な黄色いマンゴーの果肉を角切りにしてしっかり盛る。フルーツはマンゴーだけ。推定のタルト台以外、クリームや別の素材の層を目立たせない。",
+      "createdAt": "2026-09-12",
+      "inspection": "目視確認済み。記録した素材・色に対応。形状・層・盛り付けは参考案。",
+      "url": "/images/generated/SWT-0497.png",
+      "sha256": "996ed9888029111b8b6b1dad6f2feedd33f9b7b78c5725368c4716358eeb56d2"
+    },
+    "SWT-0504": {
+      "name": "キャラメルバナナのタルト（タルト・オ・キャラメル・バナーヌ）",
+      "brand": "ア・ラ・カンパーニュ",
+      "basis": "DBに記録された素材：バナナ、。形態：タルト、。色・外観の記録：。写真・原レシピとの一致は未確認。細部の形状・配合・配置は推定です。",
+      "prompt": "Use case: product-mockup. 商品開発のための参考イメージを写真調で1枚生成。実在商品や特定ブランドの外観を再現した写真ではない。記録に記載された素材・カテゴリ・色に忠実にする。構図: 単品が中央、全体を見せる斜め45度の近接商品写真、正方形、純白の無地背景、自然な柔らかい光、淡い接地影、食べ物の質感は現実的。禁止: ロゴ・文字・ラベル・透かし・箱・皿・フォーク・背景小物・ミントなど記載外の植物・記載外の果物・複数商品・コラージュ・金箔・銀箔。形状、層、盛り付けは説明から推定した案。題材: キャラメルバナナのタルト1カット。サクサクとした黄金色のタルト台に、丸く切ったバナナを重ね、琥珀色のキャラメルを自然な量で絡める。材料はバナナ、キャラメル、タルト台を表現。チョコ、ナッツ、他の果物は無し。",
+      "createdAt": "2026-09-12",
+      "inspection": "目視確認済み。記録した素材・色に対応。形状・層・盛り付けは参考案。",
+      "url": "/images/generated/SWT-0504.png",
+      "sha256": "a9efe66f333487f5827660f889ee23bd0215fa9bcb420e7bca7554fbc42157c4"
+    },
+    "SWT-0228": {
+      "name": "資生堂パーラー 栗と洋梨の秋タルト",
+      "brand": "資生堂パーラー",
+      "basis": "DBの記録：タルト、主素材栗、副素材洋梨・クリーム、栗色。実在・実物外観は未確認。丸型の形状・クリーム層・果物の配置は推定です。",
+      "prompt": "Use case: product-mockup. Create one square culinary concept illustration for a Japanese seasonal dessert database. It is explicitly a generated recipe concept, NOT a photograph of an actual branded product. Subject: a chestnut and pear autumn tart, based ONLY on recorded ingredients chestnuts, pear, cream, and tart pastry; autumn chestnut-brown colors. Show a single full round tart with a golden-brown pastry shell, cream filling, neatly placed pear slices and chestnuts. Slightly elevated three-quarter view, neutral off-white plate and background, soft light, appetizing realistic food textures. Whole tart in frame. Do not add berries, mint, chocolate, labels, brand logos, packaging or other ingredients. Exact real-product structure is unknown, so this is an honest ingredient-based concept. No text in the image; the website will visibly label it generated and not a real product photo.",
+      "createdAt": "2026-09-12",
+      "reviewed": true,
+      "url": "/images/generated/SWT-0228.png",
+      "sha256": "8c6d07dd4445481f50c6608be6cfbdd50c27aa584e5b434d97ff790c63762a5d"
+    },
+    "SWT-0280": {
+      "name": "資生堂パーラー ピスタチオショコラケーキ",
+      "brand": "資生堂パーラー",
+      "basis": "DBの記録：ケーキ、主素材ピスタチオ、副素材チョコ、緑と茶の色。実在・実物外観は未確認。丸型の形状・層・盛り付けは推定です。",
+      "prompt": "Use case: product-mockup. Create one square culinary concept illustration for a Japanese seasonal dessert database. It is explicitly a generated recipe concept, NOT a photograph of an actual branded product. Subject: pistachio chocolate cake, based ONLY on recorded ingredients pistachio and chocolate, with green and brown visual colors. Show a single elegant small round layered cake with pistachio-green cream and dark chocolate-brown cake layers visible on the side, a simple chocolate top with a few pistachio pieces. Slightly elevated three-quarter view, neutral off-white plate/background, soft light, realistic food textures. Entire cake in frame. No berries, mint, gold leaf, macarons, brand logos, packaging, writing or extra ingredients. Structure and shape are an honest recipe concept because the original product's exterior is unknown. No text in image; the website will label generated and not a real product photo.",
+      "createdAt": "2026-09-12",
+      "reviewed": true,
+      "url": "/images/generated/SWT-0280.png",
+      "sha256": "5a803d62226b21fe0ec968257e9fe6dd2349e3b996b5540b8cc58a6f9efa5409"
+    }
+  }
+}

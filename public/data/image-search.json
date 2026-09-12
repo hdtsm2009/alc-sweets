@@ -1,0 +1,5236 @@
+{
+  "version": 1,
+  "checkedAt": "2026-09-12",
+  "items": {
+    "SWT-0001": {
+      "name": "柑橘とマンゴーの甘酸っぱいレアチーズタルト",
+      "brand": "キル フェ ボン",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000056.000117972.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0002": {
+      "name": "5種の柑橘のタルト",
+      "brand": "キル フェ ボン",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000056.000117972.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0003": {
+      "name": "ハチミツとレモンのタルト",
+      "brand": "キル フェ ボン",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000056.000117972.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0004": {
+      "name": "オレンジのタルト",
+      "brand": "キル フェ ボン",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000056.000117972.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0005": {
+      "name": "ライムのタルト～ココナッツ風味～",
+      "brand": "キル フェ ボン",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000056.000117972.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0006": {
+      "name": "レモンのバトン",
+      "brand": "キル フェ ボン",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000056.000117972.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0007": {
+      "name": "色とりどりのフルーツタルト～ホワイトチョコ風味～",
+      "brand": "キル フェ ボン",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000039.000117972.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0008": {
+      "name": "シャインマスカットとフリルクリームのタルト～ホワイトチョコ風味～",
+      "brand": "キル フェ ボン",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000039.000117972.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0009": {
+      "name": "クリスマスモンブラン",
+      "brand": "キル フェ ボン",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000039.000117972.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0010": {
+      "name": "赤いフルーツのタルト～リース仕立て～",
+      "brand": "キル フェ ボン",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000039.000117972.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0011": {
+      "name": "金平糖型 チョコレートとオレンジのタルト",
+      "brand": "キル フェ ボン",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000037.000117972.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0012": {
+      "name": "特選 白イチゴ“初恋の香り”のタルト",
+      "brand": "キル フェ ボン",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000037.000117972.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0030": {
+      "name": "ハロウィン アソート(S)",
+      "brand": "アンテノール",
+      "reason": "",
+      "sources": [
+        "https://www.edelweiss.co.jp/news/17323/"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0031": {
+      "name": "おばけのレアチーズケーキ",
+      "brand": "アンテノール",
+      "reason": "",
+      "sources": [
+        "https://www.edelweiss.co.jp/news/17323/"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0032": {
+      "name": "ビジュー・ド・フレーズ",
+      "brand": "アンテノール",
+      "reason": "",
+      "sources": [
+        "https://www.edelweiss.co.jp/news/17351/"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0034": {
+      "name": "フィナンシェ・アソート〈ブーケ〉",
+      "brand": "アンリ・シャルパンティエ",
+      "reason": "",
+      "sources": [
+        "https://www.henri-charpentier.com/news/2026/04/14/23835/"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0059": {
+      "name": "ハロウィンスイートとかぼちゃのキャラメルモンブランタルト",
+      "brand": "ラ・メゾン アンソレイユターブル",
+      "reason": "",
+      "sources": [
+        "https://www.la-maison.jp/news/003227.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0060": {
+      "name": "ハロウィンスイートとかぼちゃのキャラメルクッキークリームタルト",
+      "brand": "ラ・メゾン アンソレイユターブル",
+      "reason": "",
+      "sources": [
+        "https://www.la-maison.jp/news/003227.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0061": {
+      "name": "プライムタルト・あまおう",
+      "brand": "ラ・メゾン アンソレイユターブル",
+      "reason": "",
+      "sources": [
+        "https://www.la-maison.jp/news/003218.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0097": {
+      "name": "ひなまつりデコレーション",
+      "brand": "アンテノール",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000001234.000017643.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0138": {
+      "name": "ひなまつりプティフール",
+      "brand": "アンテノール",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000001234.000017643.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0360": {
+      "name": "桃のタルト",
+      "brand": "アンテノール",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000881.000017643.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0361": {
+      "name": "まるごと桃ケーキ",
+      "brand": "アンテノール",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000881.000017643.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0364": {
+      "name": "白桃と紅茶のタルト",
+      "brand": "ラ・メゾン アンソレイユターブル",
+      "reason": "",
+      "sources": [
+        "https://www.la-maison.jp/news/003112.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0365": {
+      "name": "岡山白桃とシャインマスカットのベイクドチーズタルト",
+      "brand": "ラ・メゾン アンソレイユターブル",
+      "reason": "",
+      "sources": [
+        "https://www.la-maison.jp/news/003112.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0370": {
+      "name": "母の日限定ケーキ カーネーション",
+      "brand": "アンテノール",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000001114.000017643.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0373": {
+      "name": "特選 宮崎県産マンゴーのタルト",
+      "brand": "キル フェ ボン",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000024.000117972.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0391": {
+      "name": "ナガノパープルとシャインマスカットのデザート",
+      "brand": "アンテノール",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000995.000017643.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0392": {
+      "name": "シャインマスカットと巨峰のデコレーション",
+      "brand": "アンテノール",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000995.000017643.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0394": {
+      "name": "焼き栗モンブラン 4個入",
+      "brand": "アンリ・シャルパンティエ",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000164.000028015.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0403": {
+      "name": "迎春プティフール・フレ（小型ケーキ8種セット）",
+      "brand": "アンテノール",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000001065.000017643.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0407": {
+      "name": "ハロウィンアソート(M)",
+      "brand": "アンテノール",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000001015.000017643.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0409": {
+      "name": "焼き栗モンブラン（フィナンシェ）",
+      "brand": "アンリ・シャルパンティエ",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000164.000028015.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0421": {
+      "name": "イチゴとフリルクリームのタルト ～ホワイトチョコ風味～",
+      "brand": "キル フェ ボン",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000032.000117972.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0423": {
+      "name": "ハロウィンアソート(S)",
+      "brand": "アンテノール",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000001015.000017643.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0523": {
+      "name": "フルーツタルトケーキ（タルト・オ・フリュイ・スュルジュレ）",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "",
+      "sources": [
+        "https://hattrick-shop.jp/products/astc0005"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0180": {
+      "name": "ガトーショコラ・オコア",
+      "brand": "ラ・メゾン アンソレイユターブル",
+      "reason": "",
+      "sources": [
+        "https://www.la-maison.jp/tart/"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0062": {
+      "name": "とちあいかノエルタルト",
+      "brand": "ラ・メゾン アンソレイユターブル",
+      "reason": "",
+      "sources": [
+        "https://www.la-maison.jp/news/001757.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0352": {
+      "name": "しあわせサブレ・サレ",
+      "brand": "アンリ・シャルパンティエ",
+      "reason": "",
+      "sources": [
+        "https://www.henri-charpentier.com/news/2025/07/10/22181/"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0353": {
+      "name": "桃のタルト",
+      "brand": "キル フェ ボン",
+      "reason": "",
+      "sources": [
+        "https://www.quil-fait-bon.com/menu/detail.php?tsp=1&tmn=77"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0354": {
+      "name": "静岡県産 桃薫（とうくん）のタルト",
+      "brand": "キル フェ ボン",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000034.000117972.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0369": {
+      "name": "ウィークエンド・シトロンのタルト",
+      "brand": "キル フェ ボン",
+      "reason": "",
+      "sources": [
+        "https://digitalpr.jp/r/110277"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0372": {
+      "name": "イチゴとベリーのティラミス（母の日限定タルト）",
+      "brand": "キル フェ ボン",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000058.000117972.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0435": {
+      "name": "プティ・ザッハ（1人サイズザッハトルテ／木箱ラッピング）",
+      "brand": "アンテノール",
+      "reason": "",
+      "sources": [
+        "https://www.fashion-press.net/news/128320"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0509": {
+      "name": "タルト・リュクス",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "",
+      "sources": [
+        "https://www.alacampagne.jp/weborder/"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0519": {
+      "name": "フーレ・プランタン",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "",
+      "sources": [
+        "https://hattrick-shop.jp/pages/lp_wd"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0520": {
+      "name": "イチゴのクッキー（クッキー・オ・フレーズ）",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "",
+      "sources": [
+        "https://hattrick-shop.jp/pages/lp_wd"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0521": {
+      "name": "春のギフトセット（コフレ・ド・プランタン）",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "",
+      "sources": [
+        "https://hattrick-shop.jp/pages/lp_wd"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0088": {
+      "name": "PEANUTS フィナンシェ 3個入",
+      "brand": "アンリ・シャルパンティエ",
+      "reason": "",
+      "sources": [
+        "https://kisspress.jp/articles/59108/"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0085": {
+      "name": "フィナンシェ・オ・ショコラ詰合 8個入",
+      "brand": "アンリ・シャルパンティエ",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000145.000028015.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0379": {
+      "name": "フィナンシェ・オ・ショコラ詰合（バレンタイン限定）",
+      "brand": "アンリ・シャルパンティエ",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000145.000028015.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0427": {
+      "name": "静岡県産クラウンメロンのスペシャルタルト（ティアラ型）",
+      "brand": "キル フェ ボン",
+      "reason": "",
+      "sources": [
+        "https://entabe.jp/58313/quil-fait-bon-may-2025-early-summer-limited-fruit-tart"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0437": {
+      "name": "桃となめらかミルクプリンのタルト",
+      "brand": "キル フェ ボン",
+      "reason": "",
+      "sources": [
+        "https://www.fashion-press.net/news/135109"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0510": {
+      "name": "サブレ・アソルティ",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "",
+      "sources": [
+        "https://www.alacampagne.jp/products/bakedcake/"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0511": {
+      "name": "マドレーヌ・アソルティ",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "",
+      "sources": [
+        "https://www.alacampagne.jp/products/bakedcake/"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0512": {
+      "name": "フィナンシェ・アソルティ",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "",
+      "sources": [
+        "https://www.alacampagne.jp/products/bakedcake/"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0513": {
+      "name": "コフレ・アソルティ",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "",
+      "sources": [
+        "https://www.alacampagne.jp/products/bakedcake/"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0498": {
+      "name": "チョコミントのタルト（タルト・オ・ショコラ・エ・マント）",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "2022年7月販売時のタルト・オ・ショコラ・エ・マントのSNS投稿写真2。投稿者がミントを追加した写真1ではない。2026年版との一致は未確認。",
+      "sources": [
+        "https://hamoni.jp/post/rt307aEWUCwijJC27Y0y"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "social"
+    },
+    "SWT-0029": {
+      "name": "苺のショコラタルト",
+      "brand": "アンテノール",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000279.000017643.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0084": {
+      "name": "フィナンシェ・オ・ショコラ詰合 4個入",
+      "brand": "アンリ・シャルパンティエ",
+      "reason": "公式記事の個別写真は8個入り。4個入りと8個入りを併記した集合写真を4個入り単独写真としては採用できない。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.fashion-press.net/news/129318"
+      ]
+    },
+    "SWT-0167": {
+      "name": "シチリア産アーモンド焼き立てフィナンシェ",
+      "brand": "アンリ・シャルパンティエ",
+      "reason": "既存参照ページでは商品固有写真を特定できず。公式・検索/SNSでも今回の調査範囲では対応を確認できない。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://tokyochips.tokyo/2025/03/41798/"
+      ]
+    },
+    "SWT-0178": {
+      "name": "季節のフルーツタルト",
+      "brand": "ラ・メゾン アンソレイユターブル",
+      "reason": "季節のフルーツタルトという総称で、現在の彩りフルーツタルト等との同一性を確認できない。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.la-maison.jp/tart/"
+      ]
+    },
+    "SWT-0179": {
+      "name": "北海道産3種のチーズタルト",
+      "brand": "ラ・メゾン アンソレイユターブル",
+      "reason": "現行の北海道ベイクドチーズタルトと、DBの北海道産3種のチーズタルトの同一性を確認できない。 記録された素材・形態をもとに参考イメージを生成しました。配合・細部・盛り付けは推定で、実物写真ではありません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.la-maison.jp/tart/"
+      ]
+    },
+    "SWT-0221": {
+      "name": "ラ・メゾン アンソレイユターブル 春の桜と苺のタルト",
+      "brand": "ラ・メゾン アンソレイユターブル",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.la-maison.jp/news/"
+      ]
+    },
+    "SWT-0229": {
+      "name": "アンリ・シャルパンティエ りんごとキャラメルのパイ",
+      "brand": "アンリ・シャルパンティエ",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.suzette-shop.jp/"
+      ]
+    },
+    "SWT-0230": {
+      "name": "アンテノール ピスタチオショコラケーキ",
+      "brand": "アンテノール",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.antenor.jp/products/cake/season.html"
+      ]
+    },
+    "SWT-0234": {
+      "name": "ラ・メゾン アンソレイユターブル メロンと杏仁の初夏デザート",
+      "brand": "ラ・メゾン アンソレイユターブル",
+      "reason": "DBの商品名と公式の現行商品名が一致する個別ページを特定できない。参照先はトップ/一覧で、ブランド代表画像や別商品写真は使用しない。 記録された素材・形態をもとに参考イメージを生成しました。配合・細部・盛り付けは推定で、実物写真ではありません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.la-maison.jp/news/"
+      ]
+    },
+    "SWT-0242": {
+      "name": "アンリ・シャルパンティエ 抹茶と苺の春ケーキ",
+      "brand": "アンリ・シャルパンティエ",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.suzette-shop.jp/"
+      ]
+    },
+    "SWT-0243": {
+      "name": "アンテノール 初夏レモンチーズタルト",
+      "brand": "アンテノール",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.antenor.jp/products/cake/season.html"
+      ]
+    },
+    "SWT-0247": {
+      "name": "ラ・メゾン アンソレイユターブル シャインマスカットのタルト",
+      "brand": "ラ・メゾン アンソレイユターブル",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.la-maison.jp/news/"
+      ]
+    },
+    "SWT-0255": {
+      "name": "アンリ・シャルパンティエ 桃とバニラクリームのタルト",
+      "brand": "アンリ・シャルパンティエ",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.suzette-shop.jp/"
+      ]
+    },
+    "SWT-0256": {
+      "name": "アンテノール マンゴーとココナッツの夏ケーキ",
+      "brand": "アンテノール",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.antenor.jp/products/cake/season.html"
+      ]
+    },
+    "SWT-0260": {
+      "name": "ラ・メゾン アンソレイユターブル ピスタチオショコラケーキ",
+      "brand": "ラ・メゾン アンソレイユターブル",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.la-maison.jp/news/"
+      ]
+    },
+    "SWT-0268": {
+      "name": "アンリ・シャルパンティエ 栗と洋梨の秋タルト",
+      "brand": "アンリ・シャルパンティエ",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.suzette-shop.jp/"
+      ]
+    },
+    "SWT-0269": {
+      "name": "アンテノール りんごとキャラメルのパイ",
+      "brand": "アンテノール",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.antenor.jp/products/cake/season.html"
+      ]
+    },
+    "SWT-0273": {
+      "name": "ラ・メゾン アンソレイユターブル 初夏レモンチーズタルト",
+      "brand": "ラ・メゾン アンソレイユターブル",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.la-maison.jp/news/"
+      ]
+    },
+    "SWT-0281": {
+      "name": "アンリ・シャルパンティエ 春の桜と苺のタルト",
+      "brand": "アンリ・シャルパンティエ",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.suzette-shop.jp/"
+      ]
+    },
+    "SWT-0282": {
+      "name": "アンテノール 抹茶と苺の春ケーキ",
+      "brand": "アンテノール",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.antenor.jp/products/cake/season.html"
+      ]
+    },
+    "SWT-0286": {
+      "name": "ラ・メゾン アンソレイユターブル マンゴーとココナッツの夏ケーキ",
+      "brand": "ラ・メゾン アンソレイユターブル",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.la-maison.jp/news/"
+      ]
+    },
+    "SWT-0294": {
+      "name": "アンリ・シャルパンティエ メロンと杏仁の初夏デザート",
+      "brand": "アンリ・シャルパンティエ",
+      "reason": "DBの商品名と公式の現行商品名が一致する個別ページを特定できない。参照先はトップ/一覧で、ブランド代表画像や別商品写真は使用しない。 記録された素材・形態をもとに参考イメージを生成しました。配合・細部・盛り付けは推定で、実物写真ではありません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.suzette-shop.jp/"
+      ]
+    },
+    "SWT-0295": {
+      "name": "アンテノール 桃とバニラクリームのタルト",
+      "brand": "アンテノール",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.antenor.jp/products/cake/season.html"
+      ]
+    },
+    "SWT-0299": {
+      "name": "ラ・メゾン アンソレイユターブル りんごとキャラメルのパイ",
+      "brand": "ラ・メゾン アンソレイユターブル",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.la-maison.jp/news/"
+      ]
+    },
+    "SWT-0301": {
+      "name": "アンリ・シャルパンティエ 春の苺フィナンシェギフト",
+      "brand": "アンリ・シャルパンティエ",
+      "reason": "DBの商品名と公式の現行商品名が一致する個別ページを特定できない。参照先はトップ/一覧で、ブランド代表画像や別商品写真は使用しない。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.suzette-shop.jp/"
+      ]
+    },
+    "SWT-0307": {
+      "name": "アンリ・シャルパンティエ クリスマスクッキー缶",
+      "brand": "アンリ・シャルパンティエ",
+      "reason": "DBの商品名と公式の現行商品名が一致する個別ページを特定できない。参照先はトップ/一覧で、ブランド代表画像や別商品写真は使用しない。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.suzette-shop.jp/"
+      ]
+    },
+    "SWT-0313": {
+      "name": "アンリ・シャルパンティエ 桃とマンゴーの冷菓ギフト",
+      "brand": "アンリ・シャルパンティエ",
+      "reason": "DBの商品名と公式の現行商品名が一致する個別ページを特定できない。参照先はトップ/一覧で、ブランド代表画像や別商品写真は使用しない。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.suzette-shop.jp/"
+      ]
+    },
+    "SWT-0319": {
+      "name": "アンリ・シャルパンティエ 初夏レモンマドレーヌBOX",
+      "brand": "アンリ・シャルパンティエ",
+      "reason": "DBの商品名と公式の現行商品名が一致する個別ページを特定できない。参照先はトップ/一覧で、ブランド代表画像や別商品写真は使用しない。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.suzette-shop.jp/"
+      ]
+    },
+    "SWT-0335": {
+      "name": "バレンタインボンボンショコラ",
+      "brand": "プレスキルショコラトリー",
+      "reason": "参照ページに接続できず（ConnectionError）。商品名に対応する別の公開写真を確定できなかった。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://presquile-chocolaterie.com/"
+      ]
+    },
+    "SWT-0375": {
+      "name": "ザ・ショートケーキ ＜華やぐ桃のコンポート＞ ＜母の日プレート付＞12cm",
+      "brand": "アンリ・シャルパンティエ",
+      "reason": "",
+      "sources": [
+        "https://store.shopping.yahoo.co.jp/henri-charpentier/hsmh-34g.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0388": {
+      "name": "島根県産多伎いちじく 出雲\"縁結び\"のタルト",
+      "brand": "キル フェ ボン",
+      "reason": "",
+      "sources": [
+        "https://ameblo.jp/jmpnh061/entry-12701040272.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "social"
+    },
+    "SWT-0399": {
+      "name": "佐賀県産\"いちごさん\"のタルト",
+      "brand": "キル フェ ボン",
+      "reason": "参照の2025イチゴ記事にいちごさんの商品が見当たらない。2025ダブルチーズ/2026フレジエ等別商品が検索されるため代用しない。 記録された素材・形態をもとに参考イメージを生成しました。配合・細部・盛り付けは推定で、実物写真ではありません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000034.000117972.html"
+      ]
+    },
+    "SWT-0402": {
+      "name": "迎春ガトーBOX（焼き菓子詰め合わせ）",
+      "brand": "アンテノール",
+      "reason": "迎春ガトーBOXは椿/S/Lが併記されており、DBで容量・版が曖昧。商品単独の写真を確定できない。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000001065.000017643.html"
+      ]
+    },
+    "SWT-0417": {
+      "name": "アンテノール クリスマスケーキ予約2025（全8種）",
+      "brand": "アンテノール",
+      "reason": "全8種というシリーズ集約行で、1商品の写真との対応は定義できない。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000001169.000017643.html"
+      ]
+    },
+    "SWT-0428": {
+      "name": "茨城県産2種のメロン（イバラキング×クインシー）のタルト",
+      "brand": "キル フェ ボン",
+      "reason": "参照記事はメロンウィークの4種で、イバラキング×クインシーの商品名がない。異なるメロンタルトを代用しない。 記録された素材・形態をもとに参考イメージを生成しました。配合・細部・盛り付けは推定で、実物写真ではありません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://digitalpr.jp/r/106535"
+      ]
+    },
+    "SWT-0486": {
+      "name": "タルト・メリメロ・プランタニエ",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "公式の現行一覧から当該旧商品が消え、旧月次記事はトップへリダイレクト。公式カタログ、公開検索/SNSの範囲で商品固有の利用可能な画像URLを確定できず。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.alacampagne.jp/products/tarte/"
+      ]
+    },
+    "SWT-0488": {
+      "name": "イチゴのフォレノワール（フォレ・ノワール・オ・フレーズ）",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "公式の現行一覧から当該旧商品が消え、旧月次記事はトップへリダイレクト。公式カタログ、公開検索/SNSの範囲で商品固有の利用可能な画像URLを確定できず。 記録された素材・形態をもとに参考イメージを生成しました。配合・細部・盛り付けは推定で、実物写真ではありません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.alacampagne.jp/products/tarte/"
+      ]
+    },
+    "SWT-0489": {
+      "name": "イチゴとキャラメルのタルト（タルト・オ・フレーズ・エ・キャラメル）",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "公式の現行一覧から当該旧商品が消え、旧月次記事はトップへリダイレクト。公式カタログ、公開検索/SNSの範囲で商品固有の利用可能な画像URLを確定できず。 記録された素材・形態をもとに参考イメージを生成しました。配合・細部・盛り付けは推定で、実物写真ではありません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.alacampagne.jp/products/tarte/"
+      ]
+    },
+    "SWT-0490": {
+      "name": "トンプソン・シードレスのタルト（タルト・オ・トンプソン）",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "",
+      "sources": [
+        "https://www.alacampagne.jp/wp-json/wp/v2/media/7064"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0491": {
+      "name": "抹茶のタルト（タルト・オ・テ・ヴェール）",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "公式の現行一覧から当該旧商品が消え、旧月次記事はトップへリダイレクト。公式カタログ、公開検索/SNSの範囲で商品固有の利用可能な画像URLを確定できず。 記録された素材・形態をもとに参考イメージを生成しました。配合・細部・盛り付けは推定で、実物写真ではありません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.alacampagne.jp/products/tarte/"
+      ]
+    },
+    "SWT-0492": {
+      "name": "2種のメロンのタルト（タルト・オ・ムロン・ブロデ）",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "公式の現行一覧から当該旧商品が消え、旧月次記事はトップへリダイレクト。公式カタログ、公開検索/SNSの範囲で商品固有の利用可能な画像URLを確定できず。 記録された素材・形態をもとに参考イメージを生成しました。配合・細部・盛り付けは推定で、実物写真ではありません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.alacampagne.jp/products/tarte/"
+      ]
+    },
+    "SWT-0494": {
+      "name": "タルト・ア・ラ・ミルリトン",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "",
+      "sources": [
+        "https://tabelog.com/kanagawa/A1405/A140505/14090383/dtlrvwlst/B512721372/"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "social"
+    },
+    "SWT-0495": {
+      "name": "カスタードプリン（クレーム・キャラメル）",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "公式の現行一覧から当該旧商品が消え、旧月次記事はトップへリダイレクト。公式カタログ、公開検索/SNSの範囲で商品固有の利用可能な画像URLを確定できず。 記録された素材・形態をもとに参考イメージを生成しました。配合・細部・盛り付けは推定で、実物写真ではありません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.alacampagne.jp/products/tarte/"
+      ]
+    },
+    "SWT-0496": {
+      "name": "イチゴのタルトレット（タルトレット・オ・フレーズ）",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "",
+      "sources": [
+        "https://www.alacampagne.jp/wp-json/wp/v2/media/7139"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0497": {
+      "name": "マンゴーのタルト（タルト・ア・ラ・マンゴー）",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "公式の現行一覧から当該旧商品が消え、旧月次記事はトップへリダイレクト。公式カタログ、公開検索/SNSの範囲で商品固有の利用可能な画像URLを確定できず。 記録された素材・形態をもとに参考イメージを生成しました。配合・細部・盛り付けは推定で、実物写真ではありません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.alacampagne.jp/products/tarte/"
+      ]
+    },
+    "SWT-0499": {
+      "name": "マーブル模様のタルト（タルト・マルブレ）",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000789.000082978.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0500": {
+      "name": "緑のメロンのタルト（アディクト・オ・ムロン・ヴェール）",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "公式の現行一覧から当該旧商品が消え、旧月次記事はトップへリダイレクト。公式カタログ、公開検索/SNSの範囲で商品固有の利用可能な画像URLを確定できず。 記録された素材・形態をもとに参考イメージを生成しました。配合・細部・盛り付けは推定で、実物写真ではありません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.alacampagne.jp/products/tarte/"
+      ]
+    },
+    "SWT-0501": {
+      "name": "キャラメルと丸ごとイチゴのタルト（タルト・オ・フレーズ・ヴィフ）",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000001065.000014431.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0502": {
+      "name": "2色のメロンのタルト（アディクト・オ・ムロン）",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "公式の現行一覧から当該旧商品が消え、旧月次記事はトップへリダイレクト。公式カタログ、公開検索/SNSの範囲で商品固有の利用可能な画像URLを確定できず。 記録された素材・形態をもとに参考イメージを生成しました。配合・細部・盛り付けは推定で、実物写真ではありません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.alacampagne.jp/products/tarte/"
+      ]
+    },
+    "SWT-0503": {
+      "name": "イチゴのクレープタルト（ミルクレープ・オ・フレーズ）",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "2019年のユーザー投稿写真。2026年版との全仕様一致は未確認。",
+      "sources": [
+        "https://mognavi.jp/product/34369"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "social"
+    },
+    "SWT-0504": {
+      "name": "キャラメルバナナのタルト（タルト・オ・キャラメル・バナーヌ）",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "公式の現行一覧から当該旧商品が消え、旧月次記事はトップへリダイレクト。公式カタログ、公開検索/SNSの範囲で商品固有の利用可能な画像URLを確定できず。 記録された素材・形態をもとに参考イメージを生成しました。配合・細部・盛り付けは推定で、実物写真ではありません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.alacampagne.jp/products/tarte/"
+      ]
+    },
+    "SWT-0505": {
+      "name": "バナナのタルト（タルト・オ・バナーヌ）",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "",
+      "sources": [
+        "https://www.alacampagne.jp/wp-json/wp/v2/media/13643"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0506": {
+      "name": "2種のパイナップルのタルト（タルト・オ・アナナス・ドゥーブル）",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "公式の現行一覧から当該旧商品が消え、旧月次記事はトップへリダイレクト。公式カタログ、公開検索/SNSの範囲で商品固有の利用可能な画像URLを確定できず。 記録された素材・形態をもとに参考イメージを生成しました。配合・細部・盛り付けは推定で、実物写真ではありません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.alacampagne.jp/products/tarte/"
+      ]
+    },
+    "SWT-0518": {
+      "name": "フランボワーズのクグロフ",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "公式の旧商品ページがHTTP 404。公開カタログ/検索で当該写真を特定できなかった。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://hattrick-shop.jp/products/amdg0001"
+      ]
+    },
+    "SWT-0397": {
+      "name": "ピュアフルーツジェリー 7個入（シャインマスカット入り）",
+      "brand": "千疋屋総本店",
+      "reason": "",
+      "sources": [
+        "https://www.sembikiya.co.jp/product-info/grocery"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0101": {
+      "name": "フルーツデコレーションケーキ4号",
+      "brand": "千疋屋総本店",
+      "reason": "",
+      "sources": [
+        "https://sembikiya.take-eats.jp/"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0102": {
+      "name": "フルーツタルト4号",
+      "brand": "千疋屋総本店",
+      "reason": "",
+      "sources": [
+        "https://sembikiya.take-eats.jp/"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0103": {
+      "name": "スペシャルオレンジジェリー",
+      "brand": "千疋屋総本店",
+      "reason": "",
+      "sources": [
+        "https://sembikiya.take-eats.jp/"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0107": {
+      "name": "クリームチーズケーキ4個入",
+      "brand": "千疋屋総本店",
+      "reason": "",
+      "sources": [
+        "https://sembikiya.take-eats.jp/"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0106": {
+      "name": "フルーツケーキ10個 化粧箱入",
+      "brand": "千疋屋総本店",
+      "reason": "",
+      "sources": [
+        "https://www.sembikiya.co.jp/product-info/grocery"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0041": {
+      "name": "ハピネス～シャインマスカット＆いちじく～",
+      "brand": "新宿高野",
+      "reason": "",
+      "sources": [
+        "https://takano.jp/takano/product/recommend/cake/"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0074": {
+      "name": "オレンジフロマージュ",
+      "brand": "新宿高野",
+      "reason": "",
+      "sources": [
+        "https://takano.jp/takano/product/recommend/cake/"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0026": {
+      "name": "ブルーベリーチーズタルト",
+      "brand": "HARBS",
+      "reason": "",
+      "sources": [
+        "https://www.harbs.co.jp/wp-json/wp/v2/media/729?_fields=id,source_url,title,post"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0027": {
+      "name": "夏いちごのケーキ",
+      "brand": "HARBS",
+      "reason": "",
+      "sources": [
+        "https://www.harbs.co.jp/wp-json/wp/v2/media/1295?_fields=id,source_url,title,post"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0028": {
+      "name": "メロンケーキ",
+      "brand": "HARBS",
+      "reason": "",
+      "sources": [
+        "https://www.harbs.co.jp/wp-json/wp/v2/media/672?_fields=id,source_url,title,post"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0063": {
+      "name": "モカケーキ",
+      "brand": "HARBS",
+      "reason": "",
+      "sources": [
+        "https://www.harbs.co.jp/wp-json/wp/v2/media/1256?_fields=id,source_url,title,post"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0064": {
+      "name": "チェリーのチーズスフレ",
+      "brand": "HARBS",
+      "reason": "",
+      "sources": [
+        "https://www.harbs.co.jp/wp-json/wp/v2/media/658?_fields=id,source_url,title,post"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0065": {
+      "name": "アップルマンゴーのケーキ",
+      "brand": "HARBS",
+      "reason": "",
+      "sources": [
+        "https://www.harbs.co.jp/wp-json/wp/v2/media/1301?_fields=id,source_url,title,post"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0066": {
+      "name": "ストロベリーチーズケーキ",
+      "brand": "HARBS",
+      "reason": "",
+      "sources": [
+        "https://www.harbs.co.jp/wp-json/wp/v2/media/518?_fields=id,source_url,title,post"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0067": {
+      "name": "さくらケーキ",
+      "brand": "HARBS",
+      "reason": "",
+      "sources": [
+        "https://www.harbs.co.jp/wp-json/wp/v2/media/532?_fields=id,source_url,title,post"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0069": {
+      "name": "カスタードマロンケーキ",
+      "brand": "HARBS",
+      "reason": "同名商品の2023年の公開実食写真です。現在の公式サイトの別商品写真とは区別し、対象年との仕様一致は未確認です。",
+      "sources": [
+        "https://ameblo.jp/tabichan15/entry-12825145992.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "social"
+    },
+    "SWT-0410": {
+      "name": "カスタードマロンケーキ",
+      "brand": "HARBS",
+      "reason": "",
+      "sources": [
+        "https://ameblo.jp/tabichan15/entry-12825145992.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "social"
+    },
+    "SWT-0073": {
+      "name": "レモンショートケーキ",
+      "brand": "新宿高野",
+      "reason": "",
+      "sources": [
+        "https://takano.jp/takano/wp-json/wp/v2/media/408210?_fields=id%2Ctitle%2Csource_url%2Cpost%2Cdate"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0075": {
+      "name": "レモンゼリー",
+      "brand": "新宿高野",
+      "reason": "",
+      "sources": [
+        "https://takano.jp/takano/wp-json/wp/v2/media/408211?_fields=id%2Ctitle%2Csource_url%2Cpost%2Cdate"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0082": {
+      "name": "ハピネス～シャインマスカット＆みかん～",
+      "brand": "新宿高野",
+      "reason": "",
+      "sources": [
+        "https://takano.jp/takano/wp-json/wp/v2/media/307477?_fields=id%2Ctitle%2Csource_url%2Cpost%2Cdate"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0401": {
+      "name": "クイーンストロベリーのショートケーキ",
+      "brand": "千疋屋総本店",
+      "reason": "",
+      "sources": [
+        "https://www.sembikiya.co.jp/wp-json/wp/v2/media/12048?_fields=id%2Ctitle%2Csource_url%2Cpost%2Cdate"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0036": {
+      "name": "黒ねこデザインのチョコプリン",
+      "brand": "銀座コージーコーナー",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000001360.000004367.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0089": {
+      "name": "ひなパーティー（8個入）",
+      "brand": "銀座コージーコーナー",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000001392.000004367.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0090": {
+      "name": "ひなおうぎ（苺）",
+      "brand": "銀座コージーコーナー",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000001392.000004367.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0091": {
+      "name": "母の日ベリーセレクション（8個入）",
+      "brand": "銀座コージーコーナー",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000001424.000004367.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0092": {
+      "name": "母の日コージープリンセス",
+      "brand": "銀座コージーコーナー",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000001424.000004367.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0093": {
+      "name": "＜ディズニー＞ヴィランズコレクション（8個入）",
+      "brand": "銀座コージーコーナー",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000001355.000004367.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0094": {
+      "name": "＜マレフィセント＞青りんごムースケーキ",
+      "brand": "銀座コージーコーナー",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000001355.000004367.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0170": {
+      "name": "ひなシフォン",
+      "brand": "銀座コージーコーナー",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000001392.000004367.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0368": {
+      "name": "シャインマスカットと白桃のタルト",
+      "brand": "銀座コージーコーナー",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000001339.000004367.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0383": {
+      "name": "銀座のレンガ 生チョコサンド（ピスタチオ＆ショコラ）4個入",
+      "brand": "銀座コージーコーナー",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000001259.000004367.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0042": {
+      "name": "西瓜杏仁",
+      "brand": "新宿高野",
+      "reason": "現行公式カタログと公開画像API照合で指定商品・果物バリエーションの個別写真を確認できず。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://takano.jp/takano/product/recommend/cake/"
+      ]
+    },
+    "SWT-0044": {
+      "name": "くりぬきゼリー オレンジ",
+      "brand": "京橋千疋屋",
+      "reason": "",
+      "sources": [
+        "https://kyobashisenbikiya.take-eats.jp/"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0045": {
+      "name": "柑橘ロール",
+      "brand": "京橋千疋屋",
+      "reason": "登録済み旧掲載ページから個別画像を確認できず。現行公式東京一番街カタログには複数商品の集合画像と番号一覧があり、個別商品写真としての使用を除外。公開画像APIの該当商品語検索も該当なし。 記録された素材・形態をもとに参考イメージを生成しました。配合・細部・盛り付けは推定で、実物写真ではありません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.senbikiya.co.jp/2026/04/01/2406tocake"
+      ]
+    },
+    "SWT-0046": {
+      "name": "クリスマス ストロベリースクエア",
+      "brand": "千疋屋総本店",
+      "reason": "",
+      "sources": [
+        "https://www.mistore.jp/store/urawa/event_calendar/urawa_christmas_part2.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0068": {
+      "name": "グリーンティムース",
+      "brand": "HARBS",
+      "reason": "現行カタログに当該商品名の個別写真がなく、公式公開画像APIで商品名と対応する個別写真を確認できず。 記録された素材・形態をもとに参考イメージを生成しました。配合・細部・盛り付けは推定で、実物写真ではありません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.harbs.co.jp/menu_cake_flag/"
+      ]
+    },
+    "SWT-0071": {
+      "name": "petitハピネス～やよいひめ＆メロン～",
+      "brand": "新宿高野",
+      "reason": "現行公式カタログと公開画像API照合で指定商品・果物バリエーションの個別写真を確認できず。 記録された素材・形態をもとに参考イメージを生成しました。配合・細部・盛り付けは推定で、実物写真ではありません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://takano.jp/takano/product/recommend/cake/"
+      ]
+    },
+    "SWT-0072": {
+      "name": "美果樹～いちご＆台湾パイン～",
+      "brand": "新宿高野",
+      "reason": "",
+      "sources": [
+        "https://tabelog.com/kanagawa/A1401/A140101/14004004/dtlrvwlst/B444815369/?type=0"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "social"
+    },
+    "SWT-0076": {
+      "name": "いちごロワイヤル",
+      "brand": "新宿高野",
+      "reason": "現行公式カタログと公開画像API照合で指定商品・果物バリエーションの個別写真を確認できず。 記録された素材・形態をもとに参考イメージを生成しました。配合・細部・盛り付けは推定で、実物写真ではありません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://takano.jp/takano/product/recommend/cake/"
+      ]
+    },
+    "SWT-0077": {
+      "name": "ハピネス～やよいひめ＆メロン～",
+      "brand": "新宿高野",
+      "reason": "現行公式カタログと公開画像API照合で指定商品・果物バリエーションの個別写真を確認できず。 記録された素材・形態をもとに参考イメージを生成しました。配合・細部・盛り付けは推定で、実物写真ではありません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://takano.jp/takano/product/recommend/cake/"
+      ]
+    },
+    "SWT-0078": {
+      "name": "夏メロンと台湾パインのデュオフルール",
+      "brand": "新宿高野",
+      "reason": "現行公式カタログと公開画像API照合で指定商品・果物バリエーションの個別写真を確認できず。 記録された素材・形態をもとに参考イメージを生成しました。配合・細部・盛り付けは推定で、実物写真ではありません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://takano.jp/takano/product/recommend/cake/"
+      ]
+    },
+    "SWT-0079": {
+      "name": "Gateauxママン",
+      "brand": "新宿高野",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000043.000099363.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0080": {
+      "name": "フレーズママン",
+      "brand": "新宿高野",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000043.000099363.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0081": {
+      "name": "母の日パフェ",
+      "brand": "新宿高野",
+      "reason": "現行公式カタログと公開画像API照合で指定商品・果物バリエーションの個別写真を確認できず。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000167.000076727.html"
+      ]
+    },
+    "SWT-0083": {
+      "name": "リュクス～マスクメロン＆シャインマスカット～",
+      "brand": "新宿高野",
+      "reason": "現行公式カタログと公開画像API照合で指定商品・果物バリエーションの個別写真を確認できず。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://takano.jp/takano/product/detail/508894/"
+      ]
+    },
+    "SWT-0096": {
+      "name": "母の日 瀬戸内レモダン・エコバッグセット",
+      "brand": "銀座コージーコーナー",
+      "reason": "現行公式カタログでは個別画像の対応を確認できず。記録された商品名・年・仕様に一致する写真が未特定です。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://lotte-shop.jp/shop/e/eCmorther/"
+      ]
+    },
+    "SWT-0108": {
+      "name": "くりぬきゼリー グレープフルーツ",
+      "brand": "京橋千疋屋",
+      "reason": "",
+      "sources": [
+        "https://kyobashisenbikiya.take-eats.jp/"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0109": {
+      "name": "ホールフルーツババロア",
+      "brand": "京橋千疋屋",
+      "reason": "登録済み旧掲載ページから個別画像を確認できず。現行公式東京一番街カタログには複数商品の集合画像と番号一覧があり、個別商品写真としての使用を除外。公開画像APIの該当商品語検索も該当なし。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.senbikiya.co.jp/2026/04/01/2406tocake"
+      ]
+    },
+    "SWT-0110": {
+      "name": "ロング苺ショートケーキ",
+      "brand": "京橋千疋屋",
+      "reason": "登録済み旧掲載ページから個別画像を確認できず。現行公式東京一番街カタログには複数商品の集合画像と番号一覧があり、個別商品写真としての使用を除外。公開画像APIの該当商品語検索も該当なし。 記録された素材・形態をもとに参考イメージを生成しました。配合・細部・盛り付けは推定で、実物写真ではありません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.senbikiya.co.jp/2026/04/01/2406tocake"
+      ]
+    },
+    "SWT-0111": {
+      "name": "フルーツプリン",
+      "brand": "京橋千疋屋",
+      "reason": "登録済み旧掲載ページから個別画像を確認できず。現行公式東京一番街カタログには複数商品の集合画像と番号一覧があり、個別商品写真としての使用を除外。公開画像APIの該当商品語検索も該当なし。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.senbikiya.co.jp/2026/04/01/2406tocake"
+      ]
+    },
+    "SWT-0112": {
+      "name": "紅玉りんごのパイ",
+      "brand": "京橋千疋屋",
+      "reason": "",
+      "sources": [
+        "https://www.senbikiya.co.jp/c/shohin-list/sweets/5105"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0113": {
+      "name": "和栗のモンブラン",
+      "brand": "京橋千疋屋",
+      "reason": "",
+      "sources": [
+        "https://kyobashisenbikiya.take-eats.jp/"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0114": {
+      "name": "ミックスベリームース",
+      "brand": "京橋千疋屋",
+      "reason": "登録済み旧掲載ページから個別画像を確認できず。現行公式東京一番街カタログには複数商品の集合画像と番号一覧があり、個別商品写真としての使用を除外。公開画像APIの該当商品語検索も該当なし。 記録された素材・形態をもとに参考イメージを生成しました。配合・細部・盛り付けは推定で、実物写真ではありません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.senbikiya.co.jp/2026/04/01/2406tocake"
+      ]
+    },
+    "SWT-0154": {
+      "name": "バナナロール",
+      "brand": "京橋千疋屋",
+      "reason": "登録済み旧掲載ページから個別画像を確認できず。現行公式東京一番街カタログには複数商品の集合画像と番号一覧があり、個別商品写真としての使用を除外。公開画像APIの該当商品語検索も該当なし。 記録された素材・形態をもとに参考イメージを生成しました。配合・細部・盛り付けは推定で、実物写真ではありません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.senbikiya.co.jp/2026/04/01/2406tocake"
+      ]
+    },
+    "SWT-0155": {
+      "name": "ホール苺ムース",
+      "brand": "京橋千疋屋",
+      "reason": "登録済み旧掲載ページから個別画像を確認できず。現行公式東京一番街カタログには複数商品の集合画像と番号一覧があり、個別商品写真としての使用を除外。公開画像APIの該当商品語検索も該当なし。 記録された素材・形態をもとに参考イメージを生成しました。配合・細部・盛り付けは推定で、実物写真ではありません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.senbikiya.co.jp/2026/04/01/2406tocake"
+      ]
+    },
+    "SWT-0156": {
+      "name": "苺ゼリー",
+      "brand": "京橋千疋屋",
+      "reason": "",
+      "sources": [
+        "https://blog.shinqs.jp/shop/detail/?cd=017576&scd=000014"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0157": {
+      "name": "バナナショート",
+      "brand": "京橋千疋屋",
+      "reason": "",
+      "sources": [
+        "https://kyobashisenbikiya.take-eats.jp/"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0168": {
+      "name": "おだいりさま",
+      "brand": "銀座コージーコーナー",
+      "reason": "現行公式カタログでは個別画像の対応を確認できず。記録された商品名・年・仕様に一致する写真が未特定です。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.cozycorner.co.jp/product/hina/"
+      ]
+    },
+    "SWT-0169": {
+      "name": "おひなさま",
+      "brand": "銀座コージーコーナー",
+      "reason": "現行公式カタログでは個別画像の対応を確認できず。記録された商品名・年・仕様に一致する写真が未特定です。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.cozycorner.co.jp/product/hina/"
+      ]
+    },
+    "SWT-0171": {
+      "name": "母の日 マドレーヌ＆クッキー・エコバッグセット",
+      "brand": "銀座コージーコーナー",
+      "reason": "現行公式カタログでは個別画像の対応を確認できず。記録された商品名・年・仕様に一致する写真が未特定です。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://lotte-shop.jp/shop/e/eCmorther/"
+      ]
+    },
+    "SWT-0174": {
+      "name": "母の日 フローズンアントルメ",
+      "brand": "新宿高野",
+      "reason": "通常版写真を撤回。母の日商品の公式販売索引はアイスクリーム・4種シャーベットと記載され、DBのカッサータと構成が不一致。元DBの材料での生成は行わず、内容訂正まで保留。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://takano.jp/takano/mothersday_fathersday/"
+      ]
+    },
+    "SWT-0175": {
+      "name": "宮崎マンゴー「太陽のタマゴ」＆旬果C",
+      "brand": "新宿高野",
+      "reason": "現行公式カタログと公開画像API照合で指定商品・果物バリエーションの個別写真を確認できず。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.rakuten.co.jp/takano-eshop/contents/hahanohi2026/"
+      ]
+    },
+    "SWT-0224": {
+      "name": "HARBS メロンと杏仁の初夏デザート",
+      "brand": "HARBS",
+      "reason": "現行カタログに当該商品名の個別写真がなく、公式公開画像APIで商品名と対応する個別写真を確認できず。 記録された素材・形態をもとに参考イメージを生成しました。配合・細部・盛り付けは推定で、実物写真ではありません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.harbs.co.jp/menu_cake/"
+      ]
+    },
+    "SWT-0225": {
+      "name": "新宿高野 桃とバニラクリームのタルト",
+      "brand": "新宿高野",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://takano.jp/takano/product/recommend/cake/"
+      ]
+    },
+    "SWT-0226": {
+      "name": "千疋屋総本店 マンゴーとココナッツの夏ケーキ",
+      "brand": "千疋屋総本店",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.sembikiya.co.jp/product-info/sweets"
+      ]
+    },
+    "SWT-0227": {
+      "name": "京橋千疋屋 シャインマスカットのタルト",
+      "brand": "京橋千疋屋",
+      "reason": "登録済み旧掲載ページから個別画像を確認できず。現行公式東京一番街カタログには複数商品の集合画像と番号一覧があり、個別商品写真としての使用を除外。公開画像APIの該当商品語検索も該当なし。 記録された素材・形態をもとに参考イメージを生成しました。配合・細部・盛り付けは推定で、実物写真ではありません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.senbikiya.co.jp/2026/04/01/2406tocake"
+      ]
+    },
+    "SWT-0231": {
+      "name": "銀座コージーコーナー 春の桜と苺のタルト",
+      "brand": "銀座コージーコーナー",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.cozycorner.co.jp/product/"
+      ]
+    },
+    "SWT-0237": {
+      "name": "HARBS シャインマスカットのタルト",
+      "brand": "HARBS",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.harbs.co.jp/menu_cake/"
+      ]
+    },
+    "SWT-0238": {
+      "name": "新宿高野 栗と洋梨の秋タルト",
+      "brand": "新宿高野",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://takano.jp/takano/product/recommend/cake/"
+      ]
+    },
+    "SWT-0239": {
+      "name": "千疋屋総本店 りんごとキャラメルのパイ",
+      "brand": "千疋屋総本店",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.sembikiya.co.jp/product-info/sweets"
+      ]
+    },
+    "SWT-0240": {
+      "name": "京橋千疋屋 ピスタチオショコラケーキ",
+      "brand": "京橋千疋屋",
+      "reason": "登録済み旧掲載ページから個別画像を確認できず。現行公式東京一番街カタログには複数商品の集合画像と番号一覧があり、個別商品写真としての使用を除外。公開画像APIの該当商品語検索も該当なし。 記録された素材・形態をもとに参考イメージを生成しました。配合・細部・盛り付けは推定で、実物写真ではありません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.senbikiya.co.jp/2026/04/01/2406tocake"
+      ]
+    },
+    "SWT-0244": {
+      "name": "銀座コージーコーナー メロンと杏仁の初夏デザート",
+      "brand": "銀座コージーコーナー",
+      "reason": "現行公式カタログでは個別画像の対応を確認できず。記録された商品名・年・仕様に一致する写真が未特定です。 記録された素材・形態をもとに参考イメージを生成しました。配合・細部・盛り付けは推定で、実物写真ではありません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.cozycorner.co.jp/product/"
+      ]
+    },
+    "SWT-0250": {
+      "name": "HARBS ピスタチオショコラケーキ",
+      "brand": "HARBS",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.harbs.co.jp/menu_cake/"
+      ]
+    },
+    "SWT-0251": {
+      "name": "新宿高野 春の桜と苺のタルト",
+      "brand": "新宿高野",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://takano.jp/takano/product/recommend/cake/"
+      ]
+    },
+    "SWT-0252": {
+      "name": "千疋屋総本店 抹茶と苺の春ケーキ",
+      "brand": "千疋屋総本店",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.sembikiya.co.jp/product-info/sweets"
+      ]
+    },
+    "SWT-0253": {
+      "name": "京橋千疋屋 初夏レモンチーズタルト",
+      "brand": "京橋千疋屋",
+      "reason": "登録済み旧掲載ページから個別画像を確認できず。現行公式東京一番街カタログには複数商品の集合画像と番号一覧があり、個別商品写真としての使用を除外。公開画像APIの該当商品語検索も該当なし。 記録された素材・形態をもとに参考イメージを生成しました。配合・細部・盛り付けは推定で、実物写真ではありません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.senbikiya.co.jp/2026/04/01/2406tocake"
+      ]
+    },
+    "SWT-0257": {
+      "name": "銀座コージーコーナー シャインマスカットのタルト",
+      "brand": "銀座コージーコーナー",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.cozycorner.co.jp/product/"
+      ]
+    },
+    "SWT-0263": {
+      "name": "HARBS 初夏レモンチーズタルト",
+      "brand": "HARBS",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.harbs.co.jp/menu_cake/"
+      ]
+    },
+    "SWT-0264": {
+      "name": "新宿高野 メロンと杏仁の初夏デザート",
+      "brand": "新宿高野",
+      "reason": "現行公式カタログと公開画像API照合で指定商品・果物バリエーションの個別写真を確認できず。 記録された素材・形態をもとに参考イメージを生成しました。配合・細部・盛り付けは推定で、実物写真ではありません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://takano.jp/takano/product/recommend/cake/"
+      ]
+    },
+    "SWT-0265": {
+      "name": "千疋屋総本店 桃とバニラクリームのタルト",
+      "brand": "千疋屋総本店",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.sembikiya.co.jp/product-info/sweets"
+      ]
+    },
+    "SWT-0266": {
+      "name": "京橋千疋屋 マンゴーとココナッツの夏ケーキ",
+      "brand": "京橋千疋屋",
+      "reason": "登録済み旧掲載ページから個別画像を確認できず。現行公式東京一番街カタログには複数商品の集合画像と番号一覧があり、個別商品写真としての使用を除外。公開画像APIの該当商品語検索も該当なし。 記録された素材・形態をもとに参考イメージを生成しました。配合・細部・盛り付けは推定で、実物写真ではありません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.senbikiya.co.jp/2026/04/01/2406tocake"
+      ]
+    },
+    "SWT-0270": {
+      "name": "銀座コージーコーナー ピスタチオショコラケーキ",
+      "brand": "銀座コージーコーナー",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.cozycorner.co.jp/product/"
+      ]
+    },
+    "SWT-0276": {
+      "name": "HARBS マンゴーとココナッツの夏ケーキ",
+      "brand": "HARBS",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.harbs.co.jp/menu_cake/"
+      ]
+    },
+    "SWT-0277": {
+      "name": "新宿高野 シャインマスカットのタルト",
+      "brand": "新宿高野",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://takano.jp/takano/product/recommend/cake/"
+      ]
+    },
+    "SWT-0278": {
+      "name": "千疋屋総本店 栗と洋梨の秋タルト",
+      "brand": "千疋屋総本店",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.sembikiya.co.jp/product-info/sweets"
+      ]
+    },
+    "SWT-0279": {
+      "name": "京橋千疋屋 りんごとキャラメルのパイ",
+      "brand": "京橋千疋屋",
+      "reason": "登録済み旧掲載ページから個別画像を確認できず。現行公式東京一番街カタログには複数商品の集合画像と番号一覧があり、個別商品写真としての使用を除外。公開画像APIの該当商品語検索も該当なし。 記録された素材・形態をもとに参考イメージを生成しました。配合・細部・盛り付けは推定で、実物写真ではありません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.senbikiya.co.jp/2026/04/01/2406tocake"
+      ]
+    },
+    "SWT-0283": {
+      "name": "銀座コージーコーナー 初夏レモンチーズタルト",
+      "brand": "銀座コージーコーナー",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.cozycorner.co.jp/product/"
+      ]
+    },
+    "SWT-0289": {
+      "name": "HARBS りんごとキャラメルのパイ",
+      "brand": "HARBS",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.harbs.co.jp/menu_cake/"
+      ]
+    },
+    "SWT-0290": {
+      "name": "新宿高野 ピスタチオショコラケーキ",
+      "brand": "新宿高野",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://takano.jp/takano/product/recommend/cake/"
+      ]
+    },
+    "SWT-0291": {
+      "name": "千疋屋総本店 春の桜と苺のタルト",
+      "brand": "千疋屋総本店",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.sembikiya.co.jp/product-info/sweets"
+      ]
+    },
+    "SWT-0292": {
+      "name": "京橋千疋屋 抹茶と苺の春ケーキ",
+      "brand": "京橋千疋屋",
+      "reason": "登録済み旧掲載ページから個別画像を確認できず。現行公式東京一番街カタログには複数商品の集合画像と番号一覧があり、個別商品写真としての使用を除外。公開画像APIの該当商品語検索も該当なし。 記録された素材・形態をもとに参考イメージを生成しました。配合・細部・盛り付けは推定で、実物写真ではありません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.senbikiya.co.jp/2026/04/01/2406tocake"
+      ]
+    },
+    "SWT-0296": {
+      "name": "銀座コージーコーナー マンゴーとココナッツの夏ケーキ",
+      "brand": "銀座コージーコーナー",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.cozycorner.co.jp/product/"
+      ]
+    },
+    "SWT-0303": {
+      "name": "銀座コージーコーナー 初夏レモンマドレーヌBOX",
+      "brand": "銀座コージーコーナー",
+      "reason": "現行公式カタログでは個別画像の対応を確認できず。記録された商品名・年・仕様に一致する写真が未特定です。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://lotte-shop.jp/"
+      ]
+    },
+    "SWT-0304": {
+      "name": "千疋屋総本店 夏ゼリーギフト",
+      "brand": "千疋屋総本店",
+      "reason": "公式カタログ、公式予約ページ、該当商品の公開画像API照合で個別商品・指定バリエーションの写真を確認できず。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.sembikiya.co.jp/product-info/grocery"
+      ]
+    },
+    "SWT-0305": {
+      "name": "京橋千疋屋 桃とマンゴーの冷菓ギフト",
+      "brand": "京橋千疋屋",
+      "reason": "登録済み旧掲載ページから個別画像を確認できず。現行公式東京一番街カタログには複数商品の集合画像と番号一覧があり、個別商品写真としての使用を除外。公開画像APIの該当商品語検索も該当なし。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.senbikiya.co.jp/"
+      ]
+    },
+    "SWT-0306": {
+      "name": "新宿高野 栗とショコラの焼菓子BOX",
+      "brand": "新宿高野",
+      "reason": "現行公式カタログと公開画像API照合で指定商品・果物バリエーションの個別写真を確認できず。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://takano-online.jp/"
+      ]
+    },
+    "SWT-0309": {
+      "name": "銀座コージーコーナー 春の苺フィナンシェギフト",
+      "brand": "銀座コージーコーナー",
+      "reason": "現行公式カタログでは個別画像の対応を確認できず。記録された商品名・年・仕様に一致する写真が未特定です。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://lotte-shop.jp/"
+      ]
+    },
+    "SWT-0310": {
+      "name": "千疋屋総本店 抹茶サブレアソート",
+      "brand": "千疋屋総本店",
+      "reason": "公式カタログ、公式予約ページ、該当商品の公開画像API照合で個別商品・指定バリエーションの写真を確認できず。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.sembikiya.co.jp/product-info/grocery"
+      ]
+    },
+    "SWT-0311": {
+      "name": "京橋千疋屋 初夏レモンマドレーヌBOX",
+      "brand": "京橋千疋屋",
+      "reason": "登録済み旧掲載ページから個別画像を確認できず。現行公式東京一番街カタログには複数商品の集合画像と番号一覧があり、個別商品写真としての使用を除外。公開画像APIの該当商品語検索も該当なし。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.senbikiya.co.jp/"
+      ]
+    },
+    "SWT-0312": {
+      "name": "新宿高野 夏ゼリーギフト",
+      "brand": "新宿高野",
+      "reason": "現行公式カタログと公開画像API照合で指定商品・果物バリエーションの個別写真を確認できず。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://takano-online.jp/"
+      ]
+    },
+    "SWT-0315": {
+      "name": "銀座コージーコーナー クリスマスクッキー缶",
+      "brand": "銀座コージーコーナー",
+      "reason": "現行公式カタログでは個別画像の対応を確認できず。記録された商品名・年・仕様に一致する写真が未特定です。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://lotte-shop.jp/"
+      ]
+    },
+    "SWT-0316": {
+      "name": "千疋屋総本店 バレンタインショコラアソート",
+      "brand": "千疋屋総本店",
+      "reason": "公式カタログ、公式予約ページ、該当商品の公開画像API照合で個別商品・指定バリエーションの写真を確認できず。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.sembikiya.co.jp/product-info/grocery"
+      ]
+    },
+    "SWT-0317": {
+      "name": "京橋千疋屋 春の苺フィナンシェギフト",
+      "brand": "京橋千疋屋",
+      "reason": "登録済み旧掲載ページから個別画像を確認できず。現行公式東京一番街カタログには複数商品の集合画像と番号一覧があり、個別商品写真としての使用を除外。公開画像APIの該当商品語検索も該当なし。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.senbikiya.co.jp/"
+      ]
+    },
+    "SWT-0318": {
+      "name": "新宿高野 抹茶サブレアソート",
+      "brand": "新宿高野",
+      "reason": "現行公式カタログと公開画像API照合で指定商品・果物バリエーションの個別写真を確認できず。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://takano-online.jp/"
+      ]
+    },
+    "SWT-0321": {
+      "name": "銀座コージーコーナー 桃とマンゴーの冷菓ギフト",
+      "brand": "銀座コージーコーナー",
+      "reason": "現行公式カタログでは個別画像の対応を確認できず。記録された商品名・年・仕様に一致する写真が未特定です。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://lotte-shop.jp/"
+      ]
+    },
+    "SWT-0322": {
+      "name": "千疋屋総本店 栗とショコラの焼菓子BOX",
+      "brand": "千疋屋総本店",
+      "reason": "公式カタログ、公式予約ページ、該当商品の公開画像API照合で個別商品・指定バリエーションの写真を確認できず。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.sembikiya.co.jp/product-info/grocery"
+      ]
+    },
+    "SWT-0323": {
+      "name": "京橋千疋屋 クリスマスクッキー缶",
+      "brand": "京橋千疋屋",
+      "reason": "登録済み旧掲載ページから個別画像を確認できず。現行公式東京一番街カタログには複数商品の集合画像と番号一覧があり、個別商品写真としての使用を除外。公開画像APIの該当商品語検索も該当なし。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.senbikiya.co.jp/"
+      ]
+    },
+    "SWT-0324": {
+      "name": "新宿高野 バレンタインショコラアソート",
+      "brand": "新宿高野",
+      "reason": "現行公式カタログと公開画像API照合で指定商品・果物バリエーションの個別写真を確認できず。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://takano-online.jp/"
+      ]
+    },
+    "SWT-0357": {
+      "name": "プレミアムジェリー 白桃",
+      "brand": "千疋屋総本店",
+      "reason": "公式カタログ、公式予約ページ、該当商品の公開画像API照合で個別商品・指定バリエーションの写真を確認できず。 記録された素材・形態をもとに参考イメージを生成しました。配合・細部・盛り付けは推定で、実物写真ではありません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://online-store.sembikiya.co.jp/shopbrand/ct179/"
+      ]
+    },
+    "SWT-0358": {
+      "name": "銀座ゼリー（6個入 メロン・ピーチ・日向夏・ストロベリー）",
+      "brand": "銀座千疋屋",
+      "reason": "当該6個入・指定フレーバー構成と画像の一致は未確認。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://ginza-sembikiya.jp/c/premium/jelly_premium"
+      ]
+    },
+    "SWT-0359": {
+      "name": "果実ピュアゼリー 8入S（マスクメロン／白桃／白鳳／アップルマンゴー／イエローマンゴー／西瓜）",
+      "brand": "新宿高野",
+      "reason": "現行公式カタログと公開画像API照合で指定商品・果物バリエーションの個別写真を確認できず。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://takano.jp/takano/product/detail/77231/"
+      ]
+    },
+    "SWT-0377": {
+      "name": "プレミアムマンゴー アフタヌーンティー",
+      "brand": "千疋屋総本店",
+      "reason": "公式カタログ、公式予約ページ、該当商品の公開画像API照合で個別商品・指定バリエーションの写真を確認できず。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.sembikiya.co.jp/106497"
+      ]
+    },
+    "SWT-0382": {
+      "name": "コスモリリック（焼菓子アソート筒型BOX）",
+      "brand": "銀座コージーコーナー",
+      "reason": "現行公式カタログでは個別画像の対応を確認できず。記録された商品名・年・仕様に一致する写真が未特定です。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000001258.000004367.html"
+      ]
+    },
+    "SWT-0420": {
+      "name": "JOYJOYハロウィンパーティー（8個入）",
+      "brand": "銀座コージーコーナー",
+      "reason": "現行公式カタログでは個別画像の対応を確認できず。記録された商品名・年・仕様に一致する写真が未特定です。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000001219.000004367.html"
+      ]
+    },
+    "SWT-0053": {
+      "name": "御用邸ショコラチーズケーキ",
+      "brand": "チーズガーデン",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000177.000040854.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0054": {
+      "name": "御用邸抹茶チーズケーキ",
+      "brand": "チーズガーデン",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000195.000040854.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0055": {
+      "name": "御用邸和栗チーズケーキ",
+      "brand": "チーズガーデン",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000223.000040854.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0337": {
+      "name": "スーパーメロンショートケーキ",
+      "brand": "ホテルニューオータニ",
+      "reason": "",
+      "sources": [
+        "https://www.newotani.co.jp/tokyo/restaurant/p-satsuki/super-series/melon/"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0338": {
+      "name": "スーパーピーチショートケーキ",
+      "brand": "ホテルニューオータニ",
+      "reason": "",
+      "sources": [
+        "https://www.newotani.co.jp/tokyo/press-release/2025/0807-01/"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0339": {
+      "name": "スーパーモンブラン",
+      "brand": "ホテルニューオータニ",
+      "reason": "",
+      "sources": [
+        "https://www.newotani.co.jp/tokyo/press-release/2025/0825-01/"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0342": {
+      "name": "マロンシャンティイ",
+      "brand": "パレスホテル東京",
+      "reason": "",
+      "sources": [
+        "https://store.palacehoteltokyo.com/topics/665"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0349": {
+      "name": "ボンボンキャラメルブーケ",
+      "brand": "NOAKE TOKYO",
+      "reason": "",
+      "sources": [
+        "https://noake.jp/?pid=137122721"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0176": {
+      "name": "御用邸パンプキンチーズケーキ",
+      "brand": "チーズガーデン",
+      "reason": "完全一致の商品名で公式・公開Web・SNS検索を実施したが、確認できたのは御用邸パンプキンチーズクッキーと紅芋チーズケーキ。クッキーをケーキ画像として採用不可。実在確認レベルCで元の商品名にも疑義がある。 記録された素材・形態をもとに参考イメージを生成しました。配合・細部・盛り付けは推定で、実物写真ではありません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://cheesegarden.jp/"
+      ]
+    },
+    "SWT-0177": {
+      "name": "御用邸りんごチーズケーキ",
+      "brand": "チーズガーデン",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000158.000040854.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0340": {
+      "name": "マンゴープリン",
+      "brand": "ザ・ペニンシュラ東京",
+      "reason": "公式個別ページとマンゴープリンという代替テキスト付き画像をWeb閲覧で特定。ただし画像本体のHTTP取得は403のため取得成功としては未登録。公式ショップの別商品は常温ギフト用と区別が必要。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.peninsula.com/ja/tokyo/mango-pudding"
+      ]
+    },
+    "SWT-0013": {
+      "name": "山梨県笛吹市産 桃「ふじやまの彩」のケーキ",
+      "brand": "カフェコムサ",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000001127.000014225.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0014": {
+      "name": "山梨県笛吹市産「黄金桃」のケーキ",
+      "brand": "カフェコムサ",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000001133.000014225.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0016": {
+      "name": "山梨県笛吹市産シャインマスカット「ふじやまの彩」のケーキ",
+      "brand": "カフェコムサ",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000001139.000014225.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0019": {
+      "name": "あまおういちごのタルト",
+      "brand": "フルーツピークス",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000168.000054019.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0040": {
+      "name": "母の日 苺のタルトデコレーション",
+      "brand": "シャトレーゼ",
+      "reason": "",
+      "sources": [
+        "https://digitalpr.jp/r/134161"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0124": {
+      "name": "高知県産仁淀ブルーのメロンケーキ",
+      "brand": "カフェコムサ",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000001120.000014225.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0125": {
+      "name": "茨城県産レノンメロンのケーキ",
+      "brand": "カフェコムサ",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000001120.000014225.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0130": {
+      "name": "桃タルト",
+      "brand": "フルーツピークス",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000137.000054019.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0367": {
+      "name": "桃ムースとフロマージュブラン",
+      "brand": "フルーツピークス",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000137.000054019.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0376": {
+      "name": "いちじくとチーズクリーム（母の日限定タルト）",
+      "brand": "フルーツピークス",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000132.000054019.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0395": {
+      "name": "敬老の日 2つの味が楽しめる 栗とお芋のデコレーション 12cm",
+      "brand": "シャトレーゼ",
+      "reason": "",
+      "sources": [
+        "https://www.ssnp.co.jp/snack/584657/"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0405": {
+      "name": "いちごづくしのケーキ（クリームチーズベース）",
+      "brand": "カフェコムサ",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000001075.000014225.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0439": {
+      "name": "詰合せ01 ハウス型BOX(2025春)",
+      "brand": "鎌倉紅谷",
+      "reason": "",
+      "sources": [
+        "https://beniya-ajisai.co.jp/products/limited/product/tsume01_house_haru2025/"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0464": {
+      "name": "フクサヤキューブ with フジヨシブラザーズ",
+      "brand": "福砂屋",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000010.000109950.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0472": {
+      "name": "ロシアケーキ（5種詰合せ）",
+      "brand": "村上開新堂（京都）",
+      "reason": "",
+      "sources": [
+        "https://www.murakami-kaishindo.jp/products/russiacake.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0416": {
+      "name": "ホリデーシーズン アソート 5種46個入",
+      "brand": "ヨックモック",
+      "reason": "商品名は5種46個入ですが、元DBのトムテ柄という記述は、出典のホリデーシリーズと混在している可能性があります。容量だけで画像を決定できません。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000325.000012005.html"
+      ]
+    },
+    "SWT-0422": {
+      "name": "ホリデーシーズン アソート 5種26個入",
+      "brand": "ヨックモック",
+      "reason": "商品名は5種26個入ですが、トムテ柄の記述と、出典の別ホリデーシリーズのどちらを意図するか不明です。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000325.000012005.html"
+      ]
+    },
+    "SWT-0468": {
+      "name": "ムーミン×メリーチョコレート（バレンタイン限定）",
+      "brand": "メリーチョコレート",
+      "reason": "掲載元に複数のムーミン商品があり、DBではシリーズ全体を指しています。特定の缶やポーチ1個の写真には置き換えていません。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000027.000166726.html"
+      ]
+    },
+    "SWT-0050": {
+      "name": "ハロウィン真っ赤なりんごのケーキ",
+      "brand": "不二家",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000225.000097396.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0419": {
+      "name": "シュトーレン",
+      "brand": "資生堂パーラー",
+      "reason": "",
+      "sources": [
+        "https://parlour.shiseido.co.jp/xmasLP/"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0442": {
+      "name": "シュトレン(2024クリスマス)",
+      "brand": "ガトーフェスタ ハラダ",
+      "reason": "",
+      "sources": [
+        "https://shop.gateaufesta-harada.com/shop/c/cstollen_sgn/"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0462": {
+      "name": "バウムクーヘンキュートジャパン（宇治抹茶）",
+      "brand": "ユーハイム",
+      "reason": "",
+      "sources": [
+        "https://www.juchheim.co.jp/brand/juchheim"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0482": {
+      "name": "国産苺×ティラミスパフェ",
+      "brand": "キハチ",
+      "reason": "",
+      "sources": [
+        "https://www.kihachi.jp/news/restaurant-cafe/restaurant-cafe_1324.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0056": {
+      "name": "和栗の本格チョコレートモンブラン",
+      "brand": "Minimal",
+      "reason": "",
+      "sources": [
+        "https://mini-mal.tokyo/blogs/journal/10698"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0345": {
+      "name": "イスパハン",
+      "brand": "ピエール・エルメ・パリ",
+      "reason": "",
+      "sources": [
+        "https://www.pierreherme.co.jp/product/patisseries-individuel-gt-ispahan.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0384": {
+      "name": "コーヒー香るキャラメルショコラデコレーション",
+      "brand": "シャトレーゼ",
+      "reason": "",
+      "sources": [
+        "https://digitalpr.jp/r/102898"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0408": {
+      "name": "\"丹波栗\"のモンブランパフェ",
+      "brand": "資生堂パーラー",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000796.000006543.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0451": {
+      "name": "ノエル ミロワール サヤ",
+      "brand": "Sadaharu AOKI",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000076.000029116.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0469": {
+      "name": "京ippon お濃茶テリーヌ",
+      "brand": "マールブランシュ",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000036.000021404.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0480": {
+      "name": "苺のホワイトモンブラン",
+      "brand": "アンジェリーナ",
+      "reason": "",
+      "sources": [
+        "https://afunui.com/posts/cafe-angelina"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0374": {
+      "name": "母の日限定ケーキ ～マンゴーローズといちごの花束のケーキ～",
+      "brand": "カフェコムサ",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000001189.000014225.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0433": {
+      "name": "母の日 苺のロールケーキ",
+      "brand": "不二家",
+      "reason": "",
+      "sources": [
+        "https://ameblo.jp/teru-tokyo/entry-12965392695.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "social"
+    },
+    "SWT-0456": {
+      "name": "CACAO HUNTERSコラボレーションプリン",
+      "brand": "モロゾフ",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000582.000020853.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0474": {
+      "name": "ミルキーマスカルポーネチーズタルト",
+      "brand": "BAKE CHEESE TART",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000193.000014043.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0481": {
+      "name": "スペシャル モンブランパフェ（日比谷シャンテ限定）",
+      "brand": "キハチ",
+      "reason": "",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000001022.000005743.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0485": {
+      "name": "モンブラン（フランス・イタリア産栗3種使用）",
+      "brand": "ノワ・ドゥ・ブール",
+      "reason": "",
+      "sources": [
+        "https://mi-journey.jp/foodie/92423/"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0347": {
+      "name": "抹茶オペラ",
+      "brand": "サダハル・アオキ",
+      "reason": "",
+      "sources": [
+        "https://www.tokyo-midtown.com/jp/restaurants/SOP0000048/"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
+    },
+    "SWT-0015": {
+      "name": "桃とシャインマスカットのショートケーキ",
+      "brand": "カフェコムサ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000001137.000014225.html"
+      ]
+    },
+    "SWT-0017": {
+      "name": "店舗ごとに異なる梨のケーキ",
+      "brand": "カフェコムサ",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000001161.000014225.html"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0018": {
+      "name": "新春のケーキ～いちごと洋梨のケーキ～",
+      "brand": "カフェコムサ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000001174.000014225.html"
+      ]
+    },
+    "SWT-0020": {
+      "name": "とちあいかのタルト",
+      "brand": "フルーツピークス",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 記録された素材・形態をもとに参考イメージを生成しました。配合・細部・盛り付けは推定で、実物写真ではありません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000168.000054019.html"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0021": {
+      "name": "やよいひめのアフタヌーンティー",
+      "brand": "フルーツピークス",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000180.000054019.html"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0022": {
+      "name": "プレミアム・ノエル「雅」",
+      "brand": "フルーツピークス",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000152.000054019.html"
+      ]
+    },
+    "SWT-0023": {
+      "name": "いちごのホワイトクリスマス",
+      "brand": "フルーツピークス",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000152.000054019.html"
+      ]
+    },
+    "SWT-0024": {
+      "name": "ショコラベリー・リース",
+      "brand": "フルーツピークス",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000152.000054019.html"
+      ]
+    },
+    "SWT-0025": {
+      "name": "いちごとベリークリームのブーケタルト",
+      "brand": "ラ・メゾン アンソレイユターブル",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.la-maison.jp/news/003581.html"
+      ]
+    },
+    "SWT-0033": {
+      "name": "プティ・ザッハ",
+      "brand": "アンテノール",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000001208.000017643.html"
+      ]
+    },
+    "SWT-0035": {
+      "name": "パンプキンプリン",
+      "brand": "銀座コージーコーナー",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.ssnp.co.jp/snack/634397/"
+      ]
+    },
+    "SWT-0037": {
+      "name": "ハロウィン かわいいオバケのデコレーション14cm",
+      "brand": "シャトレーゼ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.ssnp.co.jp/snack/630547/"
+      ]
+    },
+    "SWT-0038": {
+      "name": "魔女ネコちゃんのデコレーション",
+      "brand": "シャトレーゼ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.ssnp.co.jp/snack/630547/"
+      ]
+    },
+    "SWT-0039": {
+      "name": "プレミアムフレジェ 山梨県産シャインマスカット",
+      "brand": "シャトレーゼ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.ssnp.co.jp/snack/628712/"
+      ]
+    },
+    "SWT-0043": {
+      "name": "クリスマスショートデコレーション4号",
+      "brand": "新宿高野",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000040.000099363.html"
+      ]
+    },
+    "SWT-0047": {
+      "name": "クリスマススイーツ",
+      "brand": "資生堂パーラー",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000867.000006543.html"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0048": {
+      "name": "ラ・ブール ノエル",
+      "brand": "資生堂パーラー",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000867.000006543.html"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0049": {
+      "name": "バレンタインコレクション2026",
+      "brand": "資生堂パーラー",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000899.000006543.html"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0051": {
+      "name": "ジュエルノエル",
+      "brand": "東武百貨店",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.atpress.ne.jp/news/548464"
+      ]
+    },
+    "SWT-0052": {
+      "name": "小田急オリジナル小さめクリスマスケーキ",
+      "brand": "小田急百貨店",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000514.000035774.html"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0057": {
+      "name": "丹波栗たっぷり贅沢モンブランノエル",
+      "brand": "中島大祥堂",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://newscast.jp/smart/news/1901245"
+      ]
+    },
+    "SWT-0058": {
+      "name": "ほろふわ栗粉の栗堪能モンブラン",
+      "brand": "ローソン",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://news.mynavi.jp/article/20250923-3475399/"
+      ]
+    },
+    "SWT-0070": {
+      "name": "マロンチョコレートケーキ",
+      "brand": "HARBS",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.harbs.co.jp/menu_cake/"
+      ]
+    },
+    "SWT-0086": {
+      "name": "いちごのショートケーキ クリスマス",
+      "brand": "アンリ・シャルパンティエ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.suzette-shop.jp/shop/e/ehcxmas/"
+      ]
+    },
+    "SWT-0087": {
+      "name": "オペラ・ドゥ・ノエル",
+      "brand": "アンリ・シャルパンティエ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.suzette-shop.jp/shop/e/ehcxmas/"
+      ]
+    },
+    "SWT-0095": {
+      "name": "ゆめかわレインボーユニコーン",
+      "brand": "銀座コージーコーナー",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://lotte-shop.jp/shop/e/eCxmascake/"
+      ]
+    },
+    "SWT-0098": {
+      "name": "お花のフリルショートデコレーション14cm",
+      "brand": "シャトレーゼ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.ssnp.co.jp/snack/660044/"
+      ]
+    },
+    "SWT-0099": {
+      "name": "不二家のひなまつりケーキ",
+      "brand": "不二家",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000377.000097396.html"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0100": {
+      "name": "ひなまつりケーキ 5号",
+      "brand": "Cake.jp",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://cake.jp/item/3413187/"
+      ]
+    },
+    "SWT-0104": {
+      "name": "絹ごし杏仁 トロピカル",
+      "brand": "千疋屋総本店",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.sembikiya.co.jp/product-info/sweets"
+      ]
+    },
+    "SWT-0105": {
+      "name": "マンゴーダブルチーズケーキ",
+      "brand": "千疋屋総本店",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.sembikiya.co.jp/product-info/sweets"
+      ]
+    },
+    "SWT-0115": {
+      "name": "ビスキュイ トロワ",
+      "brand": "資生堂パーラー",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000905.000006543.html"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0116": {
+      "name": "マカロン フレーズ",
+      "brand": "資生堂パーラー",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000905.000006543.html"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0117": {
+      "name": "チーズケーキ３種 各１個入",
+      "brand": "資生堂パーラー",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://parlour.shiseido.co.jp/items/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0118": {
+      "name": "佐賀県産いちごさん限定メニュー",
+      "brand": "資生堂パーラー",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000907.000006543.html"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0119": {
+      "name": "苺の限定パフェ",
+      "brand": "資生堂パーラー",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000920.000006543.html"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0120": {
+      "name": "全国の苺を使った9種類のケーキ",
+      "brand": "資生堂パーラー",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000924.000006543.html"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0121": {
+      "name": "ハロウィンショコラ",
+      "brand": "資生堂パーラー",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000852.000006543.html"
+      ]
+    },
+    "SWT-0122": {
+      "name": "マンゴーローズとメロンのケーキ",
+      "brand": "カフェコムサ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000001111.000014225.html"
+      ]
+    },
+    "SWT-0123": {
+      "name": "宮崎県産『完熟マンゴー』のケーキ",
+      "brand": "カフェコムサ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000001112.000014225.html"
+      ]
+    },
+    "SWT-0126": {
+      "name": "桃と宮崎県産「完熟マンゴー」のショートケーキ",
+      "brand": "カフェコムサ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000001128.000014225.html"
+      ]
+    },
+    "SWT-0127": {
+      "name": "熊本県産いちご「ゆうべに」のケーキ",
+      "brand": "カフェコムサ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000001176.000014225.html"
+      ]
+    },
+    "SWT-0128": {
+      "name": "24店舗ごとのいちごの日限定ケーキ",
+      "brand": "カフェコムサ",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000001178.000014225.html"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0129": {
+      "name": "24店舗ごとのオレンジの日限定ケーキ",
+      "brand": "カフェコムサ",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000001190.000014225.html"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0131": {
+      "name": "まるごと桃パフェ",
+      "brand": "フルーツピークス",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000137.000054019.html"
+      ]
+    },
+    "SWT-0132": {
+      "name": "桃ゼリー",
+      "brand": "フルーツピークス",
+      "reason": "元記事では『桃ゼリー』は『桃ムースとフロマージュブラン』の構成素材として記載。独立商品を確認できず、別商品の材料を抽出した可能性があるため生成除外。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000137.000054019.html"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0133": {
+      "name": "いちじくとチーズクリーム",
+      "brand": "フルーツピークス",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000132.000054019.html"
+      ]
+    },
+    "SWT-0134": {
+      "name": "クリスマスピースタルト8種",
+      "brand": "フルーツピークス",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000164.000054019.html"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0135": {
+      "name": "クリスマス ガトー・キュイ・アソートM",
+      "brand": "アンリ・シャルパンティエ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.suzette-shop.jp/shop/e/ehcxmas/"
+      ]
+    },
+    "SWT-0136": {
+      "name": "ホリデー・ギフト・アソート",
+      "brand": "アンリ・シャルパンティエ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.suzette-shop.jp/shop/e/ehcxmas/"
+      ]
+    },
+    "SWT-0137": {
+      "name": "ガトー・パルフェ〈4種入〉（Xmas）",
+      "brand": "アンリ・シャルパンティエ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.suzette-shop.jp/shop/e/ehcxmas/"
+      ]
+    },
+    "SWT-0139": {
+      "name": "ひなまつりアソートケーキ",
+      "brand": "シャトレーゼ",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.ssnp.co.jp/snack/660044/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0140": {
+      "name": "ひなまつりミニホールケーキ",
+      "brand": "不二家",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 記録された素材・形態をもとに参考イメージを生成しました。配合・細部・盛り付けは推定で、実物写真ではありません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000377.000097396.html"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0141": {
+      "name": "クリスマスプチケーキアソート",
+      "brand": "不二家",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000333.000097396.html"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0142": {
+      "name": "三越伊勢丹クリスマスケーキ特集",
+      "brand": "三越伊勢丹",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.mistore.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0143": {
+      "name": "高島屋クリスマスケーキ特集",
+      "brand": "高島屋",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.takashimaya.co.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0144": {
+      "name": "大丸松坂屋クリスマスケーキ特集",
+      "brand": "大丸松坂屋",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.daimaru-matsuzakaya.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0145": {
+      "name": "阪急バレンタインチョコレート博覧会",
+      "brand": "阪急百貨店",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.hankyu-dept.co.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0146": {
+      "name": "東急百貨店 母の日スイーツギフト",
+      "brand": "東急百貨店",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.tokyu-dept.co.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0147": {
+      "name": "京王百貨店 夏ギフト スイーツ",
+      "brand": "京王百貨店",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.keionet.com/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0148": {
+      "name": "父の日ケーキ特集",
+      "brand": "Cake.jp",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://cake.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0149": {
+      "name": "七夕ケーキ特集",
+      "brand": "Cake.jp",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://cake.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0150": {
+      "name": "敬老の日ケーキ特集",
+      "brand": "Cake.jp",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://cake.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0151": {
+      "name": "桃スイーツ商品群",
+      "brand": "ローソン",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.lawson.co.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0152": {
+      "name": "マンゴー/レモン系カップスイーツ",
+      "brand": "セブン-イレブン",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.sej.co.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0153": {
+      "name": "栗・芋・かぼちゃスイーツ商品群",
+      "brand": "ファミリーマート",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.family.co.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0158": {
+      "name": "スペシャルグレープフルーツジェリー",
+      "brand": "千疋屋総本店",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.sembikiya.co.jp/product-info/sweets"
+      ]
+    },
+    "SWT-0160": {
+      "name": "静岡県産“ももかベリー”のプレミアムストロベリーパフェ",
+      "brand": "資生堂パーラー",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.fashion-press.net/news/142503"
+      ]
+    },
+    "SWT-0161": {
+      "name": "ご当地いちご食べ比べパフェ",
+      "brand": "資生堂パーラー",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.fashion-press.net/news/142503"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0164": {
+      "name": "フィナンシェ・オ・ショコラ詰合せ 8個入",
+      "brand": "アンリ・シャルパンティエ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.suzette-shop.jp/shop/e/ehcxmas/"
+      ]
+    },
+    "SWT-0165": {
+      "name": "タルト･フリュイ･アソート S（秋冬）",
+      "brand": "アンリ・シャルパンティエ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.suzette-shop.jp/shop/e/ehcxmas/"
+      ]
+    },
+    "SWT-0166": {
+      "name": "アンリ・ケーキアイス 4種8個入",
+      "brand": "アンリ・シャルパンティエ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.suzette-shop.jp/shop/e/ehcxmas/"
+      ]
+    },
+    "SWT-0172": {
+      "name": "小麦と卵と乳を使わないデコレーション",
+      "brand": "銀座コージーコーナー",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://lotte-shop.jp/shop/e/eCxmascake/"
+      ]
+    },
+    "SWT-0173": {
+      "name": "小麦と卵と乳を使わないチョコデコレーション",
+      "brand": "銀座コージーコーナー",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://lotte-shop.jp/shop/e/eCxmascake/"
+      ]
+    },
+    "SWT-0181": {
+      "name": "三越伊勢丹 バレンタインスイーツ特集",
+      "brand": "三越伊勢丹",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.mistore.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0182": {
+      "name": "三越伊勢丹 ホワイトデーギフト特集",
+      "brand": "三越伊勢丹",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.mistore.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0183": {
+      "name": "三越伊勢丹 母の日スイーツギフト",
+      "brand": "三越伊勢丹",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.mistore.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0184": {
+      "name": "三越伊勢丹 父の日スイーツギフト",
+      "brand": "三越伊勢丹",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.mistore.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0185": {
+      "name": "三越伊勢丹 夏ギフト・お中元スイーツ",
+      "brand": "三越伊勢丹",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.mistore.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0186": {
+      "name": "三越伊勢丹 敬老の日スイーツギフト",
+      "brand": "三越伊勢丹",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.mistore.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0187": {
+      "name": "三越伊勢丹 ハロウィンスイーツ特集",
+      "brand": "三越伊勢丹",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.mistore.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0188": {
+      "name": "三越伊勢丹 クリスマスケーキ特集",
+      "brand": "三越伊勢丹",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.mistore.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0189": {
+      "name": "高島屋 バレンタインスイーツ特集",
+      "brand": "高島屋",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.takashimaya.co.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0190": {
+      "name": "高島屋 ホワイトデーギフト特集",
+      "brand": "高島屋",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.takashimaya.co.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0191": {
+      "name": "高島屋 母の日スイーツギフト",
+      "brand": "高島屋",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.takashimaya.co.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0192": {
+      "name": "高島屋 父の日スイーツギフト",
+      "brand": "高島屋",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.takashimaya.co.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0193": {
+      "name": "高島屋 夏ギフト・お中元スイーツ",
+      "brand": "高島屋",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.takashimaya.co.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0194": {
+      "name": "高島屋 敬老の日スイーツギフト",
+      "brand": "高島屋",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.takashimaya.co.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0195": {
+      "name": "高島屋 ハロウィンスイーツ特集",
+      "brand": "高島屋",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.takashimaya.co.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0196": {
+      "name": "高島屋 クリスマスケーキ特集",
+      "brand": "高島屋",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.takashimaya.co.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0197": {
+      "name": "大丸松坂屋 バレンタインスイーツ特集",
+      "brand": "大丸松坂屋",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.daimaru-matsuzakaya.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0198": {
+      "name": "大丸松坂屋 ホワイトデーギフト特集",
+      "brand": "大丸松坂屋",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.daimaru-matsuzakaya.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0199": {
+      "name": "大丸松坂屋 母の日スイーツギフト",
+      "brand": "大丸松坂屋",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.daimaru-matsuzakaya.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0200": {
+      "name": "大丸松坂屋 父の日スイーツギフト",
+      "brand": "大丸松坂屋",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.daimaru-matsuzakaya.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0201": {
+      "name": "大丸松坂屋 夏ギフト・お中元スイーツ",
+      "brand": "大丸松坂屋",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.daimaru-matsuzakaya.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0202": {
+      "name": "大丸松坂屋 敬老の日スイーツギフト",
+      "brand": "大丸松坂屋",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.daimaru-matsuzakaya.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0203": {
+      "name": "大丸松坂屋 ハロウィンスイーツ特集",
+      "brand": "大丸松坂屋",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.daimaru-matsuzakaya.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0204": {
+      "name": "大丸松坂屋 クリスマスケーキ特集",
+      "brand": "大丸松坂屋",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.daimaru-matsuzakaya.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0205": {
+      "name": "阪急百貨店 バレンタインスイーツ特集",
+      "brand": "阪急百貨店",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.hankyu-dept.co.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0206": {
+      "name": "阪急百貨店 ホワイトデーギフト特集",
+      "brand": "阪急百貨店",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.hankyu-dept.co.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0207": {
+      "name": "阪急百貨店 母の日スイーツギフト",
+      "brand": "阪急百貨店",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.hankyu-dept.co.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0208": {
+      "name": "阪急百貨店 父の日スイーツギフト",
+      "brand": "阪急百貨店",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.hankyu-dept.co.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0209": {
+      "name": "阪急百貨店 夏ギフト・お中元スイーツ",
+      "brand": "阪急百貨店",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.hankyu-dept.co.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0210": {
+      "name": "阪急百貨店 敬老の日スイーツギフト",
+      "brand": "阪急百貨店",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.hankyu-dept.co.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0211": {
+      "name": "阪急百貨店 ハロウィンスイーツ特集",
+      "brand": "阪急百貨店",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.hankyu-dept.co.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0212": {
+      "name": "阪急百貨店 クリスマスケーキ特集",
+      "brand": "阪急百貨店",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.hankyu-dept.co.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0213": {
+      "name": "小田急百貨店 バレンタインスイーツ特集",
+      "brand": "小田急百貨店",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.odakyu-dept.co.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0214": {
+      "name": "小田急百貨店 ホワイトデーギフト特集",
+      "brand": "小田急百貨店",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.odakyu-dept.co.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0215": {
+      "name": "小田急百貨店 母の日スイーツギフト",
+      "brand": "小田急百貨店",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.odakyu-dept.co.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0216": {
+      "name": "小田急百貨店 父の日スイーツギフト",
+      "brand": "小田急百貨店",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.odakyu-dept.co.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0217": {
+      "name": "小田急百貨店 夏ギフト・お中元スイーツ",
+      "brand": "小田急百貨店",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.odakyu-dept.co.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0218": {
+      "name": "小田急百貨店 敬老の日スイーツギフト",
+      "brand": "小田急百貨店",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.odakyu-dept.co.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0219": {
+      "name": "小田急百貨店 ハロウィンスイーツ特集",
+      "brand": "小田急百貨店",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.odakyu-dept.co.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0220": {
+      "name": "小田急百貨店 クリスマスケーキ特集",
+      "brand": "小田急百貨店",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.odakyu-dept.co.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0222": {
+      "name": "カフェコムサ 抹茶と苺の春ケーキ",
+      "brand": "カフェコムサ",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.cafe-commeca.co.jp/"
+      ],
+      "sourceFailures": [
+        "https://www.cafe-commeca.co.jp/（SSLError）"
+      ]
+    },
+    "SWT-0223": {
+      "name": "フルーツピークス 初夏レモンチーズタルト",
+      "brand": "フルーツピークス",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://fruitspeaks.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0228": {
+      "name": "資生堂パーラー 栗と洋梨の秋タルト",
+      "brand": "資生堂パーラー",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://parlour.shiseido.co.jp/items/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0232": {
+      "name": "シャトレーゼ 抹茶と苺の春ケーキ",
+      "brand": "シャトレーゼ",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.chateraise.co.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0233": {
+      "name": "不二家 初夏レモンチーズタルト",
+      "brand": "不二家",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.fujiya-peko.co.jp/cake/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0235": {
+      "name": "カフェコムサ 桃とバニラクリームのタルト",
+      "brand": "カフェコムサ",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.cafe-commeca.co.jp/"
+      ],
+      "sourceFailures": [
+        "https://www.cafe-commeca.co.jp/（SSLError）"
+      ]
+    },
+    "SWT-0236": {
+      "name": "フルーツピークス マンゴーとココナッツの夏ケーキ",
+      "brand": "フルーツピークス",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://fruitspeaks.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0241": {
+      "name": "資生堂パーラー 春の桜と苺のタルト",
+      "brand": "資生堂パーラー",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://parlour.shiseido.co.jp/items/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0245": {
+      "name": "シャトレーゼ 桃とバニラクリームのタルト",
+      "brand": "シャトレーゼ",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.chateraise.co.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0246": {
+      "name": "不二家 マンゴーとココナッツの夏ケーキ",
+      "brand": "不二家",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.fujiya-peko.co.jp/cake/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0248": {
+      "name": "カフェコムサ 栗と洋梨の秋タルト",
+      "brand": "カフェコムサ",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.cafe-commeca.co.jp/"
+      ],
+      "sourceFailures": [
+        "https://www.cafe-commeca.co.jp/（SSLError）"
+      ]
+    },
+    "SWT-0249": {
+      "name": "フルーツピークス りんごとキャラメルのパイ",
+      "brand": "フルーツピークス",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://fruitspeaks.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0254": {
+      "name": "資生堂パーラー メロンと杏仁の初夏デザート",
+      "brand": "資生堂パーラー",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 記録された素材・形態をもとに参考イメージを生成しました。配合・細部・盛り付けは推定で、実物写真ではありません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://parlour.shiseido.co.jp/items/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0258": {
+      "name": "シャトレーゼ 栗と洋梨の秋タルト",
+      "brand": "シャトレーゼ",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.chateraise.co.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0259": {
+      "name": "不二家 りんごとキャラメルのパイ",
+      "brand": "不二家",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.fujiya-peko.co.jp/cake/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0261": {
+      "name": "カフェコムサ 春の桜と苺のタルト",
+      "brand": "カフェコムサ",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.cafe-commeca.co.jp/"
+      ],
+      "sourceFailures": [
+        "https://www.cafe-commeca.co.jp/（SSLError）"
+      ]
+    },
+    "SWT-0262": {
+      "name": "フルーツピークス 抹茶と苺の春ケーキ",
+      "brand": "フルーツピークス",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://fruitspeaks.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0267": {
+      "name": "資生堂パーラー シャインマスカットのタルト",
+      "brand": "資生堂パーラー",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://parlour.shiseido.co.jp/items/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0271": {
+      "name": "シャトレーゼ 春の桜と苺のタルト",
+      "brand": "シャトレーゼ",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.chateraise.co.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0272": {
+      "name": "不二家 抹茶と苺の春ケーキ",
+      "brand": "不二家",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.fujiya-peko.co.jp/cake/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0274": {
+      "name": "カフェコムサ メロンと杏仁の初夏デザート",
+      "brand": "カフェコムサ",
+      "reason": "参照ページの一部が削除・取得制限などで読めず、対応写真を特定できませんでした。 記録された素材・形態をもとに参考イメージを生成しました。配合・細部・盛り付けは推定で、実物写真ではありません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.cafe-commeca.co.jp/"
+      ],
+      "sourceFailures": [
+        "https://www.cafe-commeca.co.jp/（SSLError）"
+      ]
+    },
+    "SWT-0275": {
+      "name": "フルーツピークス 桃とバニラクリームのタルト",
+      "brand": "フルーツピークス",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://fruitspeaks.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0280": {
+      "name": "資生堂パーラー ピスタチオショコラケーキ",
+      "brand": "資生堂パーラー",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://parlour.shiseido.co.jp/items/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0284": {
+      "name": "シャトレーゼ メロンと杏仁の初夏デザート",
+      "brand": "シャトレーゼ",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 記録された素材・形態をもとに参考イメージを生成しました。配合・細部・盛り付けは推定で、実物写真ではありません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.chateraise.co.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0285": {
+      "name": "不二家 桃とバニラクリームのタルト",
+      "brand": "不二家",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.fujiya-peko.co.jp/cake/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0287": {
+      "name": "カフェコムサ シャインマスカットのタルト",
+      "brand": "カフェコムサ",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.cafe-commeca.co.jp/"
+      ],
+      "sourceFailures": [
+        "https://www.cafe-commeca.co.jp/（SSLError）"
+      ]
+    },
+    "SWT-0288": {
+      "name": "フルーツピークス 栗と洋梨の秋タルト",
+      "brand": "フルーツピークス",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://fruitspeaks.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0293": {
+      "name": "資生堂パーラー 初夏レモンチーズタルト",
+      "brand": "資生堂パーラー",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://parlour.shiseido.co.jp/items/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0297": {
+      "name": "シャトレーゼ シャインマスカットのタルト",
+      "brand": "シャトレーゼ",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.chateraise.co.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0298": {
+      "name": "不二家 栗と洋梨の秋タルト",
+      "brand": "不二家",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.fujiya-peko.co.jp/cake/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0300": {
+      "name": "カフェコムサ ピスタチオショコラケーキ",
+      "brand": "カフェコムサ",
+      "reason": "公式掲載元と商品名による公開Web・SNS検索で、同名の単品写真を確認できませんでした。DBの実在確認はCです。記録素材をもとに、形状・層・盛り付けを推定した生成イメージを用意しました。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.cafe-commeca.co.jp/"
+      ],
+      "sourceFailures": [
+        "https://www.cafe-commeca.co.jp/（SSLError）"
+      ]
+    },
+    "SWT-0302": {
+      "name": "資生堂パーラー 抹茶サブレアソート",
+      "brand": "資生堂パーラー",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://parlour.shiseido.co.jp/items/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0308": {
+      "name": "資生堂パーラー バレンタインショコラアソート",
+      "brand": "資生堂パーラー",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://parlour.shiseido.co.jp/items/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0314": {
+      "name": "資生堂パーラー 栗とショコラの焼菓子BOX",
+      "brand": "資生堂パーラー",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://parlour.shiseido.co.jp/items/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0320": {
+      "name": "資生堂パーラー 夏ゼリーギフト",
+      "brand": "資生堂パーラー",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://parlour.shiseido.co.jp/items/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0331": {
+      "name": "フールセック・季節缶",
+      "brand": "アトリエうかい",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.ukai.co.jp/atelier/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0332": {
+      "name": "夏のフールセック",
+      "brand": "アトリエうかい",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.ukai.co.jp/atelier/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0333": {
+      "name": "ハロウィン缶",
+      "brand": "アトリエうかい",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.ukai.co.jp/atelier/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0334": {
+      "name": "クリスマス缶",
+      "brand": "アトリエうかい",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.ukai.co.jp/atelier/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0336": {
+      "name": "季節限定チョコレートケーキ",
+      "brand": "Minimal",
+      "reason": "季節限定チョコレートケーキという総称で単一商品を特定できず、材料・形状の記録も不足するため生成除外",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://mini-mal.tokyo/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0341": {
+      "name": "季節のアフタヌーンティー",
+      "brand": "ザ・リッツ・カールトン東京",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.ritzcarlton.com/ja/hotels/tyorz-the-ritz-carlton-tokyo/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0343": {
+      "name": "母の日マカロンボックス",
+      "brand": "ラデュレ",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.laduree.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0344": {
+      "name": "桜マカロン",
+      "brand": "ラデュレ",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.laduree.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0346": {
+      "name": "マカロン詰合わせ",
+      "brand": "ピエール・エルメ・パリ",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.pierreherme.co.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0348": {
+      "name": "ショコロン",
+      "brand": "サダハル・アオキ",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.sadaharuaoki.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0350": {
+      "name": "冨貴寄 季節缶",
+      "brand": "銀座菊廼舎",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.ginza-kikunoya.co.jp/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0351": {
+      "name": "テリーヌ・ドゥ・フリュイ",
+      "brand": "アンリ・シャルパンティエ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000153.000028015.html"
+      ]
+    },
+    "SWT-0355": {
+      "name": "フリュイジュレ 8個入 FG30",
+      "brand": "資生堂パーラー",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://parlour.shiseido.co.jp/summergift/"
+      ]
+    },
+    "SWT-0356": {
+      "name": "シャインマスカット／フラノメロン／いちじく／桃のパフェ",
+      "brand": "資生堂パーラー",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000854.000006543.html"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0362": {
+      "name": "山梨県笛吹市産『ふじやまの彩』のケーキ",
+      "brand": "カフェコムサ",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "http://www.cafe-commeca.co.jp/information/info/8225.html"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0363": {
+      "name": "桃とシャインマスカットのショートケーキ",
+      "brand": "カフェコムサ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000001137.000014225.html"
+      ]
+    },
+    "SWT-0366": {
+      "name": "白桃のレアチーズケーキ",
+      "brand": "HARBS",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://cheese-cake.net/harbs-hakutou/"
+      ]
+    },
+    "SWT-0371": {
+      "name": "いちごとベリークリームのブーケタルト",
+      "brand": "ラ・メゾン アンソレイユターブル",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.la-maison.jp/news/002997.html"
+      ]
+    },
+    "SWT-0378": {
+      "name": "15種類の苺パフェ（スペシャルストロベリーデー）",
+      "brand": "資生堂パーラー",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000812.000006543.html"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0380": {
+      "name": "ショコラバリエ2025（3種12個入）",
+      "brand": "資生堂パーラー",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000808.000006543.html"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0381": {
+      "name": "バトンショコラ6個入（バレンタイン限定）",
+      "brand": "資生堂パーラー",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://parlour.shiseido.co.jp/food_products/onlineshop/detail.html?prod_id=0000000852"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0385": {
+      "name": "ペコポコチョコレート缶",
+      "brand": "不二家",
+      "reason": "参照ページの一部が削除・取得制限などで読めず、対応写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.fujiya-peko.co.jp/press20250123_1.pdf"
+      ],
+      "sourceFailures": [
+        "https://www.fujiya-peko.co.jp/press20250123_1.pdf（not-html）"
+      ]
+    },
+    "SWT-0386": {
+      "name": "ペコちゃんジャンボポップチョコ",
+      "brand": "不二家",
+      "reason": "参照ページの一部が削除・取得制限などで読めず、対応写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.fujiya-peko.co.jp/cake/item/41116.html"
+      ],
+      "sourceFailures": [
+        "https://www.fujiya-peko.co.jp/cake/item/41116.html（HTTP 404）"
+      ]
+    },
+    "SWT-0387": {
+      "name": "プラン クール「コフレ シズー」（6種プラリネ：ココナッツ/そばの実/ピスタチオ/とうもろこし/ヘーゼルナッツ/カカオニブ）",
+      "brand": "三越伊勢丹",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000002867.000008372.html"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0389": {
+      "name": "茨城県産\"恵水\"和梨のタルト",
+      "brand": "キル フェ ボン",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.pref.ibaraki.jp/bugai/koho/kenmin/syun/20250804.html"
+      ]
+    },
+    "SWT-0390": {
+      "name": "長野県産\"ナガノパープル\"と\"ル ガール\"クリームチーズのタルト",
+      "brand": "キル フェ ボン",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://kunel-salon.com/food/144573/"
+      ]
+    },
+    "SWT-0393": {
+      "name": "山梨県笛吹市産シャインマスカット\"ふじやまの彩\"のケーキ",
+      "brand": "カフェコムサ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000001039.000014225.html"
+      ]
+    },
+    "SWT-0396": {
+      "name": "敬老の日 小豆と栗のショートケーキ",
+      "brand": "シャトレーゼ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.ssnp.co.jp/snack/584657/"
+      ]
+    },
+    "SWT-0398": {
+      "name": "和栗のパフェ／加賀しずく和梨のパフェ／ナガノパープルのパフェ",
+      "brand": "資生堂パーラー",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000859.000006543.html"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0400": {
+      "name": "15種類の苺のストロベリーパフェ（2日間限定）",
+      "brand": "資生堂パーラー",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000812.000006543.html"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0404": {
+      "name": "ダイス苺サンドの新春デコレーションケーキ（鏡餅イメージ）",
+      "brand": "シャトレーゼ",
+      "reason": "参照ページの一部が削除・取得制限などで読めず、対応写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.chateraise.co.jp/cms/template/default/company/newsrelease/pdf/241220-1.pdf"
+      ],
+      "sourceFailures": [
+        "https://www.chateraise.co.jp/cms/template/default/company/newsrelease/pdf/241220-1.pdf（not-html）"
+      ]
+    },
+    "SWT-0406": {
+      "name": "ペコちゃんおたのしみ缶（新春スイーツアソート）",
+      "brand": "不二家",
+      "reason": "参照ページの一部が削除・取得制限などで読めず、対応写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.fujiya-peko.co.jp/cake/item/41513.html"
+      ],
+      "sourceFailures": [
+        "https://www.fujiya-peko.co.jp/cake/item/41513.html（HTTP 404）"
+      ]
+    },
+    "SWT-0411": {
+      "name": "ハロウィン限定ケーキ ～かぼちゃと紫芋クリームのケーキ～",
+      "brand": "カフェコムサ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://kisspress.jp/articles/33438/"
+      ]
+    },
+    "SWT-0412": {
+      "name": "ザ・ショートケーキ・ノエル",
+      "brand": "アンリ・シャルパンティエ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000169.000028015.html"
+      ]
+    },
+    "SWT-0413": {
+      "name": "ルージュ・ドゥ・ノエル",
+      "brand": "アンリ・シャルパンティエ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000169.000028015.html"
+      ]
+    },
+    "SWT-0414": {
+      "name": "ガトー カドゥ ユイット ノエル",
+      "brand": "資生堂パーラー",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000792.000006543.html"
+      ]
+    },
+    "SWT-0415": {
+      "name": "Xmas プレミアム・ルージュ",
+      "brand": "シャトレーゼ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.ssnp.co.jp/snack/587137/"
+      ]
+    },
+    "SWT-0418": {
+      "name": "ガトー ノエル",
+      "brand": "資生堂パーラー",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000792.000006543.html"
+      ]
+    },
+    "SWT-0424": {
+      "name": "Xmas ピスタチオのモンブラン",
+      "brand": "シャトレーゼ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.ssnp.co.jp/snack/587137/"
+      ]
+    },
+    "SWT-0425": {
+      "name": "フォレ・ブランシュ",
+      "brand": "アンリ・シャルパンティエ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000169.000028015.html"
+      ]
+    },
+    "SWT-0426": {
+      "name": "ココット ドゥ ノエル オ ショコラ",
+      "brand": "資生堂パーラー",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000792.000006543.html"
+      ]
+    },
+    "SWT-0429": {
+      "name": "宇治抹茶と苺のぎゅうひ包み",
+      "brand": "アンテノール",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://cake-news.com/event/exclusive/limitedtime/2025/04/166850/"
+      ]
+    },
+    "SWT-0430": {
+      "name": "宇治抹茶のケーク～京の鶯～",
+      "brand": "アンテノール",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://shop.antenor.jp/category/A_CT01/1-UJI.html"
+      ]
+    },
+    "SWT-0431": {
+      "name": "高知県土佐市産マスクメロン「仁淀ブルー」のショートケーキ",
+      "brand": "カフェコムサ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.fashion-press.net/news/119505"
+      ]
+    },
+    "SWT-0432": {
+      "name": "マスクメロンショートケーキ 4号",
+      "brand": "千疋屋総本店",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.mistore.jp/shopping/product/900000000000000001830862.html"
+      ]
+    },
+    "SWT-0434": {
+      "name": "ショコラ シガール（リッチミルク／リッチビター）",
+      "brand": "ヨックモック",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.yokumoku.co.jp/news/2025/01/29905/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0436": {
+      "name": "ショコラ・マローネ",
+      "brand": "アンテノール",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.fashion-press.net/news/128320"
+      ]
+    },
+    "SWT-0438": {
+      "name": "クルミッ子 10個入(缶) ライラック",
+      "brand": "鎌倉紅谷",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.fashion-press.net/news/142679"
+      ]
+    },
+    "SWT-0440": {
+      "name": "クルミッ子 限定ミニ缶(月替わりデザイン)",
+      "brand": "鎌倉紅谷",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.jalan.net/news/article/488486/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0441": {
+      "name": "グーテ・デ・ロワ サンリオキャラクターズ",
+      "brand": "ガトーフェスタ ハラダ",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.sanrio.co.jp/news/goods/mx-harada-rusk-20240531/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0443": {
+      "name": "グーテ・デ・ロワ UC",
+      "brand": "ガトーフェスタ ハラダ",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.fashionsnap.com/article/2024-12-26/undercover-harada/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0444": {
+      "name": "97thアニバーサリーゴーフル",
+      "brand": "神戸風月堂",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.lmaga.jp/news/2024/04/809024/"
+      ]
+    },
+    "SWT-0445": {
+      "name": "98thアニバーサリーゴーフル",
+      "brand": "神戸風月堂",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.kobe-fugetsudo.co.jp/98thgaufres.html"
+      ]
+    },
+    "SWT-0446": {
+      "name": "2025年WINTER缶(ドライケーキ15袋入/DC-BX)",
+      "brand": "銀座ウエスト",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.ginza-west.com/SHOP/293.html"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0447": {
+      "name": "マカロン 12個詰合わせ 季節限定 (Noel 2024)",
+      "brand": "PIERRE HERMÉ PARIS",
+      "reason": "参照ページの一部が削除・取得制限などで読めず、対応写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.pierreherme.co.jp/product/macaron-set-12-purple-noel-2024.html"
+      ],
+      "sourceFailures": [
+        "https://www.pierreherme.co.jp/product/macaron-set-12-purple-noel-2024.html（HTTP 404）"
+      ]
+    },
+    "SWT-0448": {
+      "name": "4月のマカロン(ヴァニーユ エ フレーズ/イスパハン他)",
+      "brand": "PIERRE HERMÉ PARIS",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.pierreherme.co.jp/journal/macaron_flavor-april_2024/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0449": {
+      "name": "マカロン 18個詰合わせ 季節限定 (Noel 2024)",
+      "brand": "PIERRE HERMÉ PARIS",
+      "reason": "参照ページの一部が削除・取得制限などで読めず、対応写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.pierreherme.co.jp/product/macaron-set-18-noel-2024.html"
+      ],
+      "sourceFailures": [
+        "https://www.pierreherme.co.jp/product/macaron-set-18-noel-2024.html（HTTP 404）"
+      ]
+    },
+    "SWT-0450": {
+      "name": "ヴァレンタイン コレクション 2024 (PARIS FOR EVER)",
+      "brand": "JEAN-PAUL HÉVIN",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000086.000031005.html"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0452": {
+      "name": "サパン センシュエル",
+      "brand": "Sadaharu AOKI",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000076.000029116.html"
+      ]
+    },
+    "SWT-0453": {
+      "name": "サパン ショコラ ピスタッシュ",
+      "brand": "Sadaharu AOKI",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000076.000029116.html"
+      ]
+    },
+    "SWT-0454": {
+      "name": "大丸・松坂屋クリスマスケーキ2024 (4号4,000円台 23種)",
+      "brand": "大丸松坂屋オリジナル",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000002795.000025003.html"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0455": {
+      "name": "濃密プレミアムチョコレートプリン",
+      "brand": "モロゾフ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.fashion-press.net/news/129394"
+      ]
+    },
+    "SWT-0457": {
+      "name": "グルノーブル（スプリングハート）",
+      "brand": "モロゾフ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.fashion-press.net/news/129394"
+      ]
+    },
+    "SWT-0458": {
+      "name": "アンジュジュ（スイートドリーム）",
+      "brand": "ゴンチャロフ",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.goncharoff.co.jp/item/2025vd/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0459": {
+      "name": "ガルニエ（世界の名画シリーズ）",
+      "brand": "ゴンチャロフ",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.takashimaya.co.jp/shopping/product.html?p_cd=0002345619&sub_cd=001"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0460": {
+      "name": "マイメロディ・クロミ×ゴンチャロフ チョコレート",
+      "brand": "ゴンチャロフ",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.sanrio.co.jp/news/goods/mu-goncharoff-20250109/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0461": {
+      "name": "バウムクーヘン博覧会2025（イベント）",
+      "brand": "ユーハイム",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000193.000034027.html"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0463": {
+      "name": "母の日限定 のしギフトバウムクーヘン",
+      "brand": "ユーハイム",
+      "reason": "参照ページの一部が削除・取得制限などで読めず、対応写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.rakuten.co.jp/juchheim/contents/mothersday/"
+      ],
+      "sourceFailures": [
+        "https://www.rakuten.co.jp/juchheim/contents/mothersday/（HTTP 404）"
+      ]
+    },
+    "SWT-0465": {
+      "name": "フクサヤ干支キューブ（巳）",
+      "brand": "福砂屋",
+      "reason": "参照ページの一部が削除・取得制限などで読めず、対応写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.fukusaya.co.jp/news/2024/12/26/"
+      ],
+      "sourceFailures": [
+        "https://www.fukusaya.co.jp/news/2024/12/26/（HTTP 404）"
+      ]
+    },
+    "SWT-0466": {
+      "name": "ファンシーチョコレート（バレンタイン限定アソート）",
+      "brand": "メリーチョコレート",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://cake.jp/mag/valentine/52137/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0467": {
+      "name": "Nacht Labyrint（ナハト ラビリント）",
+      "brand": "メリーチョコレート",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.fashion-press.net/news/126765"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0470": {
+      "name": "茶の菓うすやき",
+      "brand": "マールブランシュ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.kyoto-quality.com/"
+      ]
+    },
+    "SWT-0471": {
+      "name": "ミルク生茶の菓",
+      "brand": "マールブランシュ",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.malebranche-shop.jp/ic/season"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0473": {
+      "name": "クッキー詰合せ缶",
+      "brand": "村上開新堂（京都）",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.murakami-kaishindo.jp/index.html"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0475": {
+      "name": "焼きたてタルト はちみつレモンチーズ",
+      "brand": "BAKE CHEESE TART",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://bake-the-online.com/blogs/newproduct_news/20250502_2"
+      ]
+    },
+    "SWT-0476": {
+      "name": "ホリデーセット（焼きたてチーズタルト）",
+      "brand": "BAKE CHEESE TART",
+      "reason": "参照ページの一部が削除・取得制限などで読めず、対応写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://cheesetart.com/news/holidayset/"
+      ],
+      "sourceFailures": [
+        "https://cheesetart.com/news/holidayset/（HTTP 404）"
+      ]
+    },
+    "SWT-0477": {
+      "name": "2種のチョコがけ苺（PABLO監修）",
+      "brand": "PABLO",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000055.000012783.html"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0478": {
+      "name": "マロンプディング（モンブラン風味プリン）",
+      "brand": "アンジェリーナ",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 記録された素材・形態をもとに参考イメージを生成しました。配合・細部・盛り付けは推定で、実物写真ではありません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000004.000140397.html"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0479": {
+      "name": "今月のモンブラン（11月：メープルモンブラン）",
+      "brand": "アンジェリーナ",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 商品群・催事・複数メニューの記録で、単一のレシピや外観が定まらないため、架空の一商品には置き換えていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://mi-journey.jp/foodie/91344/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0483": {
+      "name": "MTフレーズ（ショートケーキ）",
+      "brand": "トシ・ヨロイヅカ",
+      "reason": "実商品取材記事の写真候補あり。個別写真の目視確認を待つため生成保留。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://cake.tokyo/15770"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0484": {
+      "name": "Yoroizuka Collection 2025（ボンボンショコラ）",
+      "brand": "トシ・ヨロイヅカ",
+      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.instagram.com/toshi_yoroizuka_official/"
+      ],
+      "sourceFailures": []
+    },
+    "SWT-0487": {
+      "name": "イチゴのショートケーキ（ジェノワーズ・オ・フレーズ）",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.alacampagne.jp/products/tarte/"
+      ]
+    },
+    "SWT-0493": {
+      "name": "スフレチーズケーキ（フランシュ・フロマージュ）",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.alacampagne.jp/products/tarte/"
+      ]
+    },
+    "SWT-0507": {
+      "name": "タルト・メリメロ",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.alacampagne.jp/products/tarte/"
+      ]
+    },
+    "SWT-0508": {
+      "name": "ガトー・ド・ノンブル・ソワイユ",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.alacampagne.jp/products/tarte/"
+      ]
+    },
+    "SWT-0514": {
+      "name": "コフレ・グーテ（24個入）",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.alacampagne.jp/products/bakedcake/"
+      ]
+    },
+    "SWT-0515": {
+      "name": "コフレ・グーテ（15個入）",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.alacampagne.jp/products/bakedcake/"
+      ]
+    },
+    "SWT-0516": {
+      "name": "コフレ・グーテ（10個入）",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.alacampagne.jp/products/bakedcake/"
+      ]
+    },
+    "SWT-0517": {
+      "name": "ガトー・ド・ジェノワーズ",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.alacampagne.jp/products/anniversary/birthday/"
+      ]
+    },
+    "SWT-0522": {
+      "name": "レーズンサンド",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://hattrick-shop.jp/products/astg0001"
+      ]
+    },
+    "SWT-202609-001": {
+      "name": "すずあかねのタルト（タルト・オ・プティ・フレーズ）",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.alacampagne.jp/products/tarte/"
+      ]
+    },
+    "SWT-202609-002": {
+      "name": "ナガノパープルとピスタチオのタルト（レザン・ノワール・エ・ピスターシュ）",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.alacampagne.jp/products/tarte/"
+      ]
+    },
+    "SWT-202609-003": {
+      "name": "栗のティラミスタルト（タルト・ティラミス・オ・マロン）",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.alacampagne.jp/products/tarte/"
+      ]
+    },
+    "SWT-202609-004": {
+      "name": "いちじくのタルト（タルト・オ・フィグ）",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.alacampagne.jp/products/tarte/"
+      ]
+    },
+    "SWT-202609-005": {
+      "name": "いちじくのショートケーキ（ガトー・オ・フィグ）",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.alacampagne.jp/products/tarte/"
+      ]
+    },
+    "SWT-202609-006": {
+      "name": "シャインマスカットのタルト（タルト・オ・エクラ・ド・ミュスカ）",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.alacampagne.jp/products/tarte/"
+      ]
+    },
+    "SWT-202609-007": {
+      "name": "ア・ラ・カンパーニュのズコットタルト（ズコット ア・ラ・カンパーニュ）",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.alacampagne.jp/products/tarte/"
+      ]
+    },
+    "SWT-202609-008": {
+      "name": "白ぶどうのジュレ（レザン・ブラン ジュレ）",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.alacampagne.jp/products/tarte/"
+      ]
+    },
+    "SWT-202609-009": {
+      "name": "コライユ・ロゼ",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.alacampagne.jp/products/tarte/"
+      ]
+    },
+    "SWT-202609-010": {
+      "name": "シャテニエ（栗のムースとチョコレートのタルト）",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.alacampagne.jp/products/tarte/"
+      ]
+    },
+    "SWT-202609-011": {
+      "name": "シャルマン・オ・フィグ（いちじくとカスタードのタルト）",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.alacampagne.jp/products/tarte/"
+      ]
+    },
+    "SWT-202609-012": {
+      "name": "いちじくとヘーゼルナッツのタルト（タルト・オ ・フィグ・スペシャル）",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.alacampagne.jp/products/tarte/"
+      ]
+    },
+    "SWT-202609-013": {
+      "name": "いちじくのクレープタルト（ミルクレープ・オ・フィグ）",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.alacampagne.jp/products/tarte/"
+      ]
+    },
+    "SWT-202609-014": {
+      "name": "チョコのパイタルト（フルール・ド・ショコラ）",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.alacampagne.jp/products/tarte/"
+      ]
+    },
+    "SWT-202609-015": {
+      "name": "タルト・ア・ラ・ティラミス（ ティラミスのタルト）",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://www.alacampagne.jp/products/tarte/"
+      ]
+    },
+    "SWT-202609-016": {
+      "name": "ル・プティ・ボワ",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://hattrick-shop.jp/products/aaug0002"
+      ]
+    },
+    "SWT-202609-017": {
+      "name": "プティット・ノワ",
+      "brand": "ア・ラ・カンパーニュ",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://hattrick-shop.jp/products/aaug0003"
+      ]
+    },
+    "SWT-202609-018": {
+      "name": "栗とメイプルのタルト",
+      "brand": "キル フェ ボン",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000092.000117972.html"
+      ]
+    },
+    "SWT-202609-019": {
+      "name": "イチジクと赤いフルーツのチョコレートタルト",
+      "brand": "キル フェ ボン",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000092.000117972.html"
+      ]
+    },
+    "SWT-202609-020": {
+      "name": "モンブラン",
+      "brand": "キル フェ ボン",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000092.000117972.html"
+      ]
+    },
+    "SWT-202609-021": {
+      "name": "黒洲きな粉とほうじ茶のタルト ～ショートケーキ風～",
+      "brand": "キル フェ ボン",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000092.000117972.html"
+      ]
+    },
+    "SWT-202609-022": {
+      "name": "京都府宇治市産 “辻喜”抹茶のテリーヌのタルト",
+      "brand": "キル フェ ボン",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000092.000117972.html"
+      ]
+    },
+    "SWT-202609-023": {
+      "name": "季節のフルーツタルト～秋バージョン～",
+      "brand": "キル フェ ボン",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000092.000117972.html"
+      ]
+    },
+    "SWT-202609-024": {
+      "name": "さつまいものタルト 〜黒糖風味〜",
+      "brand": "キル フェ ボン",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000092.000117972.html"
+      ]
+    },
+    "SWT-202609-025": {
+      "name": "島根県産 “多伎いちじく”のタルト",
+      "brand": "キル フェ ボン",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000092.000117972.html"
+      ]
+    },
+    "SWT-202609-026": {
+      "name": "オータムフルーツのタルト",
+      "brand": "キル フェ ボン",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000092.000117972.html"
+      ]
+    },
+    "SWT-202609-027": {
+      "name": "イチジクのタルト 〜ショートケーキ風〜",
+      "brand": "キル フェ ボン",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000092.000117972.html"
+      ]
+    },
+    "SWT-202609-028": {
+      "name": "北海道産 “らいでん”メロンのタルト",
+      "brand": "キル フェ ボン",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000092.000117972.html"
+      ]
+    },
+    "SWT-202609-029": {
+      "name": "長野県産 “ハニーシードレス” のタルト",
+      "brand": "キル フェ ボン",
+      "reason": "",
+      "checkedAt": "2026-09-12",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000092.000117972.html"
+      ]
+    }
+  }
+}

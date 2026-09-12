@@ -102,12 +102,15 @@ function ProductDetail() {
 
       <div className="bg-white rounded-2xl shadow-sm overflow-hidden mb-6">
         <ProductImage product={product} large />
+        {product.imageDisplayStatus === "generated" && <div className="px-6 py-4 bg-amber-50 border-b border-amber-200 text-sm text-amber-950"><strong>説明に基づく生成イメージです。実商品の写真・外観を保証するものではありません。</strong><p className="mt-2">再現の根拠：{product.imageGenerationBasis}</p></div>}
+        {product.imageFailureReason && <div className="px-6 py-3 text-xs text-slate-600 border-b border-slate-100"><p>画像調査：{product.imageFailureReason}</p><p className="mt-1">調査日：{product.imageSearchDate || "未記録"}</p><div className="flex flex-wrap gap-3 mt-2">{(product.imageSearchSources || "").split("\n").filter(url => safeHttpUrl(url)).map((url, index) => <a className="underline" href={safeHttpUrl(url)} key={url} target="_blank" rel="noopener noreferrer">調査した掲載元 {index + 1}</a>)}</div></div>}
         {product.imageDisplayStatus === "matched" && <div className="px-6 py-3 text-xs text-slate-500 border-b border-slate-100">
           <p>{product.imageMatchNote}</p>
           <p className="mt-1">画像と商品名の対応確認：{product.imageCheckedAt} ／ <a className="underline" href={safeHttpUrl(product.imageSourceUrl)} target="_blank" rel="noopener noreferrer">画像の掲載元</a></p>
           <p className="mt-1">掲載写真とDB対象年の一致・現在の販売状況は別途確認が必要です。</p>
         </div>}
         <div className="p-6">
+        {product.informationCheckedAt && <section className="mb-6 bg-blue-50 border border-blue-100 rounded-xl p-4"><h2 className="font-bold text-[#1F4E78]">最新の確認情報 <span className="text-sm">{product.informationCheckedAt}</span></h2><p className="text-sm mt-2">{product.latestUpdateSummary}</p><p className="text-sm mt-2">{product.latestDescription}</p><p className="text-sm mt-2">{product.latestPrice && `掲載価格：${product.latestPrice} ／ `}{product.latestAvailability}</p><a className="text-xs underline text-[#1F4E78] inline-block mt-2" href={safeHttpUrl(product.latestInfoUrl)} target="_blank" rel="noopener noreferrer">最新の公式掲載元{product.latestSourceDate ? `（公開日 ${product.latestSourceDate}）` : ""}</a><p className="text-xs text-slate-500 mt-2">以下の元DBの価格・対象年は調査当時の記録です。</p></section>}
         <div className="flex items-start justify-between gap-4 mb-4">
           <div>
             <div className="text-sm text-gray-400 mb-1 flex items-center gap-2">

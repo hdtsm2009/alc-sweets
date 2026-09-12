@@ -344,7 +344,7 @@ export default function HomePage() {
       </div>
 
       {/* 商品カード一覧 */}
-      <p className="text-xs text-slate-500 mb-4">商品写真は掲載元で商品名との対応を確認できたものを表示しています（全DB {products.filter(p => p.imageDisplayStatus === "matched").length}件）。記事の代表画像・ロゴ・対応未確認の写真は表示を保留しています。</p>
+      <p className="text-xs text-slate-500 mb-4">掲載写真 {products.filter(p => p.imageDisplayStatus === "matched").length}件 ／ 生成イメージ {products.filter(p => p.imageDisplayStatus === "generated").length}件。生成画像には実物写真ではないことを明記しています。<Link href="/images/" className="underline ml-2">未取得の理由・画像の出典を見る</Link></p>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 print-grid">
         {displayedProducts.map(p => (
           <article key={p.商品ID} className="surface flex flex-col overflow-hidden hover:shadow-md transition-shadow">

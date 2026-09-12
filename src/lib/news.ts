@@ -7,12 +7,20 @@ export function newsProducts(products: Product[]): Product[] {
 }
 
 export function imageForProduct(p: Product): string | undefined {
+  if (p.imageDisplayStatus === "generated" && p.imageGenerationBasis && /^\/images\/generated\/[A-Za-z0-9_-]+\.(?:png|webp|jpg)$/.test(p.imageUrl || "")) return p.imageUrl;
   if (p.imageDisplayStatus !== "matched" || !p.imageSourceUrl || !p.imageCheckedAt) return undefined;
+  if (/^\/images\/recovered\/[A-Za-z0-9_-]+\.(?:png|webp|jpg)$/.test(p.imageUrl || "")) return p.imageUrl;
   try {
     const url = new URL(p.imageUrl || "");
     if (["https:", "http:"].includes(url.protocol)) return url.href;
   } catch { /* An invalid source is a placeholder, never a broken product photograph. */ }
   return undefined;
+}
+
+export function latestProducts(products: Product[]): Product[] {
+  return products.filter(p => /^\d{4}-\d{2}-\d{2}$/.test(p.informationCheckedAt || "") && p.latestInfoUrl)
+    .sort((a, b) => (b.informationCheckedAt || "").localeCompare(a.informationCheckedAt || "") ||
+      (b.latestSourceDate || "").localeCompare(a.latestSourceDate || "") || a.商品ID.localeCompare(b.商品ID));
 }
 
 export function imagePlaceholder(p: Product): string {

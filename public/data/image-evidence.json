@@ -760,6 +760,3090 @@
       "brand": "カフェコムサ",
       "checkedAt": "2026-09-12",
       "contentType": "image/jpeg"
+    },
+    "SWT-202609-001": {
+      "contentType": "image/jpeg",
+      "url": "https://www.alacampagne.jp/wp-content/uploads/2026/07/240701タルトオプティフレーズ_w-300x300-1.jpg",
+      "checkedAt": "2026-09-12",
+      "alternates": [
+        "https://www.alacampagne.jp/wp-content/uploads/2026/07/240701タルトオプティフレーズ_w-300x300-1.jpg",
+        "https://www.alacampagne.jp/wp-content/uploads/2026/07/240701タルトオプティフレーズ_c-300x300-1.jpg"
+      ],
+      "source": "https://www.alacampagne.jp/products/tarte/",
+      "evidence": "同一商品ブロックのdata-nameと画像altが一致。data-imageにホール・カットの個別画像。",
+      "caption": "すずあかねのタルト（タルト・オ・プティ・フレーズ）",
+      "httpStatus": 200,
+      "method": "official-product-gallery",
+      "name": "すずあかねのタルト（タルト・オ・プティ・フレーズ）",
+      "brand": "ア・ラ・カンパーニュ"
+    },
+    "SWT-202609-002": {
+      "contentType": "image/jpeg",
+      "url": "https://www.alacampagne.jp/wp-content/uploads/2026/08/レザンノワールエピスターシュ_w.jpg",
+      "checkedAt": "2026-09-12",
+      "alternates": [
+        "https://www.alacampagne.jp/wp-content/uploads/2026/08/レザンノワールエピスターシュ_w.jpg",
+        "https://www.alacampagne.jp/wp-content/uploads/2026/08/レザンノワールエピスターシュ_c.jpg"
+      ],
+      "source": "https://www.alacampagne.jp/products/tarte/",
+      "evidence": "同一商品ブロックのdata-nameと画像altが一致。data-imageにホール・カットの個別画像。",
+      "caption": "ナガノパープルとピスタチオのタルト（レザン・ノワール・エ・ピスターシュ）",
+      "httpStatus": 200,
+      "method": "official-product-gallery",
+      "name": "ナガノパープルとピスタチオのタルト（レザン・ノワール・エ・ピスターシュ）",
+      "brand": "ア・ラ・カンパーニュ"
+    },
+    "SWT-202609-003": {
+      "contentType": "image/jpeg",
+      "url": "https://www.alacampagne.jp/wp-content/uploads/2026/08/タルトティラミスオマロン_w-1.jpg",
+      "checkedAt": "2026-09-12",
+      "alternates": [
+        "https://www.alacampagne.jp/wp-content/uploads/2026/08/タルトティラミスオマロン_w-1.jpg",
+        "https://www.alacampagne.jp/wp-content/uploads/2026/08/タルトティラミスオマロン_c-1.jpg"
+      ],
+      "source": "https://www.alacampagne.jp/products/tarte/",
+      "evidence": "同一商品ブロックのdata-nameと画像altが一致。data-imageにホール・カットの個別画像。",
+      "caption": "栗のティラミスタルト（タルト・ティラミス・オ・マロン）",
+      "httpStatus": 200,
+      "method": "official-product-gallery",
+      "name": "栗のティラミスタルト（タルト・ティラミス・オ・マロン）",
+      "brand": "ア・ラ・カンパーニュ"
+    },
+    "SWT-202609-004": {
+      "contentType": "image/jpeg",
+      "url": "https://www.alacampagne.jp/wp-content/uploads/2026/07/タルトオフィグ_w-300x300-1.jpg",
+      "checkedAt": "2026-09-12",
+      "alternates": [
+        "https://www.alacampagne.jp/wp-content/uploads/2026/07/タルトオフィグ_w-300x300-1.jpg",
+        "https://www.alacampagne.jp/wp-content/uploads/2026/07/タルトオフィグ_c-300x300-1.jpg"
+      ],
+      "source": "https://www.alacampagne.jp/products/tarte/",
+      "evidence": "同一商品ブロックのdata-nameと画像altが一致。data-imageにホール・カットの個別画像。",
+      "caption": "いちじくのタルト（タルト・オ・フィグ）",
+      "httpStatus": 200,
+      "method": "official-product-gallery",
+      "name": "いちじくのタルト（タルト・オ・フィグ）",
+      "brand": "ア・ラ・カンパーニュ"
+    },
+    "SWT-202609-005": {
+      "contentType": "image/jpeg",
+      "url": "https://www.alacampagne.jp/wp-content/uploads/2026/07/ガトーオフィグ_w-300x300-1.jpg",
+      "checkedAt": "2026-09-12",
+      "alternates": [
+        "https://www.alacampagne.jp/wp-content/uploads/2026/07/ガトーオフィグ_w-300x300-1.jpg",
+        "https://www.alacampagne.jp/wp-content/uploads/2026/07/ガトーオフィグ_c-300x300-1.jpg"
+      ],
+      "source": "https://www.alacampagne.jp/products/tarte/",
+      "evidence": "同一商品ブロックのdata-nameと画像altが一致。data-imageにホール・カットの個別画像。",
+      "caption": "いちじくのショートケーキ（ガトー・オ・フィグ）",
+      "httpStatus": 200,
+      "method": "official-product-gallery",
+      "name": "いちじくのショートケーキ（ガトー・オ・フィグ）",
+      "brand": "ア・ラ・カンパーニュ"
+    },
+    "SWT-202609-006": {
+      "contentType": "image/jpeg",
+      "url": "https://www.alacampagne.jp/wp-content/uploads/2026/08/タルトオエクラドミュスカ_w.jpg",
+      "checkedAt": "2026-09-12",
+      "alternates": [
+        "https://www.alacampagne.jp/wp-content/uploads/2026/08/タルトオエクラドミュスカ_w.jpg"
+      ],
+      "source": "https://www.alacampagne.jp/products/tarte/",
+      "evidence": "同一商品ブロックのdata-nameと画像altが一致。data-imageにホール・カットの個別画像。",
+      "caption": "シャインマスカットのタルト（タルト・オ・エクラ・ド・ミュスカ）",
+      "httpStatus": 200,
+      "method": "official-product-gallery",
+      "name": "シャインマスカットのタルト（タルト・オ・エクラ・ド・ミュスカ）",
+      "brand": "ア・ラ・カンパーニュ"
+    },
+    "SWT-202609-007": {
+      "contentType": "image/jpeg",
+      "url": "https://www.alacampagne.jp/wp-content/uploads/2026/08/ズコットアラカンパーニュ_w.jpg",
+      "checkedAt": "2026-09-12",
+      "alternates": [
+        "https://www.alacampagne.jp/wp-content/uploads/2026/08/ズコットアラカンパーニュ_w.jpg",
+        "https://www.alacampagne.jp/wp-content/uploads/2026/08/ズコットアラカンパーニュ_c.jpg"
+      ],
+      "source": "https://www.alacampagne.jp/products/tarte/",
+      "evidence": "同一商品ブロックのdata-nameと画像altが一致。data-imageにホール・カットの個別画像。",
+      "caption": "ア・ラ・カンパーニュのズコットタルト（ズコット ア・ラ・カンパーニュ）",
+      "httpStatus": 200,
+      "method": "official-product-gallery",
+      "name": "ア・ラ・カンパーニュのズコットタルト（ズコット ア・ラ・カンパーニュ）",
+      "brand": "ア・ラ・カンパーニュ"
+    },
+    "SWT-202609-008": {
+      "contentType": "image/jpeg",
+      "url": "https://www.alacampagne.jp/wp-content/uploads/2026/08/レザンブラン02.jpg",
+      "checkedAt": "2026-09-12",
+      "alternates": [
+        "https://www.alacampagne.jp/wp-content/uploads/2026/08/レザンブラン02.jpg",
+        "https://www.alacampagne.jp/wp-content/uploads/2026/08/レザンブラン01.jpg"
+      ],
+      "source": "https://www.alacampagne.jp/products/tarte/",
+      "evidence": "同一商品ブロックのdata-nameと画像altが一致。data-imageにホール・カットの個別画像。",
+      "caption": "白ぶどうのジュレ（レザン・ブラン ジュレ）",
+      "httpStatus": 200,
+      "method": "official-product-gallery",
+      "name": "白ぶどうのジュレ（レザン・ブラン ジュレ）",
+      "brand": "ア・ラ・カンパーニュ"
+    },
+    "SWT-202609-009": {
+      "contentType": "image/jpeg",
+      "url": "https://www.alacampagne.jp/wp-content/uploads/2026/07/コライユ・ロゼ_w-300x300-1.jpg",
+      "checkedAt": "2026-09-12",
+      "alternates": [
+        "https://www.alacampagne.jp/wp-content/uploads/2026/07/コライユ・ロゼ_w-300x300-1.jpg",
+        "https://www.alacampagne.jp/wp-content/uploads/2026/07/コライユ・ロゼ_img-300x300-1.jpg"
+      ],
+      "source": "https://www.alacampagne.jp/products/tarte/",
+      "evidence": "同一商品ブロックのdata-nameと画像altが一致。data-imageにホール・カットの個別画像。",
+      "caption": "コライユ・ロゼ",
+      "httpStatus": 200,
+      "method": "official-product-gallery",
+      "name": "コライユ・ロゼ",
+      "brand": "ア・ラ・カンパーニュ"
+    },
+    "SWT-202609-010": {
+      "contentType": "image/jpeg",
+      "url": "https://www.alacampagne.jp/wp-content/uploads/2026/08/シャテニエ_w.jpg",
+      "checkedAt": "2026-09-12",
+      "alternates": [
+        "https://www.alacampagne.jp/wp-content/uploads/2026/08/シャテニエ_w.jpg",
+        "https://www.alacampagne.jp/wp-content/uploads/2026/08/シャテニエ_c.jpg"
+      ],
+      "source": "https://www.alacampagne.jp/products/tarte/",
+      "evidence": "同一商品ブロックのdata-nameと画像altが一致。data-imageにホール・カットの個別画像。",
+      "caption": "シャテニエ（栗のムースとチョコレートのタルト）",
+      "httpStatus": 200,
+      "method": "official-product-gallery",
+      "name": "シャテニエ（栗のムースとチョコレートのタルト）",
+      "brand": "ア・ラ・カンパーニュ"
+    },
+    "SWT-202609-011": {
+      "contentType": "image/jpeg",
+      "url": "https://www.alacampagne.jp/wp-content/uploads/2026/07/シャルマンオフィグ_w-300x300-1.jpg",
+      "checkedAt": "2026-09-12",
+      "alternates": [
+        "https://www.alacampagne.jp/wp-content/uploads/2026/07/シャルマンオフィグ_w-300x300-1.jpg",
+        "https://www.alacampagne.jp/wp-content/uploads/2026/07/シャルマンオフィグ_img_2-300x300-1.jpg"
+      ],
+      "source": "https://www.alacampagne.jp/products/tarte/",
+      "evidence": "同一商品ブロックのdata-nameと画像altが一致。data-imageにホール・カットの個別画像。",
+      "caption": "シャルマン・オ・フィグ（いちじくとカスタードのタルト）",
+      "httpStatus": 200,
+      "method": "official-product-gallery",
+      "name": "シャルマン・オ・フィグ（いちじくとカスタードのタルト）",
+      "brand": "ア・ラ・カンパーニュ"
+    },
+    "SWT-202609-012": {
+      "contentType": "image/jpeg",
+      "url": "https://www.alacampagne.jp/wp-content/uploads/2026/07/タルトオフィグSP_w-300x300-1.jpg",
+      "checkedAt": "2026-09-12",
+      "alternates": [
+        "https://www.alacampagne.jp/wp-content/uploads/2026/07/タルトオフィグSP_w-300x300-1.jpg",
+        "https://www.alacampagne.jp/wp-content/uploads/2026/07/タルトオフィグSP_img-300x300-1.jpg"
+      ],
+      "source": "https://www.alacampagne.jp/products/tarte/",
+      "evidence": "同一商品ブロックのdata-nameと画像altが一致。data-imageにホール・カットの個別画像。",
+      "caption": "いちじくとヘーゼルナッツのタルト（タルト・オ ・フィグ・スペシャル）",
+      "httpStatus": 200,
+      "method": "official-product-gallery",
+      "name": "いちじくとヘーゼルナッツのタルト（タルト・オ ・フィグ・スペシャル）",
+      "brand": "ア・ラ・カンパーニュ"
+    },
+    "SWT-202609-013": {
+      "contentType": "image/jpeg",
+      "url": "https://www.alacampagne.jp/wp-content/uploads/2026/08/ミルクレープオフィグ_w.jpg",
+      "checkedAt": "2026-09-12",
+      "alternates": [
+        "https://www.alacampagne.jp/wp-content/uploads/2026/08/ミルクレープオフィグ_w.jpg",
+        "https://www.alacampagne.jp/wp-content/uploads/2026/08/ミルクレープオフィグ_c.jpg"
+      ],
+      "source": "https://www.alacampagne.jp/products/tarte/",
+      "evidence": "同一商品ブロックのdata-nameと画像altが一致。data-imageにホール・カットの個別画像。",
+      "caption": "いちじくのクレープタルト（ミルクレープ・オ・フィグ）",
+      "httpStatus": 200,
+      "method": "official-product-gallery",
+      "name": "いちじくのクレープタルト（ミルクレープ・オ・フィグ）",
+      "brand": "ア・ラ・カンパーニュ"
+    },
+    "SWT-202609-014": {
+      "contentType": "image/jpeg",
+      "url": "https://www.alacampagne.jp/wp-content/uploads/2026/07/フルール・ド・ショコラ_w-300x300-1.jpg",
+      "checkedAt": "2026-09-12",
+      "alternates": [
+        "https://www.alacampagne.jp/wp-content/uploads/2026/07/フルール・ド・ショコラ_w-300x300-1.jpg",
+        "https://www.alacampagne.jp/wp-content/uploads/2026/07/フルール・ド・ショコラ_c-300x300-1.jpg"
+      ],
+      "source": "https://www.alacampagne.jp/products/tarte/",
+      "evidence": "同一商品ブロックのdata-nameと画像altが一致。data-imageにホール・カットの個別画像。",
+      "caption": "チョコのパイタルト（フルール・ド・ショコラ）",
+      "httpStatus": 200,
+      "method": "official-product-gallery",
+      "name": "チョコのパイタルト（フルール・ド・ショコラ）",
+      "brand": "ア・ラ・カンパーニュ"
+    },
+    "SWT-202609-015": {
+      "contentType": "image/jpeg",
+      "url": "https://www.alacampagne.jp/wp-content/uploads/2026/08/タルトアラティラミス_w.jpg",
+      "checkedAt": "2026-09-12",
+      "alternates": [
+        "https://www.alacampagne.jp/wp-content/uploads/2026/08/タルトアラティラミス_w.jpg",
+        "https://www.alacampagne.jp/wp-content/uploads/2026/08/タルトアラティラミス_c.jpg"
+      ],
+      "source": "https://www.alacampagne.jp/products/tarte/",
+      "evidence": "同一商品ブロックのdata-nameと画像altが一致。data-imageにホール・カットの個別画像。",
+      "caption": "タルト・ア・ラ・ティラミス（ ティラミスのタルト）",
+      "httpStatus": 200,
+      "method": "official-product-gallery",
+      "name": "タルト・ア・ラ・ティラミス（ ティラミスのタルト）",
+      "brand": "ア・ラ・カンパーニュ"
+    },
+    "SWT-202609-016": {
+      "contentType": "image/jpeg",
+      "url": "https://cdn.shopify.com/s/files/1/0925/0822/5829/files/2026_01_a6d2fad8-da5e-4ec1-a213-1cbc03cb1299.jpg?v=1788158728",
+      "checkedAt": "2026-09-12",
+      "alternates": [
+        "https://cdn.shopify.com/s/files/1/0925/0822/5829/files/2026_01_a6d2fad8-da5e-4ec1-a213-1cbc03cb1299.jpg?v=1788158728",
+        "https://cdn.shopify.com/s/files/1/0925/0822/5829/files/2026_02_79d5caa7-091a-481e-ba13-5cdc28f06ceb.jpg?v=1788158721",
+        "https://cdn.shopify.com/s/files/1/0925/0822/5829/files/212cfca4d576ebf5cf4de729e5c1e71f.jpg?v=1755850154",
+        "https://cdn.shopify.com/s/files/1/0925/0822/5829/files/98b5f054218b0883d2de0a45cdec34a9.jpg?v=1756779276",
+        "https://cdn.shopify.com/s/files/1/0925/0822/5829/files/0bbe7c94498ffa28526a25aa31bcd709.jpg?v=1756779276"
+      ],
+      "source": "https://hattrick-shop.jp/products/aaug0002",
+      "evidence": "公式サイトからリンクされたショップ個別商品で商品名を確認し、その商品のfeatured_imageを取得。",
+      "caption": "秋の季節のお菓子箱 / 「ル・プティ・ボワ」",
+      "httpStatus": 200,
+      "method": "official-shop-product",
+      "name": "ル・プティ・ボワ",
+      "brand": "ア・ラ・カンパーニュ"
+    },
+    "SWT-202609-017": {
+      "contentType": "image/jpeg",
+      "url": "https://cdn.shopify.com/s/files/1/0925/0822/5829/files/01_d7d2ad41-d0f6-44af-9a2d-dac4bdc45b66.jpg?v=1788159631",
+      "checkedAt": "2026-09-12",
+      "alternates": [
+        "https://cdn.shopify.com/s/files/1/0925/0822/5829/files/01_d7d2ad41-d0f6-44af-9a2d-dac4bdc45b66.jpg?v=1788159631",
+        "https://cdn.shopify.com/s/files/1/0925/0822/5829/files/02_54a7bac2-f1c0-4273-a926-cf8c610eedf8.jpg?v=1788159631",
+        "https://cdn.shopify.com/s/files/1/0925/0822/5829/files/03_9ab98784-7110-4197-b587-76ce04039817.jpg?v=1788159631"
+      ],
+      "source": "https://hattrick-shop.jp/products/aaug0003",
+      "evidence": "公式サイトからリンクされたショップ個別商品で商品名を確認し、その商品のfeatured_imageを取得。",
+      "caption": "プチマカロンクッキーの詰め合わせ / 「プティット・ノワ」",
+      "httpStatus": 200,
+      "method": "official-shop-product",
+      "name": "プティット・ノワ",
+      "brand": "ア・ラ・カンパーニュ"
+    },
+    "SWT-202609-018": {
+      "evidence": "商品概要内の当該商品名strong見出しの直前にある2枚組。pieceとwholeのキャプションを確認しwholeを採用。冒頭集合写真は使わない。",
+      "checkedAt": "2026-09-12",
+      "source": "https://prtimes.jp/main/html/rd/p/000000092.000117972.html",
+      "caption": "栗とメイプルのタルト / whole (25cm)  ￥15,120",
+      "url": "https://prcdn.freetls.fastly.net/release_image/117972/92/117972-92-881a4a47ed2852ea86fc26013104367a-2000x1333.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "alternates": [
+        "https://prcdn.freetls.fastly.net/release_image/117972/92/117972-92-1c59fae4a7fb17d767fcfadff4324b96-2000x1333.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+        "https://prcdn.freetls.fastly.net/release_image/117972/92/117972-92-881a4a47ed2852ea86fc26013104367a-2000x1333.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff"
+      ],
+      "httpStatus": 200,
+      "method": "official-release-product-section",
+      "contentType": "image/jpeg",
+      "name": "栗とメイプルのタルト",
+      "brand": "キル フェ ボン"
+    },
+    "SWT-202609-019": {
+      "evidence": "商品概要内の当該商品名strong見出しの直前にある2枚組。pieceとwholeのキャプションを確認しwholeを採用。冒頭集合写真は使わない。",
+      "checkedAt": "2026-09-12",
+      "source": "https://prtimes.jp/main/html/rd/p/000000092.000117972.html",
+      "caption": "イチジクと赤いフルーツのチョコレートタルト / whole (25cm)  \\13,100",
+      "url": "https://prcdn.freetls.fastly.net/release_image/117972/92/117972-92-4ba40ca42ee117ae12fce8128de7f1dd-2000x1333.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "alternates": [
+        "https://prcdn.freetls.fastly.net/release_image/117972/92/117972-92-08694c75d9eeccceecb7bcb975e715c4-2000x1333.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+        "https://prcdn.freetls.fastly.net/release_image/117972/92/117972-92-4ba40ca42ee117ae12fce8128de7f1dd-2000x1333.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff"
+      ],
+      "httpStatus": 200,
+      "method": "official-release-product-section",
+      "contentType": "image/jpeg",
+      "name": "イチジクと赤いフルーツのチョコレートタルト",
+      "brand": "キル フェ ボン"
+    },
+    "SWT-202609-020": {
+      "evidence": "商品概要内の当該商品名strong見出しの直前にある2枚組。pieceとwholeのキャプションを確認しwholeを採用。冒頭集合写真は使わない。",
+      "checkedAt": "2026-09-12",
+      "source": "https://prtimes.jp/main/html/rd/p/000000092.000117972.html",
+      "caption": "モンブラン / whole (25cm) \\16,920",
+      "url": "https://prcdn.freetls.fastly.net/release_image/117972/92/117972-92-22a7bcaa673c36a568f74caaa598c26a-2000x1333.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "alternates": [
+        "https://prcdn.freetls.fastly.net/release_image/117972/92/117972-92-2af015f650f2145301558eb7f1cd6487-2000x1333.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+        "https://prcdn.freetls.fastly.net/release_image/117972/92/117972-92-22a7bcaa673c36a568f74caaa598c26a-2000x1333.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff"
+      ],
+      "httpStatus": 200,
+      "method": "official-release-product-section",
+      "contentType": "image/jpeg",
+      "name": "モンブラン",
+      "brand": "キル フェ ボン"
+    },
+    "SWT-202609-021": {
+      "evidence": "商品概要内の当該商品名strong見出しの直前にある2枚組。pieceとwholeのキャプションを確認しwholeを採用。冒頭集合写真は使わない。",
+      "checkedAt": "2026-09-12",
+      "source": "https://prtimes.jp/main/html/rd/p/000000092.000117972.html",
+      "caption": "黒洲きな粉とほうじ茶のタルト ～ショートケーキ風～ / whole (25cm) \\13,800",
+      "url": "https://prcdn.freetls.fastly.net/release_image/117972/92/117972-92-4dda47a50d6338e59f9e08e07f446dcf-2000x1333.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "alternates": [
+        "https://prcdn.freetls.fastly.net/release_image/117972/92/117972-92-232cd59e1dfc457a0f2a8e891d14991c-2000x1333.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+        "https://prcdn.freetls.fastly.net/release_image/117972/92/117972-92-4dda47a50d6338e59f9e08e07f446dcf-2000x1333.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff"
+      ],
+      "httpStatus": 200,
+      "method": "official-release-product-section",
+      "contentType": "image/jpeg",
+      "name": "黒洲きな粉とほうじ茶のタルト ～ショートケーキ風～",
+      "brand": "キル フェ ボン"
+    },
+    "SWT-202609-022": {
+      "evidence": "商品概要内の当該商品名strong見出しの直前にある2枚組。pieceとwholeのキャプションを確認しwholeを採用。冒頭集合写真は使わない。",
+      "checkedAt": "2026-09-12",
+      "source": "https://prtimes.jp/main/html/rd/p/000000092.000117972.html",
+      "caption": "京都府宇治市産 “辻喜”抹茶のテリーヌのタルト / whole (25cm)  \\15,120",
+      "url": "https://prcdn.freetls.fastly.net/release_image/117972/92/117972-92-a38c8833e1cf3768eb0b35c5d0a12193-2000x1333.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "alternates": [
+        "https://prcdn.freetls.fastly.net/release_image/117972/92/117972-92-868c4713a6b808fe43d02b3a2040b247-2000x1333.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+        "https://prcdn.freetls.fastly.net/release_image/117972/92/117972-92-a38c8833e1cf3768eb0b35c5d0a12193-2000x1333.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff"
+      ],
+      "httpStatus": 200,
+      "method": "official-release-product-section",
+      "contentType": "image/jpeg",
+      "name": "京都府宇治市産 “辻喜”抹茶のテリーヌのタルト",
+      "brand": "キル フェ ボン"
+    },
+    "SWT-202609-023": {
+      "evidence": "商品概要内の当該商品名strong見出しの直前にある2枚組。pieceとwholeのキャプションを確認しwholeを採用。冒頭集合写真は使わない。",
+      "checkedAt": "2026-09-12",
+      "source": "https://prtimes.jp/main/html/rd/p/000000092.000117972.html",
+      "caption": "季節のフルーツタルト～秋バージョン～ / whole (25cm) \\13,500",
+      "url": "https://prcdn.freetls.fastly.net/release_image/117972/92/117972-92-f1d26a9a4380809b07b8dd4f05830af0-2000x1333.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "alternates": [
+        "https://prcdn.freetls.fastly.net/release_image/117972/92/117972-92-ccbcd64cc5d5245b1cce4fd9b29a7043-2000x1333.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+        "https://prcdn.freetls.fastly.net/release_image/117972/92/117972-92-f1d26a9a4380809b07b8dd4f05830af0-2000x1333.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff"
+      ],
+      "httpStatus": 200,
+      "method": "official-release-product-section",
+      "contentType": "image/jpeg",
+      "name": "季節のフルーツタルト～秋バージョン～",
+      "brand": "キル フェ ボン"
+    },
+    "SWT-202609-024": {
+      "evidence": "商品概要内の当該商品名strong見出しの直前にある2枚組。pieceとwholeのキャプションを確認しwholeを採用。冒頭集合写真は使わない。",
+      "checkedAt": "2026-09-12",
+      "source": "https://prtimes.jp/main/html/rd/p/000000092.000117972.html",
+      "caption": "さつまいものタルト 〜黒糖風味〜 / whole (21cm) \\8,240",
+      "url": "https://prcdn.freetls.fastly.net/release_image/117972/92/117972-92-1788e1815bad3de5a999586dfae1cd99-2000x1333.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "alternates": [
+        "https://prcdn.freetls.fastly.net/release_image/117972/92/117972-92-286c4f4b96d2e414593fbb22a0162758-2000x1333.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+        "https://prcdn.freetls.fastly.net/release_image/117972/92/117972-92-1788e1815bad3de5a999586dfae1cd99-2000x1333.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff"
+      ],
+      "httpStatus": 200,
+      "method": "official-release-product-section",
+      "contentType": "image/jpeg",
+      "name": "さつまいものタルト 〜黒糖風味〜",
+      "brand": "キル フェ ボン"
+    },
+    "SWT-202609-025": {
+      "evidence": "商品概要内の当該商品名strong見出しの直前にある2枚組。pieceとwholeのキャプションを確認しwholeを採用。冒頭集合写真は使わない。",
+      "checkedAt": "2026-09-12",
+      "source": "https://prtimes.jp/main/html/rd/p/000000092.000117972.html",
+      "caption": "島根県産 “多伎いちじく”のタルト / whole (25cm) \\11,400",
+      "url": "https://prcdn.freetls.fastly.net/release_image/117972/92/117972-92-228b97aa2201bcdb314616de3ef787f5-2000x1333.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "alternates": [
+        "https://prcdn.freetls.fastly.net/release_image/117972/92/117972-92-7c6688169249d016f08ba03cdc781611-2000x1333.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+        "https://prcdn.freetls.fastly.net/release_image/117972/92/117972-92-228b97aa2201bcdb314616de3ef787f5-2000x1333.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff"
+      ],
+      "httpStatus": 200,
+      "method": "official-release-product-section",
+      "contentType": "image/jpeg",
+      "name": "島根県産 “多伎いちじく”のタルト",
+      "brand": "キル フェ ボン"
+    },
+    "SWT-202609-026": {
+      "evidence": "商品概要内の当該商品名strong見出しの直前にある2枚組。pieceとwholeのキャプションを確認しwholeを採用。冒頭集合写真は使わない。",
+      "checkedAt": "2026-09-12",
+      "source": "https://prtimes.jp/main/html/rd/p/000000092.000117972.html",
+      "caption": "オータムフルーツのタルト / whole (25cm) \\14,500",
+      "url": "https://prcdn.freetls.fastly.net/release_image/117972/92/117972-92-84df4b220ad30a0fa4c2f9ba12a8d3f0-2000x1333.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "alternates": [
+        "https://prcdn.freetls.fastly.net/release_image/117972/92/117972-92-fe18f28d296c8942f20fcd5b7ce5fc07-2000x1333.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+        "https://prcdn.freetls.fastly.net/release_image/117972/92/117972-92-84df4b220ad30a0fa4c2f9ba12a8d3f0-2000x1333.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff"
+      ],
+      "httpStatus": 200,
+      "method": "official-release-product-section",
+      "contentType": "image/jpeg",
+      "name": "オータムフルーツのタルト",
+      "brand": "キル フェ ボン"
+    },
+    "SWT-202609-027": {
+      "evidence": "商品概要内の当該商品名strong見出しの直前にある2枚組。pieceとwholeのキャプションを確認しwholeを採用。冒頭集合写真は使わない。",
+      "checkedAt": "2026-09-12",
+      "source": "https://prtimes.jp/main/html/rd/p/000000092.000117972.html",
+      "caption": "イチジクのタルト 〜ショートケーキ風〜 / whole (25cm) \\13,100",
+      "url": "https://prcdn.freetls.fastly.net/release_image/117972/92/117972-92-55c4a5b49d5437079ea16290797566ec-2000x1333.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "alternates": [
+        "https://prcdn.freetls.fastly.net/release_image/117972/92/117972-92-e1f75c16c8e3e024a02c4f967dcaa8ae-2000x1333.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+        "https://prcdn.freetls.fastly.net/release_image/117972/92/117972-92-55c4a5b49d5437079ea16290797566ec-2000x1333.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff"
+      ],
+      "httpStatus": 200,
+      "method": "official-release-product-section",
+      "contentType": "image/jpeg",
+      "name": "イチジクのタルト 〜ショートケーキ風〜",
+      "brand": "キル フェ ボン"
+    },
+    "SWT-202609-028": {
+      "evidence": "商品概要内の当該商品名strong見出しの直前にある2枚組。pieceとwholeのキャプションを確認しwholeを採用。冒頭集合写真は使わない。",
+      "checkedAt": "2026-09-12",
+      "source": "https://prtimes.jp/main/html/rd/p/000000092.000117972.html",
+      "caption": "北海道産 “らいでん”メロンのタルト / whole（25cm）￥13,800",
+      "url": "https://prcdn.freetls.fastly.net/release_image/117972/92/117972-92-767b97c550f752d84fcd2108635c8339-2000x1333.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "alternates": [
+        "https://prcdn.freetls.fastly.net/release_image/117972/92/117972-92-b6465657a418261e902d68bc13066d4d-2000x1333.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+        "https://prcdn.freetls.fastly.net/release_image/117972/92/117972-92-767b97c550f752d84fcd2108635c8339-2000x1333.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff"
+      ],
+      "httpStatus": 200,
+      "method": "official-release-product-section",
+      "contentType": "image/jpeg",
+      "name": "北海道産 “らいでん”メロンのタルト",
+      "brand": "キル フェ ボン"
+    },
+    "SWT-202609-029": {
+      "evidence": "商品概要内の当該商品名strong見出しの直前にある2枚組。pieceとwholeのキャプションを確認しwholeを採用。冒頭集合写真は使わない。",
+      "checkedAt": "2026-09-12",
+      "source": "https://prtimes.jp/main/html/rd/p/000000092.000117972.html",
+      "caption": "長野県産 “ハニーシードレス” のタルト / whole（25cm）￥14,500",
+      "url": "https://prcdn.freetls.fastly.net/release_image/117972/92/117972-92-058c0d7c6aee51fc6b708e113c641041-2000x1333.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "alternates": [
+        "https://prcdn.freetls.fastly.net/release_image/117972/92/117972-92-06f5e11a3fadce9210198221b226dfe1-2000x1333.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+        "https://prcdn.freetls.fastly.net/release_image/117972/92/117972-92-058c0d7c6aee51fc6b708e113c641041-2000x1333.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff"
+      ],
+      "httpStatus": 200,
+      "method": "official-release-product-section",
+      "contentType": "image/jpeg",
+      "name": "長野県産 “ハニーシードレス” のタルト",
+      "brand": "キル フェ ボン"
+    },
+    "SWT-0001": {
+      "name": "柑橘とマンゴーの甘酸っぱいレアチーズタルト",
+      "brand": "キル フェ ボン",
+      "url": "https://prcdn.freetls.fastly.net/release_image/117972/56/117972-56-78fafdd6182407c0982dba349467fc41-800x600.jpg?width=1950&height=1350&quality=85&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000000056.000117972.html",
+      "caption": "柑橘とマンゴーの甘酸っぱいレアチーズタルト。商品見出しと隣接写真の対応を確認",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "",
+        "before": "【開催期間】 2026年4月15日(水)～4月30日(木) 【開催店舗】 キル フェ ボン全12店舗 【展開内容】 本フェアでは、シトラスをテーマにした商品を販売いたします。 ・タルト 10種（※うち5種類は店舗限定商品） ・新作 焼菓子「レモンのバトン」 【関連URL】 https://www.quil-fait-bon.com/mtr/2026_citrus_fair.php 【公式 HP】 http://www.quil-fait-bon.com/ CITRUSフェア 対象商品（全店販売）",
+        "after": "「柑橘とマンゴーの甘酸っぱいレアチーズタルト」 甘酸っぱいジャムをサンドしたレアチーズに、味も見た目もさわやかな柑橘とマンゴーを飾りました。ほんのり焦がしたイタリアンメレンゲのやさしい甘みとの組み合わせをお楽しみください。 販売期間：2026年4月15日(水)～4月30日(木) 販売価格： piece ¥1,490 / whole(25cm) ¥14,904 販売店舗： 全12店舗"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0002": {
+      "name": "5種の柑橘のタルト",
+      "brand": "キル フェ ボン",
+      "url": "https://prcdn.freetls.fastly.net/release_image/117972/56/117972-56-36ce780565b18c7e32584bc7480e6cc3-800x600.jpg?width=1950&height=1350&quality=85&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000000056.000117972.html",
+      "caption": "5種の柑橘のタルト。商品見出しと隣接写真の対応を確認",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "",
+        "before": "「柑橘とマンゴーの甘酸っぱいレアチーズタルト」 甘酸っぱいジャムをサンドしたレアチーズに、味も見た目もさわやかな柑橘とマンゴーを飾りました。ほんのり焦がしたイタリアンメレンゲのやさしい甘みとの組み合わせをお楽しみください。 販売期間：2026年4月15日(水)～4月30日(木) 販売価格： piece ¥1,490 / whole(25cm) ¥14,904 販売店舗： 全12店舗",
+        "after": "「5種の柑橘のタルト」 春が旬の柑橘5種をたっぷりと使用し、まろやかな酸味を感じるコクのあるクリームとカスタードクリームをあわせたさっぱりとしたタルトです。 販売期間：2026年2月19日(木)～5月中旬の販売予定 販売価格： piece ¥1,296 / whole(25cm) ¥12,960 販売店舗： 全12店舗"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0003": {
+      "name": "ハチミツとレモンのタルト",
+      "brand": "キル フェ ボン",
+      "url": "https://prcdn.freetls.fastly.net/release_image/117972/56/117972-56-f048632c2fbce7c13bf6697e33260b68-800x600.jpg?width=1950&height=1350&quality=85&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000000056.000117972.html",
+      "caption": "ハチミツとレモンのタルト。商品見出しと隣接写真の対応を確認",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "",
+        "before": "「5種の柑橘のタルト」 春が旬の柑橘5種をたっぷりと使用し、まろやかな酸味を感じるコクのあるクリームとカスタードクリームをあわせたさっぱりとしたタルトです。 販売期間：2026年2月19日(木)～5月中旬の販売予定 販売価格： piece ¥1,296 / whole(25cm) ¥12,960 販売店舗： 全12店舗",
+        "after": "「ハチミツとレモンのタルト」 レモンを効かせたさわやかなムースに香りゆたかなハチミツムース、まろやかなクリームをあわせました。レモンとハチミツ、相性ぴったりの組み合わせをお楽しみください。 販売期間：2026年4月15日(水)～4月30日(木) 販売価格： piece ¥993 / whole(25cm) ¥9,936 販売店舗： 全12店舗"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0004": {
+      "name": "オレンジのタルト",
+      "brand": "キル フェ ボン",
+      "url": "https://prcdn.freetls.fastly.net/release_image/117972/56/117972-56-1732cf0fec0b3d7eb106b3306d515a67-800x600.jpg?width=1950&height=1350&quality=85&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000000056.000117972.html",
+      "caption": "オレンジのタルト。商品見出しと隣接写真の対応を確認",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "",
+        "before": "「ハチミツとレモンのタルト」 レモンを効かせたさわやかなムースに香りゆたかなハチミツムース、まろやかなクリームをあわせました。レモンとハチミツ、相性ぴったりの組み合わせをお楽しみください。 販売期間：2026年4月15日(水)～4月30日(木) 販売価格： piece ¥993 / whole(25cm) ¥9,936 販売店舗： 全12店舗",
+        "after": "「オレンジのタルト」 苦みのきいたチョコレートクリームとオレンジ風味豊かなクリーム、リキュールに漬けたみずみずしいオレンジがバランスのよいタルトです。 販売期間：2026年4月15日(水)～4月30日(木) 販売価格： piece ¥896 / whole(21cm) ¥8,067 販売店舗： 全12店舗"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0005": {
+      "name": "ライムのタルト～ココナッツ風味～",
+      "brand": "キル フェ ボン",
+      "url": "https://prcdn.freetls.fastly.net/release_image/117972/56/117972-56-b52e9c12fe47b81b9f79b573027fa2fe-800x600.jpg?width=1950&height=1350&quality=85&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000000056.000117972.html",
+      "caption": "ライムのタルト～ココナッツ風味～。商品見出しと隣接写真の対応を確認",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "",
+        "before": "「オレンジのタルト」 苦みのきいたチョコレートクリームとオレンジ風味豊かなクリーム、リキュールに漬けたみずみずしいオレンジがバランスのよいタルトです。 販売期間：2026年4月15日(水)～4月30日(木) 販売価格： piece ¥896 / whole(21cm) ¥8,067 販売店舗： 全12店舗",
+        "after": "「ライムのタルト～ココナッツ風味～」 ライムの皮をふんだんに使用し、さわやかな味わいのメレンゲクリームをタルトいっぱいに絞りました。ライムの果汁とバターをたっぷりと使用したクリームは濃厚な味わいの中に広がる酸味が楽しめます。甘く香るココナッツが好相性です。 販売期間：2026年4月15日(水)～4月30日(木) 販売価格： piece ¥993 / whole(25cm) ¥9,936 販売店舗： 全12店舗 CITRUSフェア 対象商品（店舗限定販売）"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0006": {
+      "name": "レモンのバトン",
+      "brand": "キル フェ ボン",
+      "url": "https://prcdn.freetls.fastly.net/release_image/117972/56/117972-56-30d89035e02b1277884fe04798df65e5-3900x2600.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000000056.000117972.html",
+      "caption": "レモンのバトン。商品見出しと隣接写真の対応を確認",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "",
+        "before": "の静岡産抹茶を組み合わせ、爽やかなタルトを作りました。アクセントに使用した求肥のもっちりとした食感、たっぷり敷きつめた抹茶風味のカスタードクリームと瑞々しいグレープフルーツ、爽やかな組み合わせから春の訪れを感じてください。 販売期間： 2026年4月1日(水)～4月30日(木) 販売価格： piece ¥1,198 / whole(25cm) ¥11,988 販売店舗： 静岡 ※全て税込み（8％）カフェの場合は税率が異なります。 新作焼菓子 ■ シトラスの魅力を焼菓子でも。レモンのバトンが新登場",
+        "after": "新作「レモンのバトン」 アーモンドプードルとバターを贅沢に使った生地に、砂糖漬けにしたレモンとほろ苦いレモンピールを閉じ込め、しっとりと香ばしく焼き上げました。 販売期間：2026年4月15日(水)～※無くなり次第終了 販売価格： 1本 ¥300 販売店舗： 全12店舗 キル フェ ボンについて"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0007": {
+      "name": "色とりどりのフルーツタルト～ホワイトチョコ風味～",
+      "brand": "キル フェ ボン",
+      "url": "https://prcdn.freetls.fastly.net/release_image/117972/39/117972-39-7d37ff2e475f1e5234aab672e780ec95-2000x1333.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000000039.000117972.html",
+      "caption": "色とりどりのフルーツタルト～ホワイトチョコ風味～。商品見出しと隣接写真の対応を確認",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "",
+        "before": "新作「色とりどりのフルーツタルト～ホワイトチョコ風味～」",
+        "after": "販売期間：12/20(土)～12/25(木)〈6日間限定〉 色とりどりのフルーツとホワイトチョコを加えたカスタードクリーム、ミルク風味豊かなバターをたっぷり使用したパイ生地との絶妙な相性が楽しめるタルトです。 piece ￥1,393 Whole (25cm) \\14,148 / (21cm) \\10,951 / (17cm) \\7,884 (13cm) \\5,378 新作「シャインマスカットとフリルクリームのタルト ～ホワイトチョコ風味～」"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0008": {
+      "name": "シャインマスカットとフリルクリームのタルト～ホワイトチョコ風味～",
+      "brand": "キル フェ ボン",
+      "url": "https://prcdn.freetls.fastly.net/release_image/117972/39/117972-39-8bb72cacc4d0f9e96e757bbc97bbb023-2000x1333.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000000039.000117972.html",
+      "caption": "シャインマスカットとフリルクリームのタルト～ホワイトチョコ風味～。商品見出しと隣接写真の対応を確認",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "",
+        "before": "販売期間：12/20(土)～12/25(木)〈6日間限定〉 色とりどりのフルーツとホワイトチョコを加えたカスタードクリーム、ミルク風味豊かなバターをたっぷり使用したパイ生地との絶妙な相性が楽しめるタルトです。 piece ￥1,393 Whole (25cm) \\14,148 / (21cm) \\10,951 / (17cm) \\7,884 (13cm) \\5,378 新作「シャインマスカットとフリルクリームのタルト ～ホワイトチョコ風味～」",
+        "after": "販売期間：12/20(土)～12/25(木)〈6日間限定〉 ミルク風味豊かなバターをたっぷり使用したパイ生地にホワイトチョコを加えたカスタードクリームを合わせ、パチンッとはじける果皮ごと楽しめるシャインマスカットと、雪のように真っ白なフリル状のクリームを飾りました。華やぐ季節にぴったりのタルトです。 piece ￥1,490 Whole (25cm) \\15,120 / (21cm) \\11,696 / (17cm) \\8,413 (13cm) \\5,734 「イチゴとフリルクリームのタルト ～ホワイトチョコ風味～」"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0009": {
+      "name": "クリスマスモンブラン",
+      "brand": "キル フェ ボン",
+      "url": "https://prcdn.freetls.fastly.net/release_image/117972/39/117972-39-80f86cbd135aee2a45ef312bfac4c461-2000x1333.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000000039.000117972.html",
+      "caption": "クリスマスモンブラン。商品見出しと隣接写真の対応を確認",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "",
+        "before": "販売期間：12/20(土)～12/25(木)〈6日間限定〉 艶のある真っ赤な色合い、ジューシーで甘い大粒の果肉の“あまおう”をたっぷりと詰めたタルトです。ホワイトチョコ風味のカスタードとクリームの組み合わせが相性抜群です。 piece ￥1,998 whole (25cm) \\20,196 / (17cm) \\11,210 / (13cm)￥7,614 ※名古屋栄、グランフロント大阪店、京都、福岡限定 新作「クリスマスモンブラン」",
+        "after": "販売期間：12/20(土)～12/25(木)〈6日間限定〉 じっくりと焼き上げた栗とチョコレート入りのアーモンドクリームに、たっぷりのホイップクリームをドーム状に重ね、ヨーロッパが誇る名峰モンブランの美しい山脈をイメージした和栗のマロンクリームを絞りました。ホクホクとした栗とチョコレートの食感がアクセント、クリスマスにぴったりの白い雪を纏ったモンブランです。 piece ￥1,198 Whole (25cm) \\14,601/ (17cm) \\6,814 ※東京スカイツリータウン・ソラマチ店、横浜、静岡、浜松、仙台、福岡 グランフロント大阪店、京都限定 「赤いフルーツのタルト～リース仕立て～」"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0010": {
+      "name": "赤いフルーツのタルト～リース仕立て～",
+      "brand": "キル フェ ボン",
+      "url": "https://prcdn.freetls.fastly.net/release_image/117972/39/117972-39-eae02d7603f8a295ddc453a0aa3dfde0-2000x1333.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000000039.000117972.html",
+      "caption": "赤いフルーツのタルト～リース仕立て～。商品見出しと隣接写真の対応を確認",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "",
+        "before": "のアーモンドクリームに、たっぷりのホイップクリームをドーム状に重ね、ヨーロッパが誇る名峰モンブランの美しい山脈をイメージした和栗のマロンクリームを絞りました。ホクホクとした栗とチョコレートの食感がアクセント、クリスマスにぴったりの白い雪を纏ったモンブランです。 piece ￥1,198 Whole (25cm) \\14,601/ (17cm) \\6,814 ※東京スカイツリータウン・ソラマチ店、横浜、静岡、浜松、仙台、福岡 グランフロント大阪店、京都限定 「赤いフルーツのタルト～リース仕立て～」",
+        "after": "販売期間：12/20(土)～12/25(木)〈6日間限定〉 まろやかな酸味を感じるコクのあるクリームのタルトにシナモンをふり、6種のベリーをふんだんに飾った甘酸っぱいタルトです。リースのように飾られたフルーツが、クリスマスにぴったりです。 piece ￥1,090 Whole (21cm) \\8,942 / (17cm) \\6,220 ※グランメゾン銀座、青山、東京ドームシティ店、東京スカイツリータウン・ソラマチ店、横浜、静岡、浜松、グランフロント大阪店、京都、福岡限定 「クルミとチョコレートのタルト」"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0011": {
+      "name": "金平糖型 チョコレートとオレンジのタルト",
+      "brand": "キル フェ ボン",
+      "url": "https://prcdn.freetls.fastly.net/release_image/117972/37/117972-37-5b4a31371cab092d9eb0d2b74353b98b-2000x1333.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000000037.000117972.html",
+      "caption": "金平糖型 チョコレートとオレンジのタルト。商品見出しと隣接写真の対応を確認",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "",
+        "before": "piece ￥993 / whole (25cm) \\9,936",
+        "after": "「金平糖型　チョコレートとオレンジのタルト」 メレンゲ入りの軽やかなチョコレート生地と、口どけなめらかなビターチョコの間にオレンジジャムをサンドし、雪の結晶をイメージしたクリームを絞りました。オレンジジャムに含まれる果皮のほどよい苦みがアクセントです。 販売期間：12/1(月)〜1/12(月)の販売予定 (12/20〜12/25販売中止)"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0012": {
+      "name": "特選 白イチゴ“初恋の香り”のタルト",
+      "brand": "キル フェ ボン",
+      "url": "https://prcdn.freetls.fastly.net/release_image/117972/37/117972-37-37dd355d6b64bc8a6385a71659fa69e5-2000x1333.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000000037.000117972.html",
+      "caption": "特選 白イチゴ“初恋の香り”のタルト。商品見出しと隣接写真の対応を確認",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "",
+        "before": "piece ￥1,998 / whole (21cm) \\15,984",
+        "after": "「特選 白イチゴ “初恋の香り”のタルト」 種が赤く色づくと食べ頃の合図の白イチゴ。一粒で濃厚な香りとたっぷりの果汁、そんな贅沢な白イチゴをふんだんに使用したタルトです。大きくひと口頬張るとやさしい甘みのババロアとバターたっぷりのパイ生地、そしてジューシーな白イチゴのハーモニーが口の中いっぱいに広がります。 販売期間：12/26(金)～2/28(土)の販売予定 ※12月中旬よりグランフロント大阪店 先行販売予定 ※白イチゴは収穫量が少ないため、ご予約は承っておりません。"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0030": {
+      "name": "ハロウィン アソート(S)",
+      "brand": "アンテノール",
+      "url": "https://www.edelweiss.co.jp/wpedel/wp-content/uploads/2025/09/06f490c4308417b1cbdb36a5acbbbd85.jpg",
+      "source": "https://www.edelweiss.co.jp/news/17323/",
+      "caption": "ハロウィン アソート(S)。商品見出しと隣接写真の対応を確認",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "",
+        "before": "ハロウィン限定ギフト 9月発売 【チョコレートサンドのラングドシャなど、クッキー3種類の詰め合わせ】",
+        "after": "ハロウィン アソート(S) ■価格：10個入￥864 （本体価格￥800） ■内容：ラングドシャ・ショコラ 4個、ラングドシャ・シトロン 4個、ビスキュイ・オ・ショコラ 2個 ■販売期間：9月1日(月)～10月31日(金)"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0031": {
+      "name": "おばけのレアチーズケーキ",
+      "brand": "アンテノール",
+      "url": "https://www.edelweiss.co.jp/wpedel/wp-content/uploads/2025/09/f97121d840a035f608e635ca31ef6d61.jpg",
+      "source": "https://www.edelweiss.co.jp/news/17323/",
+      "caption": "おばけのレアチーズケーキ。商品見出しと隣接写真の対応を確認",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "",
+        "before": "レーズンサンド フィナンシェ アソート 3個入 ■価格：3個入￥702 （本体価格￥650） ■内容：フィナンシェ 2個、レーズンサンド 1個 ■販売期間：9月1日(月)～10月31日(金) ハロウィン限定ケーキ 10月発売",
+        "after": "ハロウィン・レアチーズ 北海道産クリームチーズを使ったレアチーズムースと甘酸っぱい苺のムースをぎゅうひで包んで可愛いおばけになりました。 ■価格：￥735（本体価格￥680） ■販売期間：10月1日(水)～10月31日(金)"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0032": {
+      "name": "ビジュー・ド・フレーズ",
+      "brand": "アンテノール",
+      "url": "https://www.edelweiss.co.jp/wpedel/wp-content/uploads/2025/09/cb1fb4c0c14492f0dda13f78933fc855-scaled.jpg",
+      "source": "https://www.edelweiss.co.jp/news/17351/",
+      "caption": "ビジュー・ド・フレーズ。商品見出しと隣接写真の対応を確認",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "",
+        "before": "■早期お渡しについて 下記ケーキはお渡しの4日前までにご予約いただければ、12月1日(月)からのお渡しが可能です。 ○ノエル・フレーズ 15cm/18cm/21cm/24cm/27cm/30cm ○ガナッシュショコラ・ノエル 12cm/15cm ○フレーズ・デコレーション",
+        "after": "ビジュー・ド・フレーズ 【予約限定】 輝く苺を宝石に見立てたクリスマスのスペシャルデコレーション。 風味と食感の異なる2種類のスポンジを使用し、苺とフランボワーズのムース、北海道産生クリームをブレンドしたクリームと苺をサンドしました。"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0034": {
+      "name": "フィナンシェ・アソート〈ブーケ〉",
+      "brand": "アンリ・シャルパンティエ",
+      "url": "https://www.henri-charpentier.com/wp-content/uploads/2026/04/1040d88d6e24488e4af6e0b5f05f47c9.jpg",
+      "source": "https://www.henri-charpentier.com/news/2026/04/14/23835/",
+      "caption": "フィナンシェ・アソート〈ブーケ〉。商品見出しと隣接写真の対応を確認",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "",
+        "before": "フィナンシェ」です。 （※2）2019年10月1日～2020年9月30日のプレーンフィナンシェ販売金額。イプソス株式会社調べ（2021年に直近年度の調査を実施） 一般には流通がほとんどない、神戸市北区でつくられた希少な苺と、芦屋生まれ「アンリ・シャルパンティエ」のシェフが出会い、できた季節限定のフィナンシェ。みずみずしさとはじけるような食感「二郎(にろう)いちご」と代表商品「フィナンシェ」の組み合わせ。やさしい苺の甘みとバターの豊かなミルク感、香ばしいアーモンドの香りをぜひお召し上がりください。",
+        "after": "【商品名】フィナンシェ・アソート<ブーケ> 【価格（税込）】1,620円 【内容】フィナンシェ4個、いちごフィナンシェ4個 【シュゼット公式オンラインショップ】 【店舗受取ご予約ページ】 【販売期間】2026年4月25日（土）～5月10日（日） ※無くなり次第終了 ※シュゼット公式オンラインショップと店舗受取ご予約は4月17日から予約受付を開始いたします。 【販売店舗】全国のアンリ・シャルパンティエ店頭、またオンラインショップ ブーケをあしらったラング・ド・シャで、想いを伝えるお手伝い。"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0059": {
+      "name": "ハロウィンスイートとかぼちゃのキャラメルモンブランタルト",
+      "brand": "ラ・メゾン アンソレイユターブル",
+      "url": "https://www.la-maison.jp/news/img/92ecafe63789153169b272de14a5330573ff42db.jpg",
+      "source": "https://www.la-maison.jp/news/003227.html",
+      "caption": "ハロウィンスイートとかぼちゃのキャラメルモンブランタルト。商品見出しと隣接写真の対応を確認",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "ラ・メゾン_ハロウィンホール.jpg",
+        "before": "ハロウィンにおすすめのごちそう秋色タルト 濃密な甘みとろけるオレンジ色のさつまいも\"ハロウィンスイート\"を使用した、可愛らしいハロウィンタルトをご用意しました。 ラ・メゾンでハロウィン気分を楽しみませんか？ ハロウィンスイートとかぼちゃのキャラメルモンブランタルト",
+        "after": "1whole＜14cm＞￥4,280（税込） カスタードタルトにキャラメルクッキークリームと北海道産のかぼちゃクリームを重ねました。しっとりとした舌触りのハロウィンスイートとオリジナルのかぼちゃクッキーを飾ったハロウィンおすすめのタルトです。 販売期間：2025年10月15日（水）〜10月31日（金） 販売店舗：ラ・メゾン アンソレイユターブル パティスリー全店、ラ・メゾン アンソレイユターブル 一部店舗 ハロウィンスイートとかぼちゃのキャラメルクッキークリームタルト"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0060": {
+      "name": "ハロウィンスイートとかぼちゃのキャラメルクッキークリームタルト",
+      "brand": "ラ・メゾン アンソレイユターブル",
+      "url": "https://www.la-maison.jp/news/img/061e833dfc680ca891355c7d411a057a8a3fc7b3.jpg",
+      "source": "https://www.la-maison.jp/news/003227.html",
+      "caption": "ハロウィンスイートとかぼちゃのキャラメルクッキークリームタルト。商品見出しと隣接写真の対応を確認",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "ラ・メゾン_ハロウィンピース.jpg",
+        "before": "1whole＜14cm＞￥4,280（税込） カスタードタルトにキャラメルクッキークリームと北海道産のかぼちゃクリームを重ねました。しっとりとした舌触りのハロウィンスイートとオリジナルのかぼちゃクッキーを飾ったハロウィンおすすめのタルトです。 販売期間：2025年10月15日（水）〜10月31日（金） 販売店舗：ラ・メゾン アンソレイユターブル パティスリー全店、ラ・メゾン アンソレイユターブル 一部店舗 ハロウィンスイートとかぼちゃのキャラメルクッキークリームタルト",
+        "after": "1piece ￥1,180（税込） かぼちゃケークタルトに北海道産のかぼちゃクリームとキャラメルクッキークリームを重ね、しっとりとなめらかな食感で上品な甘みとオレンジ色の果肉が特徴のハロウィンスイートを飾りました。 販売期間：2025年10月1日（水）〜10月31日（金） ※カフェ店舗は10月15日（水）からの販売です。 販売店舗：ラ・メゾン アンソレイユターブル全店、 ラ・メゾン アンソレイユターブル パティスリー全店 最新情報一覧へ タルト メニュー ニュース 店舗情報 ブログ mekiki紀行 プライバシーポリシー お問い合わせ Copyright © 2020 PSCOOP All Rights Reserved. ▲ Google tag (gtag.js) window.data"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0061": {
+      "name": "プライムタルト・あまおう",
+      "brand": "ラ・メゾン アンソレイユターブル",
+      "url": "https://www.la-maison.jp/news/img/4d4e88d9c456d6989d3664de240933c2127bfba9.jpg",
+      "source": "https://www.la-maison.jp/news/003218.html",
+      "caption": "プライムタルト・あまおう。商品見出しと隣接写真の対応を確認",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "2025_プライム・あまおう_イメージ.jpg",
+        "before": "2025年10月1日（水）よりクリスマスケーキのご予約を開始します。 大切な方と過ごす特別なクリスマスに、ラ・メゾンのクリスマスタルトで素敵なひとときをお過ごしください。 クリスマス特設サイトはこちら 2025年 ラ・メゾン クリスマスケーキ 商品紹介 【予約限定】あまおうを使用した特別なタルト",
+        "after": "『プライムタルト・あまおう』 サイズ：直径約16cm（4〜5名様） 価格：￥8,860（税込） あまおうを贅沢に使い可愛らしく飾った限定のクリスマスタルト。甘くジューシーないちごの下にはピーチアプリコットジュレをアクセントにあまおうクリームとダージリンティークリームを重ね、オリジナルのアインシングクッキーを飾ったクリスマスの特別な日にぴったりなタルトです。 ※こちらはご予約限定商品となります。 いちごやチョコレートの定番人気のタルト"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0097": {
+      "name": "ひなまつりデコレーション",
+      "brand": "アンテノール",
+      "url": "https://prcdn.freetls.fastly.net/release_image/17643/1234/17643-1234-b251c38b7e9e07dcb8b4d4c799e55949-3900x3602.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000001234.000017643.html",
+      "caption": "ひなまつりデコレーション。商品見出しと隣接写真の対応を確認",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "",
+        "before": "会社概要 フォロー 【アンテノール】ひなまつりをお祝い！お⼦さまから⼤⼈まで楽しめる華やかな苺\u0000のケーキ、プチケーキのセットのご予約を承ります 株式会社 エーデルワイス 2026年2月12日 09時40分 いいね！数を読み込み中です 神⼾⽣まれのパティスリー「 アンテノール 」では2⽉28⽇(⼟)〜3⽉3⽇(⽕)の期間、ひなまつりケーキを販売いたします。ひな⼈形を飾った可愛らしいホールケーキや8つの味が楽しめるプチケーキの詰め合わせなどをご⽤意いたしました。全国の店頭にてご予約を開始いたします。",
+        "after": "ひなまつりデコレーション きめ細かなスポンジに苺と⼝どけのよいクリームをサンド。苺果汁で⾊付けしたクリームを絞り、苺とおひなさまで華やかに仕上げました。 ■価格： 直径12cm ￥3,456（本体価格￥3,200） 直径15cm ￥4,536（本体価格￥4,200）※画像 直径18cm ￥5,832（本体価格￥5,400）"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0138": {
+      "name": "ひなまつりプティフール",
+      "brand": "アンテノール",
+      "url": "https://prcdn.freetls.fastly.net/release_image/17643/1234/17643-1234-1488c7c75ea223269464ba62146cd887-3900x3678.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000001234.000017643.html",
+      "caption": "ひなまつりプティフール。商品見出しと隣接写真の対応を確認",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "",
+        "before": "ひなまつりデコレーション きめ細かなスポンジに苺と⼝どけのよいクリームをサンド。苺果汁で⾊付けしたクリームを絞り、苺とおひなさまで華やかに仕上げました。 ■価格： 直径12cm ￥3,456（本体価格￥3,200） 直径15cm ￥4,536（本体価格￥4,200）※画像 直径18cm ￥5,832（本体価格￥5,400）",
+        "after": "ひなまつりプティフール・フレ ひなまつりプティフール・フレ 苺のムース、モンブラン、ショコラ、レアチーズ、桃のムース、⼩倉抹茶、フルーツババロワ、マンゴーオランジェと8つの多彩な味わいが楽しめるセット。⾊々な美味しさを楽しみたい⽅におすすめです。 ■価格：￥3,024（本体価格￥2,800） ■⼊数：8個詰め合わせ"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0360": {
+      "name": "桃のタルト",
+      "brand": "アンテノール",
+      "url": "https://prcdn.freetls.fastly.net/release_image/17643/881/17643-881-3c9aa15af06141e5237cef76a4315ae0-1000x813.jpg?format=jpeg&auto=webp&quality=85%2C75&width=1950&height=1350&fit=bounds",
+      "source": "https://prtimes.jp/main/html/rd/p/000000881.000017643.html",
+      "caption": "桃のタルト。商品見出しと隣接写真の対応を確認",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "",
+        "before": "ル】甘くとろける桃フェスタ 7/15 から！全国のアンテノールにて期間限定で開催いたします。 株式会社 エーデルワイス 2023年7月8日 10時40分 いいね！数を読み込み中です 神戸生まれのパティスリー「アンテノール」では、７月 15日より桃づくしの「桃フェスタ」を開催いたします。桃のショートケーキや、桃をまるごと使ったまるごと桃ケーキ、桃のタルト、桃のチーズケーキ、桃とトロピカルなフルーツを組み合わせたこだわりの味わいのケーキをご用意しております。旬の桃の美味しさを存分にお楽しみください。",
+        "after": "【商品名】桃のタルト 【サイズ】直径約 12ｃｍ 【税込価格】￥2,376 【販売期間】7/15（土）～ 8/31（木） 【商品特徴】爽やかな桃のクリームと白桃を、カスタードを焼き込んだタルトに重ねました。"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0361": {
+      "name": "まるごと桃ケーキ",
+      "brand": "アンテノール",
+      "url": "https://prcdn.freetls.fastly.net/release_image/17643/881/17643-881-cc88beb26ee5e18dc36749089a5e9455-1000x1081.jpg?format=jpeg&auto=webp&quality=85%2C65&width=1950&height=1350&fit=bounds",
+      "source": "https://prtimes.jp/main/html/rd/p/000000881.000017643.html",
+      "caption": "まるごと桃ケーキ。商品見出しと隣接写真の対応を確認",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "",
+        "before": "【商品名】桃のタルト 【サイズ】直径約 12ｃｍ 【税込価格】￥2,376 【販売期間】7/15（土）～ 8/31（木） 【商品特徴】爽やかな桃のクリームと白桃を、カスタードを焼き込んだタルトに重ねました。",
+        "after": "【商品名】まるごと桃ケーキ 【税込価格】￥994 【販売期間】7/15（土）～ 8/18（金） 【商品特徴】桃の果肉をまるごと使ったケーキ。中には口どけなめらかなクリームを詰めました。 ※限定店舗で販売いたします。 ※桃の入荷状況により、終了が早まる可能性がございます。"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0364": {
+      "name": "白桃と紅茶のタルト",
+      "brand": "ラ・メゾン アンソレイユターブル",
+      "url": "https://www.la-maison.jp/news/img/bfbd4c82732b4f7ac8341b9e0835e78be9908f24.jpg",
+      "source": "https://www.la-maison.jp/news/003112.html",
+      "caption": "白桃と紅茶のタルト。商品見出しと隣接写真の対応を確認",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "250617-3977-LM-今月P-250801.jpg",
+        "before": "デザートをご紹介します。 8月も『桃マルシェ』を開催中。 産地が北上し、しっかりとした果肉の白桃を使用したタルトを多数ご用意いたしました。 ■8月のおすすめタルト 『白桃と紅茶のタルト』 1piece ¥1,280 ／ 1whole（直径21cm）¥12,800 歴代のタルトからもう一度食べたい！を叶える『タルト総選挙〜桃編〜』で1位に輝いたタルト。 アールグレイ香る紅茶ケークタルトになめらかな紅茶ディプロマットクリームを重ね、みずみずしい白桃と華やかなアールグレイの香りをお楽しみいただけます。",
+        "after": "＜カフェ店舗限定＞ 『岡山白桃とシャインマスカットのベイクドチーズタルト 』 1piece ¥1,680 ／ 1whole（直径21cm）¥16,800 甘く芳醇な香りの岡山県産白桃とシャインマスカットを飾ったタルト。ベイクドチーズタルトに甘酸っぱいクランベリージャムをしのばせ、ピーチヨーグルトクリームと合わせました。"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0365": {
+      "name": "岡山白桃とシャインマスカットのベイクドチーズタルト",
+      "brand": "ラ・メゾン アンソレイユターブル",
+      "url": "https://www.la-maison.jp/news/img/fb2e1b47cf744f3343dd36df5d2572e3fe45a473.jpg",
+      "source": "https://www.la-maison.jp/news/003112.html",
+      "caption": "岡山白桃とシャインマスカットのベイクドチーズタルト。商品見出しと隣接写真の対応を確認",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "250618-4072-LM-シーズンP-250801.jpg",
+        "before": "＜カフェ店舗限定＞ 『岡山白桃とシャインマスカットのベイクドチーズタルト 』 1piece ¥1,680 ／ 1whole（直径21cm）¥16,800 甘く芳醇な香りの岡山県産白桃とシャインマスカットを飾ったタルト。ベイクドチーズタルトに甘酸っぱいクランベリージャムをしのばせ、ピーチヨーグルトクリームと合わせました。",
+        "after": "＜パティスリー店舗限定＞ 『白桃とシャインマスカットのタルト 』 1piece ¥1,380 ／ 1whole（直径21cm）¥13,800 みずみずしいシャインマスカットと白桃を贅沢に使用したタルト。香ばしいアーモンドタルトに爽やかなギリシャヨーグルトクリームを重ね、甘酸っぱいベルガモットピーチジャムをしのばせました。"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0370": {
+      "name": "母の日限定ケーキ カーネーション",
+      "brand": "アンテノール",
+      "url": "https://prcdn.freetls.fastly.net/release_image/17643/1114/17643-1114-ead61a56f4b09b2c23566459963987bf-1023x728.jpg?width=1950&height=1350&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000001114.000017643.html",
+      "caption": "母の日限定ケーキ カーネーション。商品見出しと隣接写真の対応を確認",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "",
+        "before": "について 資料をダウンロード 株式会社 エーデルワイス 会社概要 フォロー 【アンテノール 母の日限定】ホワイトチョコでできた繊細なカーネーションのケーキで日頃の感謝を 株式会社 エーデルワイス 2025年4月17日 09時40分 いいね！数を読み込み中です 神戸生まれのパティスリー「 アンテノール 」では5月9日(金)より、母の日に感謝を伝えるのにぴったりなカーネーションのケーキを販売いたします。また、華やかなパッケージに苺の焼き菓子を詰め合わせた焼き菓子ギフトも、数量限定でご用意いたします。",
+        "after": "カーネーション（直径15cm） ホワイトチョコを1枚1枚丁寧にけずったカーネーション カーネーション 毎年大好評の『カーネーション』のケーキは、爽やかな甘みの苺と桃のヨーグルトムースに、甘酸っぱい苺のコンフィチュールやクリームをとじ込めた母の日限定ケーキです。カーネーションの花びらは、ホワイトチョコ。職人の手技で1枚ずつ薄くけずり取り、フリルにして丁寧に重ね、作り上げます。 お母さんをとびっきりの笑顔にするカーネーションのケーキ。アンテノールのケーキ取り扱い全店にて、ご予約を承っております。 ■価格： 直径12cm（3～4人分） ￥3,456（本体価格￥3,200) 直径15cm（4～6人分） ￥4,644（本体価格￥4,300）※画像 ■販売期間：5月9日(金)～5月11日(日) Maki"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0373": {
+      "name": "特選 宮崎県産マンゴーのタルト",
+      "brand": "キル フェ ボン",
+      "url": "https://prcdn.freetls.fastly.net/release_image/117972/24/117972-24-a0c5d6fa9e97d728445f35984f315270-2000x1333.jpg?format=jpeg&auto=webp&quality=85%2C65&width=1950&height=1350&fit=bounds",
+      "source": "https://prtimes.jp/main/html/rd/p/000000024.000117972.html",
+      "caption": "特選 宮崎県産マンゴーのタルト。商品見出しと隣接写真の対応を確認",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "",
+        "before": "2024 MANGO FAIR 開催概要 【開催日程】   2024年5月15日(水)～5月19日(日) 【開催店舗】   キル フェ ボン全店舗 【関連URL】 https://www.quil-fait-bon.com/mtr/2024_mango_fair.php 【公式  HP】 http://www.quil-fait-bon.com/ 「特選  宮崎県産 マンゴーのタルト」",
+        "after": "甘み、香り、ねっとりとした舌触り、濃厚な味わいの宮崎県産マンゴーにまろやかなカスタードクリームと甘酸っぱいフランボワーズを合わせて仕上げました。 【価格】 piece ¥2,700 / whole(25cm) ¥27,000 「マンゴーとコーヒーのタルト」"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0391": {
+      "name": "ナガノパープルとシャインマスカットのデザート",
+      "brand": "アンテノール",
+      "url": "https://prcdn.freetls.fastly.net/release_image/17643/995/17643-995-fcff37a4bae7d4da1b483edcd40ba185-1432x1210.jpg?format=jpeg&auto=webp&quality=85%2C65&width=1950&height=1350&fit=bounds",
+      "source": "https://prtimes.jp/main/html/rd/p/000000995.000017643.html",
+      "caption": "ナガノパープルとシャインマスカットのデザート。商品見出しと隣接写真の対応を確認",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "",
+        "before": "ノール】こぼれおちそうなぶどうのスイーツ！巨\u0000\u0000峰やシャインマスカット、ナガノパープルなど 株式会社 エーデルワイス 2024年8月8日 11時10分 いいね！数を読み込み中です 神戸生まれのパティスリー「アンテノール」ではぶどうが主役のスイーツを期間限定で販売いたします。糖度が高くぶどうの王様として不動の人気の「巨峰」、長野県で生まれ贈答品としても人気の高い「ナガノパープル」、上品で華やかな香りの「シャインマスカット」を使ったケーキの販売第一弾を8/19から、第二弾を9/1から開始いたします。",
+        "after": "【商品名】ナガノパープルとシャインマスカットのデザート 【税込価格】￥1,620 直径約12cm 【販売期間】9/1(日)～9/30(月) 皮まで食べられるナガノパープル、シャインマスカットと洋梨をさわやかなレモンゼリーにとじこめ、バニラババロワに重ねました。クッキー生地も香ばしいアクセントです。※岡山、九州地区はお取り扱いしておりません。"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0392": {
+      "name": "シャインマスカットと巨峰のデコレーション",
+      "brand": "アンテノール",
+      "url": "https://prcdn.freetls.fastly.net/release_image/17643/995/17643-995-61c9c8c55e35502230519e835b0aa556-1476x1566.jpg?format=jpeg&auto=webp&quality=85%2C65&width=1950&height=1350&fit=bounds",
+      "source": "https://prtimes.jp/main/html/rd/p/000000995.000017643.html",
+      "caption": "シャインマスカットと巨峰のデコレーション。商品見出しと隣接写真の対応を確認",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "",
+        "before": "【商品名】シャインマスカットと巨峰のフルーツショートケーキBOX 【税込価格】￥2,376 【販売期間】8/19(月)～10/10(木) さわやかな甘さの2色のぶどうをミルク感豊かなクリームと一緒に。サンドした甘酸っぱい苺がアクセントです。",
+        "after": "【商品名】シャインマスカットと巨峰のデコレーション 【税込価格】￥3,564直径約11.5cm*画像 ￥4,752 直径約14.5cm 【販売期間】9/1(日)～10/10(木) ミルク感豊かなクリーム、苺、2色のぶどうをしっとり焼き上げたスポンジケーキにサンドしました。 ※ケーキお受け取り日の4日前までにご予約ください。 ※岡山店のみ巨峰がピオーネに変更となります。※お取扱い商品は店舗により異なります。 「アンテノール」とは、1978年に神戸で「日本一の洋菓子をつくりたい」という1人の菓子職人の思いから誕生した株式会社エーデルワイスが展開する洋菓子ブランドです。全国の百貨店を中心に38店舗を展開し、店内厨房で仕上げるケーキや、こだわりの焼菓子をお届けしています。 【 ホームページ】 htt"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0394": {
+      "name": "焼き栗モンブラン 4個入",
+      "brand": "アンリ・シャルパンティエ",
+      "url": "https://prcdn.freetls.fastly.net/release_image/28015/164/28015-164-c07efc48420e1ebfadfc543f7bc33943-600x600.jpg?width=1950&height=1350&quality=85&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000000164.000028015.html",
+      "caption": "焼き栗モンブラン 4個入。商品見出しと隣接写真の対応を確認",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "",
+        "before": "焼き栗モンブラン 【商品名】焼き栗モンブラン 4個入 【個数／価格（税込）】4個入／1,242円（税込） 【発売日】2025年9月1日（月）～12月15日（火）　※なくなり次第終了 【販売場所】全国のアンリ・シャルパンティエ店舗、公式オンラインショップ 【公式オンラインショップ】 https://www.suzette-shop.jp/shop/c/cHg02/?utm_source=pr&utm_medium=refferal&utm_campaign=2509awpr",
+        "after": "4個入りパッケージ 兵庫の『美味しい』を詰め込んだ「ひょうご五國豊穣 丹波・栗おどるマロンケーキ」 「ひょうご五國豊穣プロジェクト」とは、南北ともに海に面し、地域ごとの気温差によって多様な農作物が育つ兵庫県の特性を活かし、「なかなか市場に出回らない地元の特産品を広めたい」と願う生産者、JAグループ兵庫、そして芦屋・神戸を原点とする洋菓子ブランド「アンリ・シャルパンティエ」の想いがひとつになって誕生した取り組みです。こうして、兵庫の魅力を詰め込んだ“ご当地フィナンシェ”が生まれました。"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0403": {
+      "name": "迎春プティフール・フレ（小型ケーキ8種セット）",
+      "brand": "アンテノール",
+      "url": "https://prcdn.freetls.fastly.net/release_image/17643/1065/17643-1065-e905899d9fac9edc32f22318bb92d624-2995x2572.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000001065.000017643.html",
+      "caption": "迎春プティフール・フレ（小型ケーキ8種セット）。商品見出しと隣接写真の対応を確認",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "",
+        "before": "ネス グルメ スポーツ … PR TIMESのご利用について 資料をダウンロード 株式会社 エーデルワイス 会社概要 フォロー 【アンテノール】新年に「スイーツおせち」で家族団らんのひとときを。新春を彩\u0000る「プティフール」や華やかケーキが登場。 株式会社 エーデルワイス 2024年12月13日 09時30分 いいね！数を読み込み中です アンテノール では、新春を彩るプティケーキの詰め合わせを12月30日（月）より発売いたします。選ぶ楽しさも広がるスイーツで家族団らんのひとときをお過ごしください。",
+        "after": "迎春プティフール・フレ お正月気分を盛り上げてくれる、小さめサイズのケーキ。人気の味わい8種類のお詰め合わせです。 商品名： 迎春プティフール・フレ 価格：8個入 ￥2,808（本体価格 ¥2,600） 販売期間：2024年12月30日（月）～2025年1月3日（金） 内容：プチシュー＆マロンババロワ、チョコレートムース、モンブラン、マンゴーババロワ、フルーツババロワ、苺のムース、レアチーズ、抹茶ムース"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0407": {
+      "name": "ハロウィンアソート(M)",
+      "brand": "アンテノール",
+      "url": "https://prcdn.freetls.fastly.net/release_image/17643/1015/17643-1015-ef38b28a9b77798ddbf2253a7acb281d-798x789.jpg?width=1950&height=1350&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000001015.000017643.html",
+      "caption": "ハロウィンアソート(M)。商品見出しと隣接写真の対応を確認",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "",
+        "before": "【商品名】ハロウィンアソート(S) 【税込価格】￥756 【販売期間】9/1(日)～10/31(木) 【内容】10個入 ラングドシャ・ショコラ 4個 ラングドシャ・シトロン 4個 ビスキュイ・オ・ショコラ 2個",
+        "after": "【商品名】ハロウィンアソート(M) 【税込価格】￥1,350 【販売期間】9/1(日)～10/31(木) 【内容】16個入 ラングドシャ・ショコラ 4個 ラングドシャ・シトロン 4個 ビスキュイ・オ・ショコラ 8個 リッチな味わいのフィナンシェと、ふうわり生地のレーズンサンド"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0409": {
+      "name": "焼き栗モンブラン（フィナンシェ）",
+      "brand": "アンリ・シャルパンティエ",
+      "url": "https://prcdn.freetls.fastly.net/release_image/28015/164/28015-164-c90ef8ea03b0c6d0547fae25e04ada8b-3900x2601.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000000164.000028015.html",
+      "caption": "焼き栗モンブラン（フィナンシェ）。商品見出しと隣接写真の対応を確認",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "",
+        "before": "販売金額。イプソス株式会社調べ（2021 年に直近年度の調査を実施） 栗の香りと風味が引き立つ、秋の人気No1スイーツ「焼き栗モンブラン」 厳選した香り高く濃厚な味わいのスペイン栗。その豊かな味わいをそのままペーストに加工し、美しいモンブラン絞りでデコレーションしました。フィナンシェ生地には白あんを使い、栗の柔らかな触感までも演出しました。仕上げは、小豆島の濃口減塩醤油をひと塗りして、ひとつひとつ直火で炙り、栗の香りと風味を引き立たせます。シェフの技が光る、秋のNo.1スイーツをご賞味ください。",
+        "after": "焼き栗モンブラン 【商品名】焼き栗モンブラン 4個入 【個数／価格（税込）】4個入／1,242円（税込） 【発売日】2025年9月1日（月）～12月15日（火）　※なくなり次第終了 【販売場所】全国のアンリ・シャルパンティエ店舗、公式オンラインショップ 【公式オンラインショップ】 https://www.suzette-shop.jp/shop/c/cHg02/?utm_source=pr&utm_medium=refferal&utm_campaign=2509awpr"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0421": {
+      "name": "イチゴとフリルクリームのタルト ～ホワイトチョコ風味～",
+      "brand": "キル フェ ボン",
+      "url": "https://prcdn.freetls.fastly.net/release_image/117972/32/117972-32-384d3c9ae2bada020fcd2fdff2d280e1-2000x1333.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000000032.000117972.html",
+      "caption": "イチゴとフリルクリームのタルト ～ホワイトチョコ風味～。商品見出しと隣接写真の対応を確認",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "",
+        "before": "ww.quil-fait-bon.com/mtr/2024_xmas_info.php 【公式 HP 】 https://www.quil-fait-bon.com/ ※グランメゾン銀座・青山・東京ドームシティ店を除く ※販売期間やケーキの種類は店舗によって異なります。 ※価格は全て税込み(8%)です。 ※ケーキの取り扱いは店舗により異なります。 ※全てのホールケーキにクリスマス用のチョコレートプレートがつきます。 全店共通メニュー 新作「イチゴとフリルクリームのタルト ～ホワイトチョコ風味～」",
+        "after": "サクサクのパイと優しい甘みのホワイトチョコカスタードに、フリル状のクリームとイチゴをたっぷりと飾りました。 赤と白のコントラストがクリスマスにぴったりのタルトです。 piece ￥1,242 whole (25cm) \\12,582 / (21cm) \\9,288 (17cm) \\6,696/(13cm) \\4,266 新作「シャインマスカットとホワイトチョコレートのタルト」"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0423": {
+      "name": "ハロウィンアソート(S)",
+      "brand": "アンテノール",
+      "url": "https://prcdn.freetls.fastly.net/release_image/17643/1015/17643-1015-8b666bc9ee8206a2c3b86d4ae7c6d5e8-904x921.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000001015.000017643.html",
+      "caption": "ハロウィンアソート(S)。商品見出しと隣接写真の対応を確認",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "",
+        "before": "軽やかな食感の生地にチョコサンドのラングドシャやクッキー３種類の詰め合わせ",
+        "after": "【商品名】ハロウィンアソート(S) 【税込価格】￥756 【販売期間】9/1(日)～10/31(木) 【内容】10個入 ラングドシャ・ショコラ 4個 ラングドシャ・シトロン 4個 ビスキュイ・オ・ショコラ 2個"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0523": {
+      "name": "フルーツタルトケーキ（タルト・オ・フリュイ・スュルジュレ）",
+      "brand": "ア・ラ・カンパーニュ",
+      "url": "https://hattrick-shop.jp/cdn/shop/files/180084253.webp?v=1756975394&width=416",
+      "source": "https://hattrick-shop.jp/products/astc0005",
+      "caption": "フルーツタルトケーキ（タルト・オ・フリュイ・スュルジュレ）。商品見出しと隣接写真の対応を確認",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "【お誕生日カード付】 フルーツタルトケーキ5号（15cm） / 「タルト・オ・フリュイ・スュルジュレ」",
+        "before": "",
+        "after": ""
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0180": {
+      "name": "ガトーショコラ・オコア",
+      "brand": "ラ・メゾン アンソレイユターブル",
+      "url": "https://makeshop-multi-images.akamaized.net/gmosp822/shopimages/99/05/16_000000000599.jpg?1669336746",
+      "source": "https://www.la-maison.jp/tart/",
+      "caption": "ガトーショコラ・オコア。商品見出しと隣接写真の対応を確認",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "",
+        "before": "ラ・メゾン フルーツタルト ［直径16cm］",
+        "after": "ガトーショコラ・オコア Reservation タルトの予約について バースデーや大切な記念日にホールタルト・タルト・フルールのご予約を承っております。 メッセージプレート ホールタルト、タルト・フルールをお買い求めのお客様には無料でお付けしています。 ご予約の際に内容をスタッフまでお伝えください。 キャンドル 雑貨コーナーにてお買い求めいただけます。 （10本入り・130円〜） ご予約・お問い合わせは 各ショップへお電話でお願いいたします。 ● 掲載商品の販売につきましてはショップにより異なる場合がございます。 ● ピースタルトのご予約は、申し訳ございませんがお断りしております。 ● お電話でご予約の際は次の内容をお伝えください。 （お名前・お電話番号・お受け取りの日付とお時間・お持ち帰り"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0062": {
+      "name": "とちあいかノエルタルト",
+      "brand": "ラ・メゾン アンソレイユターブル",
+      "url": "https://www.la-maison.jp/news/img/8ca08efe71470bfef30b661980d43788bb8ea309.jpg",
+      "source": "https://www.la-maison.jp/news/001757.html",
+      "caption": "とちあいかノエルタルト。商品見出しと隣接写真の対応を確認",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "LMO-冷凍T-Xmas商品画像-とちあいか-02.jpg",
+        "before": "ラ・メゾンオンラインショップでは、2025年11月1日（土）午前10時より、クリスマス限定タルトの予約受付を開始いたします。 旬のフルーツを贅沢に使用したもの、モンブラン仕立てのものなど、主役級の華やかさを誇るタルトたちが勢揃いです。今年も心を込めてご用意しました。 数に限りがございますので、今年のクリスマスを最高に彩るお気に入りのタルトを、どうぞお早めにご予約ください。 ご予約はこちらから",
+        "after": "■とちあいかノエルタルト ￥5,400（税込・送料別）／直径約16cm（4〜5名様分） バター香るサクッと香ばしいアーモンドタルトに、カスタードクリーム、ミルククリームの２種のクリームを重ね、甘みが強く赤色が美しいいちご「とちあいか」を飾って仕上げました。"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0352": {
+      "name": "しあわせサブレ・サレ",
+      "brand": "アンリ・シャルパンティエ",
+      "url": "https://www.henri-charpentier.com/wp-content/uploads/2025/07/87c54571d6dfc0e2e2de96466cd9390b.jpg",
+      "source": "https://www.henri-charpentier.com/news/2025/07/10/22181/",
+      "caption": "しあわせサブレ・サレ。商品見出しと隣接写真の対応を確認",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "",
+        "before": "バターの香りを最大限引き立たせる20 度低温での生地仕込みと、岩塩後入れ製法で、焼き上がり後も塩の粒感が残った、カリッとしたアクセントを実現しました。味わい深く、夏の暑さにも心地よい余韻を残す、さっぱりと爽やかな夏だけのしあわせをお届けします。あなたの夏の疲れに、喜び”ひと塩”。カジュアルな夏のお手土産や家族へのご褒美にもおすすめです。",
+        "after": "しあわせサブレ・サレ　6 枚入 【商品名】しあわせサブレ・サレ 【発売期間】2025 年7 月10 日（木）～8 月31 日（日） 【価格／内容】756 円（税込）／6 枚入、1,512 円（税込）／12 枚入 【販売店舗】全国のアンリ・シャルパンティエ店頭、アンリ・シャルパンティエ公式オンラインショップ 【アンリ・シャルパンティエ公式オンラインショップ】 夏の厄除け、お供えに。 帰省土産にベストな夏季限定＜大納言ふぃなんしぇ＞ 古くから夏の厄除け・邪気を払うと言われる小豆を使った夏季限定＜大納言ふぃなんしぇ＞が登場です。小豆は夏バテ（だるさ、疲労感）に効果があると言われるビタミンB1 を含み、夏にぴったりな食材です。 使用する北海道産大納言小豆は、大きな寒暖差が育んだ豆の糖度や風味が高いの"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0353": {
+      "name": "桃のタルト",
+      "brand": "キル フェ ボン",
+      "url": "https://www.quil-fait-bon.com/imgdata/omn/77w.jpg",
+      "source": "https://www.quil-fait-bon.com/menu/detail.php?tsp=1&tmn=77",
+      "caption": "桃のタルト。公式個別商品ページの写真。最新掲載を確認、収録当時の年度との一致は未確認",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "桃のタルト",
+        "before": "これをケーキにしたらどんなに美味しいのだろう！」と想像をするだけでワクワクしてしまいます。 そんなワクワクを実際にタルトに仕立て、今の季節にしか味わえないタルトを皆様にご紹介いたします。 ======================== //lead =============================================== ======================== Main ===================================== print 印刷",
+        "after": ""
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0354": {
+      "name": "静岡県産 桃薫（とうくん）のタルト",
+      "brand": "キル フェ ボン",
+      "url": "https://prcdn.freetls.fastly.net/release_image/117972/34/117972-34-946be86fdf58e5142fbe2b40a71dadcc-2000x1333.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000000034.000117972.html",
+      "caption": "静岡県産 桃薫（とうくん）のタルト。桃薫の商品見出し直後の写真。原参照465の現行ページからは見つからず、公式2025年記事で照合",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "",
+        "before": "【価格】 piece ¥1,350 / whole(25cm) ¥13,500 じっくりと焼き上げたココナッツ風味のアーモンドクリームに、ココナッツムースと自家製イチゴジャムを重ね、“空浮いちご”とフリル状のクリームを飾りました。 “空浮いちご”の可愛らしいフォルムを活かし、ホールのままのイチゴも使用しています。 さわやかなイチゴの酸味と、マイルドなココナッツの風味が好相性です。 「静岡県産 “桃薫(とうくん)” のタルト」",
+        "after": "【価格】 piece ¥1,404 / whole(25cm) ¥14,040 その名の通り、まるで桃のような甘い香りが特徴の“桃薫”。瑞々しい果肉とやさしい甘み、口に頬張るとひろがる桃の香りはこれまでのイチゴのイメージを覆します。その味わいを引き立てるため、カスタードクリームにはたっぷりのクリームを合わせ軽い口当りに。バターをたっぷり使用したパイ生地とともにお楽しみください。 「特選 白イチゴ “初恋の香り”のタルト」"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0369": {
+      "name": "ウィークエンド・シトロンのタルト",
+      "brand": "キル フェ ボン",
+      "url": "https://digitalpr.jp/simg/2915/110277/700_466_20250522121135682e95e7ed78a.jpg",
+      "source": "https://digitalpr.jp/r/110277",
+      "caption": "ウィークエンド・シトロンのタルト。商品見出しと隣接写真の対応を確認",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "",
+        "before": "「静岡県菊川産 2025年 深蒸し菊川新茶のタルト」 まろやかでコクが深い味わいの深蒸し茶、遠州発祥の製法で作られた茶葉が主役のタルトの登場です！ザクザク食感の緑茶入りのサブレに、緑茶とホワイトチョコを合わせた生地を流し、緑茶入りのクリームで仕上げた緑茶づくしのタルトです。風味豊かな遠州の緑茶を存分にお楽しみください。※地理的表示（GI）保護制度に登録された「深蒸し菊川茶」を使用 ※6/1〜7/31まで販売予定 【価格】Piece 896円(税込)/Whole(25cm) 8,964円(税込)",
+        "after": "「ウィークエンド・シトロンのタルト」 「週末に大切な人と食べるケーキ」としてフランスで親しまれている、伝統菓子のウィークエンド・シトロン。キルフェボンでは、優しい甘みのはちみつパウンドにグラス・オ・シトロン（レモンアイシング）を流し、レモンをたっぷりと飾りました。家族や親しい人とのティータイムのお菓子にいかがでしょうか。 ※6/1〜6/15まで販売予定 【価格】Piece 896円(税込）/ Whole(25cm）8,964円(税込)"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0372": {
+      "name": "イチゴとベリーのティラミス（母の日限定タルト）",
+      "brand": "キル フェ ボン",
+      "url": "https://prcdn.freetls.fastly.net/release_image/117972/58/117972-58-f57607c03e01658a08aed6c731e98c52-2000x1333.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000000058.000117972.html",
+      "caption": "イチゴとベリーのティラミス（母の日限定タルト）。商品見出しと隣接写真の対応を確認",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "",
+        "before": "piece  ￥1,490",
+        "after": "whole(25cm)￥14,904 whole (17cm) \\ 8,197 なめらかなマスカルポーネクリームとベリージャムを重ね、イチゴとともに、花びらのようなクリームをあしらいました。赤いカーネーションの花言葉は「母への愛」。真っ赤に咲くその姿をイメージした、華やかなタルトです。大切なお母さんへ、感謝の想いをやさしく届けます。 母の日の贈り物にぴったりの限定仕様 ■母の日限定チャームで、ギフトに華やかなアクセントを"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0435": {
+      "name": "プティ・ザッハ（1人サイズザッハトルテ／木箱ラッピング）",
+      "brand": "アンテノール",
+      "url": "https://www.fashion-press.net/img/news/128320/kLo.jpg",
+      "source": "https://www.fashion-press.net/news/128320",
+      "caption": "プティ・ザッハ（1人サイズザッハトルテ／木箱ラッピング）。商品説明と対応する3個入り木箱の商品写真",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "プティ・ザッハ(3個入り) 1,512円",
+        "before": "\").removeClass(\"is-active\")\n        setTimeout(function(){\n          $(\".copy_msg\").hide()\n        }, 300)\n      }, 3000)\n    })\n  }) 記事のURLをコピーしました pager 神戸発の洋菓子ブランド・ アンテノール (ANTÉNOR)から、バレンタインシーズン限定のチョコレートスイーツが登場。2025年1月10日(金)より順次発売される。 濃厚チョコのザッハトルテ",
+        "after": "プティ・ザッハ(3個入り) 1,512円 1人サイズのザッハトルテ「プティ・ザッハ」が登場。甘酸っぱいアプリコットジャムをチョコレートを使用したコク深い生地で包み込み、じっくりと焼き上げている。しっとりとした生地の上にチョコをかけた贅沢な仕上がりだ。パッケージも魅力で、上質感のある木箱に入れてもらえるのも嬉しい。 ホールサイズも"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0509": {
+      "name": "タルト・リュクス",
+      "brand": "ア・ラ・カンパーニュ",
+      "url": "https://www.alacampagne.jp/img/weborder/index/pc/ordercake02.jpg",
+      "source": "https://www.alacampagne.jp/weborder/",
+      "caption": "タルト・リュクス。商品見出しと隣接写真の対応を確認",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "タルト・リュクス",
+        "before": "タルト・メリメロ ア・ラ・カンパーニュで人気の「タルト・メリメロ」を、贅沢なアニバーサリーケーキに。",
+        "after": "タルト・リュクス タルト生地にカスタードクリームを合わせ、苺やラズベリー、ブルーベリーを飾った豪華なバースデータルト。"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0519": {
+      "name": "フーレ・プランタン",
+      "brand": "ア・ラ・カンパーニュ",
+      "url": "https://cdn.shopify.com/s/files/1/0925/0822/5829/files/2026sp_item_01-100.jpg?v=1774309753",
+      "source": "https://hattrick-shop.jp/pages/lp_wd",
+      "caption": "フーレ・プランタン。商品見出しと隣接写真の対応を確認",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "フーレ プランタンの画像",
+        "before": "テキストセクション スプリングギフト セゾン・ド・ドゥスール ｜ やさしさの季節 やわらかな陽ざしとともに訪れる、甘く穏やかなひととき。\n          心なごむ味わいを、春の空気とともに。 フランス語ではdouceurには「味の甘さ」だけでなく、 「空気のやわらかさ」「穏やかな幸福感」といった春らしいニュアンスも含まれます。 ※ア・ラ・カンパーニュ/グラモウディーズ共通テーマとなります。 追加されたセクション (画像)",
+        "after": ""
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0520": {
+      "name": "イチゴのクッキー（クッキー・オ・フレーズ）",
+      "brand": "ア・ラ・カンパーニュ",
+      "url": "https://cdn.shopify.com/s/files/1/0925/0822/5829/files/2026sp_item_02-100.jpg?v=1774309753",
+      "source": "https://hattrick-shop.jp/pages/lp_wd",
+      "caption": "イチゴのクッキー（クッキー・オ・フレーズ）。商品見出しと隣接写真の対応を確認",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "クッキーオフレーズの画像",
+        "before": "フーレ プランタン クッキーサンド 4個入り/￥1,728 購入ページへ",
+        "after": ""
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0521": {
+      "name": "春のギフトセット（コフレ・ド・プランタン）",
+      "brand": "ア・ラ・カンパーニュ",
+      "url": "https://cdn.shopify.com/s/files/1/0925/0822/5829/files/2026sp_item_03-100.jpg?v=1774309753",
+      "source": "https://hattrick-shop.jp/pages/lp_wd",
+      "caption": "春のギフトセット（コフレ・ド・プランタン）。商品見出しと隣接写真の対応を確認",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "コフレ ド プランタンの画像",
+        "before": "クッキーオフレーズ いちごのクッキー 5枚入り/￥648 購入ページへ",
+        "after": ""
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0088": {
+      "name": "PEANUTS フィナンシェ 3個入",
+      "brand": "アンリ・シャルパンティエ",
+      "url": "https://kisspress.jp/img/articles/59100-59199/59108/img69032ea193f55_xl.jpg",
+      "source": "https://kisspress.jp/articles/59108/",
+      "caption": "PEANUTS フィナンシェ 3個入。フィナンシェ3個入りの2025年PEANUTS限定パッケージの個別写真",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "「フィナンシェ 3個入」648円（税込）",
+        "before": "同店のフィナンシェは、アーモンドと発酵バターの香ばしさが特徴の焼き菓子で、外はさっくり、中はしっとりとした食感に仕上げられています。厳選された素材と職人の技術が生み出す豊かな風味は、多くの人々に愛され続けています。",
+        "after": "「フィナンシェ 3個入」648円（税込） 今回の限定デザインは、昨年好評を得たスヌーピーとのコラボレーションをリニューアルしたもので、スヌーピーとチャーリー・ブラウンがクリスマスを楽しむ様子が描かれた3個入りのパッケージと、フィナンシェを手にしたスヌーピーの表情が印象的な4個入りのパッケージの2種類が用意されます。 [ 広告 ] 記事の続きは下にスクロール (adsbygoogle = window.adsbygoogle || []).push({});"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0085": {
+      "name": "フィナンシェ・オ・ショコラ詰合 8個入",
+      "brand": "アンリ・シャルパンティエ",
+      "url": "https://prcdn.freetls.fastly.net/release_image/28015/145/28015-145-1c7bd73556779f49d3e8726de176b6e5-2227x2669.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000000145.000028015.html",
+      "caption": "フィナンシェ・オ・ショコラ詰合 8個入。公式記事が明記する8個入りの個別写真",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "",
+        "before": "成功しました。香り豊かなカカオが、ふっくらと味わい深いアンリ・シャルパンティエの「フィナンシェ」が持つ美味しさと融合し、濃厚でいてフルーティーな風味が愉しみいただけます。 今回新発売のバレンタイン限定パッケージは、レースを基調にエレガントで特別感を演出したデザインです。 フィナンシェとハイカカオのかつてない華やかなマリアージュを味わえる新作をお愉しみください。 （※）2019年10月1日～2020年9月30日のプレーンフィナンシェ販売金額。イプソス株式会社調べ（2021年に直近年度の調査を実施）",
+        "after": "フィナンシェ・オ・ショコラ詰合　8個入 【商品名】フィナンシェ・オ・ショコラ詰合4個入・8個入 ※フィナンシェ専用ハイカカオ73%チョコレート使用 【価格（税込み）／内容】1,080円／フィナンシェ2個、フィナンシェ・オ・ショコラ2個入 2,160円／フィナンシェ4個、フィナンシェ・オ・ショコラ4個入 【販売期間】2025年1月12日～2月14日 【販売場所】全国のアンリ・シャルパンティエ店舗、公式オンラインショップ ( https://www.suzette-shop.jp/shop/g/g4587/?utm_source=pr&utm_medium=refferal&utm_campaign=2502vtpr ) 毎年好評のバレンタインラインナップ　ハートのチョコ掛けサブレ"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0379": {
+      "name": "フィナンシェ・オ・ショコラ詰合（バレンタイン限定）",
+      "brand": "アンリ・シャルパンティエ",
+      "url": "https://prcdn.freetls.fastly.net/release_image/28015/145/28015-145-0cb8855707909b27f72a1bbd3b2695f4-3900x2680.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000000145.000028015.html",
+      "caption": "フィナンシェ・オ・ショコラ詰合（バレンタイン限定）。バレンタイン限定フィナンシェ・オ・ショコラ詰合せの商品写真。容量別写真ではない",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "",
+        "before": "選ぶ、食べる愉しみを想像しながら、アンリ・シャルパンティエならではのバレンタイン限定の特別なスイーツを作りました。バレンタイン限定のパッケージデザインは、上質でエレガントな装いの繊細なレースをイメージし、こだわりのチョコレートスイーツで、プレゼントや自分へのご褒美としてバレンタインをお愉しみください。 上質でエレガントなデザインのバレンタイン限定パッケージ「フィナンシェ・オ・ショコラ」新発売 世界で最も売れた(※)フィナンシェからハイカカオを使用した濃厚で、フルーティーな味わいのバレンタイン商品",
+        "after": "フィナンシェ・オ・ショコラ詰合せ 「フィナンシェ・オ・ショコラ」は、使用するチョコレートの開発から手掛けたアンリ・シャルパンティエならではのチョコレート商品です。シェフが、フィナンシェと相性が良いカカオ豆を世界中から探し出し、発酵やブレンドの試行錯誤を重ね、ハイカカオ73%のフィナンシェ専用チョコレートの開発に成功しました。香り豊かなカカオが、ふっくらと味わい深いアンリ・シャルパンティエの「フィナンシェ」が持つ美味しさと融合し、濃厚でいてフルーティーな風味が愉しみいただけます。 今回新発売のバレンタイン限定パッケージは、レースを基調にエレガントで特別感を演出したデザインです。 フィナンシェとハイカカオのかつてない華やかなマリアージュを味わえる新作をお愉しみください。 （※）2019年10月1"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0427": {
+      "name": "静岡県産クラウンメロンのスペシャルタルト（ティアラ型）",
+      "brand": "キル フェ ボン",
+      "url": "https://image.entabe.jp/upload/20250504/images/Quilfaitbon1.jpg",
+      "source": "https://entabe.jp/58313/quil-fait-bon-may-2025-early-summer-limited-fruit-tart",
+      "caption": "静岡県産クラウンメロンのスペシャルタルト（ティアラ型）。掲載見出し「タルトティアラ 特選クラウンメロンのタルト」と対応する写真",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "【キルフェボン】2025年5月最新｜初夏限定＆人気フルーツタルト",
+        "before": "画像の出典はすべて公式サイトから引用 【キルフェボン】2025年5月最新｜初夏限定＆人気フルーツタルト総まとめ キルフェボンの2025年5月最新、初夏限定＆人気フルーツタルトを特集しました。見た目も華やかで美味しい限定タルトが勢ぞろい。母の日や自分へのご褒美、大切な人とのひとときにぴったりな特別感あふれるラインナップをぜひチェックしてみてください。 【ネット予約限定】〜タルトティアラ〜特選クラウンメロンのタルト",
+        "after": "※取り扱い状況、商品詳細は公式ショップをご確認ください。 価格： ● ホール（17cm） イートイン 14,904円（税込）／テイクアウト 14,904円（税込） 販売期間：5月末まで 静岡県産クラウンメロンを贅沢に使用した、キルフェボンオリジナルのティアラ型スペシャルタルト。大ぶりにカットされた芳醇なメロンがタルト一面に敷き詰められ、トップには美しく放射状にトッピング。さらに香り高いマッカラン（ウイスキー）がふわりと香り、リッチで上品な味わいに。メロンの瑞々しさとクリームのコク、香りのハーモニーが楽しめます。母の日や誕生日、特別なお祝いシーンにふさわしい華やかな一品。 【新作】ラズベリーとバニラのタルト"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0437": {
+      "name": "桃となめらかミルクプリンのタルト",
+      "brand": "キル フェ ボン",
+      "url": "https://www.fashion-press.net/img/news/135109/Jnc.jpg",
+      "source": "https://www.fashion-press.net/news/135109",
+      "caption": "桃となめらかミルクプリンのタルト。2025年の「桃とミルクプリンのタルト」の個別写真。DBの商品名は説明付き表記",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "「桃とミルクプリンのタルト」ピース 1,155円、ホール(25cm) 11,556円",
+        "before": "「桃のタルト」ピース 1,177円、ホール(25cm) 11,772円 みずみずしい桃が主役の「ピーチ ウィーク」が2025年夏も開催へ。期間中は、新作「桃とミルクプリンのタルト」や山梨産のプレミアム桃を使用したタルトなど、全7種のラインナップを展開する。 「桃とミルクプリンのタルト」",
+        "after": "「桃とミルクプリンのタルト」ピース 1,155円、ホール(25cm) 11,556円 新作の「桃とミルクプリンのタルト」は、たっぷりと盛りつけた桃が印象的。ほのかに甘いビスケット風タルトに軽やかな口どけのミルクプリンと桃ジャムを重ねた。シンプルな素材を組み合わせているため、上品な甘さの桃をじっくり味わうことができる。 「山梨県産 プレミアムピーチのティラミス ～カフェラテ風味～」"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0510": {
+      "name": "サブレ・アソルティ",
+      "brand": "ア・ラ・カンパーニュ",
+      "url": "https://www.alacampagne.jp/img/products/bakedcake/index/coffret_sbl_a.jpg",
+      "source": "https://www.alacampagne.jp/products/bakedcake/",
+      "caption": "サブレ・アソルティ。公式単品商品画像のaltと商品名が一致",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "「サブレ・アソルティ」",
+        "before": "選べるコフレ3種 コフレ・アソルティ 公式オンラインで購入",
+        "after": "単品 サブレ・アソルティ 公式オンラインで購入"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0511": {
+      "name": "マドレーヌ・アソルティ",
+      "brand": "ア・ラ・カンパーニュ",
+      "url": "https://www.alacampagne.jp/img/products/bakedcake/index/coffret_m_a.jpg",
+      "source": "https://www.alacampagne.jp/products/bakedcake/",
+      "caption": "マドレーヌ・アソルティ。公式単品商品画像のaltと商品名が一致",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "「マドレーヌ・アソルティ」",
+        "before": "単品 サブレ・アソルティ 公式オンラインで購入",
+        "after": "単品 マドレーヌ・アソルティ 公式オンラインで購入"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0512": {
+      "name": "フィナンシェ・アソルティ",
+      "brand": "ア・ラ・カンパーニュ",
+      "url": "https://www.alacampagne.jp/img/products/bakedcake/index/coffret_f_a.jpg",
+      "source": "https://www.alacampagne.jp/products/bakedcake/",
+      "caption": "フィナンシェ・アソルティ。公式単品商品画像のaltと商品名が一致",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "「フィナンシェ・アソルティ」",
+        "before": "単品 マドレーヌ・アソルティ 公式オンラインで購入",
+        "after": "単品 フィナンシェ・アソルティ 公式オンラインで購入"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0513": {
+      "name": "コフレ・アソルティ",
+      "brand": "ア・ラ・カンパーニュ",
+      "url": "https://www.alacampagne.jp/img/products/bakedcake/index/coffret_c_a.jpg",
+      "source": "https://www.alacampagne.jp/products/bakedcake/",
+      "caption": "コフレ・アソルティ。公式単品商品画像のaltと商品名が一致",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "「コフレ・アソルティ」",
+        "before": "単品 フィナンシェ・アソルティ 公式オンラインで購入",
+        "after": "単品 コフレ・アソルティ 公式オンラインで購入 <section class=\"conjoined gateaux\">\n<h2><span>Online</span><em>オンライン限定商品</em></h2>\n<div>\n<figure class=\"visual-box\">\n<picture>\n<source media=\"(max-width: 1023px)\" srcset=\"https://www.alacampagne.jp/img/products/bakedcake/index/img-gateaux.jpg 2x\">\n<source media=\"(min-width: 1024px)\" srcset=\"https://www.alacampagne.jp/img/pro"
+      },
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "verifiedImage": true
+    },
+    "SWT-0498": {
+      "name": "チョコミントのタルト（タルト・オ・ショコラ・エ・マント）",
+      "brand": "ア・ラ・カンパーニュ",
+      "url": "/images/recovered/SWT-0498.jpg",
+      "source": "https://hamoni.jp/post/rt307aEWUCwijJC27Y0y",
+      "caption": "2022年7月販売時のタルト・オ・ショコラ・エ・マントのSNS投稿写真2。投稿者がミントを追加した写真1ではない。2026年版との一致は未確認。",
+      "method": "public-social-post",
+      "checkedAt": "2026-09-12",
+      "photoYear": "2022",
+      "postPageDate": "2024-02-16",
+      "verifiedImage": true,
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "expiryNote": "配信元は24時間署名URLのため、確認時の原画をローカル保存。公開出典ページにリンクする。",
+      "sha256": "21d54807bec804bc458014b4e48f400507612675966a2fbb6bfe738ac1d13b67"
+    },
+    "SWT-0397": {
+      "name": "ピュアフルーツジェリー 7個入（シャインマスカット入り）",
+      "brand": "千疋屋総本店",
+      "url": "https://www.sembikiya.co.jp/_bosys/wp-content/uploads/2023/06/purefruitjelly7_shinemuscat.jpg",
+      "source": "https://www.sembikiya.co.jp/product-info/grocery",
+      "caption": "ピュアフルーツジェリー7個入 （シャインマスカット入り） 掲載商品名との一致。DB対象年の画像かは未確認。",
+      "method": "image-alt",
+      "checkedAt": "2026-09-12",
+      "note": "掲載商品名との一致。DB対象年の画像かは未確認。",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "retrievable": true,
+      "imageFormat": "JPEG",
+      "dimensions": [
+        800,
+        800
+      ]
+    },
+    "SWT-0101": {
+      "name": "フルーツデコレーションケーキ4号",
+      "brand": "千疋屋総本店",
+      "url": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/bamiYhxjW0ej35euenebgtEHCw3XLOGXkWQlAx2V.jpg?w=512",
+      "source": "https://sembikiya.take-eats.jp/",
+      "caption": "フルーツデコレーションケーキ４号 掲載商品名との一致。DB対象年の画像かは未確認。",
+      "method": "image-alt",
+      "checkedAt": "2026-09-12",
+      "note": "掲載商品名との一致。DB対象年の画像かは未確認。",
+      "httpStatus": 200,
+      "contentType": "application/octet-stream",
+      "retrievable": true,
+      "imageFormat": "JPEG",
+      "dimensions": [
+        512,
+        341
+      ]
+    },
+    "SWT-0102": {
+      "name": "フルーツタルト4号",
+      "brand": "千疋屋総本店",
+      "url": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/Ddvr21HAkSj3TPcSztZCiAyT8r8AqPedxcD6Eftz.jpg?w=512",
+      "source": "https://sembikiya.take-eats.jp/",
+      "caption": "フルーツタルト4号サイズ 掲載商品名との一致。DB対象年の画像かは未確認。",
+      "method": "image-alt",
+      "checkedAt": "2026-09-12",
+      "note": "掲載商品名との一致。DB対象年の画像かは未確認。",
+      "httpStatus": 200,
+      "contentType": "application/octet-stream",
+      "retrievable": true,
+      "imageFormat": "JPEG",
+      "dimensions": [
+        512,
+        384
+      ]
+    },
+    "SWT-0103": {
+      "name": "スペシャルオレンジジェリー",
+      "brand": "千疋屋総本店",
+      "url": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/YYQhRn73VnXiunjRE212gn0DUXTyMtpAOtGdgoqc.jpg?w=512",
+      "source": "https://sembikiya.take-eats.jp/",
+      "caption": "スペシャル　オレンジジェリー 掲載商品名との一致。DB対象年の画像かは未確認。",
+      "method": "image-alt",
+      "checkedAt": "2026-09-12",
+      "note": "掲載商品名との一致。DB対象年の画像かは未確認。",
+      "httpStatus": 200,
+      "contentType": "application/octet-stream",
+      "retrievable": true,
+      "imageFormat": "JPEG",
+      "dimensions": [
+        512,
+        341
+      ]
+    },
+    "SWT-0107": {
+      "name": "クリームチーズケーキ4個入",
+      "brand": "千疋屋総本店",
+      "url": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/ORRvepTGanyvoh4m0FntZMlKSRvT4tkj6eCyt6pe.jpg?w=512",
+      "source": "https://sembikiya.take-eats.jp/",
+      "caption": "クリームチーズケーキ　4個入 掲載商品名との一致。DB対象年の画像かは未確認。",
+      "method": "image-alt",
+      "checkedAt": "2026-09-12",
+      "note": "掲載商品名との一致。DB対象年の画像かは未確認。",
+      "httpStatus": 200,
+      "contentType": "application/octet-stream",
+      "retrievable": true,
+      "imageFormat": "JPEG",
+      "dimensions": [
+        512,
+        341
+      ]
+    },
+    "SWT-0106": {
+      "name": "フルーツケーキ10個 化粧箱入",
+      "brand": "千疋屋総本店",
+      "url": "https://www.sembikiya.co.jp/_bosys/wp-content/uploads/2025/02/newFruitCake10.jpg",
+      "source": "https://www.sembikiya.co.jp/product-info/grocery",
+      "caption": "フルーツケーキ10個 化粧箱入 掲載商品名との一致。DB対象年の画像かは未確認。",
+      "method": "official-catalog-section",
+      "checkedAt": "2026-09-12",
+      "note": "掲載商品名との一致。DB対象年の画像かは未確認。",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "imageFormat": "JPEG",
+      "dimensions": [
+        1024,
+        890
+      ],
+      "retrievable": true
+    },
+    "SWT-0041": {
+      "name": "ハピネス～シャインマスカット＆いちじく～",
+      "brand": "新宿高野",
+      "url": "https://takano.jp/takano/wordpress/wp-content/uploads/2026/08/ハピネス〜シャインマスカット＆いちじく〜-400x300.jpg",
+      "source": "https://takano.jp/takano/product/recommend/cake/",
+      "caption": "ハピネス～シャインマスカット＆いちじく～ 掲載商品名との一致。DB対象年の画像かは未確認。",
+      "method": "official-catalog-section",
+      "checkedAt": "2026-09-12",
+      "note": "掲載商品名との一致。DB対象年の画像かは未確認。",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "imageFormat": "JPEG",
+      "dimensions": [
+        400,
+        300
+      ],
+      "retrievable": true
+    },
+    "SWT-0074": {
+      "name": "オレンジフロマージュ",
+      "brand": "新宿高野",
+      "url": "https://takano.jp/takano/wordpress/wp-content/uploads/2026/03/オレンジフロマージュ-2-400x300.jpg",
+      "source": "https://takano.jp/takano/product/recommend/cake/",
+      "caption": "オレンジフロマージュ 掲載商品名との一致。DB対象年の画像かは未確認。",
+      "method": "official-catalog-section",
+      "checkedAt": "2026-09-12",
+      "note": "掲載商品名との一致。DB対象年の画像かは未確認。",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "imageFormat": "JPEG",
+      "dimensions": [
+        400,
+        300
+      ],
+      "retrievable": true
+    },
+    "SWT-0026": {
+      "name": "ブルーベリーチーズタルト",
+      "brand": "HARBS",
+      "url": "https://www.harbs.co.jp/wp/wp-content/uploads/2023/06/ブルーベリーチーズタルト.png",
+      "source": "https://www.harbs.co.jp/wp-json/wp/v2/media/729?_fields=id,source_url,title,post",
+      "caption": "公式公開画像の名称「ブルーベリーチーズタルト」、関連する公開商品「ブルーベリーチーズタルト（202509新価格）※入荷状況により販売終了」を照合。 公式に掲載された過去商品写真。現行販売・DB対象年の写真であることまでは未確認。",
+      "method": "official-media-product-relation",
+      "checkedAt": "2026-09-12",
+      "parentEvidence": "https://www.harbs.co.jp/wp-json/wp/v2/cake/1312?_fields=id,title,status",
+      "note": "公式に掲載された過去商品写真。現行販売・DB対象年の写真であることまでは未確認。",
+      "httpStatus": 200,
+      "contentType": "image/png",
+      "imageFormat": "PNG",
+      "dimensions": [
+        600,
+        451
+      ],
+      "retrievable": true
+    },
+    "SWT-0027": {
+      "name": "夏いちごのケーキ",
+      "brand": "HARBS",
+      "url": "https://www.harbs.co.jp/wp/wp-content/uploads/2023/06/夏いちごのケーキ.png",
+      "source": "https://www.harbs.co.jp/wp-json/wp/v2/media/1295?_fields=id,source_url,title,post",
+      "caption": "公式公開画像の名称「夏いちごのケーキ」、関連する公開商品「夏いちごのケーキ（202509新価格）※入荷状況により販売開始（東海エリア限定ケーキ<br>入荷状況により販売開始）」を照合。 公式に掲載された過去商品写真。現行販売・DB対象年の写真であることまでは未確認。",
+      "method": "official-media-product-relation",
+      "checkedAt": "2026-09-12",
+      "parentEvidence": "https://www.harbs.co.jp/wp-json/wp/v2/cake/723?_fields=id,title,status",
+      "note": "公式に掲載された過去商品写真。現行販売・DB対象年の写真であることまでは未確認。",
+      "httpStatus": 200,
+      "contentType": "image/png",
+      "imageFormat": "PNG",
+      "dimensions": [
+        600,
+        451
+      ],
+      "retrievable": true
+    },
+    "SWT-0028": {
+      "name": "メロンケーキ",
+      "brand": "HARBS",
+      "url": "https://www.harbs.co.jp/wp/wp-content/uploads/2023/04/メロンケーキ.png",
+      "source": "https://www.harbs.co.jp/wp-json/wp/v2/media/672?_fields=id,source_url,title,post",
+      "caption": "公式公開画像の名称「メロンケーキ」、関連する公開商品「メロンケーキ（202509新価格）入荷状況により販売終了」を照合。 公式に掲載された過去商品写真。現行販売・DB対象年の写真であることまでは未確認。",
+      "method": "official-media-product-relation",
+      "checkedAt": "2026-09-12",
+      "parentEvidence": "https://www.harbs.co.jp/wp-json/wp/v2/cake/706?_fields=id,title,status",
+      "note": "公式に掲載された過去商品写真。現行販売・DB対象年の写真であることまでは未確認。",
+      "httpStatus": 200,
+      "contentType": "image/png",
+      "imageFormat": "PNG",
+      "dimensions": [
+        600,
+        451
+      ],
+      "retrievable": true
+    },
+    "SWT-0063": {
+      "name": "モカケーキ",
+      "brand": "HARBS",
+      "url": "https://www.harbs.co.jp/wp/wp-content/uploads/2022/11/モカケーキ.png",
+      "source": "https://www.harbs.co.jp/wp-json/wp/v2/media/1256?_fields=id,source_url,title,post",
+      "caption": "公式公開画像の名称「モカケーキ」、関連する公開商品「モカケーキ（20260325新価格）」を照合。 公式に掲載された過去商品写真。現行販売・DB対象年の写真であることまでは未確認。",
+      "method": "official-media-product-relation",
+      "checkedAt": "2026-09-12",
+      "parentEvidence": "https://www.harbs.co.jp/wp-json/wp/v2/cake/478?_fields=id,title,status",
+      "note": "公式に掲載された過去商品写真。現行販売・DB対象年の写真であることまでは未確認。",
+      "httpStatus": 200,
+      "contentType": "image/png",
+      "imageFormat": "PNG",
+      "dimensions": [
+        600,
+        450
+      ],
+      "retrievable": true
+    },
+    "SWT-0064": {
+      "name": "チェリーのチーズスフレ",
+      "brand": "HARBS",
+      "url": "https://www.harbs.co.jp/wp/wp-content/uploads/2023/03/チェリーのチーズスフレ.png",
+      "source": "https://www.harbs.co.jp/wp-json/wp/v2/media/658?_fields=id,source_url,title,post",
+      "caption": "公式公開画像の名称「チェリーのチーズスフレ」、関連する公開商品「チェリーのチーズスフレ（202509新価格）」を照合。 公式に掲載された過去商品写真。現行販売・DB対象年の写真であることまでは未確認。",
+      "method": "official-media-product-relation",
+      "checkedAt": "2026-09-12",
+      "parentEvidence": "https://www.harbs.co.jp/wp-json/wp/v2/cake/669?_fields=id,title,status",
+      "note": "公式に掲載された過去商品写真。現行販売・DB対象年の写真であることまでは未確認。",
+      "httpStatus": 200,
+      "contentType": "image/png",
+      "imageFormat": "PNG",
+      "dimensions": [
+        600,
+        451
+      ],
+      "retrievable": true
+    },
+    "SWT-0065": {
+      "name": "アップルマンゴーのケーキ",
+      "brand": "HARBS",
+      "url": "https://www.harbs.co.jp/wp/wp-content/uploads/2023/04/アップルマンゴーのケーキ.png",
+      "source": "https://www.harbs.co.jp/wp-json/wp/v2/media/1301?_fields=id,source_url,title,post",
+      "caption": "公式公開画像の名称「アップルマンゴーのケーキ」、関連する公開商品「アップルマンゴーのケーキ（202509新価格）」を照合。 公式に掲載された過去商品写真。現行販売・DB対象年の写真であることまでは未確認。",
+      "method": "official-media-product-relation",
+      "checkedAt": "2026-09-12",
+      "parentEvidence": "https://www.harbs.co.jp/wp-json/wp/v2/cake/664?_fields=id,title,status",
+      "note": "公式に掲載された過去商品写真。現行販売・DB対象年の写真であることまでは未確認。",
+      "httpStatus": 200,
+      "contentType": "image/png",
+      "imageFormat": "PNG",
+      "dimensions": [
+        600,
+        451
+      ],
+      "retrievable": true
+    },
+    "SWT-0066": {
+      "name": "ストロベリーチーズケーキ",
+      "brand": "HARBS",
+      "url": "https://www.harbs.co.jp/wp/wp-content/uploads/2023/02/ストロベリーチーズケーキ.png",
+      "source": "https://www.harbs.co.jp/wp-json/wp/v2/media/518?_fields=id,source_url,title,post",
+      "caption": "公式公開画像の名称「ストロベリーチーズケーキ」、関連する公開商品「ストロベリーチーズケーキ（202509新価格）」を照合。 公式に掲載された過去商品写真。現行販売・DB対象年の写真であることまでは未確認。",
+      "method": "official-media-product-relation",
+      "checkedAt": "2026-09-12",
+      "parentEvidence": "https://www.harbs.co.jp/wp-json/wp/v2/cake/512?_fields=id,title,status",
+      "note": "公式に掲載された過去商品写真。現行販売・DB対象年の写真であることまでは未確認。",
+      "httpStatus": 200,
+      "contentType": "image/png",
+      "imageFormat": "PNG",
+      "dimensions": [
+        600,
+        451
+      ],
+      "retrievable": true
+    },
+    "SWT-0067": {
+      "name": "さくらケーキ",
+      "brand": "HARBS",
+      "url": "https://www.harbs.co.jp/wp/wp-content/uploads/2023/02/さくらケーキ.png",
+      "source": "https://www.harbs.co.jp/wp-json/wp/v2/media/532?_fields=id,source_url,title,post",
+      "caption": "公式公開画像の名称「さくらケーキ」、関連する公開商品「さくらケーキ（202509新価格）」を照合。 公式に掲載された過去商品写真。現行販売・DB対象年の写真であることまでは未確認。",
+      "method": "official-media-product-relation",
+      "checkedAt": "2026-09-12",
+      "parentEvidence": "https://www.harbs.co.jp/wp-json/wp/v2/cake/531?_fields=id,title,status",
+      "note": "公式に掲載された過去商品写真。現行販売・DB対象年の写真であることまでは未確認。",
+      "httpStatus": 200,
+      "contentType": "image/png",
+      "imageFormat": "PNG",
+      "dimensions": [
+        600,
+        451
+      ],
+      "retrievable": true
+    },
+    "SWT-0073": {
+      "name": "レモンショートケーキ",
+      "brand": "新宿高野",
+      "url": "https://takano.jp/takano/wordpress/wp-content/uploads/2025/03/c20240205_05_レモンショートケーキ_合成完成_サイズ変更.jpg",
+      "source": "https://takano.jp/takano/wp-json/wp/v2/media/408210?_fields=id%2Ctitle%2Csource_url%2Cpost%2Cdate",
+      "caption": "公式公開画像の名称「c20240205_05_レモンショートケーキ_合成完成_サイズ変更」の商品部分を照合。 編集用の日時や補足を除いた商品名が一致。DB対象年の画像かは未確認。",
+      "method": "official-media-title-reviewed",
+      "checkedAt": "2026-09-12",
+      "note": "編集用の日時や補足を除いた商品名が一致。DB対象年の画像かは未確認。",
+      "retrievable": true,
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "imageFormat": "JPEG",
+      "dimensions": [
+        640,
+        480
+      ]
+    },
+    "SWT-0075": {
+      "name": "レモンゼリー",
+      "brand": "新宿高野",
+      "url": "https://takano.jp/takano/wordpress/wp-content/uploads/2025/03/c20240205_06_レモンゼリー_キリ.jpg",
+      "source": "https://takano.jp/takano/wp-json/wp/v2/media/408211?_fields=id%2Ctitle%2Csource_url%2Cpost%2Cdate",
+      "caption": "公式公開画像の名称「c20240205_06_レモンゼリー_キリ」の商品部分を照合。 編集用の日時や補足を除いた商品名が一致。DB対象年の画像かは未確認。",
+      "method": "official-media-title-reviewed",
+      "checkedAt": "2026-09-12",
+      "note": "編集用の日時や補足を除いた商品名が一致。DB対象年の画像かは未確認。",
+      "retrievable": true,
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "imageFormat": "JPEG",
+      "dimensions": [
+        640,
+        480
+      ]
+    },
+    "SWT-0082": {
+      "name": "ハピネス～シャインマスカット＆みかん～",
+      "brand": "新宿高野",
+      "url": "https://takano.jp/takano/wordpress/wp-content/uploads/2024/10/11月商品情報画像_c20240905_10_ハピネスシャインマスカットみかん.jpg",
+      "source": "https://takano.jp/takano/wp-json/wp/v2/media/307477?_fields=id%2Ctitle%2Csource_url%2Cpost%2Cdate",
+      "caption": "公式公開画像の名称「11月商品情報画像_c20240905_10_ハピネスシャインマスカット&みかん」の商品部分を照合。 編集用の日時や補足を除いた商品名が一致。DB対象年の画像かは未確認。",
+      "method": "official-media-title-reviewed",
+      "checkedAt": "2026-09-12",
+      "note": "編集用の日時や補足を除いた商品名が一致。DB対象年の画像かは未確認。",
+      "retrievable": true,
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "imageFormat": "JPEG",
+      "dimensions": [
+        640,
+        460
+      ]
+    },
+    "SWT-0401": {
+      "name": "クイーンストロベリーのショートケーキ",
+      "brand": "千疋屋総本店",
+      "url": "https://www.sembikiya.co.jp/_bosys/wp-content/uploads/2019/01/8b6a1b2cc317b7454e09a8371571eb4b.jpg",
+      "source": "https://www.sembikiya.co.jp/wp-json/wp/v2/media/12048?_fields=id%2Ctitle%2Csource_url%2Cpost%2Cdate",
+      "caption": "公式公開画像の名称「クイーンストロベリーショートケーキ」の商品部分を照合。 編集用の日時や補足を除いた商品名が一致。DB対象年の画像かは未確認。",
+      "method": "official-media-title-reviewed",
+      "checkedAt": "2026-09-12",
+      "note": "編集用の日時や補足を除いた商品名が一致。DB対象年の画像かは未確認。",
+      "retrievable": true,
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "imageFormat": "JPEG",
+      "dimensions": [
+        5964,
+        3968
+      ]
+    },
+    "SWT-0414": {
+      "name": "ガトー カドゥ ユイット ノエル",
+      "brand": "資生堂パーラー",
+      "url": "https://prcdn.freetls.fastly.net/release_image/6543/792/6543-792-60debe3d5f1f5741f2bdb15166e8b669-3360x2240.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000000792.000006543.html",
+      "caption": "◆『ガトー カドゥ ユイット ノエル』 8,640円",
+      "context": "◆『ガトー カドゥ ユイット ノエル』 8,640円 クリスマスの夜空をイメージしたカラーで贈り物のように仕立てました。ショコラブランのムースをメインに、チーズケーキやブルーベリージュレの爽やかな風味をアクセントにした濃厚なホワイトチョコレートのケーキです。 *サイズ：13×13×高さ10cm （リボンの部分を除く）",
+      "method": "named-product-block",
+      "checkedAt": "2026-09-12"
+    },
+    "SWT-0418": {
+      "name": "ガトー ノエル",
+      "brand": "資生堂パーラー",
+      "url": "https://prcdn.freetls.fastly.net/release_image/6543/792/6543-792-ab6cab2b024d54f71e8d8f949504d0a4-3360x2240.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000000792.000006543.html",
+      "caption": "◆『ガトー ノエル』 8,640円",
+      "context": "◆『ガトー ノエル』 8,640円 資生堂パーラー自慢のふんわりとした軽い口どけの真っ白な生クリームに真っ赤な苺をふんだんに盛り付け、チョコレートでツリーのようにデコレーションしたショートケーキです。 *サイズ：直径15×高さ14 cm（本体部分）",
+      "method": "named-product-block",
+      "checkedAt": "2026-09-12"
+    },
+    "SWT-0426": {
+      "name": "ココット ドゥ ノエル オ ショコラ",
+      "brand": "資生堂パーラー",
+      "url": "https://prcdn.freetls.fastly.net/release_image/6543/792/6543-792-778d785be271c484a91d03ceae78ac54-3900x2601.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000000792.000006543.html",
+      "caption": "◆『ココット ドゥ ノエル オ ショコラ』 15,660円",
+      "context": "◆『ココット ドゥ ノエル オ ショコラ』 15,660円 *資生堂パーラー クールバッグ付 「祝福」の花言葉を持つ大きな赤いポインセチアと赤い果実がココットを彩ります。中はシャンティショコラやビスキュイショコラ、ブラックショコラ、ムースショコラなどで10層に仕上げました。ショコラをふんだんにお楽しみいただける濃厚なチョコレートケーキです。 *サイズ：直径19×高さ 8 ㎝（ココット部分） *アルコールを使用しております。",
+      "method": "named-product-block",
+      "checkedAt": "2026-09-12"
+    },
+    "SWT-0452": {
+      "name": "サパン センシュエル",
+      "brand": "Sadaharu AOKI",
+      "url": "https://prcdn.freetls.fastly.net/release_image/29116/76/29116-76-1477f67027b695e7f133c8fc4af9bf48-3900x3467.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000000076.000029116.html",
+      "caption": "真っ赤なツリーの形がキュートなケーキ「サパン センシュエル」。優しい甘さのクレーム オ ショコラの口溶けにジュレフランボワーズの酸味が絡み合う、その名の通り「官能的」な一品。ショコラの深く濃厚な味わいと軽やかなフランボワーズのマリアージュをお楽しみください。",
+      "context": "サパン センシュエル 6,156円(税込) 約17.5㎝×13.5㎝×3㎝(H)　5～6名様用 真っ赤なツリーの形がキュートなケーキ「サパン センシュエル」。優しい甘さのクレーム オ ショコラの口溶けにジュレフランボワーズの酸味が絡み合う、その名の通り「官能的」な一品。ショコラの深く濃厚な味わいと軽やかなフランボワーズのマリアージュをお楽しみください。",
+      "method": "named-product-block",
+      "checkedAt": "2026-09-12"
+    },
+    "SWT-0453": {
+      "name": "サパン ショコラ ピスタッシュ",
+      "brand": "Sadaharu AOKI",
+      "url": "https://prcdn.freetls.fastly.net/release_image/29116/76/29116-76-6fbb498faa8288505474ea13f36099a9-3030x2436.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000000076.000029116.html",
+      "caption": "サパン ショコラ ピスタッシュ 3,780円(税込)",
+      "context": "サパン ショコラ ピスタッシュ 3,780円(税込) 約12㎝×9.5㎝×3㎝(H)　2名様用 モミの木に象られた「サパン ショコラ ピスタッシュ」は、香り高いピスタチオの独特な旨みとコクを活かしたなめらかなクリームが主役。そこに寄り添うのは濃厚なクレーム オ ショコラと、サクッと軽やかな食感が楽しいクランブル ショコラ。クレーム オ ショコラに忍ばせたフランボワーズの酸味とともに、奥深い味わいを演出します。一面に輝くピスタチオグリーンの美しさはまさに本物のクリスマスツリーのよう。ピスタチオが放つ濃密な味わいをお楽しみください。",
+      "method": "named-product-block",
+      "checkedAt": "2026-09-12"
+    },
+    "SWT-0036": {
+      "name": "黒ねこデザインのチョコプリン",
+      "brand": "銀座コージーコーナー",
+      "url": "https://prcdn.freetls.fastly.net/release_image/4367/1360/4367-1360-becb91161abfb0b37a1ebc05e2c8bb74-1800x1286.jpg",
+      "source": "https://prtimes.jp/main/html/rd/p/000001360.000004367.html",
+      "caption": "チョコプリン 公式発表の対象年とDB対象年が一致。本文の商品見出しに直結した写真URLを確認。",
+      "method": "prtimes-adjacent-product-heading",
+      "checkedAt": "2026-09-12",
+      "note": "公式発表の対象年とDB対象年が一致。本文の商品見出しに直結した写真URLを確認。",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "retrievable": true,
+      "imageFormat": "JPEG",
+      "dimensions": [
+        1800,
+        1286
+      ],
+      "visualCheck": "本文DOMの見出し対応と画像デコードを確認。写真の目視確認は未実施。"
+    },
+    "SWT-0089": {
+      "name": "ひなパーティー（8個入）",
+      "brand": "銀座コージーコーナー",
+      "url": "https://prcdn.freetls.fastly.net/release_image/4367/1392/4367-1392-f3fc2b9e615d1ad742bbb9f446408e86-1800x1286.jpg",
+      "source": "https://prtimes.jp/main/html/rd/p/000001392.000004367.html",
+      "caption": "ひなパーティー（8個入） 公式発表の対象年とDB対象年が一致。本文の商品見出しに直結した写真URLを確認。",
+      "method": "prtimes-adjacent-product-heading",
+      "checkedAt": "2026-09-12",
+      "note": "公式発表の対象年とDB対象年が一致。本文の商品見出しに直結した写真URLを確認。",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "retrievable": true,
+      "imageFormat": "JPEG",
+      "dimensions": [
+        1800,
+        1286
+      ],
+      "visualCheck": "本文DOMの見出し対応と画像デコードを確認。写真の目視確認は未実施。"
+    },
+    "SWT-0090": {
+      "name": "ひなおうぎ（苺）",
+      "brand": "銀座コージーコーナー",
+      "url": "https://prcdn.freetls.fastly.net/release_image/4367/1392/4367-1392-cedb7418d96bf565fd4f0ed46eb7dfd0-1800x1286.jpg",
+      "source": "https://prtimes.jp/main/html/rd/p/000001392.000004367.html",
+      "caption": "ひなおうぎ（苺） 公式発表の対象年とDB対象年が一致。本文の商品見出しに直結した写真URLを確認。",
+      "method": "prtimes-adjacent-product-heading",
+      "checkedAt": "2026-09-12",
+      "note": "公式発表の対象年とDB対象年が一致。本文の商品見出しに直結した写真URLを確認。",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "retrievable": true,
+      "imageFormat": "JPEG",
+      "dimensions": [
+        1800,
+        1286
+      ],
+      "visualCheck": "本文DOMの見出し対応と画像デコードを確認。写真の目視確認は未実施。"
+    },
+    "SWT-0091": {
+      "name": "母の日ベリーセレクション（8個入）",
+      "brand": "銀座コージーコーナー",
+      "url": "https://prcdn.freetls.fastly.net/release_image/4367/1424/4367-1424-e43a7fd5fa64e803f60f7a10494f0363-1800x1286.jpg",
+      "source": "https://prtimes.jp/main/html/rd/p/000001424.000004367.html",
+      "caption": "母の日ベリーセレクション（8個入） 公式発表の対象年とDB対象年が一致。本文の商品見出しに直結した写真URLを確認。",
+      "method": "prtimes-adjacent-product-heading",
+      "checkedAt": "2026-09-12",
+      "note": "公式発表の対象年とDB対象年が一致。本文の商品見出しに直結した写真URLを確認。",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "retrievable": true,
+      "imageFormat": "JPEG",
+      "dimensions": [
+        1800,
+        1286
+      ],
+      "visualCheck": "本文DOMの見出し対応と画像デコードを確認。写真の目視確認は未実施。"
+    },
+    "SWT-0092": {
+      "name": "母の日コージープリンセス",
+      "brand": "銀座コージーコーナー",
+      "url": "https://prcdn.freetls.fastly.net/release_image/4367/1424/4367-1424-558ec0bc0b94025cefdb7ef645548249-1800x1286.jpg",
+      "source": "https://prtimes.jp/main/html/rd/p/000001424.000004367.html",
+      "caption": "母の日コージープリンセス 公式発表の対象年とDB対象年が一致。本文の商品見出しに直結した写真URLを確認。",
+      "method": "prtimes-adjacent-product-heading",
+      "checkedAt": "2026-09-12",
+      "note": "公式発表の対象年とDB対象年が一致。本文の商品見出しに直結した写真URLを確認。",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "retrievable": true,
+      "imageFormat": "JPEG",
+      "dimensions": [
+        1800,
+        1286
+      ],
+      "visualCheck": "本文DOMの見出し対応と画像デコードを確認。写真の目視確認は未実施。"
+    },
+    "SWT-0093": {
+      "name": "＜ディズニー＞ヴィランズコレクション（8個入）",
+      "brand": "銀座コージーコーナー",
+      "url": "https://prcdn.freetls.fastly.net/release_image/4367/1355/4367-1355-62bf0cc36848280f2662b495776533a3-1800x1019.jpg",
+      "source": "https://prtimes.jp/main/html/rd/p/000001355.000004367.html",
+      "caption": "＜ディズニー＞ヴィランズコレクション（8個入） 公式発表の対象年とDB対象年が一致。本文の商品見出しに直結した写真URLを確認。",
+      "method": "prtimes-adjacent-product-heading",
+      "checkedAt": "2026-09-12",
+      "note": "公式発表の対象年とDB対象年が一致。本文の商品見出しに直結した写真URLを確認。",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "retrievable": true,
+      "imageFormat": "JPEG",
+      "dimensions": [
+        1800,
+        1019
+      ],
+      "visualCheck": "本文DOMの見出し対応と画像デコードを確認。写真の目視確認は未実施。"
+    },
+    "SWT-0094": {
+      "name": "＜マレフィセント＞青りんごムースケーキ",
+      "brand": "銀座コージーコーナー",
+      "url": "https://prcdn.freetls.fastly.net/release_image/4367/1355/4367-1355-15d5af0e1a8d466ed9f7998c28901772-1800x1286.jpg",
+      "source": "https://prtimes.jp/main/html/rd/p/000001355.000004367.html",
+      "caption": "＜マレフィセント＞青りんごムースケーキ 公式発表の対象年とDB対象年が一致。本文の商品見出しに直結した写真URLを確認。",
+      "method": "prtimes-adjacent-product-heading",
+      "checkedAt": "2026-09-12",
+      "note": "公式発表の対象年とDB対象年が一致。本文の商品見出しに直結した写真URLを確認。",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "retrievable": true,
+      "imageFormat": "JPEG",
+      "dimensions": [
+        1800,
+        1286
+      ],
+      "visualCheck": "本文DOMの見出し対応と画像デコードを確認。写真の目視確認は未実施。"
+    },
+    "SWT-0170": {
+      "name": "ひなシフォン",
+      "brand": "銀座コージーコーナー",
+      "url": "https://prcdn.freetls.fastly.net/release_image/4367/1392/4367-1392-8bb1dc859e1d1b4728157830f0ee53b8-1800x1285.jpg",
+      "source": "https://prtimes.jp/main/html/rd/p/000001392.000004367.html",
+      "caption": "ひなシフォン 公式発表の対象年とDB対象年が一致。本文の商品見出しに直結した写真URLを確認。",
+      "method": "prtimes-adjacent-product-heading",
+      "checkedAt": "2026-09-12",
+      "note": "公式発表の対象年とDB対象年が一致。本文の商品見出しに直結した写真URLを確認。",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "retrievable": true,
+      "imageFormat": "JPEG",
+      "dimensions": [
+        1800,
+        1285
+      ],
+      "visualCheck": "本文DOMの見出し対応と画像デコードを確認。写真の目視確認は未実施。"
+    },
+    "SWT-0368": {
+      "name": "シャインマスカットと白桃のタルト",
+      "brand": "銀座コージーコーナー",
+      "url": "https://prcdn.freetls.fastly.net/release_image/4367/1339/4367-1339-7697781b23a13e97d28181690bd43f08-1800x1285.jpg",
+      "source": "https://prtimes.jp/main/html/rd/p/000001339.000004367.html",
+      "caption": "シャインマスカットと白桃のタルト 公式発表の対象年とDB対象年が一致。本文の商品見出しに直結した写真URLを確認。",
+      "method": "prtimes-adjacent-product-heading",
+      "checkedAt": "2026-09-12",
+      "note": "公式発表の対象年とDB対象年が一致。本文の商品見出しに直結した写真URLを確認。",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "retrievable": true,
+      "imageFormat": "JPEG",
+      "dimensions": [
+        1800,
+        1285
+      ],
+      "visualCheck": "本文DOMの見出し対応と画像デコードを確認。写真の目視確認は未実施。"
+    },
+    "SWT-0383": {
+      "name": "銀座のレンガ 生チョコサンド（ピスタチオ＆ショコラ）4個入",
+      "brand": "銀座コージーコーナー",
+      "url": "https://prcdn.freetls.fastly.net/release_image/4367/1259/4367-1259-0689a167dc98ad12ac372f8f57f5fa79-1800x961.jpg",
+      "source": "https://prtimes.jp/main/html/rd/p/000001259.000004367.html",
+      "caption": "銀座のレンガ 生チョコサンド（ピスタチオ＆ショコラ）（4個入） 公式発表の対象年とDB対象年が一致。本文の商品見出しに直結した写真URLを確認。",
+      "method": "prtimes-adjacent-product-heading",
+      "checkedAt": "2026-09-12",
+      "note": "公式発表の対象年とDB対象年が一致。本文の商品見出しに直結した写真URLを確認。",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "retrievable": true,
+      "imageFormat": "JPEG",
+      "dimensions": [
+        1800,
+        961
+      ],
+      "visualCheck": "本文DOMの見出し対応と画像デコードを確認。写真の目視確認は未実施。"
+    },
+    "SWT-0013": {
+      "name": "山梨県笛吹市産 桃「ふじやまの彩」のケーキ",
+      "brand": "カフェコムサ",
+      "url": "https://prcdn.freetls.fastly.net/release_image/14225/1127/14225-1127-7761a596f1d9b805060ba3c03eb9008b-700x550.jpg?width=1950&height=1350&quality=85&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000001127.000014225.html",
+      "caption": "山梨県笛吹市産 桃「ふじやまの彩」のケーキ。記事の個別商品見出し・写真・素材の対応を確認。",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "",
+        "before": "プレスリリースを受信 企業登録申請 Top テクノロジー モバイル アプリ エンタメ ビューティー ファッション ライフスタイル ビジネス グルメ スポーツ … PR TIMESのご利用について 資料をダウンロード 株式会社ファイブフォックス 会社概要 フォロー 最盛期を迎える桃を存分に楽しめる！カフェコムサが”桃フェア 第一弾”を開催 桃の生産量日本一を誇り、桃源郷とも呼ばれる山梨県笛吹市産の桃「ふじやまの彩」のケーキなどを7/8（火）～8/8（金）の期間、全国のカフェコムサで展開します。 株式会社ファイブフォックス 2025年7月4日 14時24分 いいね！数を読み込み中です ㈱ファイブフォックスの子会社である㈱コムサ（東京都渋谷区）が展開するカフェ業態「カフェコムサ」は、日本国内及び世界各地の産地や農園から厳選した旬の美味しいフルーツを使用して、日本の四季を感じられるアート感覚溢れるケーキを提供しています。カフェコムサでは2025年7月8日(火)から8月8日(金)の期間、「桃フェア 第一弾」を開催し、ケーキやドリンクを展開します。 公式HPはこちら",
+        "after": "山梨県笛吹市産「ふじやまの彩」のケーキ 1,500円(税込)/1ピース 山梨県笛吹市産「ふじやまの彩」のケーキ 「ふじやまの彩」は桃の一大産地で生産量日本一を誇る、山梨県笛吹市で生産されたブランド桃です。芳醇な香りと甘い果汁たっぷりの桃を大ぶりにカットし、フロマージュブランのベースに飾り付けました。口いっぱいに広がる桃の美味しさを堪能できます。〈ベース：フロマージュブラン　価格：1,500円(税込)/1ピース〉"
+      },
+      "httpStatus": 200,
+      "verifiedImage": true,
+      "imageFormat": "JPEG"
+    },
+    "SWT-0014": {
+      "name": "山梨県笛吹市産「黄金桃」のケーキ",
+      "brand": "カフェコムサ",
+      "url": "https://prcdn.freetls.fastly.net/release_image/14225/1133/14225-1133-2d38de01b794d1f65ffa5bb908b0e973-700x584.jpg?width=1950&height=1350&quality=85&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000001133.000014225.html",
+      "caption": "山梨県笛吹市産「黄金桃」のケーキ。記事の個別商品見出し・写真・素材の対応を確認。",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "",
+        "before": "プレスリリース・ニュースリリース配信サービスのPR TIMES プレスリリースを受信 企業登録申請 Top テクノロジー モバイル アプリ エンタメ ビューティー ファッション ライフスタイル ビジネス グルメ スポーツ … PR TIMESのご利用について 資料をダウンロード 株式会社ファイブフォックス 会社概要 フォロー カフェコムサの人気イベント！最旬の”ももフェア 第二弾”開催 桃の生産量日本一を誇り、桃源郷とも呼ばれる山梨県笛吹市産「黄金桃」のケーキなどを8/9（土）～8/31（日）の期間、全国のカフェコムサで展開します。 株式会社ファイブフォックス 2025年8月8日 18時09分 いいね！数を読み込み中です ㈱ファイブフォックスの子会社である㈱コムサ（東京都渋谷区）が展開するカフェ業態「カフェコムサ」は、日本国内及び世界各地の産地や農園から厳選した旬の美味しいフルーツを使用して、日本の四季を感じられるアート感覚溢れるケーキを提供しています。カフェコムサでは2025年8月9日（土）～88月31日（日）の期間、「桃フェア 第一弾」を開催し、ケーキやドリンクを展開します。 公式HPはこちら",
+        "after": "山梨県笛吹市（JAふえふき）産「黄金桃」のケーキ 1,400円(税込)/1ピース 山梨県笛吹市（JAふえふき）産「黄金桃」のケーキ 芳醇な香りでみずみずしく甘い桃をふんだんに使用し、フロマージュブランのベースに飾り付けました。希少な黄金桃の美味しさを堪能できます。〈ベース：フロマージュブラン　価格：1,400円(税込)/1ピース〉"
+      },
+      "httpStatus": 200,
+      "verifiedImage": true,
+      "imageFormat": "JPEG"
+    },
+    "SWT-0016": {
+      "name": "山梨県笛吹市産シャインマスカット「ふじやまの彩」のケーキ",
+      "brand": "カフェコムサ",
+      "url": "https://prcdn.freetls.fastly.net/release_image/14225/1139/14225-1139-f3a2c62f046c68b08c377154839ba89c-700x579.jpg?width=1950&height=1350&quality=85&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000001139.000014225.html",
+      "caption": "山梨県笛吹市産シャインマスカット「ふじやまの彩」のケーキ。記事の個別商品見出し・写真・素材の対応を確認。",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "",
+        "before": "ビューティー ファッション ライフスタイル ビジネス グルメ スポーツ … PR TIMESのご利用について 資料をダウンロード 株式会社ファイブフォックス 会社概要 フォロー 日本生まれの大人気フルーツ！カフェコムサがぶどうの女王「シャインマスカットフェア」を開催 厳しい選果基準をクリアした逸品の、山梨県笛吹市産「ふじやまの彩」を使用したケーキも登場。8/25（月）～9/15（月・祝）の期間、全国のカフェコムサで展開します。 株式会社ファイブフォックス 2025年8月22日 18時18分 いいね！数を読み込み中です ㈱ファイブフォックスの子会社である㈱コムサ（東京都品川区）が展開するカフェ業態「カフェコムサ」は、日本国内及び世界各地の産地や農園から厳選した旬の美味しいフルーツを使用して、日本の四季を感じられるアート感覚溢れるケーキを提供しています。カフェコムサでは2025年8月25日（月）～9月15日（月・祝）の期間、爽やかな果汁と大粒で贅沢な甘さが特徴の大人気のフルーツ「シャインマスカットフェア」を開催します。 公式HPはこちら",
+        "after": "山梨県笛吹市産シャインマスカット「ふじやまの彩（いろどり）」のケーキ 1,600円(税込)/1ピース 山梨県笛吹市産シャインマスカット「ふじやまの彩（いろどり）」のケーキ ぶどうの日本一の生産量を誇る山梨県の中で、笛吹市産のシャインマスカット「ふじやまの彩」は厳しい選果基準をクリアした逸品。パリッとした食感と、濃い甘みを楽しめます。〈ベース：フロマージュブラン　価格：1,600円(税込)/1ピース〉"
+      },
+      "httpStatus": 200,
+      "verifiedImage": true,
+      "imageFormat": "JPEG"
+    },
+    "SWT-0019": {
+      "name": "あまおういちごのタルト",
+      "brand": "フルーツピークス",
+      "url": "https://prcdn.freetls.fastly.net/release_image/54019/168/54019-168-3024274a0c1d41179ee5d7f175c99a4e-3900x3900.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000000168.000054019.html",
+      "caption": "あまおういちごのタルト。記事の個別商品見出し・写真・素材の対応を確認。 公式の商品名は「あまおういちご」、13cmホールタルトの写真。",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "",
+        "before": "『フレーズ・ショコラ』 新作タルト『フレーズ・ショコラ』は、濃厚なチョコレートカスタードクリームの上にあまおういちごをたっぷりとトッピングした商品です。タルト生地にもココアを練りこみ、チョコレートのコクをより深く感じられる味わいに仕上げました。 ◆価格：1ピース 1,100円（お持ち帰り税込 1,188円） ◆販売店舗：フルーツピークス　全店 ◆販売期間：2026年1月8日(木)～2026年1月31日(土)",
+        "after": "『あまおういちご』 13㎝サイズのホールタルト『あまおういちご』は、いちご、クリーム、カスタードクリームという王道かつ相性抜群な組み合わせで構成した一品です。その名の通りあまおういちごをふんだんに使用し、小さな花束のようなかわいらしさと華やかさを兼ね備えた見た目に仕上げました。小ぶりながら、特別な日を彩る存在感のあるタルトです。 ◆価格：13cm 1ホール 3,600円（お持ち帰り税込 3,888円） ◆販売店舗：フルーツピークス　全店 ◆販売期間：2026年1月8日(木)～2026年1月31日(土) 「とちあいか」を楽しめるおすすめ商品 栃木県を代表する「とちあいか」は酸味が少なく、際立った甘さが特徴のいちごです。おいしいだけでなく、縦にカットすると断面がハート型になる点も魅力で、見た目の愛らしさからも人気を集めています。"
+      },
+      "httpStatus": 200,
+      "verifiedImage": true,
+      "imageFormat": "JPEG"
+    },
+    "SWT-0040": {
+      "name": "母の日 苺のタルトデコレーション",
+      "brand": "シャトレーゼ",
+      "url": "https://digitalpr.jp/simg/2853/134161/250_250_2026043015554069f2fcece49a1.jpg",
+      "source": "https://digitalpr.jp/r/134161",
+      "caption": "母の日 苺のタルトデコレーション。記事の個別商品見出し・写真・素材の対応を確認。",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "",
+        "before": "感謝の気持ちを華やかなスイーツに込めて 菓子専門店「シャトレーゼ」を国内895店舗（YATSUDOKI含む）、海外7ヶ国163店舗（5月1日時点）展開する菓子メーカー、株式会社シャトレーゼ（本社：山梨県甲府市、代表取締役社長：古屋 勇治）は、ピンクや赤で華やかに仕上げた「母の日ケーキ」を、全国のシャトレーゼにて5月8日（金）から5月10日（日）まで、数量限定・期間限定で販売いたします。 「母の日ケーキ」特集ページ https://www.chateraise.co.jp/campaign/20260510/ 【母の日限定デコレーションケーキ】",
+        "after": "■母の日 苺のタルトデコレーション 自家製アーモンドタルトに、苺と苺クリームを華やかにあしらった、母の日限定のデコレーションケーキです。バターの香ばしさと洋酒の芳醇な香りが広がるアーモンドタルトに、甘酸っぱい苺シュガーチップ入りの苺クリームと、ふんわり軽やかなスポンジを重ねました。仕上げに苺ナパージュ、フリルのように絞った苺クリーム、みずみずしい苺を飾った、苺づくしのタルトです。 ※ミニカーネーションつき（造花） 価格：3,000円（税込3,240円）／ サイズ：直径14cm ※洋酒使用。お子様やアルコールに弱い方はご注意ください。"
+      },
+      "httpStatus": 200,
+      "verifiedImage": true,
+      "imageFormat": "JPEG"
+    },
+    "SWT-0124": {
+      "name": "高知県産仁淀ブルーのメロンケーキ",
+      "brand": "カフェコムサ",
+      "url": "https://prcdn.freetls.fastly.net/release_image/14225/1120/14225-1120-2b18f2d1ffbdba60e42856d47c605cfa-700x600.jpg?width=1950&height=1350&quality=85&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000001120.000014225.html",
+      "caption": "高知県産仁淀ブルーのメロンケーキ。記事の個別商品見出し・写真・素材の対応を確認。",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "",
+        "before": "株式会社ファイブフォックス 会社概要 フォロー カフェコムサが旬のメロンをふんだんに使用した”メロンフェア”を開催 高知県の仁淀ブルーや茨城県のレノンメロンを使用したケーキなどを6/7（土）～7/6（日）の期間、全国のカフェコムサで展開します。 株式会社ファイブフォックス 2025年6月9日 10時05分 いいね！数を読み込み中です ㈱ファイブフォックスの子会社である㈱コムサ（東京都渋谷区）が展開するカフェ業態「カフェコムサ」は、日本国内及び世界各地の産地や農園から厳選した旬の美味しいフルーツを使用して、日本の四季を感じられるアート感覚溢れるケーキを提供しています。カフェコムサでは2025年6月7日(土)から7月6日(日)の期間、「メロンフェア」を展開します。 公式HPはこちら 初夏を代表するフルーツのひとつであるメロンは、この時期に旬を迎えます。名産地では水はけの良い土壌、温暖な気候、昼夜の温度差が大きいという共通点があり、栽培に適した環境を活かし、豊富な種類が生産されています。今回のフェアでは3種類のメロンを使用します。",
+        "after": "高知県土佐市産マスクメロン「仁淀ブルー」のケーキ 1,700円(税込)/1ピース 高知県土佐市産マスクメロン「仁淀ブルー」のケーキ 高知県土佐市産の最高級マスクメロン「仁淀ブルー」をふんだんに使用し、大ぶりにカットして飾り付けました。口の中に広がるたっぷりの果汁と香りと共に、「仁淀ブルー」そのものの美味しさを楽しめます。〈ベース：マスカルポーネ　価格：1,700円(税込)/1ピース〉"
+      },
+      "httpStatus": 200,
+      "verifiedImage": true,
+      "imageFormat": "JPEG"
+    },
+    "SWT-0125": {
+      "name": "茨城県産レノンメロンのケーキ",
+      "brand": "カフェコムサ",
+      "url": "https://prcdn.freetls.fastly.net/release_image/14225/1120/14225-1120-beac62e875b43087ce0528c329abdb96-700x529.jpg?width=1950&height=1350&quality=85&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000001120.000014225.html",
+      "caption": "茨城県産レノンメロンのケーキ。記事の個別商品見出し・写真・素材の対応を確認。 公式の商品名はレノンメロンのショートケーキで、赤肉メロン。元DBの緑色という記載とは一致しない。",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "",
+        "before": "高知県土佐市産マスクメロン「仁淀ブルー」のケーキ 1,700円(税込)/1ピース 高知県土佐市産マスクメロン「仁淀ブルー」のケーキ 高知県土佐市産の最高級マスクメロン「仁淀ブルー」をふんだんに使用し、大ぶりにカットして飾り付けました。口の中に広がるたっぷりの果汁と香りと共に、「仁淀ブルー」そのものの美味しさを楽しめます。〈ベース：マスカルポーネ　価格：1,700円(税込)/1ピース〉",
+        "after": "茨城県水戸市産「レノンメロン」のショートケーキ　1,200円(税込)/1ピース 茨城県水戸市産「レノンメロン」のショートケーキ すっきりとした甘みと濃いオレンジ色が特徴の「レノンメロン」をふんだんに使用し、生クリームやスポンジと共に飾り付けました。甘さ控えめの生クリームが「レノンメロン」の美味しさを一層引き立てます。〈価格：1,200円(税込)/1ピース〉"
+      },
+      "httpStatus": 200,
+      "verifiedImage": true,
+      "imageFormat": "JPEG"
+    },
+    "SWT-0130": {
+      "name": "桃タルト",
+      "brand": "フルーツピークス",
+      "url": "https://prcdn.freetls.fastly.net/release_image/54019/137/54019-137-a2b988f84c72a59d8121254f0b09f771-3900x2600.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000000137.000054019.html",
+      "caption": "桃タルト。記事の個別商品見出し・写真・素材の対応を確認。 DBの桃タルト・カスタードの記録に対応する「桃とカスタードクリーム」の写真。",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "",
+        "before": "『桃のズコット』 可愛らしい薄桃色のズコットの中にジューシーな桃をたっぷりととじこめました。サクサクで香ばしいパイ生地と甘さ控えめの生クリーム、みずみずしい桃とのハーモニーをお楽しみいただけます。 ◆価格：テイクアウト税込1,404円 ◆販売期間：7月1日～8月31日",
+        "after": "『桃とカスタードクリーム』 ジューシーな桃とまろやかでコクのあるカスタードクリームが相性抜群です。クリームは甘さ控えめに仕上げており、桃の美味しさを最大限に引き立てます。 ◆価格：テイクアウト税込962円 ◆販売期間：7月1日～8月31日"
+      },
+      "httpStatus": 200,
+      "verifiedImage": true,
+      "imageFormat": "JPEG"
+    },
+    "SWT-0367": {
+      "name": "桃ムースとフロマージュブラン",
+      "brand": "フルーツピークス",
+      "url": "https://prcdn.freetls.fastly.net/release_image/54019/137/54019-137-3c402486767ef79628c5db0b407bef03-3900x2600.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000000137.000054019.html",
+      "caption": "桃ムースとフロマージュブラン。記事の個別商品見出し・写真・素材の対応を確認。",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "",
+        "before": "◆価格：1,500円(イートイン税込1,650円) ◆販売期間：2025年7月1日(火)～2025年8月31日(日)(予定) ◆販売店舗：フルーツピークス　カフェ併設店(横浜ポルタ店・豊洲セイルパーク店( 7/24オープン )を除く計8店舗) ※横浜ポルタ店・豊洲セイルパーク店は取扱商品が異なります。 『桃サンド』 ◆価格：980円(イートイン税込1,078円) ◆販売期間：2025年7月1日(火)～2025年8月31日(日)(予定) ◆販売店舗：フルーツピークス　カフェ併設店(横浜ポルタ店・豊洲セイルパーク店を除く計8店舗) ※横浜ポルタ店・豊洲セイルパーク店はサイズ、価格が異なります。 バリエーション豊かな桃スイーツがずらり！ 桃フェス期間中は、主力のフルーツタルトをはじめ、夏にぴったりのひんやりゼリーなど、桃を贅沢に使用したスイーツが多数登場します。今年初登場の新商品から、毎年ご好評をいただいている定番商品まで、バリエーション豊かなラインアップを取り揃えています。これらの商品は、フルーツピークス全店にて販売いたします。 ■新商品",
+        "after": "今年の桃フェスの新商品『桃ムースとフロマージュブラン』は、旬の桃と桃ムース、桃ゼリーを使用した桃の美味しさをお楽しみいただけるタルトです。芳醇な香りの桃と相性が良いレアチーズを使用しており、さっぱりとお召し上がりいただけます。 『桃ムースとフロマージュブラン』 ◆価格：890円(テイクアウト税込962円) ◆販売期間：2025年7月1日(火)～2025年8月31日(日) ■その他ラインアップ"
+      },
+      "httpStatus": 200,
+      "verifiedImage": true,
+      "imageFormat": "JPEG"
+    },
+    "SWT-0376": {
+      "name": "いちじくとチーズクリーム（母の日限定タルト）",
+      "brand": "フルーツピークス",
+      "url": "https://prcdn.freetls.fastly.net/release_image/54019/132/54019-132-d37e1fb3e8fd12792a51de6223e66275-3900x2922.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000000132.000054019.html",
+      "caption": "いちじくとチーズクリーム（母の日限定タルト）。記事の個別商品見出し・写真・素材の対応を確認。",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "",
+        "before": "『いちじくとチーズクリーム』（1ホール） 華やかないちじくタルトで“ありがとう”の気持ちを フルーツピークスは毎年この時期に、厳選したフルーツを使った母の日限定タルトを販売しています。『いちじくとチーズクリーム』は、今年母の日限定で初めて販売を行う、「いちじく」をふんだんに使用したタルトです。サクサクで香ばしいパイ生地に、甘さ控えめのカスタードクリームとコクのあるチーズクリームを重ね、柔らかな食感と優しい甘みのいちじくをたっぷりとトッピングしました。いちじくとクリームのまろやかな味わいと、甘酸っぱいいちごとラズベリーが相性抜群で、最後のひとくちまで飽きずにお楽しみいただけます。 いちじくは、鉄・カルシウムをはじめとしたミネラルや食物繊維などの女性にうれしい栄養素を含むフルーツです。お花のように華やかな見た目と、いちじくの魅力をぎゅっと詰め込んだ特別なタルトは、母の日に感謝の気持ちを伝えるのにぴったりの一品です。",
+        "after": "『いちじくとチーズクリーム』（1ピース） 『いちじくとチーズクリーム』 ◆価格：950円（テイクアウト税込1,026円） ◆販売期間：2025年5月8日(木)～2025年5月13日(火) ◆販売店舗：フルーツピークス　全店舗 ※数量限定でのご用意のため、売り切れとなる場合がございます。 フルーツピークス(fruitspeaks)について 1924年創業の「フルーツショップ青木」から生まれたフルーツタルト＆カフェ専門店。全国に現在16店舗を展開しています。(福島、宮城、埼玉、茨城、東京、神奈川　うち9店舗がカフェ併設) 「フルーツが主役の、フルーツを食べるためのスイーツをお届けしたい。」という想いで作られたフルーツをふんだんに使用したタルトや、カフェ併設店ではパフェ、お食事メニューもご提供しています。厳選し、美味しい時期を見極めたフルーツを使用し、タルトはフルーツ本来のおいしさを引き立たせるため、甘み・酸味に合わせて生地とクリームを使い分けています。"
+      },
+      "httpStatus": 200,
+      "verifiedImage": true,
+      "imageFormat": "JPEG"
+    },
+    "SWT-0395": {
+      "name": "敬老の日 2つの味が楽しめる 栗とお芋のデコレーション 12cm",
+      "brand": "シャトレーゼ",
+      "url": "https://www.ssnp.co.jp/uploads/2024/08/240829chateraise3.jpg",
+      "source": "https://www.ssnp.co.jp/snack/584657/",
+      "caption": "敬老の日 2つの味が楽しめる 栗とお芋のデコレーション 12cm。記事の個別商品見出し・写真・素材の対応を確認。",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "シャトレーゼ「老の日 2つの味が楽しめる 栗とお芋のデコレーション 12cm」",
+        "before": "シャトレーゼ「敬老の日」スイーツ 2024 ◆敬老の日 2つの味が楽しめる 栗とお芋のデコレーション 12cm(3,132円) さつまいもクリームと和栗クリームを絞った小さなデコレーションケーキ。内側には、スポンジや和栗バタークリーム、和栗甘露煮、カスタード入りホイップクリームを重ねている。8月26日から9月8日21時までの期間中、Web予約も受け付けている。",
+        "after": "シャトレーゼ「老の日 2つの味が楽しめる 栗とお芋のデコレーション 12cm」 ◆敬老の日 ありがとうカップケーキ(410円) 紳士風のおじいちゃんをイメージした、可愛らしい見た目のカップケーキ。少しビターなチョコクリームに、しっとりとしたスポンジ、チップチョコを組み合わせた。間にはバナナソースとマシュマロを入れ、色付きのホイップクリームで包み込んでいる。"
+      },
+      "httpStatus": 200,
+      "verifiedImage": true,
+      "imageFormat": "JPEG"
+    },
+    "SWT-0405": {
+      "name": "いちごづくしのケーキ（クリームチーズベース）",
+      "brand": "カフェコムサ",
+      "url": "https://prcdn.freetls.fastly.net/release_image/14225/1075/14225-1075-c76fa45b5b9d62fabcec8ba29f1844f3-700x552.jpg?width=1950&height=1350&quality=85&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000001075.000014225.html",
+      "caption": "いちごづくしのケーキ（クリームチーズベース）。記事の個別商品見出し・写真・素材の対応を確認。",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "",
+        "before": "資料をダウンロード 株式会社ファイブフォックス 会社概要 フォロー 旬のいちごをふんだんに使用！カフェコムサで「いちごフェア」を開催 たっぷりと溢れるほどにいちごを使用した、いちごづくしのケーキを堪能できる！いちごフェアを1月16日(木)から2月14日(金)まで開催 株式会社ファイブフォックス 2025年1月15日 14時01分 いいね！数を読み込み中です ㈱ファイブフォックスの子会社である㈱コムサ（東京都渋谷区）が展開する「カフェコムサ」は、日本全国の産地、農園の厳選した旬の美味しいフルーツを使用して、日本の四季を感じられるアート感覚溢れるケーキを提案しています。カフェコムサでは、1月16日(木)から2月14日(金)まで「いちごフェア」を開催します。 公式HPはこちら 人気のフルーツであるいちごは、冬の寒い日々でじっくり成長すると糖分をためこみやすく、甘く、濃厚な味になるといわれています。一年でいちごが最も美味しくなるこの時期に、その日におすすめのいちごをパティシエが厳選し、いちごづくしのケーキをつくります。",
+        "after": "いちごづくしのケーキ　1,700円(税込)/1ピース いちごづくしのケーキ その日にパティシエがおすすめするいちごをふんだんに使用し、クリームチーズのベースに飾り付けました。中にもいちごがたっぷりと入ったケーキを存分に楽しめます。 【ベース】クリームチーズ 【価格】1,700円(税込)/1ピース"
+      },
+      "httpStatus": 200,
+      "verifiedImage": true,
+      "imageFormat": "JPEG"
+    },
+    "SWT-0490": {
+      "url": "https://www.alacampagne.jp/wp-content/uploads/2023/03/Tarte-aux-Thompsons_top.jpg",
+      "source": "https://www.alacampagne.jp/wp-json/wp/v2/media/7064",
+      "caption": "公式メディアの名称 Tarte aux Thompsons_top と同名商品を照合。 2023年に登録された公式写真。DB対象の2026年版と全仕様が同一か未確認。",
+      "method": "official-media-title",
+      "sourcePublishedDate": "2023-03-31",
+      "note": "2023年に登録された公式写真。DB対象の2026年版と全仕様が同一か未確認。",
+      "ingredients": "トンプソン・シードレス、サワークリーム入りカスタード",
+      "name": "トンプソン・シードレスのタルト（タルト・オ・トンプソン）",
+      "brand": "ア・ラ・カンパーニュ",
+      "checkedAt": "2026-09-12",
+      "httpStatus": 200,
+      "contentType": "image/jpeg"
+    },
+    "SWT-0496": {
+      "url": "https://www.alacampagne.jp/wp-content/uploads/2023/05/Tartelette-aux-Fraises_2023_TOP-1.jpg",
+      "source": "https://www.alacampagne.jp/wp-json/wp/v2/media/7139",
+      "caption": "公式メディアのファイル名 Tartelette-aux-Fraises_2023_TOP と同名商品を照合。 2023年公式写真。2026年版との全仕様の一致は未確認。",
+      "method": "official-media-filename",
+      "sourcePublishedDate": "2023-05-09",
+      "note": "2023年公式写真。2026年版との全仕様の一致は未確認。",
+      "name": "イチゴのタルトレット（タルトレット・オ・フレーズ）",
+      "brand": "ア・ラ・カンパーニュ",
+      "checkedAt": "2026-09-12",
+      "httpStatus": 200,
+      "contentType": "image/jpeg"
+    },
+    "SWT-0499": {
+      "url": "https://prcdn.freetls.fastly.net/release_image/82978/789/82978-789-71c7a49e2e416fe7b9a129bd0e2c778e-3900x3900.jpg",
+      "source": "https://prtimes.jp/main/html/rd/p/000000789.000082978.html",
+      "caption": "タルト・マルブレ／ア・ラ・カンパーニュ。JR-Cross公式リリースの個別画像キャプションと商品説明が一致。 2025年エキュート上野開業時の公式写真。",
+      "method": "official-release-product-caption",
+      "sourcePublishedDate": "2025-03-26",
+      "note": "2025年エキュート上野開業時の公式写真。",
+      "ingredients": "チョコスポンジ、カスタード、バナナ、タルト、生クリームとチョコのマーブル模様",
+      "name": "マーブル模様のタルト（タルト・マルブレ）",
+      "brand": "ア・ラ・カンパーニュ",
+      "checkedAt": "2026-09-12",
+      "httpStatus": 200,
+      "contentType": "image/jpeg"
+    },
+    "SWT-0503": {
+      "url": "https://img1.esimg.jp/image/food/04/25/32/1944411_original.jpg?ts=1559026135291",
+      "source": "https://mognavi.jp/product/34369",
+      "caption": "もぐナビ『ア・ラ・カンパーニュ ミル・クレープ・オ・フレーズ』の商品写真。提供者はもぐナビユーザー。 2019年のユーザー投稿写真。2026年版との全仕様一致は未確認。",
+      "method": "public-user-product-page",
+      "sourcePublishedDate": "2019-05-28",
+      "note": "2019年のユーザー投稿写真。2026年版との全仕様一致は未確認。",
+      "ingredients": "苺とカスタードを重ねたクレープ、下部スポンジとパイ状生地（当該投稿による）",
+      "name": "イチゴのクレープタルト（ミルクレープ・オ・フレーズ）",
+      "brand": "ア・ラ・カンパーニュ",
+      "checkedAt": "2026-09-12",
+      "httpStatus": 200,
+      "contentType": "image/jpeg"
+    },
+    "SWT-0505": {
+      "url": "https://www.alacampagne.jp/wp-content/uploads/2026/07/241101タルトおバナーヌ_w-300x300-1.jpg",
+      "source": "https://www.alacampagne.jp/wp-json/wp/v2/media/13643",
+      "caption": "公式メディアaltが『タルト・オ・バナーヌ』と一致。 公式への再登録日は2026年7月。ファイル名先頭241101は画像制作時期の可能性があり販売日と解釈しない。",
+      "method": "official-media-alt",
+      "sourcePublishedDate": "2026-07-31",
+      "note": "公式への再登録日は2026年7月。ファイル名先頭241101は画像制作時期の可能性があり販売日と解釈しない。",
+      "alternateUrl": "https://www.alacampagne.jp/wp-content/uploads/2026/07/Tarte-aux-Banane_image01_web-300x300-1.jpg",
+      "name": "バナナのタルト（タルト・オ・バナーヌ）",
+      "brand": "ア・ラ・カンパーニュ",
+      "checkedAt": "2026-09-12",
+      "httpStatus": 200,
+      "contentType": "image/jpeg"
+    },
+    "SWT-0053": {
+      "name": "御用邸ショコラチーズケーキ",
+      "brand": "チーズガーデン",
+      "url": "https://prcdn.freetls.fastly.net/release_image/40854/177/40854-177-2cbdd87190f5e13efc0b6db1daa17ef1-2160x2160.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000000177.000040854.html",
+      "caption": "御用邸ショコラチーズケーキ 2026年1月販売の公式発表商品説明に隣接。",
+      "method": "official-product-body-or-alt",
+      "checkedAt": "2026-09-12",
+      "note": "2026年1月販売の公式発表商品説明に隣接。",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "retrievable": true,
+      "imageFormat": "JPEG",
+      "dimensions": [
+        1350,
+        1350
+      ],
+      "visualCheck": "DOM商品対応と画像デコード確認。目視確認は未実施。"
+    },
+    "SWT-0054": {
+      "name": "御用邸抹茶チーズケーキ",
+      "brand": "チーズガーデン",
+      "url": "https://prcdn.freetls.fastly.net/release_image/40854/195/40854-195-3eb45e9b05f3415d9781223f1d11ea99-3900x3900.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000000195.000040854.html",
+      "caption": "2026年4月8日発売の御用邸抹茶チーズケーキ。本文の商品説明区画の断面写真。",
+      "method": "official-press-release-individual-image",
+      "checkedAt": "2026-09-12",
+      "inspection": "目視で商品種別・素材・該当キャプションの対応を確認。",
+      "validation": {
+        "status": 200,
+        "contentType": "image/jpeg"
+      }
+    },
+    "SWT-0055": {
+      "url": "https://prcdn.freetls.fastly.net/release_image/40854/223/40854-223-2300d9b141a727ff7c980469c0069042-1080x1080.jpg",
+      "source": "https://prtimes.jp/main/html/rd/p/000000223.000040854.html",
+      "caption": "公式2026年秋リリースの『御用邸和栗チーズケーキ』個別説明直後の画像。 2026年9月2日販売開始の当該商品の写真。",
+      "note": "2026年9月2日販売開始の当該商品の写真。",
+      "name": "御用邸和栗チーズケーキ",
+      "brand": "チーズガーデン",
+      "checkedAt": "2026-09-12",
+      "method": "official-name-image-correspondence",
+      "visualReview": "未確認。公式alt・個別見出しと画像対応・HTTP状態の検証。",
+      "httpStatus": 200,
+      "contentType": "image/jpeg"
+    },
+    "SWT-0337": {
+      "name": "スーパーメロンショートケーキ",
+      "brand": "ホテルニューオータニ",
+      "url": "https://www.newotani.co.jp/fileadmin/res/tokyo/restaurant/p-satsuki/super-series/melon/kv.jpg",
+      "source": "https://www.newotani.co.jp/tokyo/restaurant/p-satsuki/super-series/melon/",
+      "caption": "公式のスーパーメロンショートケーキ個別ページの見出し写真。新エクストラスーパーとは別商品。2026年閲覧。",
+      "method": "official-product-page",
+      "checkedAt": "2026-09-12",
+      "inspection": "目視で商品種別・素材・該当キャプションの対応を確認。",
+      "validation": {
+        "status": 200,
+        "contentType": "image/jpeg"
+      }
+    },
+    "SWT-0338": {
+      "name": "スーパーピーチショートケーキ",
+      "brand": "ホテルニューオータニ",
+      "url": "https://www.newotani.co.jp/fileadmin/res/tokyo/press_release/2025/0807-01/sub5.jpg",
+      "source": "https://www.newotani.co.jp/tokyo/press-release/2025/0807-01/",
+      "caption": "2025年8月7日公式記事の商品キャプション「スーパーピーチショートケーキ」直前の写真。新エクストラスーパーピーチとは別商品。",
+      "method": "official-product-page",
+      "checkedAt": "2026-09-12",
+      "inspection": "目視で商品種別・素材・該当キャプションの対応を確認。",
+      "validation": {
+        "status": 200,
+        "contentType": "image/jpeg"
+      }
+    },
+    "SWT-0339": {
+      "name": "スーパーモンブラン",
+      "brand": "ホテルニューオータニ",
+      "url": "https://www.newotani.co.jp/fileadmin/res/tokyo/press_release/2025/0825-01/sub1.jpg",
+      "source": "https://www.newotani.co.jp/tokyo/press-release/2025/0825-01/",
+      "caption": "2025年8月25日公式記事の商品キャプション「スーパーモンブラン」直前の写真。2025年仕様。",
+      "method": "official-product-page",
+      "checkedAt": "2026-09-12",
+      "inspection": "目視で商品種別・素材・該当キャプションの対応を確認。",
+      "validation": {
+        "status": 200,
+        "contentType": "image/jpeg"
+      }
+    },
+    "SWT-0342": {
+      "name": "マロンシャンティイ",
+      "brand": "パレスホテル東京",
+      "url": "https://store.palacehoteltokyo.com/topics/cms/wp-content/uploads/2022/07/img_topics_marron-chantilly_716x512.jpg",
+      "source": "https://store.palacehoteltokyo.com/topics/665",
+      "caption": "公式ショップの定番紹介記事で商品名と説明に対応した断面写真。記事初出2022年、2026年にも掲載継続。2025年限定仕様としては未確認。",
+      "method": "official-product-page",
+      "checkedAt": "2026-09-12",
+      "inspection": "目視で商品種別・素材・該当キャプションの対応を確認。",
+      "validation": {
+        "status": 200,
+        "contentType": "image/jpeg"
+      }
+    },
+    "SWT-0349": {
+      "name": "ボンボンキャラメルブーケ",
+      "brand": "NOAKE TOKYO",
+      "url": "https://img20.shop-pro.jp/PA01248/044/product/137122721.png?cmsp_timestamp=20260215155941",
+      "source": "https://noake.jp/?pid=137122721",
+      "caption": "公式商品ページ「ボンボンキャラメルブーケ | 1本」の写真。1本ブーケの色違い2点を写した公式画像。DBでは本数未記録のため、1本タイプの掲載例と明記すること。2026年商品画像更新。",
+      "method": "official-product-page",
+      "checkedAt": "2026-09-12",
+      "inspection": "目視で商品種別・素材・該当キャプションの対応を確認。",
+      "validation": {
+        "status": 200,
+        "contentType": "image/png"
+      }
+    },
+    "SWT-0439": {
+      "name": "詰合せ01 ハウス型BOX(2025春)",
+      "brand": "鎌倉紅谷",
+      "url": "https://beniya-ajisai.co.jp/cms/wp-content/uploads/2025/02/house_haru_bnr_600a.jpg",
+      "source": "https://beniya-ajisai.co.jp/products/limited/product/tsume01_house_haru2025/",
+      "caption": "2025春の公式ハウス型BOX専用ページの商品写真。",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "\t",
+        "before": "<h1></h1> 予定数に達したため、販売を終了いたしました。 span style=\"color:#dc143c; font-size:90%;\"&gt;予定数に達したため、販売を終了いたしました。&lt;/span box01",
+        "after": "春のひととき 穏やかでゆったりとした、春のひととき。春を満喫するリスくんたちと、ゆらゆらと揺れるブランコや紙飛行機を描き、あたたかな風とともに希望に満ちた日々が始まることを予感させるデザインに仕上げました。 箱の中の仕切りに描いた満開の桜と、お花見を楽しむリスくんたちにもご注目ださい。 /.cont_r box01 box02"
+      },
+      "httpStatus": 200,
+      "verifiedImage": true,
+      "imageFormat": "JPEG"
+    },
+    "SWT-0464": {
+      "name": "フクサヤキューブ with フジヨシブラザーズ",
+      "brand": "福砂屋",
+      "url": "https://prcdn.freetls.fastly.net/release_image/109950/10/109950-10-f934947009d60f07b554bdee1f729fbe-1079x755.png?width=1950&height=1350&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000000010.000109950.html",
+      "caption": "公式2024年フジヨシブラザーズコラボの4種パッケージ紹介画像。単一動物柄の指定ではありません。",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "",
+        "before": "[{\"@context\":\"https://schema.org\",\"@type\":\"NewsArticle\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://prtimes.jp/main/html/rd/p/000000010.000109950.html\"},\"headline\":\"創業400周年を記念したコラボレーションが実現『フクサヤキューブ with フジヨシブラザーズ』　鮮やかな色彩とダイナミックなタッチが目を惹く限定デザインパッケージ、8月21日（水）より販売開始\",\"description\":\"創業400周年を記念したコラボレーションが実現『フクサヤキューブ with フジヨシブラザーズ』　鮮やかな色彩とダイナミックなタッチが目を惹く限定デザインパッケージ、8月21日（水）より販売開始　株式会社カステラ本家福砂屋のプレスリリース\",\"datePublished\":\"2024-08-19 14:00:01\",\"dateModified\":\"2024-08-20 16:18:51\",\"articleSection\":\"商品サービス\",\"author\":{\"@type\":\"Organization\",\"name\":\"株式会社カステラ本家福砂屋\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"PR TIMES\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://prtimes.jp/common/pc_v4/og.png\",\"width\":\"1200\",\"height\":\"630\"}},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://prcdn.freetls.fastly.net/release_image/109950/10/109950-10-f934947009d60f07b554bdee1f729fbe-1079x755.png?format=jpeg\\u0026auto=webp\\u0026fit=bounds\\u0026width=2400\\u0026height=1260\",\"width\":\"auto\",\"height\":\"auto\"}},{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"item\":{\"@id\":\"https://prtimes.jp/\",\"name\":\"プレスリリース\"}},{\"@type\":\"ListItem\",\"position\":2,\"item\":{\"@id\":\"https://prtimes.jp/main/html/searchrlp/company_id/109950\",\"name\":\"株式会社カステラ本家福砂屋のプレスリリース\"}},{\"@type\":\"ListItem\",\"position\":3,\"item\":{\"@id\":\"https://prtimes.jp/main/html/rd/p/000000010.000109950.html\",\"name\":\"創業400周年を記念したコラボレーションが実現『フクサヤキューブ with フジヨシブラザーズ』　鮮やかな色彩とダイナミックなタッチが目を惹く限定デザインパッケージ、8月21日（水）より販売開始\"}}]},{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"item\":{\"@id\":\"https://prtimes.jp/\",\"name\":\"プレスリリース\"}},{\"@type\":\"ListItem\",\"position\":2,\"item\":{\"@id\":\"https://prtimes.jp/main/html/searchrlp/release_type_id/01\",\"name\":\"商品サービス\"}},{\"@type\":\"ListItem\",\"position\":3,\"item\":{\"@id\":\"https://prtimes.jp/main/html/rd/p/000000010.000109950.html\",\"name\":\"創業400周年を記念したコラボレーションが実現『フクサヤキューブ with フジヨシブラザーズ』　鮮やかな色彩とダイナミックなタッチが目を惹く限定デザインパッケージ、8月21日（水）より販売開始\"}}]},{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"item\":{\"@id\":\"https://prtimes.jp/\",\"name\":\"プレスリリース\"}},{\"@type\":\"ListItem\",\"position\":2,\"item\":{\"@id\":\"https://prtimes.jp/main/html/searchbiscate/busi_cate_id/013\",\"name\":\"食品・飲料\"}},{\"@type\":\"ListItem\",\"position\":3,\"item\":{\"@id\":\"https://prtimes.jp/main/html/searchbiscate/busi_cate_id/013/lv2/41\",\"name\":\"食品・お菓子\"}},{\"@type\":\"ListItem\",\"position\":4,\"item\":{\"@id\":\"https://prtimes.jp/main/html/rd/p/000000010.000109950.html\",\"name\":\"創業400周年を記念したコラボレーションが実現『フクサヤキューブ with フジヨシブラザーズ』　鮮やかな色彩とダイナミックなタッチが目を惹く限定デザインパッケージ、8月21日（水）より販売開始\"}}]}] プレスリリース・ニュースリリース配信サービスのPR TIMES プレスリリースを受信 企業登録申請 Top テクノロジー モバイル アプリ エンタメ ビューティー ファッション ライフスタイル ビジネス グルメ スポーツ … PR TIMESのご利用について 資料をダウンロード 株式会社カステラ本家福砂屋 会社概要 フォロー 創業400周年を記念したコラボレーションが実現『フクサヤキューブ with フジヨ\u0000シブラザーズ』　鮮やかな色彩とダイナミックなタッチが目を惹く限定デザインパッケージ、8月21日（水）より販売開始 株式会社カステラ本家福砂屋 2024年8月19日 14時00分 いいね！数を読み込み中です 株式会社 カステラ本家 福砂屋（本社：長崎県長崎市船大工町3-1、代表取締役社長：殿村 育生、以下：福砂屋）は、創業400周年を記念した限定デザインパッケージ『フクサヤキューブ with フジヨシブラザーズ』を8月21日（水）から販売します。",
+        "after": "■カステラがポルトガルから日本に渡る航路で出会った動物たちをテーマに 「ものづくりの心」を表現した、フジヨシブラザーズとのコラボキューブ 「フクサヤキューブ」は、熟練した職人がひとつひとつ手わざで焼きあげる伝統のカステラ2切れを、かわいらしい小箱に包んだ食べきりサイズの商品です。1個から気軽に購入でき、いつでも、どこでも福砂屋のカステラをお楽しみいただけます。また、季節限定パッケージなどのデザインも豊富で、お土産や配り菓子としても最適です。 このたび、福砂屋の創業400周年を記念して、限定デザインパッケージ『フクサヤキューブ withフジヨシブラザーズ』を販売します。本商品は、熊本県出身の兄弟画家によるアートユニット「フジヨシブラザーズ」とのコラボレーションパッケージに包まれたフクサヤキューブです。 「カステラがポルトガルから日本に渡ってくる航路の中で出会った動物たち」をテーマに、フジヨシブラザーズならではの鮮やかな色彩とダイナミックなタッチで、奇跡や幸福の象徴でもある「ガロ（雄鶏）」をはじめとした4種の動物を描きました。背景の淡い色合いは、時間の経過や人々の記憶など、存在は感じられるけれど手に取ることができない“大切で愛しいモノたち”の空間を表現。さらに、同じ作り手として、400年の長きに渡り愛され続けている福砂屋のカステラ作りとの共通点を自身に問い導き出したテーマカラーをそれぞれの動物に設け、そのカラーデザインに彩られた限定ロゴもあしらわれています。"
+      },
+      "httpStatus": 200,
+      "verifiedImage": true,
+      "imageFormat": "JPEG"
+    },
+    "SWT-0472": {
+      "name": "ロシアケーキ（5種詰合せ）",
+      "brand": "村上開新堂（京都）",
+      "url": "https://www.murakami-kaishindo.jp/_src/sc986/murakami-kaishindo_russiacake.png",
+      "source": "https://www.murakami-kaishindo.jp/products/russiacake.html",
+      "caption": "公式ロシアケーキの5種の菓子本体の写真。外箱や個数別詰合せの指定ではありません。",
+      "method": "reviewed-product-section",
+      "checkedAt": "2026-09-12",
+      "evidenceText": {
+        "alt": "ロシアケーキ",
+        "before": "",
+        "after": "ロシアケーキ クッキーより少しソフトな生地の焼き菓子。 ほどよい甘さとフレッシュバターの風味が織りなす優しい味わいです 。 5種類の異なる食感をお楽しみ下さい。 1枚より　箱入り（10個入・12個入 ・16個入 ・20個入 ） お取り寄せ（10個入〜 ） 各5種類 （アプリコット・レーズン ・ブドウジャムサンド ・ゆずジャムサンド ・チョコ ） お日持ち 製造日より14日（常温） << お菓子一覧に戻る 京都村上開新堂について ･歴史 ･アクセス ･お問い合せ お 菓 子 【京都村上開新堂】 ･クッキー ･ロシアケーキ ･好事福廬 ･オレンジゼリー 【Maison de murakami by 京都村上開新堂 】 ･マドレーヌ ･ダックワーズ ･フロランタン ･ガレット･ブルトンヌ カフェ お 知 ら せ ･メディア掲載情報 ･採用情報 custom_tags_start HOME > お菓子 > ロシアケーキ custom_tags_end Copyright © Kyoto Murakami Kaishindo. All rights reserved."
+      },
+      "httpStatus": 200,
+      "verifiedImage": true,
+      "imageFormat": "PNG"
+    },
+    "SWT-0029": {
+      "name": "苺のショコラタルト",
+      "brand": "アンテノール",
+      "url": "https://prtimes.jp/i/17643/279/resize/d17643-279-594298-1.jpg",
+      "source": "https://prtimes.jp/main/html/rd/p/000000279.000017643.html",
+      "caption": "苺のショコラタルト 過去公式発表写真。直径12cm、苺ムース・チョコクリーム・焼込みカスタードがDBと一致。DB対象年の外観は未確認。",
+      "method": "official-product-body-or-alt",
+      "checkedAt": "2026-09-12",
+      "note": "過去公式発表写真。直径12cm、苺ムース・チョコクリーム・焼込みカスタードがDBと一致。DB対象年の外観は未確認。",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "retrievable": true,
+      "imageFormat": "JPEG",
+      "dimensions": [
+        650,
+        581
+      ],
+      "visualCheck": "DOM商品対応と画像デコード確認。目視確認は未実施。"
+    },
+    "SWT-0056": {
+      "name": "和栗の本格チョコレートモンブラン",
+      "brand": "Minimal",
+      "url": "https://cdn.shopify.com/s/files/1/0028/9226/7587/files/3x2_2000px_DSC_7154.jpg?v=1759229669",
+      "source": "https://mini-mal.tokyo/blogs/journal/10698",
+      "caption": "和栗の本格チョコレートモンブラン 2025年10月商品の公式本文に隣接。",
+      "method": "official-product-body-or-alt",
+      "checkedAt": "2026-09-12",
+      "note": "2025年10月商品の公式本文に隣接。",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "retrievable": true,
+      "imageFormat": "JPEG",
+      "dimensions": [
+        2000,
+        1333
+      ],
+      "visualCheck": "DOM商品対応と画像デコード確認。目視確認は未実施。"
+    },
+    "SWT-0080": {
+      "name": "フレーズママン",
+      "brand": "新宿高野",
+      "url": "https://prcdn.freetls.fastly.net/release_image/99363/43/99363-43-d81250b412ba20e9b8a4a12e7cd97f4d-1920x1280.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000000043.000099363.html",
+      "caption": "フレーズママン 2026年4月公式発表。本文は画像2枚に続いてフレーズママン・4号12cmと記載。",
+      "method": "official-product-body-or-alt",
+      "checkedAt": "2026-09-12",
+      "note": "2026年4月公式発表。本文は画像2枚に続いてフレーズママン・4号12cmと記載。",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "retrievable": true,
+      "imageFormat": "JPEG",
+      "dimensions": [
+        1920,
+        1280
+      ],
+      "visualCheck": "DOM商品対応と画像デコード確認。目視確認は未実施。"
+    },
+    "SWT-0108": {
+      "name": "くりぬきゼリー グレープフルーツ",
+      "brand": "京橋千疋屋",
+      "url": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/e7jHLdxV6ambav2BXm4q4AgX29q74epPVmPq3E1F.jpg?w=512",
+      "source": "https://kyobashisenbikiya.take-eats.jp/",
+      "caption": "くり抜きゼリー グレープフルーツ 公式予約サイトalt完全相当一致。DB対象年の写真かは未確認。",
+      "method": "official-product-body-or-alt",
+      "checkedAt": "2026-09-12",
+      "note": "公式予約サイトalt完全相当一致。DB対象年の写真かは未確認。",
+      "httpStatus": 200,
+      "contentType": "application/octet-stream",
+      "retrievable": true,
+      "imageFormat": "JPEG",
+      "dimensions": [
+        512,
+        341
+      ],
+      "visualCheck": "DOM商品対応と画像デコード確認。目視確認は未実施。"
+    },
+    "SWT-0113": {
+      "name": "和栗のモンブラン",
+      "brand": "京橋千疋屋",
+      "url": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/jRBpPCVlxYcnxE81VdkFQwNSPi06W7g40BqCPGA6.jpg?w=512",
+      "source": "https://kyobashisenbikiya.take-eats.jp/",
+      "caption": "和栗のモンブラン 公式予約サイトalt完全一致。DB対象年の写真かは未確認。",
+      "method": "official-product-body-or-alt",
+      "checkedAt": "2026-09-12",
+      "note": "公式予約サイトalt完全一致。DB対象年の写真かは未確認。",
+      "httpStatus": 200,
+      "contentType": "application/octet-stream",
+      "retrievable": true,
+      "imageFormat": "JPEG",
+      "dimensions": [
+        512,
+        341
+      ],
+      "visualCheck": "DOM商品対応と画像デコード確認。目視確認は未実施。"
+    },
+    "SWT-0156": {
+      "name": "苺ゼリー",
+      "brand": "京橋千疋屋",
+      "url": "https://blog-shinqs.pictona.jp/scc-admin/asset/shinqs/000017/000017/bec6cef3.jpeg",
+      "source": "https://blog.shinqs.jp/shop/detail/?cd=017576&scd=000014",
+      "caption": "苺ゼリー 2020年11月27日・京橋千疋屋の店舗ブログ。商品の本文に掲載された唯一の商品写真。過去年画像でありDB対象年の外観は未確認。",
+      "method": "official-product-body-or-alt",
+      "checkedAt": "2026-09-12",
+      "note": "2020年11月27日・京橋千疋屋の店舗ブログ。商品の本文に掲載された唯一の商品写真。過去年画像でありDB対象年の外観は未確認。",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "retrievable": true,
+      "imageFormat": "JPEG",
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "visualCheck": "DOM商品対応と画像デコード確認。目視確認は未実施。"
+    },
+    "SWT-0345": {
+      "name": "イスパハン",
+      "brand": "ピエール・エルメ・パリ",
+      "url": "https://www.pierreherme.co.jp/product/image/10266/000165.jpg",
+      "source": "https://www.pierreherme.co.jp/product/patisseries-individuel-gt-ispahan.html",
+      "caption": "イスパハン 公式商品ページのalt完全一致。ローズ・ライチ・フランボワーズも一致。DB対象年の写真かは未確認。",
+      "method": "official-product-body-or-alt",
+      "checkedAt": "2026-09-12",
+      "note": "公式商品ページのalt完全一致。ローズ・ライチ・フランボワーズも一致。DB対象年の写真かは未確認。",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "retrievable": true,
+      "imageFormat": "JPEG",
+      "dimensions": [
+        1120,
+        1120
+      ],
+      "visualCheck": "DOM商品対応と画像デコード確認。目視確認は未実施。"
+    },
+    "SWT-0384": {
+      "name": "コーヒー香るキャラメルショコラデコレーション",
+      "brand": "シャトレーゼ",
+      "url": "https://digitalpr.jp/simg/2853/102898/300_300_2025012318244867920ae00c669.jpeg",
+      "source": "https://digitalpr.jp/r/102898",
+      "caption": "コーヒー香るキャラメルショコラデコレーション 2025年1月公式発表。写真直後の商品見出し・14cm・素材一致。",
+      "method": "official-product-body-or-alt",
+      "checkedAt": "2026-09-12",
+      "note": "2025年1月公式発表。写真直後の商品見出し・14cm・素材一致。",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "retrievable": true,
+      "imageFormat": "JPEG",
+      "dimensions": [
+        2054,
+        2054
+      ],
+      "visualCheck": "DOM商品対応と画像デコード確認。目視確認は未実施。"
+    },
+    "SWT-0408": {
+      "name": "\"丹波栗\"のモンブランパフェ",
+      "brand": "資生堂パーラー",
+      "url": "https://prcdn.freetls.fastly.net/release_image/6543/796/6543-796-a6bbd502fddba420c66bc07666b9ca11-1800x2700.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000000796.000006543.html",
+      "caption": "丹波栗のモンブランパフェ 2024年11月公式発表。丹波栗の該当商品説明に隣接。",
+      "method": "official-product-body-or-alt",
+      "checkedAt": "2026-09-12",
+      "note": "2024年11月公式発表。丹波栗の該当商品説明に隣接。",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "retrievable": true,
+      "imageFormat": "JPEG",
+      "dimensions": [
+        900,
+        1350
+      ],
+      "visualCheck": "DOM商品対応と画像デコード確認。目視確認は未実施。"
+    },
+    "SWT-0451": {
+      "name": "ノエル ミロワール サヤ",
+      "brand": "Sadaharu AOKI",
+      "url": "https://prcdn.freetls.fastly.net/release_image/29116/76/29116-76-526ae8b2609666c9d9024bbccf7340f4-2650x2265.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000000076.000029116.html",
+      "caption": "ノエル ミロワール サヤ 2024年公式発表の商品詳細。写真直後に同名・直径14cm・赤いドーム形の記載。",
+      "method": "official-product-body-or-alt",
+      "checkedAt": "2026-09-12",
+      "note": "2024年公式発表の商品詳細。写真直後に同名・直径14cm・赤いドーム形の記載。",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "retrievable": true,
+      "imageFormat": "JPEG",
+      "dimensions": [
+        1579,
+        1350
+      ],
+      "visualCheck": "DOM商品対応と画像デコード確認。目視確認は未実施。"
+    },
+    "SWT-0469": {
+      "name": "京ippon お濃茶テリーヌ",
+      "brand": "マールブランシュ",
+      "url": "https://prcdn.freetls.fastly.net/release_image/21404/36/21404-36-9245906c833e9d14a3618feb54bf55d7-1399x1047.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000000036.000021404.html",
+      "caption": "ミニテリーヌ京ipponミルクお濃茶 2025年公式発表。DBの一口サイズ・京都府産一番茶・ミルクソースがこの正式名の品と一致。正式名の追記推奨。",
+      "method": "official-product-body-or-alt",
+      "checkedAt": "2026-09-12",
+      "note": "2025年公式発表。DBの一口サイズ・京都府産一番茶・ミルクソースがこの正式名の品と一致。正式名の追記推奨。",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "retrievable": true,
+      "imageFormat": "JPEG",
+      "dimensions": [
+        1399,
+        1047
+      ],
+      "visualCheck": "DOM商品対応と画像デコード確認。目視確認は未実施。"
+    },
+    "SWT-0480": {
+      "name": "苺のホワイトモンブラン",
+      "brand": "アンジェリーナ",
+      "url": "https://afunui.com/content/images/cafe-angelina/1777211722957.webp?dpl=dpl_AwVo83i5c89qxy4LWStFRacYkSQ6",
+      "source": "https://afunui.com/posts/cafe-angelina",
+      "caption": "苺のホワイトモンブラン 2026年4月の来店記事。掲載画像直後に当該フレーバー名・白い外観・中の苺1粒の説明。DB対象年の外観と一致するかは未確認。",
+      "method": "public-visit-blog-adjacent-caption",
+      "checkedAt": "2026-09-12",
+      "note": "2026年4月の来店記事。掲載画像直後に当該フレーバー名・白い外観・中の苺1粒の説明。DB対象年の外観と一致するかは未確認。",
+      "httpStatus": 200,
+      "contentType": "image/webp",
+      "retrievable": true,
+      "imageFormat": "WEBP",
+      "dimensions": [
+        1920,
+        1440
+      ],
+      "visualCheck": "DOM商品対応と画像デコード確認。目視確認は未実施。"
+    },
+    "SWT-0044": {
+      "url": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/hKmM4ySgAclLgwVksLktBIi9A6vjXcMNSvwfnC2a.jpg?w=512",
+      "source": "https://kyobashisenbikiya.take-eats.jp/",
+      "caption": "公式テイクアウト注文ページでalt『くり抜きゼリー オレンジ』と一致。",
+      "name": "くりぬきゼリー オレンジ",
+      "brand": "京橋千疋屋",
+      "checkedAt": "2026-09-12",
+      "method": "official-name-image-correspondence",
+      "visualReview": "未確認。公式alt・個別見出しと画像対応・HTTP状態の検証。",
+      "httpStatus": 200,
+      "contentType": "application/octet-stream"
+    },
+    "SWT-0050": {
+      "url": "https://prcdn.freetls.fastly.net/release_image/97396/225/97396-225-9d7b3986c4538d4c5a243aea63085d4f-886x687.jpg",
+      "source": "https://prtimes.jp/main/html/rd/p/000000225.000097396.html",
+      "caption": "『ハロウィン真っ赤なりんごのケーキ』見出し直後の実物写真。次のcfc6画像は断面図なので使用しない。 DB記載のベリーは別商品チョコレートドクロムースの記述混入の可能性。公式のりんごはキャラメルムース・りんごプレザーブ・ココアスポンジ・フィアンティーヌ。",
+      "sourcePublishedDate": "2024-10-11",
+      "note": "DB記載のベリーは別商品チョコレートドクロムースの記述混入の可能性。公式のりんごはキャラメルムース・りんごプレザーブ・ココアスポンジ・フィアンティーヌ。",
+      "name": "ハロウィン真っ赤なりんごのケーキ",
+      "brand": "不二家",
+      "checkedAt": "2026-09-12",
+      "method": "official-name-image-correspondence",
+      "visualReview": "未確認。公式alt・個別見出しと画像対応・HTTP状態の検証。",
+      "httpStatus": 200,
+      "contentType": "image/jpeg"
+    },
+    "SWT-0079": {
+      "url": "https://prcdn.freetls.fastly.net/release_image/99363/43/99363-43-6a55acaca25b297653aeb757dbdd812c-1920x1280.jpg",
+      "source": "https://prtimes.jp/main/html/rd/p/000000043.000099363.html",
+      "caption": "公式母の日リリースの『Gateaux ママン』説明直前の個別画像。前のフレーズママン・次のタルトレットとは分離。 2026年5月1日～10日の販売商品。",
+      "note": "2026年5月1日～10日の販売商品。",
+      "name": "Gateauxママン",
+      "brand": "新宿高野",
+      "checkedAt": "2026-09-12",
+      "method": "official-name-image-correspondence",
+      "visualReview": "未確認。公式alt・個別見出しと画像対応・HTTP状態の検証。",
+      "httpStatus": 200,
+      "contentType": "image/jpeg"
+    },
+    "SWT-0112": {
+      "url": "https://www.senbikiya.co.jp/images/item/item-main-5105.jpg",
+      "source": "https://www.senbikiya.co.jp/c/shohin-list/sweets/5105",
+      "caption": "公式商品『ご自宅用紅玉りんごのパイ』紹介直後のメイン商品画像。 同名パイの冷凍通販仕様。店頭商品と包装・提供状態は異なる可能性。",
+      "note": "同名パイの冷凍通販仕様。店頭商品と包装・提供状態は異なる可能性。",
+      "name": "紅玉りんごのパイ",
+      "brand": "京橋千疋屋",
+      "checkedAt": "2026-09-12",
+      "method": "official-name-image-correspondence",
+      "visualReview": "未確認。公式alt・個別見出しと画像対応・HTTP状態の検証。",
+      "httpStatus": 200,
+      "contentType": "image/jpeg"
+    },
+    "SWT-0174": {
+      "url": "https://takano-online.jp/cdn/shop/files/24959108036472_1.jpg?v=1785051190&width=533",
+      "source": "https://takano-online.jp/collections/cake",
+      "caption": "新宿高野公式通販のalt『新宿高野 フローズンアントルメ』と一致。 母の日限定のラッピング・飾りとの一致は未確認。通常商品の画像。",
+      "note": "母の日限定のラッピング・飾りとの一致は未確認。通常商品の画像。",
+      "name": "母の日 フローズンアントルメ",
+      "brand": "新宿高野",
+      "checkedAt": "2026-09-12",
+      "method": "official-name-image-correspondence",
+      "visualReview": "未確認。公式alt・個別見出しと画像対応・HTTP状態の検証。",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "revoked": true,
+      "revocationReason": "通常版と母の日限定版の外観一致が未確認のため採用撤回"
+    },
+    "SWT-0375": {
+      "url": "https://item-shopping.c.yimg.jp/i/n/henri-charpentier_hsmh-34g_i_20260320121006",
+      "source": "https://store.shopping.yahoo.co.jp/henri-charpentier/hsmh-34g.html",
+      "caption": "公式販売店舗の『ショートケーキ 華やぐ桃のコンポート 母の日プレート付12cm』メイン画像alt一致。",
+      "name": "ザ・ショートケーキ ＜華やぐ桃のコンポート＞ ＜母の日プレート付＞12cm",
+      "brand": "アンリ・シャルパンティエ",
+      "checkedAt": "2026-09-12",
+      "method": "official-name-image-correspondence",
+      "visualReview": "未確認。公式alt・個別見出しと画像対応・HTTP状態の検証。",
+      "httpStatus": 200,
+      "contentType": "image/jpeg"
+    },
+    "SWT-0419": {
+      "url": "https://parlour.shiseido.co.jp/xmasLP/assets/img/sweets_item003.webp",
+      "source": "https://parlour.shiseido.co.jp/xmasLP/",
+      "caption": "公式クリスマス2025ページでalt『シュトーレン』、銀座本店ショップ限定の説明に対応。 2025年クリスマスの写真。",
+      "note": "2025年クリスマスの写真。",
+      "name": "シュトーレン",
+      "brand": "資生堂パーラー",
+      "checkedAt": "2026-09-12",
+      "method": "official-name-image-correspondence",
+      "visualReview": "未確認。公式alt・個別見出しと画像対応・HTTP状態の検証。",
+      "httpStatus": 200,
+      "contentType": "image/webp"
+    },
+    "SWT-0442": {
+      "url": "https://shop.gateaufesta-harada.com/img/category/2/stollen.jpg",
+      "source": "https://shop.gateaufesta-harada.com/shop/c/cstollen_sgn/",
+      "caption": "公式『クリスマス シュトレン』カテゴリー本文の商品画像。altも同名。 カテゴリー画像のため単品だけの構図か目視未確認。2024年箱・包装仕様との一致も未確認。",
+      "note": "カテゴリー画像のため単品だけの構図か目視未確認。2024年箱・包装仕様との一致も未確認。",
+      "name": "シュトレン(2024クリスマス)",
+      "brand": "ガトーフェスタ ハラダ",
+      "checkedAt": "2026-09-12",
+      "method": "official-name-image-correspondence",
+      "visualReview": "未確認。公式alt・個別見出しと画像対応・HTTP状態の検証。",
+      "httpStatus": 200,
+      "contentType": "image/jpeg"
+    },
+    "SWT-0462": {
+      "url": "https://www.juchheim.co.jp/wp/wp-content/uploads/2025/11/7bf249c4487474d49738593ba0b7250e-800x514.jpg",
+      "source": "https://www.juchheim.co.jp/brand/juchheim",
+      "caption": "公式ブランドの商品カード『バウムクーヘンキュートジャパン(宇治抹茶)』の画像。隣のチョコレート・ホワイトチョコレートとは別画像。 缶を含む構図の可能性。画像の目視は未確認。",
+      "note": "缶を含む構図の可能性。画像の目視は未確認。",
+      "name": "バウムクーヘンキュートジャパン（宇治抹茶）",
+      "brand": "ユーハイム",
+      "checkedAt": "2026-09-12",
+      "method": "official-name-image-correspondence",
+      "visualReview": "未確認。公式alt・個別見出しと画像対応・HTTP状態の検証。",
+      "httpStatus": 200,
+      "contentType": "image/jpeg"
+    },
+    "SWT-0482": {
+      "url": "https://www.kihachi.jp/assets_c/2025/02/600_KC_H_de_2503%E8%8B%BA%E3%81%A8%E3%83%86%E3%82%A3%E3%83%A9%E3%83%9F%E3%82%B9%E3%83%91%E3%83%95%E3%82%A704-thumb-600xauto-12111.jpg",
+      "source": "https://www.kihachi.jp/news/restaurant-cafe/restaurant-cafe_1324.html",
+      "caption": "キハチ公式2025年春フェア『苺のティラミスパフェ』個別画像。altにも苺とティラミスパフェと明示。 公式説明は国産苺・ティラミスクリーム・レッドキュラソージュレ。エスプレッソは当該説明では未確認。",
+      "sourcePublishedDate": "2025-03-04",
+      "note": "公式説明は国産苺・ティラミスクリーム・レッドキュラソージュレ。エスプレッソは当該説明では未確認。",
+      "name": "国産苺×ティラミスパフェ",
+      "brand": "キハチ",
+      "checkedAt": "2026-09-12",
+      "method": "official-name-image-correspondence",
+      "visualReview": "未確認。公式alt・個別見出しと画像対応・HTTP状態の検証。",
+      "httpStatus": 200,
+      "contentType": "image/jpeg"
+    },
+    "SWT-0046": {
+      "name": "クリスマス ストロベリースクエア",
+      "brand": "千疋屋総本店",
+      "url": "https://www.mistore.jp/content/dam/isetan_mitsukoshi/event/urawa/event_calendar/christmas/2025/img/item17.webp",
+      "source": "https://www.mistore.jp/store/urawa/event_calendar/urawa_christmas_part2.html",
+      "caption": "2025年伊勢丹浦和店の公式販売案内。商品名一致。4号の掲載例。",
+      "method": "official-product-image",
+      "checkedAt": "2026-09-12",
+      "inspection": "目視で商品・素材・該当説明の対応を確認。",
+      "validation": {
+        "status": 200,
+        "contentType": "image/webp"
+      }
+    },
+    "SWT-0072": {
+      "name": "美果樹～いちご＆台湾パイン～",
+      "brand": "新宿高野",
+      "url": "https://tblg.k-img.com/restaurant/images/Rvw/305244/640x640_rect_0566c7130bff68bf75c9ff176d5f935c.jpg",
+      "source": "https://tabelog.com/kanagawa/A1401/A140101/14004004/dtlrvwlst/B444815369/?type=0",
+      "caption": "食べログ公開レビューの同名キャプション写真。いちごと台湾パインが載る角形カップを目視確認。新しい別写真にはメロンの取り違えがあるため、同じ記事の別掲載写真を使用。撮影年は未確認。",
+      "method": "public-review-photo",
+      "checkedAt": "2026-09-12",
+      "inspection": "目視で商品・素材・該当説明の対応を確認。",
+      "validation": {
+        "status": 200,
+        "contentType": "image/jpeg"
+      }
+    },
+    "SWT-0157": {
+      "name": "バナナショート",
+      "brand": "京橋千疋屋",
+      "url": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/SIL0yYtukIFp5Z9PHJdOjJp1JhokvvVUNUmuhC8S.jpg?w=512",
+      "source": "https://kyobashisenbikiya.take-eats.jp/",
+      "caption": "公式テイクアウト商品ページのバナナショートケーキ。バナナを挟んだチョコレート色の生地とクリームの写真。DBに記録のないチョコレート色があるが、公式商品名との対応を確認。",
+      "method": "official-product-image",
+      "checkedAt": "2026-09-12",
+      "inspection": "目視で商品・素材・該当説明の対応を確認。",
+      "validation": {
+        "status": 200,
+        "contentType": "application/octet-stream"
+      }
+    },
+    "SWT-0374": {
+      "name": "母の日限定ケーキ ～マンゴーローズといちごの花束のケーキ～",
+      "brand": "カフェコムサ",
+      "url": "https://prcdn.freetls.fastly.net/release_image/14225/1189/14225-1189-713d7e7597105ce71cf839a7f1b38286-700x632.jpg?width=1950&height=1350&quality=85&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000001189.000014225.html",
+      "caption": "2026年母の日の公式プレスリリース。予約限定ケーキの写真。",
+      "method": "official-product-image",
+      "checkedAt": "2026-09-12",
+      "inspection": "目視で商品・素材・該当説明の対応を確認。",
+      "validation": {
+        "status": 200,
+        "contentType": "image/jpeg"
+      }
+    },
+    "SWT-0388": {
+      "name": "島根県産多伎いちじく 出雲\"縁結び\"のタルト",
+      "brand": "キル フェ ボン",
+      "url": "https://stat.ameba.jp/user_images/20211001/07/jmpnh061/0c/2e/j/o1080075215009116616.jpg?caw=800",
+      "source": "https://ameblo.jp/jmpnh061/entry-12701040272.html",
+      "caption": "2021年の同名商品実食投稿。多伎いちじくとアングレーズソースのタルト断面。対象年の外観再確認ではなく過去実食写真。",
+      "method": "public-review-photo",
+      "checkedAt": "2026-09-12",
+      "inspection": "目視で商品・素材・該当説明の対応を確認。",
+      "validation": {
+        "status": 200,
+        "contentType": "image/jpeg"
+      }
+    },
+    "SWT-0410": {
+      "name": "カスタードマロンケーキ",
+      "brand": "HARBS",
+      "url": "https://stat.ameba.jp/user_images/20231019/12/tabichan15/8e/be/j/o1080081015352895486.jpg?caw=800",
+      "source": "https://ameblo.jp/tabichan15/entry-12825145992.html",
+      "caption": "2023年10月のカスタードマロンケーキという記事の実食写真。栗・カスタードの層とスライスアーモンドを目視確認。現行公式サイトの別商品名に転用された画像を使わず、この投稿に紐付ける。",
+      "method": "public-review-photo",
+      "checkedAt": "2026-09-12",
+      "inspection": "目視で商品・素材・該当説明の対応を確認。",
+      "validation": {
+        "status": 200,
+        "contentType": "image/jpeg"
+      }
+    },
+    "SWT-0433": {
+      "name": "母の日 苺のロールケーキ",
+      "brand": "不二家",
+      "url": "https://stat.ameba.jp/user_images/20260510/14/teru-tokyo/97/eb/j/o1701127615780700147.jpg?caw=800",
+      "source": "https://ameblo.jp/teru-tokyo/entry-12965392695.html",
+      "caption": "2026年5月10日の実食投稿。苺3粒・スマイルチョコ・ペコちゃんマカロン・側面ホワイトチョコフレークの記録に一致。撮影者が母の日プレートを刺す前の写真を選択。",
+      "method": "public-review-photo",
+      "checkedAt": "2026-09-12",
+      "inspection": "目視で商品・素材・該当説明の対応を確認。",
+      "validation": {
+        "status": 200,
+        "contentType": "image/jpeg"
+      }
+    },
+    "SWT-0456": {
+      "name": "CACAO HUNTERSコラボレーションプリン",
+      "brand": "モロゾフ",
+      "url": "https://prcdn.freetls.fastly.net/release_image/20853/582/20853-582-73a3383ca19a432edf50ebda1d562724-1040x720.jpg?width=1950&height=1350&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000000582.000020853.html",
+      "caption": "2025年1月14日のモロゾフ公式発表。CACAO HUNTERSとのコラボレーションプリン本文写真。カカオレーチェ38％タイプの掲載例。複数カカオタイプあり。",
+      "method": "official-product-image",
+      "checkedAt": "2026-09-12",
+      "inspection": "目視で商品・素材・該当説明の対応を確認。",
+      "validation": {
+        "status": 200,
+        "contentType": "image/jpeg"
+      }
+    },
+    "SWT-0474": {
+      "name": "ミルキーマスカルポーネチーズタルト",
+      "brand": "BAKE CHEESE TART",
+      "url": "https://prcdn.freetls.fastly.net/release_image/14043/193/14043-193-abf90c3eb144cffdc15bf67cde531532-1000x748.jpg?width=1950&height=1350&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000000193.000014043.html",
+      "caption": "2025年BAKE公式発表の商品見出し「焼きたてタルト ミルキーマスカルポーネチーズ」に対応する個別写真。DBは商品名の語順を短縮して記録。",
+      "method": "official-product-image",
+      "checkedAt": "2026-09-12",
+      "inspection": "目視で商品・素材・該当説明の対応を確認。",
+      "validation": {
+        "status": 200,
+        "contentType": "image/jpeg"
+      }
+    },
+    "SWT-0481": {
+      "name": "スペシャル モンブランパフェ（日比谷シャンテ限定）",
+      "brand": "キハチ",
+      "url": "https://prcdn.freetls.fastly.net/release_image/5743/1022/5743-1022-57f8822fe4af4782c44c77c13da0eed6-1080x1080.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000001022.000005743.html",
+      "caption": "2025年10月28日公式発表の「スペシャル モンブランパフェ」日比谷シャンテ限定の個別写真。元DBの参照URLは別季節の商品だったため正しいマロン記事を特定。",
+      "method": "official-product-image",
+      "checkedAt": "2026-09-12",
+      "inspection": "目視で商品・素材・該当説明の対応を確認。",
+      "validation": {
+        "status": 200,
+        "contentType": "image/jpeg"
+      }
+    },
+    "SWT-0485": {
+      "name": "モンブラン（フランス・イタリア産栗3種使用）",
+      "brand": "ノワ・ドゥ・ブール",
+      "url": "https://mi-journey.jp/foodie/wp-content/uploads/2025/10/251004montblanc5.jpg",
+      "source": "https://mi-journey.jp/foodie/92423/",
+      "caption": "三越伊勢丹公式FOODIEの2025年モンブラン紹介。ノワ・ドゥ・ブールの見出しと同名altが一致。",
+      "method": "official-product-image",
+      "checkedAt": "2026-09-12",
+      "inspection": "目視で商品・素材・該当説明の対応を確認。",
+      "validation": {
+        "status": 200,
+        "contentType": "image/jpeg"
+      }
+    },
+    "SWT-0501": {
+      "name": "キャラメルと丸ごとイチゴのタルト（タルト・オ・フレーズ・ヴィフ）",
+      "brand": "ア・ラ・カンパーニュ",
+      "url": "https://prcdn.freetls.fastly.net/release_image/14431/1065/14431-1065-9e5cc600b5ffbca56fc0bacb47333963-584x551.png?format=jpeg&auto=webp&quality=85&width=1950&height=1350&fit=bounds",
+      "source": "https://prtimes.jp/main/html/rd/p/000001065.000014431.html",
+      "caption": "2022年母の日の阪急阪神百貨店公式発表。同じ名前のタルト オ フレーズ ヴィフ、15cm・母の日プレート付きの掲載例。現在年の仕様としては未確認。",
+      "method": "official-product-image",
+      "checkedAt": "2026-09-12",
+      "inspection": "目視で商品・素材・該当説明の対応を確認。",
+      "validation": {
+        "status": 200,
+        "contentType": "image/jpeg"
+      }
+    },
+    "SWT-0347": {
+      "name": "抹茶オペラ",
+      "brand": "サダハル・アオキ",
+      "url": "https://www.tokyo-midtown.com/jp/restaurants/upload/thumb/2017/01/B1F_13_roco1-thumb-434xauto-1212.jpg",
+      "source": "https://www.tokyo-midtown.com/jp/restaurants/SOP0000048/",
+      "caption": "東京ミッドタウン公式店舗ページの「バンブー」。公式説明が「オペラを抹茶でアレンジ」と明記するため、DBの抹茶オペラに対応。正式掲載名はバンブー。対象年の外観変化は未確認。",
+      "method": "official-product-image",
+      "checkedAt": "2026-09-12",
+      "inspection": "目視確認済み。",
+      "validation": {
+        "status": 200,
+        "contentType": "image/jpeg"
+      }
+    },
+    "SWT-0494": {
+      "name": "タルト・ア・ラ・ミルリトン",
+      "brand": "ア・ラ・カンパーニュ",
+      "url": "https://tblg.k-img.com/restaurant/images/Rvw/360156/640x640_rect_7571a4bc10b3ece431a254d6094833aa.jpg",
+      "source": "https://tabelog.com/kanagawa/A1405/A140505/14090383/dtlrvwlst/B512721372/",
+      "caption": "食べログ公開レビュー内の店頭写真。値札のタルト・ア・ラ・ミルリトンという商品名と茶色いアーモンド生地、粉糖の表面を目視確認。撮影年は未確認。周辺に別商品が少し写る。",
+      "method": "public-review-photo",
+      "checkedAt": "2026-09-12",
+      "inspection": "目視確認済み。",
+      "validation": {
+        "status": 200,
+        "contentType": "image/jpeg"
+      }
+    },
+    "SWT-0177": {
+      "name": "御用邸りんごチーズケーキ",
+      "brand": "チーズガーデン",
+      "url": "https://prcdn.freetls.fastly.net/release_image/40854/158/40854-158-deda6e6827f1699de2dc0d0bfd3f7eda-1080x1080.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000000158.000040854.html",
+      "caption": "2025年10月29日発売の公式商品名は御用邸アップルチーズケーキ。DB名のりんごはアップルと同義で、ブランド・カテゴリ・主素材・対象年2025が対応。掲載名の差を明記。",
+      "method": "official-product-image",
+      "checkedAt": "2026-09-12",
+      "inspection": "目視確認済み。",
+      "validation": {
+        "status": 200,
+        "contentType": "image/jpeg"
+      }
+    },
+    "SWT-0069": {
+      "name": "カスタードマロンケーキ",
+      "brand": "HARBS",
+      "url": "https://stat.ameba.jp/user_images/20231019/12/tabichan15/8e/be/j/o1080081015352895486.jpg?caw=800",
+      "source": "https://ameblo.jp/tabichan15/entry-12825145992.html",
+      "caption": "2023年10月のカスタードマロンケーキという記事の実食写真。栗・カスタードの層とスライスアーモンドを目視確認。現行公式サイトの別商品名に転用された画像を使わず、この投稿に紐付ける。 同名同ブランドの別年月レコード。DB対象年との外観一致は未確認。",
+      "method": "public-review-photo",
+      "checkedAt": "2026-09-12",
+      "inspection": "目視で商品・素材・該当説明の対応を確認。",
+      "validation": {
+        "status": 200,
+        "contentType": "image/jpeg"
+      }
     }
   }
 }

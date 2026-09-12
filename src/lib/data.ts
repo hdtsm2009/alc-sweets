@@ -63,7 +63,7 @@ export function matchesQuery(p: Product, query: string): boolean {
   const text = normalize([p.商品ID, p.ブランド名, p.会社名, p.商品名, p.主素材, p.副素材,
     p.商品カテゴリ, p.季節テーマ, p.イベントテーマ, p.真似すべき点, p.応用案,
     p.商品企画メモ, p.売場訴求メモ, p.ALC試作案, p["既存資材・製法具体メモ"],
-    p.会議確認事項, p.ロス対策].filter(Boolean).join(" "));
+    p.会議確認事項, p.ロス対策, p.latestDescription, p.latestUpdateSummary].filter(Boolean).join(" "));
   return normalize(query).trim().split(/\s+/).every(word => text.includes(word));
 }
 
