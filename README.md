@@ -224,3 +224,33 @@ Browser: Tests: 12, passed: 12, failed: 0
 - `next-env.d.ts`: Next.jsビルドによるルート型参照の生成。
 
 ローカル確認URL: `http://127.0.0.1:3100/`。公開サイトの変更はしていない。
+
+## 本番デプロイ確認（2026-09-12）
+
+ユーザーの「デプロイして」の指示により、以前のpush・公開禁止を解除して既存Netlifyへ反映。
+公開URL: https://alc-sweets.netlify.app/
+公開したアプリ本体のコミット: `0f4fc68`（GitHub mainへpush）。
+
+| 確認項目 | 結果 |
+|---|---|
+| 既存サイトへの反映 | 満たした。6画面すべてHTTP 200、タイトルが「ALC タルト開発DB」へ更新 |
+| 比較ページのJS配信 | 満たした。8/8アセットがHTTP 200 |
+| 商品・メタデータの反映 | 満たした。514件。改行正規化後・JSON解析後ともローカル成果物と完全一致 |
+| 本番での操作 | 満たした。合成データに差し替えて12項目成功、実行時例外なし |
+
+実出力:
+
+```text
+Planning JavaScript assets: 8/8 HTTP 200
+Tests: 12, passed: 12, failed: 0
+Closing test context
+Closing test browser
+Browser closed
+```
+
+途中の検査失敗:
+- 商品JSONの生バイトSHA256比較が不一致。Windows側CRLFと本番LFの差であり、改行正規化後とJSON解析後の両方で一致を確認。
+- 壊れた候補保存の検査が、画面のエラー通知とNextの画面遷移通知の2要素を拾って失敗。テストを目的のエラー文の完全一致指定へ修正し、全12項目を再実行して成功。
+
+今回直接編集したファイル: `README.md`（公開状態と検証結果）、`src/app/about/page.tsx`（公開前提の案内へ更新）、`tests/browser.cjs`（本番での通知選択を修正）。アプリ本体の22ファイルは上記の商品開発向け変更一覧を参照。
+テストとこの記録だけの追補コミットは `[skip netlify]` を付け、検証済みの公開アプリを維持する。

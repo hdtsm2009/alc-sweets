@@ -121,7 +121,7 @@ async function test(name, fn) { try { await fn(); passed++; console.log(`PASS ${
   await test("壊れた候補保存を勝手に上書きせず明示操作で復旧", async () => {
     await page.evaluate(()=>localStorage.setItem("alc-tart-candidates-v1","broken"));
     await page.goto(origin+"/planning/");
-    await page.getByRole("alert").waitFor();
+    await page.getByText("候補の端末保存を読み込めません。ブラウザの保存設定を確認してください。", {exact:true}).waitFor();
     assert.equal(await page.evaluate(()=>localStorage.getItem("alc-tart-candidates-v1")),"broken");
     page.once("dialog", dialog=>dialog.accept());
     await page.getByRole("button",{name:"候補保存を初期化",exact:true}).click();
