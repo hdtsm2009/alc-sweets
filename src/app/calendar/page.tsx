@@ -1,10 +1,10 @@
 "use client";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import type { Product } from "@/types/product";
-import { PRIORITY_COLORS } from "@/lib/data";
+import { useProducts, PRIORITY_COLORS } from "@/lib/data";
 import Link from "next/link";
 
-const MONTH_NAMES = ["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"];
+const MONTH_NAMES = ["月未設定","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"];
 const SEASON_COLORS: Record<number, string> = {
   1: "bg-blue-50 border-blue-200",
   2: "bg-blue-50 border-blue-200",
@@ -21,26 +21,23 @@ const SEASON_COLORS: Record<number, string> = {
 };
 
 export default function CalendarPage() {
-  const [products, setProducts] = useState<Product[]>([]);
-  const [loading, setLoading] = useState(true);
+  const { products, loading, error, retry } = useProducts();
+
   const [selected, setSelected] = useState<number | null>(null);
 
-  useEffect(() => {
-    fetch("/data/products.json")
-      .then(r => r.json())
-      .then((d: Product[]) => { setProducts(d); setLoading(false); });
-  }, []);
 
+
+  if (error) return <div role="alert" className="text-center py-20"><p>{error}</p><button onClick={retry} className="mt-3 underline">再試行</button></div>;
   if (loading) return <div className="text-center py-20 text-gray-400">読み込み中...</div>;
 
   const byMonth: Record<number, Product[]> = {};
-  for (let m = 1; m <= 12; m++) byMonth[m] = [];
+  for (let m = 0; m <= 12; m++) byMonth[m] = [];
   for (const p of products) {
     const m = Number(p.対象月);
-    if (m >= 1 && m <= 12) byMonth[m].push(p);
+    if (m >= 0 && m <= 12) byMonth[m].push(p);
   }
 
-  const displayList = selected ? byMonth[selected] : [];
+  const displayList = selected !== null ? byMonth[selected] : [];
   const sCount = (ps: Product[]) => ps.filter(p => p.商品会議優先度 === "S").length;
   const aplusCount = (ps: Product[]) => ps.filter(p => p.商品会議優先度 === "A+").length;
 
@@ -48,14 +45,15 @@ export default function CalendarPage() {
     <div>
       <h1 className="text-2xl font-bold text-[#1F4E78] mb-6">月別カレンダー</h1>
 
+      <p className="text-sm text-gray-600 mb-4">調査時点の対象月でまとめた参考事例です。旬や現在の販売を保証するものではありません。</p>
       <div className="grid grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-3 mb-8">
-        {[1,2,3,4,5,6,7,8,9,10,11,12].map(m => {
+        {[1,2,3,4,5,6,7,8,9,10,11,12,0].map(m => {
           const ps = byMonth[m];
           return (
             <button
               key={m}
               onClick={() => setSelected(selected === m ? null : m)}
-              className={`rounded-xl border-2 p-3 text-left transition-all ${SEASON_COLORS[m]} ${selected === m ? "ring-2 ring-[#1F4E78] shadow-lg" : "hover:shadow-md"}`}
+              className={`rounded-xl border-2 p-3 text-left transition-all ${SEASON_COLORS[m] || "bg-gray-50 border-gray-200"} ${selected === m ? "ring-2 ring-[#1F4E78] shadow-lg" : "hover:shadow-md"}`}
             >
               <div className="font-bold text-lg text-[#1F4E78]">{MONTH_NAMES[m]}</div>
               <div className="text-xs text-gray-500 mt-1">{ps.length}件</div>
@@ -66,11 +64,12 @@ export default function CalendarPage() {
         })}
       </div>
 
-      {selected && (
+      {selected !== null && (
         <div>
           <h2 className="text-xl font-bold text-[#1F4E78] mb-4">
             {MONTH_NAMES[selected]} の商品 ({displayList.length}件)
           </h2>
+          <Link href={`/?months=${selected === 0 ? "unknown" : selected}`} className="action mb-4">この月の商品から比較候補を選ぶ</Link>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
             {displayList
               .sort((a, b) => {
@@ -80,12 +79,12 @@ export default function CalendarPage() {
               .map(p => (
                 <Link
                   key={p.商品ID}
-                  href={`/product/?id=${p.商品ID}`}
+                  href={`/product/?id=${encodeURIComponent(p.商品ID)}&back=${encodeURIComponent(`/?months=${selected === 0 ? "unknown" : selected}`)}`}
                   className="bg-white rounded-xl shadow-sm hover:shadow-md transition-shadow p-4 block"
                 >
                   <div className="flex items-start justify-between gap-2 mb-1">
                     <div>
-                      <div className="text-xs text-gray-400">{p.ブランド名}</div>
+                      <div className="text-xs text-gray-400">{p.ブランド名} ／ {p.対象年 || "年未記録"}</div>
                       <div className="font-bold text-sm text-gray-800">{p.商品名}</div>
                     </div>
                     <span className={`text-xs px-2 py-0.5 rounded-full border font-bold shrink-0 ${PRIORITY_COLORS[p.商品会議優先度] || "bg-gray-100 text-gray-500 border-gray-200"}`}>
@@ -102,7 +101,7 @@ export default function CalendarPage() {
         </div>
       )}
 
-      {!selected && (
+      {selected === null && (
         <p className="text-center text-gray-400 py-8">月をクリックして商品一覧を表示</p>
       )}
     </div>

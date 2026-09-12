@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "test": "node --jitless --test tests/planning.cjs",
+    "test:browser": "node --no-opt tests/browser.cjs",
     "dev": "next dev",
     "build": "next build",
     "start": "next start"

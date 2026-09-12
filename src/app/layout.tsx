@@ -3,8 +3,8 @@ import "./globals.css";
 import FooterInfo from "@/components/FooterInfo";
 
 export const metadata: Metadata = {
-  title: "季節スイーツマンスリーDB",
-  description: "ア・ラ・カンパーニュ 季節スイーツマンスリーDB — 旬素材・競合・自社商品データベース",
+  title: "ALC タルト開発DB",
+  description: "ア・ラ・カンパーニュのタルト商品開発 — 季節素材・参考商品・候補比較・試作メモ",
 };
 
 export default function RootLayout({
@@ -16,14 +16,15 @@ export default function RootLayout({
     <html lang="ja">
       <body className="bg-gray-50 min-h-screen">
         <header className="bg-[#1F4E78] text-white shadow-md no-print">
-          <div className="max-w-7xl mx-auto px-4 py-3 flex items-center gap-4">
+          <div className="max-w-7xl mx-auto px-4 py-3 flex flex-wrap items-center gap-x-6 gap-y-3">
             <a href="/" className="text-xl font-bold tracking-wide hover:opacity-80">
-              🍓 季節スイーツマンスリーDB
+              ALC タルト開発DB
             </a>
-            <nav className="flex gap-4 text-sm ml-4">
+            <nav aria-label="メインナビゲーション" className="flex flex-wrap gap-4 text-sm">
               <a href="/" className="hover:opacity-80">検索</a>
               <a href="/calendar/" className="hover:opacity-80">月別カレンダー</a>
-              <a href="/picks/" className="hover:opacity-80">A+候補</a>
+              <a href="/picks/" className="hover:opacity-80">優先候補</a>
+              <a href="/planning/" className="hover:opacity-80">比較・試作メモ</a>
               <a href="/about/" className="hover:opacity-80 opacity-70">使い方</a>
             </nav>
             <div className="ml-auto">

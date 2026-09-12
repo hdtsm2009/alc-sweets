@@ -11,6 +11,25 @@ body {
   font-family: 'Yu Gothic', 'Hiragino Sans', sans-serif;
 }
 
+.surface { background: white; border: 1px solid #dce4ec; border-radius: 12px; }
+.eyebrow { font-size: 12px; letter-spacing: .12em; color: #536b7f; font-weight: 700; margin-bottom: 6px; }
+.section-title { font-size: 20px; font-weight: 700; color: #1f4e78; margin-bottom: 12px; }
+.field { border: 1px solid #b9c7d4; border-radius: 8px; padding: 9px 12px; font-size: 14px; background: white; }
+.action { display: inline-flex; align-items: center; justify-content: center; padding: 9px 14px; border: 1px solid #a9bdce; border-radius: 8px; font-size: 14px; font-weight: 600; color: #1f4e78; background: white; }
+.action:hover { background: #edf4fa; }
+.action-primary { background: #1f4e78; color: white; border-color: #1f4e78; }
+.action-primary:hover { background: #163a5a; }
+button:disabled { opacity: .55; cursor: not-allowed; }
+input:focus-visible, select:focus-visible, textarea:focus-visible, button:focus-visible, a:focus-visible, [tabindex]:focus-visible { outline: 3px solid #d59c18; outline-offset: 3px; }
+.comparison-wrap { max-width: 100%; max-height: 65vh; overflow: auto; border: 1px solid #ccd8e2; border-radius: 12px; background: white; }
+.comparison-table { border-collapse: separate; border-spacing: 0; min-width: 100%; font-size: 14px; }
+.comparison-table th, .comparison-table td { padding: 12px 16px; text-align: left; vertical-align: top; border-bottom: 1px solid #dce4ec; min-width: 235px; max-width: 340px; white-space: pre-wrap; overflow-wrap: anywhere; }
+.comparison-table th:first-child { min-width: 155px; width: 155px; background: #f2f6fa; }
+.comparison-table thead th { background: #eaf1f7; position: sticky; top: 0; z-index: 2; }
+.comparison-table tbody th { font-weight: 500; color: #4e6374; }
+.comparison-table .comparison-group th { background: #1f4e78; color: white; font-weight: 700; }
+@media (max-width: 640px) { .comparison-table th, .comparison-table td { min-width: 210px; } .comparison-table th:first-child { min-width: 120px; } }
+
 /* 印刷スタイル */
 .print-only {
   display: none;
@@ -42,4 +61,8 @@ body {
   .print-grid {
     grid-template-columns: repeat(2, 1fr) !important;
   }
+  .comparison-wrap { overflow: visible; max-height: none; }
+  .comparison-table { table-layout: fixed; width: 100%; font-size: 9px; }
+  .comparison-table th, .comparison-table td { min-width: 0; padding: 6px; }
+  textarea { white-space: pre-wrap; }
 }

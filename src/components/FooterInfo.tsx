@@ -1,5 +1,6 @@
 "use client";
 import { useEffect, useState } from "react";
+import { fetchJson } from "@/lib/data";
 
 interface Meta {
   total: number;
@@ -9,13 +10,23 @@ interface Meta {
 
 export default function FooterInfo() {
   const [meta, setMeta] = useState<Meta | null>(null);
+  const [failed, setFailed] = useState(false);
+  const [attempt, setAttempt] = useState(0);
 
   useEffect(() => {
-    fetch("/data/meta.json")
-      .then(r => r.json())
-      .then(setMeta)
-      .catch(() => null);
-  }, []);
+    let active = true;
+    setFailed(false);
+    fetchJson("/data/meta.json")
+      .then(data => {
+        const value = data as Meta | null;
+        if (!value || !Number.isInteger(value.total) || value.total < 0 || typeof value.generated !== "string" || typeof value.version !== "string") throw new Error("Invalid metadata");
+        if (active) setMeta(value);
+      })
+      .catch(() => { if (active) setFailed(true); });
+    return () => { active = false; };
+  }, [attempt]);
+
+  if (failed) return <button className="text-xs text-white/70 underline" onClick={() => setAttempt(n => n + 1)}>更新情報を取得できませんでした（再試行）</button>;
 
   if (!meta) return null;
 
@@ -25,7 +36,7 @@ export default function FooterInfo() {
       <span className="text-white/40">|</span>
       <span>{meta.total}件</span>
       <span className="text-white/40">|</span>
-      <span>{meta.generated}</span>
+      <span title="JSONの生成日です。個別商品の販売確認日ではありません。">DB生成 {meta.generated}</span>
     </span>
   );
 }

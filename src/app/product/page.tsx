@@ -1,9 +1,11 @@
 "use client";
-import { useEffect, useState, Suspense } from "react";
+import { Suspense } from "react";
 import { useSearchParams } from "next/navigation";
-import type { Product } from "@/types/product";
-import { PRIORITY_COLORS, DIFFICULTY_COLORS, ALC_BRAND } from "@/lib/data";
+
+import { useProducts, existenceLabel, salesLabel, PRIORITY_COLORS, DIFFICULTY_COLORS, ALC_BRAND } from "@/lib/data";
 import Link from "next/link";
+import CandidateButton from "@/components/CandidateButton";
+import { COMPARISON_GROUPS, safeHttpUrl } from "@/lib/planning";
 
 const MONTH_NAMES = ["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"];
 const PRIORITY_ORDER: Record<string, number> = { S: 0, "A+": 1, A: 2, B: 3, C: 4 };
@@ -19,12 +21,13 @@ function Row({ label, value }: { label: string; value: string | number | null | 
 }
 
 function LinkRow({ label, value }: { label: string; value: string | null | undefined }) {
-  if (!value) return null;
+  const href = safeHttpUrl(value || undefined);
+  if (!href) return null;
   return (
     <tr className="border-b border-gray-100">
       <td className="py-2 pr-4 text-xs text-gray-500 font-medium whitespace-nowrap w-40">{label}</td>
       <td className="py-2 text-sm">
-        <a href={value} target="_blank" rel="noopener noreferrer"
+        <a href={href} target="_blank" rel="noopener noreferrer"
           className="text-[#1F4E78] underline break-all hover:opacity-70">
           {value}
         </a>
@@ -36,37 +39,26 @@ function LinkRow({ label, value }: { label: string; value: string | null | undef
 function ProductDetail() {
   const searchParams = useSearchParams();
   const id = searchParams.get("id");
-  const [allProducts, setAllProducts] = useState<Product[]>([]);
-  const [product, setProduct] = useState<Product | null>(null);
-  const [loading, setLoading] = useState(true);
-
-  useEffect(() => {
-    fetch("/data/products.json")
-      .then(r => r.json())
-      .then((d: Product[]) => {
-        // 優先度→月順でソート（検索ページと同じ順序）
-        const sorted = [...d].sort((a, b) => {
-          const pa = PRIORITY_ORDER[a.商品会議優先度] ?? 5;
-          const pb = PRIORITY_ORDER[b.商品会議優先度] ?? 5;
-          if (pa !== pb) return pa - pb;
-          return (Number(a.対象月) || 13) - (Number(b.対象月) || 13);
-        });
-        setAllProducts(sorted);
-        const found = d.find(p => p.商品ID === id) || null;
-        setProduct(found);
-        setLoading(false);
-      });
-  }, [id]);
-
+  const back = searchParams.get("back");
+  const backUrl = back?.startsWith("/?") ? back : searchParams.get("from") === "planning" ? "/planning/" : "/";
+  const suffix = back?.startsWith("/?") ? `&back=${encodeURIComponent(back)}` : searchParams.get("from") === "planning" ? "&from=planning" : "";
+  const { products, loading, error, retry } = useProducts();
+  const allProducts = [...products].sort((a, b) => {
+    const pa = PRIORITY_ORDER[a.商品会議優先度] ?? 5;
+    const pb = PRIORITY_ORDER[b.商品会議優先度] ?? 5;
+    return pa - pb || (Number(a.対象月) || 13) - (Number(b.対象月) || 13);
+  });
+  const product = products.find(p => p.商品ID === id) || null;
   const currentIndex = allProducts.findIndex(p => p.商品ID === id);
   const prevProduct = currentIndex > 0 ? allProducts[currentIndex - 1] : null;
   const nextProduct = currentIndex < allProducts.length - 1 ? allProducts[currentIndex + 1] : null;
 
+  if (error) return <div role="alert" className="text-center py-20"><p>{error}</p><button onClick={retry} className="mt-3 underline">再試行</button></div>;
   if (loading) return <div className="text-center py-20 text-gray-400">読み込み中...</div>;
   if (!product) return (
     <div className="text-center py-20">
       <div className="text-gray-400 mb-4">商品が見つかりませんでした</div>
-      <Link href="/" className="text-[#1F4E78] underline">← 検索に戻る</Link>
+      <Link href={backUrl} className="text-[#1F4E78] underline">← 一覧に戻る</Link>
     </div>
   );
 
@@ -74,11 +66,11 @@ function ProductDetail() {
     <div>
       {/* ナビゲーション */}
       <div className="flex items-center justify-between mb-4">
-        <Link href="/" className="text-sm text-[#1F4E78] hover:opacity-70">← 検索に戻る</Link>
+        <Link href={backUrl} className="text-sm text-[#1F4E78] hover:opacity-70">← {backUrl === "/planning/" ? "候補比較" : "検索結果"}に戻る</Link>
         <div className="flex gap-2">
           {prevProduct ? (
             <Link
-              href={`/product/?id=${prevProduct.商品ID}`}
+              href={`/product/?id=${encodeURIComponent(prevProduct.商品ID)}${suffix}`}
               className="text-xs border border-gray-200 rounded-lg px-3 py-1.5 hover:bg-gray-50 flex items-center gap-1"
             >
               ◀ 前の商品
@@ -88,11 +80,11 @@ function ProductDetail() {
             <span className="text-xs border border-gray-100 rounded-lg px-3 py-1.5 text-gray-300">◀ 前の商品</span>
           )}
           <span className="text-xs text-gray-400 flex items-center px-1">
-            {currentIndex + 1} / {allProducts.length}
+            全DB {currentIndex + 1} / {allProducts.length}
           </span>
           {nextProduct ? (
             <Link
-              href={`/product/?id=${nextProduct.商品ID}`}
+              href={`/product/?id=${encodeURIComponent(nextProduct.商品ID)}${suffix}`}
               className="text-xs border border-gray-200 rounded-lg px-3 py-1.5 hover:bg-gray-50 flex items-center gap-1"
             >
               <span className="text-gray-400 hidden sm:inline">（{nextProduct.ブランド名}）</span>
@@ -103,6 +95,8 @@ function ProductDetail() {
           )}
         </div>
       </div>
+
+      <div className="flex flex-wrap items-center gap-3 mb-4 no-print"><CandidateButton id={product.商品ID} /><Link href="/planning/" className="action">候補を比較して試作メモへ</Link></div>
 
       <div className="bg-white rounded-2xl shadow-sm overflow-hidden mb-6">
         {product.imageUrl && (
@@ -150,7 +144,7 @@ function ProductDetail() {
             <span className="bg-yellow-50 text-yellow-700 px-3 py-1 rounded-full">{product.限定性}</span>
           )}
           {product.実在確認レベル && (
-            <span className="bg-green-50 text-green-700 px-3 py-1 rounded-full text-xs">
+            <span className="bg-gray-100 text-gray-700 px-3 py-1 rounded-full text-xs">
               実在確認: {product.実在確認レベル}
             </span>
           )}
@@ -166,7 +160,8 @@ function ProductDetail() {
               <Row label="商品ID" value={product.商品ID} />
               <Row label="ブランド名" value={product.ブランド名} />
               <Row label="会社名" value={product.会社名} />
-              <Row label="対象月" value={product.対象月 ? MONTH_NAMES[Number(product.対象月)] : null} />
+              <Row label="対象年" value={product.対象年 || "未記録"} />
+              <Row label="対象月" value={product.対象月 ? MONTH_NAMES[Number(product.対象月)] : "月未設定"} />
               <Row label="商品カテゴリ" value={product.商品カテゴリ} />
               <Row label="主素材" value={product.主素材} />
               <Row label="副素材" value={product.副素材} />
@@ -175,6 +170,7 @@ function ProductDetail() {
               <Row label="旬区分" value={product.旬区分} />
               <Row label="産地・品種" value={product.産地品種} />
               <Row label="色・見た目" value={product.色見た目} />
+              <Row label="断面・盛り付け" value={product["断面・盛り付け"]} />
               <Row label="サイズ" value={product.サイズ} />
             </tbody>
           </table>
@@ -194,8 +190,17 @@ function ProductDetail() {
               <Row label="SNS話題度" value={product.SNS話題度} />
               <Row label="ニュース掲載" value={product.ニュース掲載} />
               <Row label="情報源" value={product.情報源} />
+              <Row label="販売開始日（記録）" value={product.販売開始日} />
+              <Row label="予約開始日（記録）" value={product.予約開始日} />
+              <Row label="競合価格確認の記録" value={product.競合価格確認} />
+              <Row label="調査メモ" value={product.調査メモ} />
+              <Row label="販売終了日（記録）" value={product.販売終了日} />
+              <Row label="情報公開日" value={product.情報公開日} />
+              <Row label="販売店舗" value={product.販売店舗} />
               <LinkRow label="URL" value={product.URL} />
               <LinkRow label="一次情報URL" value={product.一次情報URL} />
+              <LinkRow label="価格出典" value={product.価格出典URL} />
+              <LinkRow label="画像・掲載ページ" value={product["商品画像URL/掲載ページ"]} />
             </tbody>
           </table>
         </section>
@@ -207,7 +212,11 @@ function ProductDetail() {
               <Row label="商品会議優先度" value={product.商品会議優先度} />
               <Row label="ALC実装難易度" value={product.ALC実装難易度} />
               <Row label="ALCブランド適合度" value={product.ALCブランド適合度} />
-              <Row label="実在確認レベル" value={product.実在確認レベル} />
+              <Row label="実在確認レベル（調査時点）" value={existenceLabel(product)} />
+              <Row label="販売確認状態" value={salesLabel(product)} />
+              <Row label="価格確認ステータス" value={product.価格確認ステータス || "未確認"} />
+              <Row label="画像確認ステータス" value={product.画像確認ステータス || "未確認"} />
+              <Row label="DB採用ステータス" value={product.商品DB採用ステータス || "未記録"} />
               <Row label="参考度" value={product.参考度} />
             </tbody>
           </table>
@@ -274,16 +283,23 @@ function ProductDetail() {
         </section>
       </div>
 
+      <section className="surface p-5 mt-6">
+        <h2 className="section-title">ALCで試すための製造・運用メモ</h2>
+        <p className="text-sm text-gray-600 mb-4">Excelに記録された評価・仮説です。実際の原価、設備、調達、日持ちは試作で確認してください。</p>
+        <dl className="grid md:grid-cols-2 gap-4">{COMPARISON_GROUPS[1].fields.filter(([key]) => product[key]).map(([key, label]) => <div key={key} className="border-b pb-3"><dt className="text-sm text-gray-500 mb-1">{label}</dt><dd className="text-sm whitespace-pre-wrap">{product[key]}</dd></div>)}</dl>
+        <details className="mt-4 text-sm"><summary className="cursor-pointer text-gray-600">未記録の確認項目（{COMPARISON_GROUPS[1].fields.filter(([key]) => !product[key]).length}）</summary><ul className="mt-3 grid md:grid-cols-2 gap-2">{COMPARISON_GROUPS[1].fields.filter(([key]) => !product[key]).map(([key,label]) => <li key={key}>{label}：未記録</li>)}</ul></details>
+      </section>
+
       {/* 下部ナビゲーション */}
       <div className="flex justify-between mt-6 pt-4 border-t border-gray-200">
         {prevProduct ? (
-          <Link href={`/product/?id=${prevProduct.商品ID}`}
+          <Link href={`/product/?id=${encodeURIComponent(prevProduct.商品ID)}${suffix}`}
             className="text-sm border border-gray-200 rounded-lg px-4 py-2 hover:bg-gray-50">
             ◀ {prevProduct.商品名}
           </Link>
         ) : <span />}
         {nextProduct ? (
-          <Link href={`/product/?id=${nextProduct.商品ID}`}
+          <Link href={`/product/?id=${encodeURIComponent(nextProduct.商品ID)}${suffix}`}
             className="text-sm border border-gray-200 rounded-lg px-4 py-2 hover:bg-gray-50">
             {nextProduct.商品名} ▶
           </Link>

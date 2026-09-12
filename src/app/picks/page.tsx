@@ -1,21 +1,18 @@
 "use client";
-import { useEffect, useState } from "react";
+
 import type { Product } from "@/types/product";
-import { DIFFICULTY_COLORS } from "@/lib/data";
+import { useProducts, DIFFICULTY_COLORS } from "@/lib/data";
 import Link from "next/link";
 
-const MONTH_NAMES = ["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"];
+const MONTH_NAMES = ["月未設定","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"];
 
 export default function PicksPage() {
-  const [products, setProducts] = useState<Product[]>([]);
-  const [loading, setLoading] = useState(true);
+  const { products, loading, error, retry } = useProducts();
 
-  useEffect(() => {
-    fetch("/data/products.json")
-      .then(r => r.json())
-      .then((d: Product[]) => { setProducts(d); setLoading(false); });
-  }, []);
 
+
+
+  if (error) return <div role="alert" className="text-center py-20"><p>{error}</p><button onClick={retry} className="mt-3 underline">再試行</button></div>;
   if (loading) return <div className="text-center py-20 text-gray-400">読み込み中...</div>;
 
   const sCands = products.filter(p => p.商品会議優先度 === "S");
@@ -26,9 +23,11 @@ export default function PicksPage() {
 
   return (
     <div>
-      <h1 className="text-2xl font-bold text-[#1F4E78] mb-2">A+ 候補ピックアップ</h1>
-      <p className="text-sm text-gray-500 mb-6">商品会議での即採用検討推奨商品。S候補 {sCands.length}件 / A+ {aplusCands.length}件</p>
+      <h1 className="text-2xl font-bold text-[#1F4E78] mb-2">S・A+ 優先候補</h1>
+      <p className="text-sm text-gray-500 mb-6">調査時点の会議優先ラベルです。実在・販売確認や試作結果とは別に判断してください。S候補 {sCands.length}件 / A+ {aplusCands.length}件</p>
 
+      <Link className="action mb-5" href="/planning/">選んだ候補を比較・試作メモへ</Link>
+      {sCands.length + aplusCands.length === 0 && <p className="surface p-5">S・A+の記録はありません。検索から参考商品を選べます。</p>}
       {/* S候補 */}
       {sCands.length > 0 && (
         <section className="mb-8">
@@ -40,7 +39,7 @@ export default function PicksPage() {
             {sortByMonth(sCands).map(p => (
               <Link
                 key={p.商品ID}
-                href={`/product/?id=${p.商品ID}`}
+                href={`/product/?id=${encodeURIComponent(p.商品ID)}`}
                 className="bg-red-50 border border-red-200 rounded-xl hover:shadow-md transition-shadow p-4 block"
               >
                 <div className="text-xs text-gray-500 mb-0.5">{p.ブランド名} · {MONTH_NAMES[Number(p.対象月)] || "-"}</div>
@@ -54,7 +53,7 @@ export default function PicksPage() {
                 )}
                 <div className="mt-3">
                   <span className={`text-xs px-2 py-0.5 rounded ${DIFFICULTY_COLORS[p.ALC実装難易度] || "bg-gray-100 text-gray-500"}`}>
-                    実装: {p.ALC実装難易度}
+                    実装: {p.ALC実装難易度 || "未記録"} ／ 実在: {p.実在確認レベル || "未確認"}
                   </span>
                 </div>
               </Link>
@@ -69,7 +68,7 @@ export default function PicksPage() {
           <span className="bg-orange-100 text-orange-700 border border-orange-300 px-3 py-0.5 rounded-full text-sm">A+</span>
           優先検討候補 ({aplusCands.length}件)
         </h2>
-        {[1,2,3,4,5,6,7,8,9,10,11,12].map(m => {
+        {[1,2,3,4,5,6,7,8,9,10,11,12,0].map(m => {
           const mp = sortByMonth(aplusCands).filter(p => Number(p.対象月) === m);
           if (mp.length === 0) return null;
           return (
@@ -81,7 +80,7 @@ export default function PicksPage() {
                 {mp.map(p => (
                   <Link
                     key={p.商品ID}
-                    href={`/product/?id=${p.商品ID}`}
+                    href={`/product/?id=${encodeURIComponent(p.商品ID)}`}
                     className="bg-white border border-orange-200 rounded-xl hover:shadow-md transition-shadow p-3 block"
                   >
                     <div className="text-xs text-gray-400 mb-0.5">{p.ブランド名}</div>
@@ -92,7 +91,7 @@ export default function PicksPage() {
                     </div>
                     <div className="mt-2">
                       <span className={`text-xs px-2 py-0.5 rounded ${DIFFICULTY_COLORS[p.ALC実装難易度] || "bg-gray-100 text-gray-500"}`}>
-                        実装: {p.ALC実装難易度}
+                        実装: {p.ALC実装難易度 || "未記録"} ／ 実在: {p.実在確認レベル || "未確認"}
                       </span>
                     </div>
                   </Link>

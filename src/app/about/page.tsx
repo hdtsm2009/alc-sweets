@@ -12,7 +12,7 @@ export default function AboutPage() {
           <span className="text-2xl">🎯</span> 背景と目的
         </h2>
         <p className="text-sm text-gray-700 leading-relaxed">
-          このDBは、国内主要スイーツブランド約50社の季節限定商品<strong>476件</strong>（実在確認済み）を一元管理し、
+          このDBは、国内主要スイーツブランド約50社の季節商品（実在確認レベルは商品ごとに記録）を一元管理し、
           「今月は何が旬で、競合はどんな商品を出しているか」を<strong>誰でも即座に確認できる共通の参照先</strong>として機能させることを目的に作りました。
         </p>
       </section>
@@ -30,7 +30,7 @@ export default function AboutPage() {
             <p className="text-sm text-gray-600 leading-relaxed">
               ブランド・月・優先度・実装難易度・素材でフィルタリングできます。
               開くと<strong>今月の商品が自動表示</strong>されます。優先度の高い商品（S → A+）から順に並んでいます。
-              商品カードをクリックすると詳細が見られます。
+              「全件表示（条件をクリア）」で全月・全条件の商品を表示します。200件を超える結果もすべて表示できます。商品カードをクリックすると詳細が見られます。
             </p>
           </div>
           <div className="border-l-4 border-[#1F4E78] pl-4">
@@ -48,8 +48,8 @@ export default function AboutPage() {
               <Link href="/picks/" className="hover:underline text-[#1F4E78]">⭐ A+候補ページ</Link>
             </div>
             <p className="text-sm text-gray-600 leading-relaxed">
-              商品会議で<strong>即採用を検討すべき商品</strong>をまとめたページです。
-              S候補（戦略最優先・5件）とA+候補（優先検討・45件）を月別に表示しています。
+              商品会議で<strong>調査時点で会議優先度が高かった商品</strong>をまとめたページです。
+              S候補（戦略最優先）とA+候補（優先検討）を月別に表示しています。
               毎月の商品会議の冒頭で全員が見る「スタート画面」として使うことを想定しています。
             </p>
           </div>
@@ -74,11 +74,11 @@ export default function AboutPage() {
           <div className="space-y-2 text-sm">
             <div className="flex items-start gap-3">
               <span className="bg-red-100 text-red-700 border border-red-300 px-2 py-0.5 rounded-full font-bold text-xs shrink-0 mt-0.5">S</span>
-              <span className="text-gray-600">戦略最優先候補。ALCが最も参考にすべき商品として厳選した5件。実装可能性・ブランド適合度・話題性がすべて高い。</span>
+              <span className="text-gray-600">戦略最優先候補。調査時点で最優先と記録された参考事例。実装可能性・適合度は個別に再確認します。</span>
             </div>
             <div className="flex items-start gap-3">
               <span className="bg-orange-100 text-orange-700 border border-orange-300 px-2 py-0.5 rounded-full font-bold text-xs shrink-0 mt-0.5">A+</span>
-              <span className="text-gray-600">優先検討候補。商品会議で必ず取り上げる価値がある45件。素材・価格帯・製法のいずれかでALCへの示唆が大きい。</span>
+              <span className="text-gray-600">優先検討候補。調査時点で商品会議の優先検討対象となった事例。素材・価格帯・製法のいずれかでALCへの示唆が大きい。</span>
             </div>
             <div className="flex items-start gap-3">
               <span className="bg-yellow-100 text-yellow-700 border border-yellow-300 px-2 py-0.5 rounded-full font-bold text-xs shrink-0 mt-0.5">A</span>
@@ -117,6 +117,17 @@ export default function AboutPage() {
         </div>
       </section>
 
+      <section className="surface p-6 mb-5">
+        <h2 className="section-title">参考商品をタルトの試作案へ</h2>
+        <ol className="list-decimal pl-5 space-y-3 text-sm text-gray-700">
+          <li>開発する月と素材を選びます。「翌月から3か月」や「他の菓子から発想する」も使えます。</li>
+          <li>気になる商品の詳細で、価格の条件・対象年・出典・既存タルト台の流用・店舗負荷を確認します。</li>
+          <li>「比較候補に追加」で最大4件を選び、「比較・試作メモ」で同じ項目を並べます。</li>
+          <li>主役素材、台、クリーム、差別化、価格目標、ロス対策と試作評価項目を記入します。</li>
+          <li>端末に保存し、「メモと出典を書き出す」で会議に持ち込めます。保存先はこのブラウザだけで、共同編集はしません。</li>
+        </ol>
+        <p className="text-sm text-gray-600 mt-4">商品情報は調査時点の記録、ALC向け分析はExcel上の評価・仮説、試作メモは記入者の企画案です。これらを混ぜて確認済みとは扱いません。</p>
+      </section>
       {/* 注意点 */}
       <section className="bg-amber-50 border border-amber-200 rounded-xl p-6 mb-5">
         <h2 className="text-lg font-bold text-amber-800 mb-3 flex items-center gap-2">
@@ -125,7 +136,7 @@ export default function AboutPage() {
         <ul className="space-y-2 text-sm text-amber-900">
           <li className="flex items-start gap-2">
             <span className="shrink-0 mt-0.5">•</span>
-            <span>データはすべて<strong>実在確認済み商品のみ</strong>を収録していますが、販売終了・価格変更・仕様変更の可能性があります。詳細ページのURLから最新情報を必ず確認してください。</span>
+            <span>DB採用・実在確認・販売確認・価格確認・画像確認は別々の項目です。採用済みでも、実在や現在の販売を保証するものではありません。販売終了・価格変更・仕様変更の可能性があります。詳細ページのURLから最新情報を必ず確認してください。</span>
           </li>
           <li className="flex items-start gap-2">
             <span className="shrink-0 mt-0.5">•</span>
@@ -148,7 +159,7 @@ export default function AboutPage() {
           <span className="text-2xl">➕</span> データを追加・更新する方法
         </h2>
         <p className="text-sm text-gray-600 mb-4">
-          Excelファイル（v12）がマスターデータです。Excelを編集してスクリプトを実行するだけで、このWebサイトに反映されます。
+          Excelファイル（v12）がマスターデータです。変換スクリプトはローカルのJSONを更新します。公開サイトへの反映は別作業です。
         </p>
         <div className="space-y-4">
           <div className="flex gap-3">
@@ -164,7 +175,7 @@ export default function AboutPage() {
           <div className="flex gap-3">
             <span className="bg-[#1F4E78] text-white rounded-full w-6 h-6 flex items-center justify-center text-xs font-bold shrink-0 mt-0.5">2</span>
             <div>
-              <div className="text-sm font-bold text-gray-800 mb-1">JSONに変換する（画像も自動取得）</div>
+              <div className="text-sm font-bold text-gray-800 mb-1">JSONに変換する（標準は外部通信なし）</div>
               <p className="text-sm text-gray-600 mb-1">
                 PowerShellで以下を実行します：
               </p>
@@ -172,34 +183,14 @@ export default function AboutPage() {
                 python export_to_json.py
               </code>
               <p className="text-xs text-gray-500 mt-1">
-                ※ <code>14_季節商品調査/</code> フォルダで実行してください。<br />
-                商品URLからOGP画像を自動取得します（初回のみ数分）。<br />
-                初回実行前に一度だけ：<code className="bg-gray-100 px-1 rounded">pip install requests beautifulsoup4</code>
+                ※ 作業コピーの <code>database/</code> フォルダで実行してください。<br />
+                画像は手動設定と既存キャッシュを利用します。画像URLの取得は画像確認済みを意味しません。<br />
+                外部取得が必要な場合だけ <code>--fetch-images</code> を指定します。
               </p>
             </div>
           </div>
-          <div className="flex gap-3">
-            <span className="bg-[#1F4E78] text-white rounded-full w-6 h-6 flex items-center justify-center text-xs font-bold shrink-0 mt-0.5">3</span>
-            <div>
-              <div className="text-sm font-bold text-gray-800 mb-1">GitHubにpushする</div>
-              <p className="text-sm text-gray-600 mb-1">
-                生成された <code className="bg-gray-100 px-1 rounded text-xs">products.json</code> と <code className="bg-gray-100 px-1 rounded text-xs">meta.json</code> をpushします：
-              </p>
-              <code className="block bg-gray-100 text-gray-700 text-xs px-3 py-2 rounded whitespace-pre">{`cd C:\\dev\\alc-sweets
-git add public/data/
-git commit -m "データ更新 YYYY-MM-DD"
-git push`}</code>
-            </div>
-          </div>
-          <div className="flex gap-3">
-            <span className="bg-green-500 text-white rounded-full w-6 h-6 flex items-center justify-center text-xs font-bold shrink-0 mt-0.5">✓</span>
-            <div>
-              <div className="text-sm font-bold text-gray-800 mb-1">自動デプロイ完了</div>
-              <p className="text-sm text-gray-600">
-                pushすると Netlify が自動的にビルド・デプロイします（1〜2分）。
-                フッターの「データ更新」日付が変わっていれば反映完了です。
-              </p>
-            </div>
+          <div className="text-sm text-gray-600">
+            生成後はローカルで内容を確認し、承認済みの公開手順で反映してください。変換だけでは公開サイトは更新されません。
           </div>
         </div>
       </section>
