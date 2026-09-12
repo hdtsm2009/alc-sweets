@@ -27,7 +27,7 @@ export default function RootLayout({
               <a href="/calendar/" className="hover:opacity-80">月別カレンダー</a>
               <a href="/picks/" className="hover:opacity-80">優先候補</a>
               <a href="/planning/" className="hover:opacity-80">比較・試作メモ</a>
-              <a href="/about/" className="hover:opacity-80 opacity-70">使い方</a>
+              <a href="/about/" className="hover:opacity-80 opacity-70">開発ガイド</a>
             </nav>
             <div className="ml-auto">
               <FooterInfo />

@@ -1,218 +1,208 @@
+import type { Metadata } from "next";
 import Link from "next/link";
+
+export const metadata: Metadata = {
+  title: "商品開発ガイド | ALC タルト開発DB",
+  description: "季節商品の調査から候補比較、タルトの試作案、商品会議の準備まで。ALCの商品開発担当者向け実務ガイド。",
+};
+
+const sections = [
+  ["brief", "01 企画条件"], ["research", "02 参考を探す"], ["compare", "03 比較・判断"],
+  ["prototype", "04 試作メモ"], ["meeting", "05 会議・次の試作"], ["records", "保存と記録"],
+];
+
+const comparisonPoints = [
+  ["主役の素材", "果物の品種・産地、熟度やカット、季節感の伝え方", "採用したい要素と、調達先に確認する規格を分ける。"],
+  ["味・層・食感", "生地、クリーム、果実、アクセントの役割", "参考にする組み合わせを一つ決め、試作で変える要素を絞る。"],
+  ["価格・提供形態", "ピース／ホール／セット、サイズ、税区分、掲載年", "比較条件をそろえる。元DB価格と最新掲載価格を別に読み、自社の目標価格は仮説として記入する。"],
+  ["製造・店舗の負荷", "既存の台・製法、仕込み、仕上げ、運搬、店舗加工", "流用できる根拠と未確認点を記入。工場・店舗それぞれに確認する作業を決める。"],
+  ["品質・ロス", "水分移行、変色、カット時の崩れ、仕込み量と残数", "比較したい観察項目と確認担当を決める。日持ち・保管条件は自社の検証手順で確認する。"],
+  ["ALCらしさ", "主役素材の見せ方、味のまとまり、既存商品との違い", "取り入れる点・変える点を言葉にし、今回の企画で選ぶ理由を残す。"],
+];
+
+const exampleGroups = [
+  {
+    title: "企画の狙い",
+    fields: [
+      ["企画名", "秋のいちじくと紅茶のタルト（仮）"],
+      ["販売を目指す月・期間", "秋の季節企画。いちじくの入荷見込みを確認して期間を決める。"],
+      ["誰に・どんな場面で", "果実が主役のタルトを楽しみたいお客様へ。午後のティータイムを想定。"],
+      ["主役素材・産地・品種", "いちじく。品種・産地・入荷規格・歩留まりは仕入先への確認事項。"],
+      ["ALCらしさ・既存商品との差", "果実の見え方を参考にし、紅茶の香りを加えた時の違いを評価する。既存のいちじく商品との差も確認する。"],
+    ],
+  },
+  {
+    title: "構成と作業",
+    fields: [
+      ["タルト台・生地", "既存タルト台の使用を仮説にする。果実の水分と組み合わせた状態で適否を確認。"],
+      ["クリーム・層の構成", "紅茶を加える案と加えない案を比較する。配合は試作担当と決める。"],
+      ["アクセント・仕上げ", "いちじくのカットをそろえ、断面と食べやすさを確認。装飾を増やす必要があるかを検討。"],
+      ["サイズ・提供形態", "ピース販売を想定。使用する型、カット数、果実量は既存商品との比較後に決定。"],
+      ["既存資材・製法の流用", "既存の台・包材・仕上げ道具の適合を確認。流用可否が未記録のものは担当に確認する。"],
+      ["工場・店舗の分担", "台・クリームの仕込みと果実の仕上げについて、実施場所と受け渡し条件を工場・店舗で確認する。"],
+    ],
+  },
+  {
+    title: "判断と次の行動",
+    fields: [
+      ["目標販売価格・税区分", "未設定。比較した商品の単位・サイズ・税込／税別を整理し、原価と作業負荷の確認後に設定する。"],
+      ["調達・日持ち・ロスの課題", "果実の規格差、水分移行、変色、残数への対応を確認。日持ち・保管条件は未検証として残す。"],
+      ["試作で確かめる項目", "果実と紅茶の香りのバランス、カット時の保形性、生地への水分移行、仕上げ時間を同じ条件で比較する。"],
+      ["次のアクション・担当・期限", "仕入担当：次回会議までに規格・入荷見込みを確認。試作担当：比較する2案と評価方法を準備。会議で担当者名・実施日を確定する。"],
+    ],
+  },
+];
 
 export default function AboutPage() {
   return (
-    <div className="max-w-3xl mx-auto">
-      <h1 className="text-2xl font-bold text-[#1F4E78] mb-2">このツールについて</h1>
-      <p className="text-sm text-gray-500 mb-8">ALC 季節商品・旬素材スイーツ調査DB — 使い方ガイド</p>
+    <div className="max-w-6xl mx-auto pb-8">
+      <header className="surface overflow-hidden mb-6">
+        <div className="p-6 md:p-8 border-b border-slate-200">
+          <p className="eyebrow">ALC / 商品開発の実務ガイド</p>
+          <h1 className="text-2xl md:text-3xl font-bold text-[#1F4E78] leading-relaxed">参考商品を、次の試作案に変える</h1>
+          <p className="text-sm md:text-base text-slate-600 leading-relaxed mt-3 max-w-3xl">季節の素材を探し、比較する理由を決め、試作で確かめることまで書く。商品開発担当者が、調査から商品会議までこのDBを使うための手順です。</p>
+          <div className="mt-5 flex flex-wrap gap-3 no-print">
+            <Link href="/?months=" className="action action-primary">参考商品を探す →</Link>
+            <Link href="/planning/" className="action">比較・試作メモを開く →</Link>
+          </div>
+        </div>
+        <div className="grid md:grid-cols-3 divide-y md:divide-y-0 md:divide-x divide-slate-200 bg-slate-50">
+          {[
+            ["企画テーマを決めたい", "/calendar/", "月別の過去事例から、素材と季節の切り口を探す。"],
+            ["新しい商品情報を確認したい", "/news/", "確認日・発売予定・掲載価格を読み、公式の出典へ進む。"],
+            ["既存の資材・製法を活かしたい", "/?months=&category=tart&development=reuse&view=list", "タルト台の判断記録がある候補を一覧で見る。流用不可の記録も含む。"],
+          ].map(([title, href, description]) => <Link key={title} href={href} className="p-5 hover:bg-blue-50 no-print"><h2 className="font-bold text-sm text-[#1F4E78]">{title} →</h2><p className="text-xs leading-relaxed text-slate-600 mt-2">{description}</p></Link>)}
+        </div>
+      </header>
 
-      {/* 背景・目的 */}
-      <section className="bg-white rounded-xl shadow-sm p-6 mb-5">
-        <h2 className="text-lg font-bold text-[#1F4E78] mb-3 flex items-center gap-2">
-          <span className="text-2xl">🎯</span> 背景と目的
-        </h2>
-        <p className="text-sm text-gray-700 leading-relaxed">
-          このDBは、国内主要スイーツブランド約50社の季節商品（実在確認レベルは商品ごとに記録）を一元管理し、
-          「今月は何が旬で、競合はどんな商品を出しているか」を<strong>誰でも即座に確認できる共通の参照先</strong>として機能させることを目的に作りました。
-        </p>
+      <nav aria-label="商品開発ガイドの目次" className="flex flex-wrap gap-2 mb-8 no-print">
+        {sections.map(([id, label]) => <a key={id} href={"#" + id} className="search-chip">{label}</a>)}
+      </nav>
+
+      <section id="brief" className="surface p-5 md:p-7 mb-6 scroll-mt-6">
+        <p className="eyebrow">STEP 01 / 企画条件</p>
+        <h2 className="section-title">検索する前に、今回の狙いを一文にする</h2>
+        <p className="text-sm text-slate-600 leading-relaxed">まず「いつ・誰に・どんな体験を届けたいか」を決めます。まだ決まっていない条件は、未定のまま確認事項として残せます。</p>
+        <div className="grid md:grid-cols-3 gap-4 mt-4">
+          {[
+            ["販売時期と用途", "販売したい月・期間、ピースかホールか、日常利用か贈答かを整理する。"],
+            ["主役の素材と切り口", "季節の果実、食感、香りなど、今回伝えたい要素を一つ決める。"],
+            ["開発の条件", "既存の台・包材、仕上げを担う場所、目標価格、試作や確認に必要な日程を整理する。"],
+          ].map(([title, text]) => <div className="bg-slate-50 rounded-lg p-4" key={title}><h3 className="font-bold text-sm text-slate-700">{title}</h3><p className="text-sm text-slate-600 leading-relaxed mt-2">{text}</p></div>)}
+        </div>
+        <p className="mt-4 border-l-4 border-[#1F4E78] pl-4 text-sm leading-relaxed text-slate-700"><strong>企画の一文の例：</strong>「秋のティータイムに向けて、いちじくを主役にしたピースタルトを、既存の台を使う案から検討する。」</p>
+        <p className="text-xs text-slate-500 mt-3">この段階で残すもの：企画の一文と、まだ決まっていない条件。</p>
       </section>
 
-      {/* 使い方 */}
-      <section className="bg-white rounded-xl shadow-sm p-6 mb-5">
-        <h2 className="text-lg font-bold text-[#1F4E78] mb-4 flex items-center gap-2">
-          <span className="text-2xl">📖</span> 使い方
-        </h2>
-        <div className="space-y-5">
-          <div className="border-l-4 border-[#1F4E78] pl-4">
-            <div className="font-bold text-sm text-gray-800 mb-1">
-              <Link href="/" className="hover:underline text-[#1F4E78]">🔍 検索ページ</Link>（トップ）
-            </div>
-            <p className="text-sm text-gray-600 leading-relaxed">
-              ブランド・月・優先度・実装難易度・素材でフィルタリングできます。
-              開くと<strong>全期間の商品</strong>を対象に表示します。検索語がある場合は商品名や素材との関連度を優先します。
-              条件は一つずつ解除でき、表示件数の「全件表示」で200件を超える結果もすべて確認できます。商品カードをクリックすると詳細が見られます。
-            </p>
-          </div>
-          <div className="border-l-4 border-[#1F4E78] pl-4">
-            <div className="font-bold text-sm text-gray-800 mb-1">
-              <Link href="/calendar/" className="hover:underline text-[#1F4E78]">📅 月別カレンダー</Link>
-            </div>
-            <p className="text-sm text-gray-600 leading-relaxed">
-              12ヶ月のグリッドが表示されます。月をクリックするとその月の商品一覧が表示されます。
-              各月のタイルに<strong>S・A+の件数バッジ</strong>が表示されるので、どの月に優先候補が多いか一目でわかります。
-              年間の商品開発カレンダーを考える際に便利です。
-            </p>
-          </div>
-          <div className="border-l-4 border-[#1F4E78] pl-4">
-            <div className="font-bold text-sm text-gray-800 mb-1">
-              <Link href="/picks/" className="hover:underline text-[#1F4E78]">⭐ A+候補ページ</Link>
-            </div>
-            <p className="text-sm text-gray-600 leading-relaxed">
-              商品会議で<strong>調査時点で会議優先度が高かった商品</strong>をまとめたページです。
-              S候補（戦略最優先）とA+候補（優先検討）を月別に表示しています。
-              毎月の商品会議の冒頭で全員が見る「スタート画面」として使うことを想定しています。
-            </p>
-          </div>
-          <div className="border-l-4 border-gray-300 pl-4">
-            <div className="font-bold text-sm text-gray-800 mb-1">🔗 商品詳細ページ</div>
-            <p className="text-sm text-gray-600 leading-relaxed">
-              各商品の全情報（価格・素材・販売形式・「真似すべき点」「応用案」など）を確認できます。
-              公式URLも掲載しているので、その場で原商品を確認できます。
-              詳細ページ内で「◀ 前の商品 / 次の商品 ▶」を使えば、一覧に戻らず連続閲覧できます。
-            </p>
-          </div>
+      <section id="research" className="surface p-5 md:p-7 mb-6 scroll-mt-6">
+        <p className="eyebrow">STEP 02 / 参考を探す</p>
+        <h2 className="section-title">2〜4件を、比較する役割を決めて選ぶ</h2>
+        <p className="text-sm text-slate-600 leading-relaxed">検索は全期間が対象です。素材から広く探し、月・ブランド・年を必要に応じて絞ります。候補は最大4件まで。気になる商品の「比較候補に追加」を押してください。</p>
+        <div className="grid sm:grid-cols-2 gap-3 mt-4">
+          {[
+            ["自社の基準", "今回の案と比べたい、自社の素材・提供形態・既存商品の記録。"],
+            ["同じ素材の参考", "果実の見せ方、クリーム、季節の訴求を比べたい商品。"],
+            ["構成の参考", "別の菓子も含め、香り・層・食感の組み合わせを学びたい商品。"],
+            ["工程の参考", "仕込みや仕上げ、提供形態の工夫を検討したい商品。"],
+          ].map(([title, text]) => <div key={title} className="border border-slate-200 rounded-lg p-4"><h3 className="text-sm font-bold text-[#1F4E78]">{title}</h3><p className="text-sm text-slate-600 mt-1 leading-relaxed">{text}</p></div>)}
+        </div>
+        <div className="flex flex-wrap gap-3 mt-4 no-print">
+          <Link className="action" href="/?months=&q=いちじく&category=tart">いちじくのタルトを探す</Link>
+          <Link className="action" href="/?months=&category=other&view=list">他の菓子から構成を探す</Link>
+          <Link className="action" href="/picks/">優先候補を見る</Link>
+        </div>
+        <details className="mt-5 border-t border-slate-200 pt-4">
+          <summary className="cursor-pointer font-bold text-sm text-[#1F4E78]">検索を使い分けるコツ</summary>
+          <ul className="list-disc pl-5 space-y-2 text-sm text-slate-600 mt-3 leading-relaxed">
+            <li>「いちご タルト」は両方を含む検索。「いずれかの語を含む」にすると候補を広げられます。「苺／いちご」「栗／マロン」などの表記違いにも対応しています。</li>
+            <li>除外は「-チョコ」、ひと続きの語は「&quot;紅茶 タルト&quot;」。0件なら検索語を残して全月・全DBへ広げます。</li>
+            <li>月は複数選べます。「今月」「翌月から3か月」を利用すると、検討する季節の過去事例を絞れます。</li>
+            <li>「元DBの対象年」と「最新の公式情報確認分」は別の条件です。過去の商品記録に最新情報が追記された場合、年・月の条件で外れることがあります。</li>
+            <li>見た目の候補探しは「画像カード」、素材・価格・難易度を続けて読むときは「一覧で比較」。表示件数は24件・48件・全件から選べます。</li>
+            <li>「掲載写真あり」はSNS等も含みます。生成イメージは別条件で絞れます。「画像なし」の商品も、素材や構成の参考にできます。</li>
+          </ul>
+        </details>
+        <p className="text-xs text-slate-500 mt-4">この段階で残すもの：参考商品の候補と、それぞれから何を学びたいか。</p>
+      </section>
+
+      <section id="compare" className="surface p-5 md:p-7 mb-6 scroll-mt-6">
+        <p className="eyebrow">STEP 03 / 比較・判断</p>
+        <h2 className="section-title">写真の印象から、素材・構成・作業の比較へ進む</h2>
+        <p className="text-sm text-slate-600 leading-relaxed">「比較・試作メモ」を開き、同じ項目を横に並べます。詳細で出典を確認し、参考にする点と自社で確かめる点を分けてください。</p>
+        <div className="overflow-x-auto mt-4 rounded-lg border border-slate-200" tabIndex={0} aria-label="開発比較の着眼点。横にスクロールできます">
+          <table className="w-full min-w-[620px] text-sm text-left">
+            <thead className="bg-slate-100 text-slate-700"><tr><th scope="col" className="p-3 w-32">比較する軸</th><th scope="col" className="p-3">記録から読むこと</th><th scope="col" className="p-3">試作案へつなげること</th></tr></thead>
+            <tbody>{comparisonPoints.map(([axis, record, action]) => <tr className="border-t border-slate-200 align-top" key={axis}><th scope="row" className="p-3 text-[#1F4E78]">{axis}</th><td className="p-3 text-slate-600 leading-relaxed">{record}</td><td className="p-3 text-slate-600 leading-relaxed">{action}</td></tr>)}</tbody>
+          </table>
+        </div>
+        <div className="bg-blue-50 border border-blue-100 rounded-lg p-4 mt-5">
+          <h3 className="font-bold text-sm text-[#1F4E78]">「確認できた事実」と「今回の仮説」を分ける</h3>
+          <p className="text-sm text-slate-700 leading-relaxed mt-2">商品名・原文価格・掲載URLは出典に戻って確認。DBの優先度やALC向け分析は調査時点の評価です。生成イメージは説明から作った参考像で、実物の外観や配合の証拠にはなりません。実写も掲載年・仕様を詳細で確認します。</p>
+          <p className="text-sm text-slate-700 leading-relaxed mt-2">「記録あり」は「実装可能」と同じではありません。タルト台の判断記録には流用不可も含まれます。空欄は確認事項として残します。</p>
+        </div>
+        <p className="text-xs text-slate-500 mt-4">この段階で残すもの：採用したい要素、変える要素、確認が必要な条件。</p>
+      </section>
+
+      <section id="prototype" className="surface p-5 md:p-7 mb-6 scroll-mt-6">
+        <p className="eyebrow">STEP 04 / 試作メモ</p>
+        <h2 className="section-title">構成案に、評価方法と次の行動を添える</h2>
+        <p className="text-sm text-slate-600 leading-relaxed">「比較・試作メモ」の下部にある15項目へ記入します。主役素材・生地・クリームだけでなく、工場と店舗の分担、調達の課題、試作で判断することまで書くと、次の担当者に渡せます。</p>
+        <div className="mt-4 rounded-lg border border-amber-200 bg-amber-50 p-4 text-sm text-amber-950 leading-relaxed"><strong>記入例：架空の企画です。</strong> 以下は入力の粒度を示す例で、実商品のレシピ・試作結果・商品化の承認ではありません。あなたの企画に置き換えて記入してください。</div>
+        <div className="grid lg:grid-cols-3 gap-5 mt-5">
+          {exampleGroups.map(group => <div key={group.title} className="bg-slate-50 rounded-lg p-4"><h3 className="text-base font-bold text-[#1F4E78] border-b border-slate-200 pb-3 mb-3">{group.title}</h3><dl className="space-y-4">{group.fields.map(([label, value]) => <div key={label}><dt className="text-xs font-bold text-slate-700">{label}</dt><dd className="text-sm text-slate-600 leading-relaxed mt-1">{value}</dd></div>)}</dl></div>)}
+        </div>
+        <div className="flex flex-wrap gap-3 items-center mt-5 no-print"><Link href="/planning/#draft" className="action action-primary">自分の試作メモを書く →</Link><span className="text-xs text-slate-500">この記入例はメモへ自動転記されません。</span></div>
+        <p className="text-xs text-slate-500 mt-4">この段階で残すもの：一つの試作仮説、比較する条件、見る項目、担当・期限。</p>
+      </section>
+
+      <section id="meeting" className="surface p-5 md:p-7 mb-6 scroll-mt-6">
+        <p className="eyebrow">STEP 05 / 会議・次の試作</p>
+        <h2 className="section-title">会議には「何を作るか」と「何を確かめるか」を持ち込む</h2>
+        <div className="grid md:grid-cols-2 gap-6 mt-3">
+          <div><h3 className="font-bold text-sm text-[#1F4E78] mb-3">会議前に揃えるもの</h3><ul className="list-disc pl-5 space-y-2 text-sm text-slate-600 leading-relaxed"><li>今回の狙いと、参考商品を選んだ理由。</li><li>出典・確認日・価格の単位がわかる参照記録。</li><li>既存商品との差と、今回試したい構成。</li><li>調達・製造・品質について未確認の点。</li><li>評価項目と、担当・実施日を決めるための案。</li></ul></div>
+          <div><h3 className="font-bold text-sm text-[#1F4E78] mb-3">会議で決めてメモに残すこと</h3><ul className="list-disc pl-5 space-y-2 text-sm text-slate-600 leading-relaxed"><li>試作に進む、条件を変える、追加調査する、のいずれか。</li><li>比較する案と、判断できる状態にするための観察・計測項目。</li><li>調達・製造・店舗の確認担当と期限。</li><li>次回見直す日と、必要な資料・試作品。</li></ul></div>
+        </div>
+        <div className="mt-5 border-l-4 border-[#1F4E78] pl-4 text-sm text-slate-700 leading-relaxed"><strong>試作後の残し方：</strong>「おいしかった」だけで終えず、条件・観察結果・次に変える点を「試作で確かめる項目」「次のアクション・担当・期限」へ追記します。配合や製造の正式な記録は所定の記録へ残し、このメモには参照先を記入してください。</div>
+        <p className="text-xs text-slate-500 mt-4">「メモと出典を書き出す」で、参照商品付きのMarkdownファイルを保管できます。書き出したファイルを会議の共有資料に添付します。</p>
+      </section>
+
+      <section id="records" className="surface p-5 md:p-7 mb-6 scroll-mt-6">
+        <h2 className="section-title">保存・参照記録・共有で迷わないために</h2>
+        <div className="grid md:grid-cols-2 gap-5">
+          <div className="rounded-lg border border-slate-200 p-4"><h3 className="font-bold text-sm text-[#1F4E78]">試作メモは、このブラウザに1案</h3><p className="text-sm text-slate-600 leading-relaxed mt-2">入力は同じブラウザ・端末内へ自動保存します。別の案を書き始める前に「メモと出典を書き出す」で現在案を保管してください。保存エラーが出た場合も、まず書き出して退避します。</p><p className="text-xs text-slate-500 mt-2">別の端末への同期・共同編集はありません。ブラウザの保存データを消すと、端末内の候補・メモも失われます。</p></div>
+          <div className="rounded-lg border border-slate-200 p-4"><h3 className="font-bold text-sm text-[#1F4E78]">比較中の候補と、案に紐づく参照は別</h3><p className="text-sm text-slate-600 leading-relaxed mt-2">候補を入れ替えたりDBの価格が更新されたりしても、保存済みの参照記録は自動で書き換わりません。新しい内容を使うと決めたら「現在の比較候補をこの案の参照にする」を押します。</p><p className="text-xs text-slate-500 mt-2">保存・書き出しには「この案に紐づく参照商品」の記録が使われます。書き出す前に対象を確認してください。</p></div>
+        </div>
+        <dl className="mt-5 space-y-4 text-sm">
+          <div><dt className="font-bold text-slate-700">同僚に同じ検索結果を見てもらいたい</dt><dd className="text-slate-600 leading-relaxed mt-1">検索画面の「検索条件のリンクをコピー」を使います。URLに含まれるのは検索条件・並び順・表示設定です。候補や試作メモは含まれません。</dd></div>
+          <div><dt className="font-bold text-slate-700">比較しながら、もう一度商品を探したい</dt><dd className="text-slate-600 leading-relaxed mt-1">比較画面の「検索条件を保って商品を探す」で戻ります。詳細の前後移動も、元の一覧または比較候補の範囲内で行えます。</dd></div>
+          <div><dt className="font-bold text-slate-700">写真や価格の違い、未掲載の商品を見つけた</dt><dd className="text-slate-600 leading-relaxed mt-1">商品ID・ブランド・商品名・掲載URL・確認日・修正したい箇所をまとめ、管理担当へ共有します。画像違いは該当商品と画像の掲載元を添えてください。DBへの反映は管理担当が行います。</dd></div>
+        </dl>
+      </section>
+
+      <section id="labels" className="surface p-5 md:p-7 mb-6 scroll-mt-6">
+        <h2 className="section-title">判断に使うラベル・日付の読み方</h2>
+        <div className="grid md:grid-cols-2 gap-6 text-sm">
+          <div><h3 className="font-bold text-slate-700 mb-3">確認状態を分けて読む</h3><dl className="space-y-3">
+            {[
+              ["DB採用", "調査DBへ収録する判断。実在・販売中の証明ではありません。"],
+              ["実在・販売・価格の確認", "それぞれ別の記録です。実在確認があっても、現在の販売・価格・在庫は掲載元で確認します。"],
+              ["対象年・月", "元DBが対象にした時期。今季の発売月とは限りません。"],
+              ["情報確認日・公式発表日・初回収録日", "確認した日、情報が発表された日、DBに初めて入った日は別です。最新情報は「最新の確認情報」を参照します。"],
+              ["画像の状態", "掲載写真は年・仕様を確認。生成イメージは参考像。未取得でも、商品記録や出典を確認できます。"],
+            ].map(([label, text]) => <div key={label}><dt className="font-semibold text-[#1F4E78]">{label}</dt><dd className="text-slate-600 leading-relaxed mt-1">{text}</dd></div>)}
+          </dl></div>
+          <div><h3 className="font-bold text-slate-700 mb-3">優先度・難易度は、調査時点の評価</h3><dl className="space-y-3">
+            <div><dt className="font-semibold text-[#1F4E78]">S・A+ / A / B・C</dt><dd className="text-slate-600 leading-relaxed mt-1">S・A+は当時の会議優先度が高い候補、Aは参考候補、B・Cは参考情報や記録。今回の素材・用途・開発条件に合うかをあらためて判断します。</dd></div>
+            <div><dt className="font-semibold text-[#1F4E78]">低（即検討可）・中・高（実装困難）・要レビュー</dt><dd className="text-slate-600 leading-relaxed mt-1">「低」は当時取り組みやすいと評価された記録です。現在の製造・調達の確認済みを意味しません。「要レビュー」は情報を補って現場で判断します。</dd></div>
+            <div><dt className="font-semibold text-[#1F4E78]">ALC向け分析・試作メモ</dt><dd className="text-slate-600 leading-relaxed mt-1">ALC向け分析はDBに記録された評価・仮説、試作メモは記入者の企画案です。出典にある事実、試作で観察した結果、自分たちの仮説を分けて残します。</dd></div>
+          </dl><Link className="inline-block text-[#1F4E78] underline mt-4 no-print" href="/images/">画像の出典・取得できない理由を見る →</Link></div>
         </div>
       </section>
 
-      <section className="surface p-6 mb-5">
-        <h2 className="section-title">検索から比較へ</h2>
-        <ol className="list-decimal pl-5 space-y-3 text-sm text-slate-600">
-          <li>最初は全期間を検索します。「いちご タルト」のように入力すると、苺などの表記違いも含めて探せます。「すべての語」「いずれかの語」を切り替えられます。</li>
-          <li>素材・ブランド・月の件数を見て絞り込みます。年は元DBの対象年です。「最新の公式情報確認分」は情報確認日による別の条件で、現在の在庫を意味しません。</li>
-          <li>0件なら検索語を残して全月・全DBへ広げられます。適用中の条件は一つずつ解除できます。</li>
-          <li>画像カードと一覧を切り替え、24件・48件・全件から表示数を選べます。詳細の前後移動は元の検索結果の範囲内です。</li>
-          <li>最大4件を候補に追加して比較します。検索条件を保って戻れます。最新価格・確認日・出典を、過去の価格と区別して比較・書き出しできます。</li>
-        </ol>
-        <p className="text-xs text-slate-500 mt-4">検索条件のURLはコピーできます。候補と試作メモの内容は端末内に保存され、URLには含みません。価格の単位や税区分は原文で確認してください。</p>
-      </section>
-
-      {/* 優先度・難易度の見方 */}
-      <section className="bg-white rounded-xl shadow-sm p-6 mb-5">
-        <h2 className="text-lg font-bold text-[#1F4E78] mb-4 flex items-center gap-2">
-          <span className="text-2xl">🏷️</span> ラベルの見方
-        </h2>
-        <div className="mb-4">
-          <h3 className="text-sm font-bold text-gray-700 mb-2">商品会議優先度</h3>
-          <div className="space-y-2 text-sm">
-            <div className="flex items-start gap-3">
-              <span className="bg-red-100 text-red-700 border border-red-300 px-2 py-0.5 rounded-full font-bold text-xs shrink-0 mt-0.5">S</span>
-              <span className="text-gray-600">戦略最優先候補。調査時点で最優先と記録された参考事例。実装可能性・適合度は個別に再確認します。</span>
-            </div>
-            <div className="flex items-start gap-3">
-              <span className="bg-orange-100 text-orange-700 border border-orange-300 px-2 py-0.5 rounded-full font-bold text-xs shrink-0 mt-0.5">A+</span>
-              <span className="text-gray-600">優先検討候補。調査時点で商品会議の優先検討対象となった事例。素材・価格帯・製法のいずれかでALCへの示唆が大きい。</span>
-            </div>
-            <div className="flex items-start gap-3">
-              <span className="bg-yellow-100 text-yellow-700 border border-yellow-300 px-2 py-0.5 rounded-full font-bold text-xs shrink-0 mt-0.5">A</span>
-              <span className="text-gray-600">参考候補。トレンド把握や素材・演出の参考になる商品。</span>
-            </div>
-            <div className="flex items-start gap-3">
-              <span className="bg-blue-100 text-blue-700 border border-blue-300 px-2 py-0.5 rounded-full font-bold text-xs shrink-0 mt-0.5">B</span>
-              <span className="text-gray-600">参考情報。市場の幅を把握するための情報として収録。直接の参考度は低い。</span>
-            </div>
-            <div className="flex items-start gap-3">
-              <span className="bg-gray-100 text-gray-600 border border-gray-300 px-2 py-0.5 rounded-full font-bold text-xs shrink-0 mt-0.5">C</span>
-              <span className="text-gray-600">記録のみ。ALCへの直接的な示唆は薄い。</span>
-            </div>
-          </div>
-        </div>
-        <div>
-          <h3 className="text-sm font-bold text-gray-700 mb-2">ALC実装難易度</h3>
-          <div className="space-y-2 text-sm">
-            <div className="flex items-start gap-3">
-              <span className="bg-green-100 text-green-700 px-2 py-0.5 rounded text-xs shrink-0 mt-0.5">低（即検討可）</span>
-              <span className="text-gray-600">製造・オペレーション・素材調達のいずれも課題が少なく、すぐに商品化を検討できる。</span>
-            </div>
-            <div className="flex items-start gap-3">
-              <span className="bg-yellow-100 text-yellow-700 px-2 py-0.5 rounded text-xs shrink-0 mt-0.5">中</span>
-              <span className="text-gray-600">一部に課題あり。検討可能だが製造・素材面での確認が必要。</span>
-            </div>
-            <div className="flex items-start gap-3">
-              <span className="bg-red-100 text-red-700 px-2 py-0.5 rounded text-xs shrink-0 mt-0.5">高（実装困難）</span>
-              <span className="text-gray-600">複数の課題があり実装ハードルが高い。参考・研究目的での収録。</span>
-            </div>
-            <div className="flex items-start gap-3">
-              <span className="bg-gray-100 text-gray-600 px-2 py-0.5 rounded text-xs shrink-0 mt-0.5">要レビュー</span>
-              <span className="text-gray-600">難易度の情報が不十分。現場担当者が確認・判断する必要あり。</span>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      <section className="surface p-6 mb-5">
-        <h2 className="section-title">参考商品をタルトの試作案へ</h2>
-        <ol className="list-decimal pl-5 space-y-3 text-sm text-gray-700">
-          <li>開発する月と素材を選びます。「翌月から3か月」や「他の菓子から発想する」も使えます。</li>
-          <li>気になる商品の詳細で、価格の条件・対象年・出典・既存タルト台の流用・店舗負荷を確認します。</li>
-          <li>「比較候補に追加」で最大4件を選び、「比較・試作メモ」で同じ項目を並べます。</li>
-          <li>主役素材、台、クリーム、差別化、価格目標、ロス対策と試作評価項目を記入します。</li>
-          <li>端末に保存し、「メモと出典を書き出す」で会議に持ち込めます。保存先はこのブラウザだけで、共同編集はしません。</li>
-        </ol>
-        <p className="text-sm text-gray-600 mt-4">商品情報は調査時点の記録、ALC向け分析はExcel上の評価・仮説、試作メモは記入者の企画案です。これらを混ぜて確認済みとは扱いません。</p>
-      </section>
-      {/* 注意点 */}
-      <section className="bg-amber-50 border border-amber-200 rounded-xl p-6 mb-5">
-        <h2 className="text-lg font-bold text-amber-800 mb-3 flex items-center gap-2">
-          <span className="text-2xl">⚠️</span> データ利用上の注意
-        </h2>
-        <ul className="space-y-2 text-sm text-amber-900">
-          <li className="flex items-start gap-2">
-            <span className="shrink-0 mt-0.5">•</span>
-            <span>DB採用・実在確認・販売確認・価格確認・画像確認は別々の項目です。採用済みでも、実在や現在の販売を保証するものではありません。販売終了・価格変更・仕様変更の可能性があります。詳細ページのURLから最新情報を必ず確認してください。</span>
-          </li>
-          <li className="flex items-start gap-2">
-            <span className="shrink-0 mt-0.5">•</span>
-            <span>「真似すべき点」「応用案」はALC向けのヒントとして記載したものです。そのまま商品化するものではなく、アイデアの起点として活用してください。</span>
-          </li>
-          <li className="flex items-start gap-2">
-            <span className="shrink-0 mt-0.5">•</span>
-            <span>価格・サイズ情報は調査時点のものです。実際の商品化にあたっては改めて確認が必要です。</span>
-          </li>
-          <li className="flex items-start gap-2">
-            <span className="shrink-0 mt-0.5">•</span>
-            <span>このツールは<strong>社内専用の業務ツール</strong>です。データや分析内容を社外に共有する際はご注意ください。</span>
-          </li>
-        </ul>
-      </section>
-
-      {/* データ追加方法 */}
-      <section className="bg-white rounded-xl shadow-sm p-6 mb-5">
-        <h2 className="text-lg font-bold text-[#1F4E78] mb-4 flex items-center gap-2">
-          <span className="text-2xl">➕</span> データを追加・更新する方法
-        </h2>
-        <p className="text-sm text-gray-600 mb-4">
-          Excelファイル（v12）がマスターデータです。変換スクリプトはローカルのJSONを更新します。公開サイトへの反映は別作業です。
-        </p>
-        <div className="space-y-4">
-          <div className="flex gap-3">
-            <span className="bg-[#1F4E78] text-white rounded-full w-6 h-6 flex items-center justify-center text-xs font-bold shrink-0 mt-0.5">1</span>
-            <div>
-              <div className="text-sm font-bold text-gray-800 mb-1">Excelを編集する</div>
-              <p className="text-sm text-gray-600">
-                <code className="bg-gray-100 px-1 rounded text-xs">HT_季節商品・旬素材スイーツ調査DB_v12_20260509.xlsx</code> の「商品別DB」シートに行を追加します。
-                必須項目：ブランド名・商品名・対象月・主素材・商品会議優先度・実在確認レベル
-              </p>
-            </div>
-          </div>
-          <div className="flex gap-3">
-            <span className="bg-[#1F4E78] text-white rounded-full w-6 h-6 flex items-center justify-center text-xs font-bold shrink-0 mt-0.5">2</span>
-            <div>
-              <div className="text-sm font-bold text-gray-800 mb-1">JSONに変換する（標準は外部通信なし）</div>
-              <p className="text-sm text-gray-600 mb-1">
-                PowerShellで以下を実行します：
-              </p>
-              <code className="block bg-gray-100 text-gray-700 text-xs px-3 py-2 rounded">
-                python export_to_json.py
-              </code>
-              <p className="text-xs text-gray-500 mt-1">
-                ※ 作業コピーの <code>database/</code> フォルダで実行してください。<br />
-                画像は手動設定と既存キャッシュを利用します。画像URLの取得は画像確認済みを意味しません。<br />
-                外部取得が必要な場合だけ <code>--fetch-images</code> を指定します。
-              </p>
-            </div>
-          </div>
-          <div className="text-sm text-gray-600">
-            生成後はローカルで内容を確認し、承認済みの公開手順で反映してください。変換だけでは公開サイトは更新されません。
-          </div>
-        </div>
-      </section>
-
-      {/* お問い合わせ */}
-      <section className="bg-gray-50 border border-gray-200 rounded-xl p-5 text-center">
-        <p className="text-sm text-gray-500">
-          不具合・追加要望は <strong>槙野（HT Project）</strong> まで。
-        </p>
-      </section>
+      <footer className="surface p-5 md:p-6 flex flex-wrap items-center justify-between gap-4">
+        <div><p className="font-bold text-[#1F4E78]">まずは今回の主役素材から。</p><p className="text-sm text-slate-600 mt-1">候補を選び、試作で確かめたいことを一つ書いてみてください。</p><p className="text-xs text-slate-500 mt-3">不具合・追加要望：槙野（HT Project）</p></div>
+        <div className="flex flex-wrap gap-2 no-print"><Link className="action action-primary" href="/?months=">参考商品を探す</Link><Link className="action" href="/planning/">試作メモを開く</Link></div>
+      </footer>
     </div>
   );
 }
