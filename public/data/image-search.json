@@ -1523,11 +1523,13 @@
     "SWT-0083": {
       "name": "リュクス～マスクメロン＆シャインマスカット～",
       "brand": "新宿高野",
-      "reason": "現行公式カタログと公開画像API照合で指定商品・果物バリエーションの個別写真を確認できず。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
-      "checkedAt": "2026-09-12",
+      "reason": "",
       "sources": [
-        "https://takano.jp/takano/product/detail/508894/"
-      ]
+        "https://takano.jp/takano/product/detail/508894/",
+        "https://www.kanko-shinjuku.jp/news/history/article_4135.html"
+      ],
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
     },
     "SWT-0096": {
       "name": "母の日 瀬戸内レモダン・エコバッグセット",
@@ -2781,12 +2783,12 @@
     "SWT-0048": {
       "name": "ラ・ブール ノエル",
       "brand": "資生堂パーラー",
-      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
-      "checkedAt": "2026-09-12",
+      "reason": "",
       "sources": [
         "https://prtimes.jp/main/html/rd/p/000000867.000006543.html"
       ],
-      "sourceFailures": []
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
     },
     "SWT-0049": {
       "name": "バレンタインコレクション2026",
@@ -2920,22 +2922,22 @@
     "SWT-0115": {
       "name": "ビスキュイ トロワ",
       "brand": "資生堂パーラー",
-      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
-      "checkedAt": "2026-09-12",
+      "reason": "",
       "sources": [
         "https://prtimes.jp/main/html/rd/p/000000905.000006543.html"
       ],
-      "sourceFailures": []
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
     },
     "SWT-0116": {
       "name": "マカロン フレーズ",
       "brand": "資生堂パーラー",
-      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
-      "checkedAt": "2026-09-12",
+      "reason": "",
       "sources": [
         "https://prtimes.jp/main/html/rd/p/000000905.000006543.html"
       ],
-      "sourceFailures": []
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
     },
     "SWT-0117": {
       "name": "チーズケーキ３種 各１個入",
@@ -4282,56 +4284,55 @@
     "SWT-0380": {
       "name": "ショコラバリエ2025（3種12個入）",
       "brand": "資生堂パーラー",
-      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
-      "checkedAt": "2026-09-12",
+      "reason": "",
       "sources": [
         "https://prtimes.jp/main/html/rd/p/000000808.000006543.html"
       ],
-      "sourceFailures": []
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
     },
     "SWT-0381": {
       "name": "バトンショコラ6個入（バレンタイン限定）",
       "brand": "資生堂パーラー",
-      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
-      "checkedAt": "2026-09-12",
+      "reason": "",
       "sources": [
-        "https://parlour.shiseido.co.jp/food_products/onlineshop/detail.html?prod_id=0000000852"
+        "https://parlour.shiseido.co.jp/food_products/onlineshop/detail.html?prod_id=0000000852",
+        "https://prtimes.jp/main/html/rd/p/000000808.000006543.html"
       ],
-      "sourceFailures": []
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
     },
     "SWT-0385": {
       "name": "ペコポコチョコレート缶",
       "brand": "不二家",
-      "reason": "参照ページの一部が削除・取得制限などで読めず、対応写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
-      "checkedAt": "2026-09-12",
+      "reason": "",
       "sources": [
-        "https://www.fujiya-peko.co.jp/press20250123_1.pdf"
+        "https://www.fujiya-peko.co.jp/press20250123_1.pdf",
+        "https://www.fujiya-peko.co.jp/press20250124_1.pdf"
       ],
-      "sourceFailures": [
-        "https://www.fujiya-peko.co.jp/press20250123_1.pdf（not-html）"
-      ]
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
     },
     "SWT-0386": {
       "name": "ペコちゃんジャンボポップチョコ",
       "brand": "不二家",
-      "reason": "参照ページの一部が削除・取得制限などで読めず、対応写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
-      "checkedAt": "2026-09-12",
+      "reason": "",
       "sources": [
-        "https://www.fujiya-peko.co.jp/cake/item/41116.html"
+        "https://www.fujiya-peko.co.jp/cake/item/41116.html",
+        "https://www.fujiya-peko.co.jp/press20250124_1.pdf"
       ],
-      "sourceFailures": [
-        "https://www.fujiya-peko.co.jp/cake/item/41116.html（HTTP 404）"
-      ]
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
     },
     "SWT-0387": {
       "name": "プラン クール「コフレ シズー」（6種プラリネ：ココナッツ/そばの実/ピスタチオ/とうもろこし/ヘーゼルナッツ/カカオニブ）",
       "brand": "三越伊勢丹",
-      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
-      "checkedAt": "2026-09-12",
+      "reason": "",
       "sources": [
         "https://prtimes.jp/main/html/rd/p/000002867.000008372.html"
       ],
-      "sourceFailures": []
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
     },
     "SWT-0389": {
       "name": "茨城県産\"恵水\"和梨のタルト",
@@ -4533,12 +4534,12 @@
     "SWT-0434": {
       "name": "ショコラ シガール（リッチミルク／リッチビター）",
       "brand": "ヨックモック",
-      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
-      "checkedAt": "2026-09-12",
+      "reason": "",
       "sources": [
-        "https://www.yokumoku.co.jp/news/2025/01/29905/"
+        "https://yokumoku.co.jp/blogs/news/2025-01-29905"
       ],
-      "sourceFailures": []
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
     },
     "SWT-0436": {
       "name": "ショコラ・マローネ",
@@ -4641,14 +4642,13 @@
     "SWT-0449": {
       "name": "マカロン 18個詰合わせ 季節限定 (Noel 2024)",
       "brand": "PIERRE HERMÉ PARIS",
-      "reason": "参照ページの一部が削除・取得制限などで読めず、対応写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
-      "checkedAt": "2026-09-12",
+      "reason": "",
       "sources": [
-        "https://www.pierreherme.co.jp/product/macaron-set-18-noel-2024.html"
+        "https://www.pierreherme.co.jp/product/macaron-set-18-noel-2024.html",
+        "https://www.pierreherme.co.jp/journal/macaron_flavor-december_2024/"
       ],
-      "sourceFailures": [
-        "https://www.pierreherme.co.jp/product/macaron-set-18-noel-2024.html（HTTP 404）"
-      ]
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
     },
     "SWT-0450": {
       "name": "ヴァレンタイン コレクション 2024 (PARIS FOR EVER)",
@@ -4761,14 +4761,13 @@
     "SWT-0465": {
       "name": "フクサヤ干支キューブ（巳）",
       "brand": "福砂屋",
-      "reason": "参照ページの一部が削除・取得制限などで読めず、対応写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
-      "checkedAt": "2026-09-12",
+      "reason": "",
       "sources": [
-        "https://www.fukusaya.co.jp/news/2024/12/26/"
+        "https://www.fukusaya.co.jp/news/2024/12/26/",
+        "https://www.saga-tamaya.co.jp/20241225_7/"
       ],
-      "sourceFailures": [
-        "https://www.fukusaya.co.jp/news/2024/12/26/（HTTP 404）"
-      ]
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
     },
     "SWT-0466": {
       "name": "ファンシーチョコレート（バレンタイン限定アソート）",
@@ -4843,12 +4842,12 @@
     "SWT-0477": {
       "name": "2種のチョコがけ苺（PABLO監修）",
       "brand": "PABLO",
-      "reason": "掲載元の一覧・代表画像から、この商品名と仕様に対応する写真を特定できませんでした。 原レシピや対象年の形状・配合の詳細が不足しており、現時点では忠実な外観の生成まで確認できていません。",
-      "checkedAt": "2026-09-12",
+      "reason": "",
       "sources": [
         "https://prtimes.jp/main/html/rd/p/000000055.000012783.html"
       ],
-      "sourceFailures": []
+      "checkedAt": "2026-09-12",
+      "imageKind": "photo"
     },
     "SWT-0478": {
       "name": "マロンプディング（モンブラン風味プリン）",
