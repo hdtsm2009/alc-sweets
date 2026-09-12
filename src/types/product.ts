@@ -42,6 +42,15 @@ export interface Product {
   サイズ: string;
   行タイプ: string;
   imageUrl?: string;
+  imageCandidateUrl?: string;
+  imageDisplayStatus?: string;
+  imageSourceUrl?: string;
+  imageCheckedAt?: string;
+  imageMatchNote?: string;
+  dbFirstSeen?: string;
+  dbFirstSeenKind?: string;
+  dbFirstSeenBasis?: string;
+  dbFirstSeenBatch?: string;
   対象年?: string;
   販売開始日?: string;
   販売終了日?: string;

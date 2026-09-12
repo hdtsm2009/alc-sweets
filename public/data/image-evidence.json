@@ -1,0 +1,765 @@
+{
+  "version": 1,
+  "items": {
+    "SWT-0015": {
+      "url": "https://prcdn.freetls.fastly.net/release_image/14225/1137/14225-1137-c78456d9f60937d9bb4994cdeda44997-700x504.jpg?width=1950&height=1350&quality=85&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000001137.000014225.html",
+      "caption": "桃とシャインマスカットのショートケーキ　1ピース 1,700円（税込）",
+      "method": "image-caption",
+      "name": "桃とシャインマスカットのショートケーキ",
+      "brand": "カフェコムサ",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0018": {
+      "url": "https://prcdn.freetls.fastly.net/release_image/14225/1174/14225-1174-ee1d8c75a0bc6f49ab3b47b95a085eed-700x648.jpg?width=1950&height=1350&quality=85&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000001174.000014225.html",
+      "caption": "≪ご予約限定≫ 新春のケーキ〜いちごと洋梨のケーキ〜",
+      "method": "image-caption",
+      "name": "新春のケーキ～いちごと洋梨のケーキ～",
+      "brand": "カフェコムサ",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0022": {
+      "url": "https://prcdn.freetls.fastly.net/release_image/54019/152/54019-152-28a3c23e5477d68ef53099683c45026e-2100x1500.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000000152.000054019.html",
+      "caption": "『プレミアム・ノエル「雅」』",
+      "method": "image-caption",
+      "name": "プレミアム・ノエル「雅」",
+      "brand": "フルーツピークス",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0023": {
+      "url": "https://prcdn.freetls.fastly.net/release_image/54019/152/54019-152-06b6a57055c7b96c2ae3c349df167fec-2100x1500.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000000152.000054019.html",
+      "caption": "『いちごのホワイトクリスマス』",
+      "method": "image-caption",
+      "name": "いちごのホワイトクリスマス",
+      "brand": "フルーツピークス",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0024": {
+      "url": "https://prcdn.freetls.fastly.net/release_image/54019/152/54019-152-ce9238e4630d36a72ead96d2f0d47a60-3600x2400.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000000152.000054019.html",
+      "caption": "『ショコラベリー・リース』",
+      "method": "image-caption",
+      "name": "ショコラベリー・リース",
+      "brand": "フルーツピークス",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0025": {
+      "url": "https://www.la-maison.jp/news/img/6e14e8d7c4924d725ec29d5340e6834d3f76890c.jpg",
+      "source": "https://www.la-maison.jp/news/003581.html",
+      "caption": "いちごとベリークリームのブーケタルト_s.jpg",
+      "method": "image-caption",
+      "name": "いちごとベリークリームのブーケタルト",
+      "brand": "ラ・メゾン アンソレイユターブル",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0033": {
+      "url": "https://prcdn.freetls.fastly.net/release_image/17643/1208/17643-1208-0121979d78cdab2e878a26e4c403d3f7-1223x925.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000001208.000017643.html",
+      "caption": "プティ・ザッハ",
+      "method": "image-caption",
+      "name": "プティ・ザッハ",
+      "brand": "アンテノール",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0035": {
+      "url": "https://www.ssnp.co.jp/uploads/2025/10/251020cozycorner3-1024x849.jpg",
+      "source": "https://www.ssnp.co.jp/snack/634397/",
+      "caption": "銀座コージーコーナー「パンプキンプリン」  銀座コージーコーナー「パンプキンプリン」",
+      "method": "image-caption",
+      "name": "パンプキンプリン",
+      "brand": "銀座コージーコーナー",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0037": {
+      "url": "https://www.ssnp.co.jp/uploads/2025/09/250912chateraise1.jpg",
+      "source": "https://www.ssnp.co.jp/snack/630547/",
+      "caption": "シャトレーゼ「ハロウィン かわいいオバケのデコレーション14cm」  シャトレーゼ「ハロウィン かわいいオバケのデコレーション14cm」",
+      "method": "image-caption",
+      "name": "ハロウィン かわいいオバケのデコレーション14cm",
+      "brand": "シャトレーゼ",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0038": {
+      "url": "https://www.ssnp.co.jp/uploads/2025/09/250912chateraise3-1024x512.jpg",
+      "source": "https://www.ssnp.co.jp/snack/630547/",
+      "caption": "シャトレーゼ「ハロウィン 魔女ネコちゃんのデコレーション16cm」  シャトレーゼ「ハロウィン 魔女ネコちゃんのデコレーション16cm」",
+      "method": "image-caption",
+      "name": "魔女ネコちゃんのデコレーション",
+      "brand": "シャトレーゼ",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0039": {
+      "url": "https://www.ssnp.co.jp/uploads/2025/08/250828chateraise1.jpg",
+      "source": "https://www.ssnp.co.jp/snack/628712/",
+      "caption": "プレミアムフレジェ 山梨県産シャインマスカット  プレミアムフレジェ 山梨県産シャインマスカット",
+      "method": "image-caption",
+      "name": "プレミアムフレジェ 山梨県産シャインマスカット",
+      "brand": "シャトレーゼ",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0043": {
+      "url": "https://prcdn.freetls.fastly.net/release_image/99363/40/99363-40-e7b85f2531d49eeaaac631417a2ff6dc-3416x2259.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000000040.000099363.html",
+      "caption": "クリスマスショートデコレーション4号　直径約12ｃｍ　税込4,968円（本体価格4,600円）",
+      "method": "image-caption",
+      "name": "クリスマスショートデコレーション4号",
+      "brand": "新宿高野",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0104": {
+      "url": "https://www.sembikiya.co.jp/_bosys/wp-content/uploads/2019/04/ta-1024x683.jpg",
+      "source": "https://www.sembikiya.co.jp/product-info/sweets",
+      "caption": "絹ごし杏仁 トロピカル（横浜髙島屋 催事）",
+      "method": "image-caption",
+      "name": "絹ごし杏仁 トロピカル",
+      "brand": "千疋屋総本店",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0105": {
+      "url": "https://www.sembikiya.co.jp/_bosys/wp-content/uploads/2025/06/SS_mango_doublecheese.jpg",
+      "source": "https://www.sembikiya.co.jp/product-info/sweets",
+      "caption": "マンゴーダブルチーズケーキ",
+      "method": "image-caption",
+      "name": "マンゴーダブルチーズケーキ",
+      "brand": "千疋屋総本店",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0158": {
+      "url": "https://www.sembikiya.co.jp/_bosys/wp-content/uploads/2024/02/SS_grapefruit_jelly_ruby-2.jpg",
+      "source": "https://www.sembikiya.co.jp/product-info/sweets",
+      "caption": "スペシャル　グレープフルーツジェリー（ルビー）",
+      "method": "image-caption",
+      "name": "スペシャルグレープフルーツジェリー",
+      "brand": "千疋屋総本店",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0051": {
+      "url": "https://www.atpress.ne.jp/releases/548464/LL_img_548464_1.jpg?format=webp&ts=1784041779",
+      "source": "https://www.atpress.ne.jp/news/548464",
+      "caption": "【コロンバン】ジュエルノエル",
+      "method": "image-caption",
+      "name": "ジュエルノエル",
+      "brand": "東武百貨店",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/webp"
+    },
+    "SWT-0057": {
+      "url": "https://newscast.jp/attachments/ULbiC3m5rIoze7QO6v33.jpg?w=940&h=940&a=1",
+      "source": "https://newscast.jp/smart/news/1901245",
+      "caption": "丹波栗たっぷり贅沢モンブランノエル",
+      "method": "image-caption",
+      "name": "丹波栗たっぷり贅沢モンブランノエル",
+      "brand": "中島大祥堂",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0058": {
+      "url": "https://news.mynavi.jp/article/20250923-3475399/images/001.jpg",
+      "source": "https://news.mynavi.jp/article/20250923-3475399/",
+      "caption": "ローソン「ほろふわ栗粉の栗堪能モンブラン」",
+      "method": "image-caption",
+      "name": "ほろふわ栗粉の栗堪能モンブラン",
+      "brand": "ローソン",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0086": {
+      "url": "https://www.suzette-shop.jp/img/goods/chef_ichigo-shor-Xmas/ichigo-short_1.jpg",
+      "source": "https://www.suzette-shop.jp/shop/e/ehcxmas/",
+      "caption": "いちごのショートケーキ クリスマス",
+      "method": "image-caption",
+      "name": "いちごのショートケーキ クリスマス",
+      "brand": "アンリ・シャルパンティエ",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0087": {
+      "url": "https://www.suzette-shop.jp/img/goods/L/opera_img.jpg",
+      "source": "https://www.suzette-shop.jp/shop/e/ehcxmas/",
+      "caption": "オペラ・ドゥ・ノエル",
+      "method": "image-caption",
+      "name": "オペラ・ドゥ・ノエル",
+      "brand": "アンリ・シャルパンティエ",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0135": {
+      "url": "https://www.suzette-shop.jp/img/goods/S/hcu-22nx2.jpg",
+      "source": "https://www.suzette-shop.jp/shop/e/ehcxmas/",
+      "caption": "クリスマス ガトー・キュイ・アソート M 11種17個入",
+      "method": "image-caption",
+      "name": "クリスマス ガトー・キュイ・アソートM",
+      "brand": "アンリ・シャルパンティエ",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0136": {
+      "url": "https://www.suzette-shop.jp/img/goods/S/hpa-30n2_.jpg",
+      "source": "https://www.suzette-shop.jp/shop/e/ehcxmas/",
+      "caption": "ホリデー・ギフト・アソート 11種24個入",
+      "method": "image-caption",
+      "name": "ホリデー・ギフト・アソート",
+      "brand": "アンリ・シャルパンティエ",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0137": {
+      "url": "https://www.suzette-shop.jp/img/goods/L/HGP-44X_i.jpg",
+      "source": "https://www.suzette-shop.jp/shop/e/ehcxmas/",
+      "caption": "ガトー・パルフェ〈4種入〉（Xmas）",
+      "method": "image-caption",
+      "name": "ガトー・パルフェ〈4種入〉（Xmas）",
+      "brand": "アンリ・シャルパンティエ",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0164": {
+      "url": "https://www.suzette-shop.jp/img/goods/S/hfc-20x.jpg",
+      "source": "https://www.suzette-shop.jp/shop/e/ehcxmas/",
+      "caption": "フィナンシェ・オ・ショコラ 詰合せ 8個入",
+      "method": "image-caption",
+      "name": "フィナンシェ・オ・ショコラ詰合せ 8個入",
+      "brand": "アンリ・シャルパンティエ",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0165": {
+      "url": "https://www.suzette-shop.jp/img/goods/S/hta30-awn2.jpg",
+      "source": "https://www.suzette-shop.jp/shop/e/ehcxmas/",
+      "caption": "タルト･フリュイ･アソート S（秋冬）　8種16個入",
+      "method": "image-caption",
+      "name": "タルト･フリュイ･アソート S（秋冬）",
+      "brand": "アンリ・シャルパンティエ",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0166": {
+      "url": "https://www.suzette-shop.jp/img/goods/L/hci-35_i.jpg",
+      "source": "https://www.suzette-shop.jp/shop/e/ehcxmas/",
+      "caption": "アンリ・ケーキアイス 4種8個入",
+      "method": "image-caption",
+      "name": "アンリ・ケーキアイス 4種8個入",
+      "brand": "アンリ・シャルパンティエ",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0095": {
+      "url": "https://lotte-shop.jp/img/goods/S/yru.jpg",
+      "source": "https://lotte-shop.jp/shop/e/eCxmascake/",
+      "caption": "【送料込】ゆめかわレインボーユニコーン（4.5号）【銀座コージーコーナー】",
+      "method": "image-caption",
+      "name": "ゆめかわレインボーユニコーン",
+      "brand": "銀座コージーコーナー",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0172": {
+      "url": "https://lotte-shop.jp/img/goods/S/ktndr.jpg",
+      "source": "https://lotte-shop.jp/shop/e/eCxmascake/",
+      "caption": "【送料込】小麦と卵と乳を使わないデコレーション【銀座コージーコーナー】",
+      "method": "image-caption",
+      "name": "小麦と卵と乳を使わないデコレーション",
+      "brand": "銀座コージーコーナー",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0173": {
+      "url": "https://lotte-shop.jp/img/goods/S/ktncdr.jpg",
+      "source": "https://lotte-shop.jp/shop/e/eCxmascake/",
+      "caption": "【送料込】小麦と卵と乳を使わないチョコデコレーション【銀座コージーコーナー】",
+      "method": "image-caption",
+      "name": "小麦と卵と乳を使わないチョコデコレーション",
+      "brand": "銀座コージーコーナー",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0098": {
+      "url": "https://www.ssnp.co.jp/uploads/2026/02/260209chateraise1.jpg",
+      "source": "https://www.ssnp.co.jp/snack/660044/",
+      "caption": "お花のフリルショートデコレーション 14cm  お花のフリルショートデコレーション 14cm",
+      "method": "image-caption",
+      "name": "お花のフリルショートデコレーション14cm",
+      "brand": "シャトレーゼ",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0100": {
+      "url": "https://resized-assets.cake.jp/bp/itemimg/11063/97509222265d5cc8ac365120240221.jpg?h=680",
+      "source": "https://cake.jp/item/3413187/",
+      "caption": "ひなまつりケーキ 5号 1",
+      "method": "image-caption",
+      "name": "ひなまつりケーキ 5号",
+      "brand": "Cake.jp",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0121": {
+      "url": "https://prcdn.freetls.fastly.net/release_image/6543/852/6543-852-cba330781a416da303fc322db4a2dbb9-3900x2600.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000000852.000006543.html",
+      "caption": "ハロウィンショコラ5個入",
+      "method": "image-caption",
+      "name": "ハロウィンショコラ",
+      "brand": "資生堂パーラー",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0122": {
+      "url": "https://prcdn.freetls.fastly.net/release_image/14225/1111/14225-1111-7928515982be79e7aae8a9aaf7758d8c-700x658.jpg?width=1950&height=1350&quality=85&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000001111.000014225.html",
+      "caption": "マンゴーローズとメロンのケーキ　直径12㎝　4,800円、直径15㎝　7,200円　※全て税込",
+      "method": "image-caption",
+      "name": "マンゴーローズとメロンのケーキ",
+      "brand": "カフェコムサ",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0123": {
+      "url": "https://prcdn.freetls.fastly.net/release_image/14225/1112/14225-1112-38feb289cd0ed7d85f21b22086db4bb9-700x622.jpg?width=1950&height=1350&quality=85&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000001112.000014225.html",
+      "caption": "宮崎県産『完熟マンゴー』のケーキ　1,700円(税込)/1ピース",
+      "method": "image-caption",
+      "name": "宮崎県産『完熟マンゴー』のケーキ",
+      "brand": "カフェコムサ",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0126": {
+      "url": "https://prcdn.freetls.fastly.net/release_image/14225/1128/14225-1128-17d70f402a353a9806dd2e569e976395-700x470.jpg?width=1950&height=1350&quality=85&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000001128.000014225.html",
+      "caption": "桃と宮崎県産「完熟マンゴー」のショートケーキ　1ピース 1,700円（税込）",
+      "method": "image-caption",
+      "name": "桃と宮崎県産「完熟マンゴー」のショートケーキ",
+      "brand": "カフェコムサ",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0127": {
+      "url": "https://prcdn.freetls.fastly.net/release_image/14225/1176/14225-1176-ae147490f04118fa4a85cb1e97c97601-700x576.jpg?width=1950&height=1350&quality=85&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000001176.000014225.html",
+      "caption": "熊本県産いちご「ゆうべに」のケーキ",
+      "method": "image-caption",
+      "name": "熊本県産いちご「ゆうべに」のケーキ",
+      "brand": "カフェコムサ",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0131": {
+      "url": "https://prcdn.freetls.fastly.net/release_image/54019/137/54019-137-3a41c2f183e3fe9f4d122b72ecc26cf9-1800x2700.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000000137.000054019.html",
+      "caption": "『まるごと桃パフェ』",
+      "method": "image-caption",
+      "name": "まるごと桃パフェ",
+      "brand": "フルーツピークス",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0133": {
+      "url": "https://prcdn.freetls.fastly.net/release_image/54019/132/54019-132-246775ff1d41f0bad4ce6593fcc314b9-3900x2601.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000000132.000054019.html",
+      "caption": "『いちじくとチーズクリーム』（1ホール）",
+      "method": "image-caption",
+      "name": "いちじくとチーズクリーム",
+      "brand": "フルーツピークス",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0160": {
+      "url": "https://www.fashion-press.net/img/news/142503/QIs.jpg",
+      "source": "https://www.fashion-press.net/news/142503",
+      "caption": "静岡県産“ももかベリー”のプレミアムストロベリーパフェ 4,000円＜数量限定＞  静岡県産“ももかベリー”のプレミアムストロベリーパフェ 4,000円＜数量限定＞",
+      "method": "image-caption",
+      "name": "静岡県産“ももかベリー”のプレミアムストロベリーパフェ",
+      "brand": "資生堂パーラー",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0351": {
+      "url": "https://prcdn.freetls.fastly.net/release_image/28015/153/28015-153-366f803d45d245cdc82ebbd92e43c333-3900x2601.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000000153.000028015.html",
+      "caption": "テリーヌ・ドゥ・フリュイ",
+      "method": "image-caption",
+      "name": "テリーヌ・ドゥ・フリュイ",
+      "brand": "アンリ・シャルパンティエ",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0355": {
+      "url": "https://parlour.shiseido.co.jp/summergift/assets/img/top_ranking_item02.jpg",
+      "source": "https://parlour.shiseido.co.jp/summergift/",
+      "caption": "フリュイジュレ8個入 FG30",
+      "method": "image-caption",
+      "name": "フリュイジュレ 8個入 FG30",
+      "brand": "資生堂パーラー",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0366": {
+      "url": "https://cheese-cake.net/wp-content/uploads/2025/07/ハーブス（HARBS）、白桃のレアチーズケーキの写真-9.jpg",
+      "source": "https://cheese-cake.net/harbs-hakutou/",
+      "caption": "ハーブス（HARBS）、白桃のレアチーズケーキの写真 (1)",
+      "method": "image-caption",
+      "name": "白桃のレアチーズケーキ",
+      "brand": "HARBS",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0371": {
+      "url": "https://www.la-maison.jp/news/img/6e14e8d7c4924d725ec29d5340e6834d3f76890c.jpg",
+      "source": "https://www.la-maison.jp/news/002997.html",
+      "caption": "いちごとベリークリームのブーケタルト_s.jpg",
+      "method": "image-caption",
+      "name": "いちごとベリークリームのブーケタルト",
+      "brand": "ラ・メゾン アンソレイユターブル",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0393": {
+      "url": "https://prcdn.freetls.fastly.net/release_image/14225/1039/14225-1039-5243f874661a6baee2bf172f34e10eae-700x612.jpg?width=1950&height=1350&quality=85&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000001039.000014225.html",
+      "caption": "山梨県 笛吹市産 シャインマスカット「ふじやまの彩」のケーキ　1,500円(税込)/1ピース",
+      "method": "image-caption",
+      "name": "山梨県笛吹市産シャインマスカット\"ふじやまの彩\"のケーキ",
+      "brand": "カフェコムサ",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0396": {
+      "url": "https://www.ssnp.co.jp/uploads/2024/08/240829chateraise4.jpg",
+      "source": "https://www.ssnp.co.jp/snack/584657/",
+      "caption": "シャトレーゼ「敬老の日 小豆と栗のショートケーキ」  シャトレーゼ「敬老の日 小豆と栗のショートケーキ」",
+      "method": "image-caption",
+      "name": "敬老の日 小豆と栗のショートケーキ",
+      "brand": "シャトレーゼ",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0411": {
+      "url": "https://kisspress.jp/img/articles/33400-33499/33438/img6160e8f4c12c0_xl.jpg",
+      "source": "https://kisspress.jp/articles/33438/",
+      "caption": "ハロウィン限定ケーキ ～かぼちゃと紫芋クリームのケーキ～ 900円（税込）/1ピース",
+      "method": "image-caption",
+      "name": "ハロウィン限定ケーキ ～かぼちゃと紫芋クリームのケーキ～",
+      "brand": "カフェコムサ",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0412": {
+      "url": "https://prcdn.freetls.fastly.net/release_image/28015/169/28015-169-18d7b8f638a88d792703ceacb4f7bf76-3900x2600.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000000169.000028015.html",
+      "caption": "ザ・ショートケーキ・ノエル　15cm",
+      "method": "image-caption",
+      "name": "ザ・ショートケーキ・ノエル",
+      "brand": "アンリ・シャルパンティエ",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0413": {
+      "url": "https://prcdn.freetls.fastly.net/release_image/28015/169/28015-169-c5a8b7a25b74686fe0a3873a8061d71e-3900x2600.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000000169.000028015.html",
+      "caption": "ルージュ・ドゥ・ノエル",
+      "method": "image-caption",
+      "name": "ルージュ・ドゥ・ノエル",
+      "brand": "アンリ・シャルパンティエ",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0425": {
+      "url": "https://prcdn.freetls.fastly.net/release_image/28015/169/28015-169-206a93425a2c169e06c97c7af5ce1d2e-3900x2600.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000000169.000028015.html",
+      "caption": "フォレ・ブランシュ",
+      "method": "image-caption",
+      "name": "フォレ・ブランシュ",
+      "brand": "アンリ・シャルパンティエ",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0415": {
+      "url": "https://www.ssnp.co.jp/uploads/2024/09/240927chateraise7.jpg",
+      "source": "https://www.ssnp.co.jp/snack/587137/",
+      "caption": "シャトレーゼ「Xmasプレミアム・ルージュ14cm」  シャトレーゼ「Xmasプレミアム・ルージュ14cm」",
+      "method": "image-caption",
+      "name": "Xmas プレミアム・ルージュ",
+      "brand": "シャトレーゼ",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0424": {
+      "url": "https://www.ssnp.co.jp/uploads/2024/09/240927chateraise26.jpg",
+      "source": "https://www.ssnp.co.jp/snack/587137/",
+      "caption": "シャトレーゼ「Xmasピスタチオのモンブラン」  シャトレーゼ「Xmasピスタチオのモンブラン」",
+      "method": "image-caption",
+      "name": "Xmas ピスタチオのモンブラン",
+      "brand": "シャトレーゼ",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0429": {
+      "url": "https://cake-news.com/wp-content/uploads/2025/04/sub1-21.jpg",
+      "source": "https://cake-news.com/event/exclusive/limitedtime/2025/04/166850/",
+      "caption": "「宇治抹茶と苺のぎゅうひ包み」イメージ  「宇治抹茶と苺のぎゅうひ包み」イメージ",
+      "method": "image-caption",
+      "name": "宇治抹茶と苺のぎゅうひ包み",
+      "brand": "アンテノール",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0431": {
+      "url": "https://www.fashion-press.net/img/news/119505/ZQw.jpg",
+      "source": "https://www.fashion-press.net/news/119505",
+      "caption": "「高知県土佐市産マスクメロン『仁淀ブルー』のショートケーキ」1ピース 1,700円  「高知県土佐市産マスクメロン『仁淀ブルー』のショートケーキ」1ピース 1,700円",
+      "method": "image-caption",
+      "name": "高知県土佐市産マスクメロン「仁淀ブルー」のショートケーキ",
+      "brand": "カフェコムサ",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0432": {
+      "url": "https://isetan.scene7.com/is/image/Isetan/21_0410351019550_an1?$VS_520$",
+      "source": "https://www.mistore.jp/shopping/product/900000000000000001830862.html",
+      "caption": "【店頭受取／銀座】マスクメロンショートケーキ　４号サイズ",
+      "method": "image-caption",
+      "name": "マスクメロンショートケーキ 4号",
+      "brand": "千疋屋総本店",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0436": {
+      "url": "https://www.fashion-press.net/img/news/128320/sp8.jpg",
+      "source": "https://www.fashion-press.net/news/128320",
+      "caption": "ショコラ・マローネ(3個入り) 1,134円",
+      "method": "image-caption",
+      "name": "ショコラ・マローネ",
+      "brand": "アンテノール",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0438": {
+      "url": "https://www.fashion-press.net/img/news/142679/E0Q.jpg",
+      "source": "https://www.fashion-press.net/news/142679",
+      "caption": "「クルミッ子 10個入 (缶) ライラック」2,160円  「クルミッ子 10個入 (缶) ライラック」2,160円",
+      "method": "image-caption",
+      "name": "クルミッ子 10個入(缶) ライラック",
+      "brand": "鎌倉紅谷",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0444": {
+      "url": "https://www.lmaga.jp/wp-content/uploads/2024/04/fugetsudo20240411_6.jpg",
+      "source": "https://www.lmaga.jp/news/2024/04/809024/",
+      "caption": "fugetsudo20240411_6 | Lmaga.jp 神戸風月堂「97thアニバーサリーゴーフル」（1728円）",
+      "method": "image-caption",
+      "name": "97thアニバーサリーゴーフル",
+      "brand": "神戸風月堂",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0445": {
+      "url": "https://www.kobe-fugetsudo.co.jp/98thgaufres/images/mainimg.png",
+      "source": "https://www.kobe-fugetsudo.co.jp/98thgaufres.html",
+      "caption": "98thアニバーサリーゴーフル",
+      "method": "image-caption",
+      "name": "98thアニバーサリーゴーフル",
+      "brand": "神戸風月堂",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/png"
+    },
+    "SWT-0455": {
+      "url": "https://www.fashion-press.net/img/news/129394/oZY.jpg",
+      "source": "https://www.fashion-press.net/news/129394",
+      "caption": "「濃密プレミアムチョコレートプリン」486円  「濃密プレミアムチョコレートプリン」486円",
+      "method": "image-caption",
+      "name": "濃密プレミアムチョコレートプリン",
+      "brand": "モロゾフ",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0457": {
+      "url": "https://www.fashion-press.net/img/news/129394/JQU.jpg",
+      "source": "https://www.fashion-press.net/news/129394",
+      "caption": "「グルノーブル(スプリングハート)」1,620円",
+      "method": "image-caption",
+      "name": "グルノーブル（スプリングハート）",
+      "brand": "モロゾフ",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0470": {
+      "url": "https://www.kyoto-quality.com/img/item/000801412/cku3-600x400.jpg",
+      "source": "https://www.kyoto-quality.com/",
+      "caption": "茶の菓うすやき 3枚入 画像をクリックして詳細ページへ",
+      "method": "image-caption",
+      "name": "茶の菓うすやき",
+      "brand": "マールブランシュ",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0475": {
+      "url": "https://bake-the-online.com/cdn/shop/articles/J_BCT_FY25_honeylemon_release_DSC_028_1800x1200_75d07f15-34ee-4f08-9f2d-5919ad0a0940.jpg?v=1748852965&width=1500",
+      "source": "https://bake-the-online.com/blogs/newproduct_news/20250502_2",
+      "caption": "【BAKE CHEESE TART】夏のレモンスイーツ／冷やしても美味しい！「焼きたてタルト はちみつレモンチーズ」2025年6月1日（日）より発売",
+      "method": "image-caption",
+      "name": "焼きたてタルト はちみつレモンチーズ",
+      "brand": "BAKE CHEESE TART",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0487": {
+      "url": "https://www.alacampagne.jp/wp-content/uploads/2026/07/ジェノワーズオフレーズ_w-300x300-1.jpg",
+      "source": "https://www.alacampagne.jp/products/tarte/",
+      "caption": "イチゴのショートケーキ（ジェノワーズ・オ・フレーズ）",
+      "method": "image-caption",
+      "name": "イチゴのショートケーキ（ジェノワーズ・オ・フレーズ）",
+      "brand": "ア・ラ・カンパーニュ",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0493": {
+      "url": "https://www.alacampagne.jp/wp-content/uploads/2026/08/フランシュフロマージュ_w.jpg",
+      "source": "https://www.alacampagne.jp/products/tarte/",
+      "caption": "スフレチーズケーキ（フランシュ・フロマージュ）",
+      "method": "image-caption",
+      "name": "スフレチーズケーキ（フランシュ・フロマージュ）",
+      "brand": "ア・ラ・カンパーニュ",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0507": {
+      "url": "https://www.alacampagne.jp/img/products/tarte/index/pc/img-melimelo.jpg",
+      "source": "https://www.alacampagne.jp/products/tarte/",
+      "caption": "タルト・メリメロ",
+      "method": "image-caption",
+      "name": "タルト・メリメロ",
+      "brand": "ア・ラ・カンパーニュ",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0508": {
+      "url": "https://www.alacampagne.jp/wp-content/uploads/2026/07/2312_AL_ガトードノンブルソワイユBD_image01-web-300x300-1.jpg",
+      "source": "https://www.alacampagne.jp/products/tarte/",
+      "caption": "ガトー・ド・ノンブル・ソワイユ",
+      "method": "image-caption",
+      "name": "ガトー・ド・ノンブル・ソワイユ",
+      "brand": "ア・ラ・カンパーニュ",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0514": {
+      "url": "https://www.alacampagne.jp/wp-content/uploads/2026/04/coffret_gouter24.jpg",
+      "source": "https://www.alacampagne.jp/products/bakedcake/",
+      "caption": "コフレ・グーテ（24個入）",
+      "method": "image-caption",
+      "name": "コフレ・グーテ（24個入）",
+      "brand": "ア・ラ・カンパーニュ",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0515": {
+      "url": "https://www.alacampagne.jp/wp-content/uploads/2026/04/coffret_gouter15.jpg",
+      "source": "https://www.alacampagne.jp/products/bakedcake/",
+      "caption": "コフレ・グーテ（15個入）",
+      "method": "image-caption",
+      "name": "コフレ・グーテ（15個入）",
+      "brand": "ア・ラ・カンパーニュ",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0516": {
+      "url": "https://www.alacampagne.jp/wp-content/uploads/2025/09/coffret_gouter10-1.jpg",
+      "source": "https://www.alacampagne.jp/products/bakedcake/",
+      "caption": "コフレ・グーテ（10個入）",
+      "method": "image-caption",
+      "name": "コフレ・グーテ（10個入）",
+      "brand": "ア・ラ・カンパーニュ",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0517": {
+      "url": "https://www.alacampagne.jp/img/products/anniversary/birthday/img-birthday-02.jpg",
+      "source": "https://www.alacampagne.jp/products/anniversary/birthday/",
+      "caption": "ガトー・ド・ジェノワーズ",
+      "method": "image-caption",
+      "name": "ガトー・ド・ジェノワーズ",
+      "brand": "ア・ラ・カンパーニュ",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0522": {
+      "url": "https://hattrick-shop.jp/cdn/shop/files/185720376_o4.webp?v=1749895731&width=416",
+      "source": "https://hattrick-shop.jp/products/astg0001",
+      "caption": "レーズンサンド 4個入 （常温）",
+      "method": "image-caption",
+      "name": "レーズンサンド",
+      "brand": "ア・ラ・カンパーニュ",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0389": {
+      "name": "茨城県産\"恵水\"和梨のタルト",
+      "brand": "キル フェ ボン",
+      "url": "https://www.pref.ibaraki.jp/bugai/koho/kenmin/syun/images/promo-newsletter20250804_ibaraki-pear_05.jpg",
+      "source": "https://www.pref.ibaraki.jp/bugai/koho/kenmin/syun/20250804.html",
+      "caption": "茨城県公式掲載：キルフェボン、茨城県産和梨“恵水”のタルト。2025年記事に「写真は昨年度のもの」と記載。",
+      "method": "reviewed-source",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0390": {
+      "name": "長野県産\"ナガノパープル\"と\"ル ガール\"クリームチーズのタルト",
+      "brand": "キル フェ ボン",
+      "url": "https://kunel-salon.com/wp-content/uploads/2023/08/ry8.jpg",
+      "source": "https://kunel-salon.com/food/144573/",
+      "caption": "写真直後の説明：長野県産“ナガノパープル”と“ル ガール”クリームチーズのタルト。2023年記事の写真で、DB対象年2024との一致は未確認。",
+      "method": "reviewed-source",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0430": {
+      "name": "宇治抹茶のケーク～京の鶯～",
+      "brand": "アンテノール",
+      "url": "https://shop.antenor.jp/client_info/EDW_EC/itemimage/1-UJI/24uji-1_700.jpg",
+      "source": "https://shop.antenor.jp/category/A_CT01/1-UJI.html",
+      "caption": "移転後の公式商品ページの画像alt：宇治抹茶のケーク～京の鶯～。",
+      "method": "reviewed-source",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    },
+    "SWT-0070": {
+      "name": "マロンチョコレートケーキ",
+      "brand": "HARBS",
+      "url": "https://www.harbs.co.jp/wp/wp-content/uploads/2022/10/マロンチョコレート.png",
+      "source": "https://www.harbs.co.jp/menu_cake/",
+      "caption": "HARBS公式メニューの同一区画に写真と「マロンチョコレートケーキ」の見出し。現在の掲載写真で、DB対象年との一致は未確認。",
+      "method": "reviewed-source",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/png"
+    },
+    "SWT-0363": {
+      "url": "https://prcdn.freetls.fastly.net/release_image/14225/1137/14225-1137-c78456d9f60937d9bb4994cdeda44997-700x504.jpg?width=1950&height=1350&quality=85&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "source": "https://prtimes.jp/main/html/rd/p/000001137.000014225.html",
+      "caption": "桃とシャインマスカットのショートケーキ　1ピース 1,700円（税込）",
+      "method": "image-caption",
+      "name": "桃とシャインマスカットのショートケーキ",
+      "brand": "カフェコムサ",
+      "checkedAt": "2026-09-12",
+      "contentType": "image/jpeg"
+    }
+  }
+}

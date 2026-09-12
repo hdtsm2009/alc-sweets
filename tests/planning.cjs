@@ -15,6 +15,7 @@ function compile(file) {
 }
 const lib = compile("src/lib/planning.ts");
 const data = compile("src/lib/data.ts");
+const news = compile("src/lib/news.ts");
 const product = { 商品ID: "TEST/?&", 商品名: "合成タルト", ブランド名: "合成ブランド", 対象月: null,
   対象年: "2020", 主素材: "桃", 副素材: "紅茶", ALC試作案: "既存の台を使う", ロス対策: "合成冷凍案",
   ピース価格: "700円（税込・合成）", サイズ: "合成サイズ", 実在確認レベル: "C", URL: "https://example.invalid/product" };
@@ -68,4 +69,24 @@ test("HTTP失敗後の再取得と同時取得共有", async () => {
   global.fetch = async () => { calls++; return {ok:true, json:async()=>[product]}; };
   await Promise.all([data.getProducts(), data.getProducts()]);
   assert.equal(calls, 2);
+});
+
+test("新着は初期収録を除き、発売日でなく収録日・バッチ順", () => {
+  const values = [
+    {...product, 商品ID:"baseline", dbFirstSeen:"2026-01-01", dbFirstSeenKind:"baseline"},
+    {...product, 商品ID:"old", dbFirstSeen:"2020-01-01", dbFirstSeenKind:"added", 販売開始日:"2026-12-01"},
+    {...product, 商品ID:"new", dbFirstSeen:"2026-01-01", dbFirstSeenKind:"added", dbFirstSeenBatch:"2"},
+    {...product, 商品ID:"same-day", dbFirstSeen:"2026-01-01", dbFirstSeenKind:"added", dbFirstSeenBatch:"1"},
+    {...product, 商品ID:"unknown", dbFirstSeen:"", dbFirstSeenKind:"added"},
+  ];
+  assert.deepEqual(news.newsProducts(values).map(p=>p.商品ID), ["new", "same-day", "old"]);
+  assert.equal(values[0].商品ID,"baseline");
+});
+
+test("OGP・未確認・不正画像は表示しない", () => {
+  const p = {...product, imageUrl:"https://example.invalid/photo.jpg", imageSourceUrl:"https://example.invalid/article", imageCheckedAt:"2026-01-01"};
+  for(const status of [undefined,"shared","generic","unverified","missing"]) assert.equal(news.imageForProduct({...p,imageDisplayStatus:status}),undefined);
+  assert.equal(news.imageForProduct({...p,imageDisplayStatus:"matched"}),p.imageUrl);
+  assert.equal(news.imageForProduct({...p,imageDisplayStatus:"matched",imageUrl:"javascript:alert(1)"}),undefined);
+  assert.equal(news.imageForProduct({...p,imageDisplayStatus:"matched",imageSourceUrl:""}),undefined);
 });

@@ -1,0 +1,3603 @@
+{
+  "version": 1,
+  "items": {
+    "SWT-0001": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0002": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0003": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0004": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0005": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0006": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0007": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0008": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0009": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0010": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0011": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0012": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0013": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0014": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0015": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0016": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0017": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0018": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0019": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0020": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0021": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0022": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0023": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0024": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0025": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0026": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0027": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0028": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0029": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0030": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0031": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0032": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0033": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0034": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0035": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0036": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0037": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0038": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0039": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0040": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0041": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0042": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0043": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0044": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0045": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0046": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0047": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0048": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0049": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0050": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0051": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0052": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0053": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0054": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0055": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0056": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0057": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0058": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0059": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0060": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0061": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0062": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0063": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0064": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0065": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0066": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0067": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0068": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0069": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0070": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0071": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0072": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0073": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0074": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0075": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0076": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0077": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0078": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0079": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0080": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0081": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0082": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0083": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0084": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0085": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0086": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0087": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0088": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0089": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0090": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0091": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0092": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0093": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0094": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0095": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0096": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0097": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0098": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0099": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0100": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0101": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0102": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0103": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0104": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0105": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0106": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0107": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0108": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0109": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0110": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0111": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0112": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0113": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0114": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0115": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0116": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0117": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0118": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0119": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0120": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0121": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0122": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0123": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0124": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0125": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0126": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0127": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0128": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0129": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0130": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0131": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0132": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0133": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0134": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0135": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0136": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0137": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0138": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0139": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0140": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0141": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0142": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0143": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0144": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0145": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0146": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0147": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0148": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0149": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0150": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0151": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0152": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0153": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0154": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0155": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0156": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0157": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0158": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0160": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0161": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0164": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0165": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0166": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0167": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0168": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0169": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0170": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0171": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0172": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0173": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0174": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0175": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0176": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0177": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0178": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0179": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0180": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0181": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0182": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0183": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0184": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0185": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0186": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0187": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0188": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0189": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0190": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0191": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0192": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0193": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0194": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0195": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0196": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0197": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0198": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0199": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0200": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0201": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0202": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0203": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0204": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0205": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0206": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0207": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0208": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0209": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0210": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0211": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0212": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0213": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0214": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0215": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0216": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0217": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0218": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0219": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0220": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0221": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0222": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0223": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0224": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0225": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0226": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0227": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0228": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0229": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0230": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0231": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0232": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0233": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0234": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0235": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0236": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0237": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0238": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0239": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0240": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0241": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0242": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0243": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0244": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0245": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0246": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0247": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0248": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0249": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0250": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0251": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0252": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0253": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0254": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0255": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0256": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0257": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0258": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0259": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0260": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0261": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0262": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0263": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0264": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0265": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0266": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0267": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0268": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0269": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0270": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0271": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0272": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0273": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0274": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0275": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0276": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0277": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0278": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0279": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0280": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0281": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0282": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0283": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0284": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0285": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0286": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0287": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0288": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0289": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0290": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0291": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0292": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0293": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0294": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0295": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0296": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0297": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0298": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0299": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0300": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0301": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0302": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0303": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0304": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0305": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0306": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0307": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0308": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0309": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0310": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0311": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0312": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0313": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0314": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0315": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0316": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0317": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0318": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0319": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0320": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0321": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0322": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0323": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0324": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0331": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0332": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0333": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0334": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0335": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0336": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0337": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0338": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0339": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0340": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0341": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0342": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0343": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0344": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0345": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0346": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0347": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0348": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0349": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0350": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0351": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0352": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0353": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0354": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0355": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0356": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0357": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0358": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0359": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0360": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0361": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0362": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0363": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0364": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0365": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0366": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0367": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0368": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0369": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0370": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0371": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0372": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0373": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0374": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0375": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0376": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0377": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0378": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0379": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0380": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0381": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0382": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0383": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0384": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0385": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0386": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0387": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0388": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0389": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0390": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0391": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0392": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0393": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0394": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0395": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0396": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0397": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0398": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0399": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0400": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0401": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0402": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0403": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0404": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0405": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0406": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0407": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0408": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0409": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0410": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0411": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0412": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0413": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0414": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0415": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0416": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0417": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0418": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0419": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0420": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0421": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0422": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0423": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0424": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0425": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0426": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0427": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0428": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0429": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0430": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0431": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0432": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0433": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0434": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0435": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0436": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0437": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0438": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0439": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0440": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0441": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0442": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0443": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0444": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0445": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0446": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0447": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0448": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0449": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0450": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0451": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0452": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0453": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0454": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0455": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0456": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0457": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0458": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0459": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0460": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0461": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0462": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0463": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0464": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0465": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0466": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0467": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0468": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0469": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0470": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0471": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0472": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0473": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0474": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0475": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0476": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0477": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0478": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0479": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0480": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0481": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0482": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0483": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0484": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0485": {
+      "date": "2026-05-10",
+      "kind": "baseline",
+      "basis": "git-history",
+      "batch": "2026-05-10-0000",
+      "commit": "c507cef4eabb255169f1c1c94da26be513896176"
+    },
+    "SWT-0486": {
+      "date": "2026-05-10",
+      "kind": "added",
+      "basis": "git-history",
+      "batch": "2026-05-10-0004",
+      "commit": "2282021f167c9eb7de431cd27119bd3c9e298470"
+    },
+    "SWT-0487": {
+      "date": "2026-05-10",
+      "kind": "added",
+      "basis": "git-history",
+      "batch": "2026-05-10-0004",
+      "commit": "2282021f167c9eb7de431cd27119bd3c9e298470"
+    },
+    "SWT-0488": {
+      "date": "2026-05-10",
+      "kind": "added",
+      "basis": "git-history",
+      "batch": "2026-05-10-0004",
+      "commit": "2282021f167c9eb7de431cd27119bd3c9e298470"
+    },
+    "SWT-0489": {
+      "date": "2026-05-10",
+      "kind": "added",
+      "basis": "git-history",
+      "batch": "2026-05-10-0004",
+      "commit": "2282021f167c9eb7de431cd27119bd3c9e298470"
+    },
+    "SWT-0490": {
+      "date": "2026-05-10",
+      "kind": "added",
+      "basis": "git-history",
+      "batch": "2026-05-10-0004",
+      "commit": "2282021f167c9eb7de431cd27119bd3c9e298470"
+    },
+    "SWT-0491": {
+      "date": "2026-05-10",
+      "kind": "added",
+      "basis": "git-history",
+      "batch": "2026-05-10-0004",
+      "commit": "2282021f167c9eb7de431cd27119bd3c9e298470"
+    },
+    "SWT-0492": {
+      "date": "2026-05-10",
+      "kind": "added",
+      "basis": "git-history",
+      "batch": "2026-05-10-0004",
+      "commit": "2282021f167c9eb7de431cd27119bd3c9e298470"
+    },
+    "SWT-0493": {
+      "date": "2026-05-10",
+      "kind": "added",
+      "basis": "git-history",
+      "batch": "2026-05-10-0004",
+      "commit": "2282021f167c9eb7de431cd27119bd3c9e298470"
+    },
+    "SWT-0494": {
+      "date": "2026-05-10",
+      "kind": "added",
+      "basis": "git-history",
+      "batch": "2026-05-10-0004",
+      "commit": "2282021f167c9eb7de431cd27119bd3c9e298470"
+    },
+    "SWT-0495": {
+      "date": "2026-05-10",
+      "kind": "added",
+      "basis": "git-history",
+      "batch": "2026-05-10-0004",
+      "commit": "2282021f167c9eb7de431cd27119bd3c9e298470"
+    },
+    "SWT-0496": {
+      "date": "2026-05-10",
+      "kind": "added",
+      "basis": "git-history",
+      "batch": "2026-05-10-0004",
+      "commit": "2282021f167c9eb7de431cd27119bd3c9e298470"
+    },
+    "SWT-0497": {
+      "date": "2026-05-10",
+      "kind": "added",
+      "basis": "git-history",
+      "batch": "2026-05-10-0004",
+      "commit": "2282021f167c9eb7de431cd27119bd3c9e298470"
+    },
+    "SWT-0498": {
+      "date": "2026-05-10",
+      "kind": "added",
+      "basis": "git-history",
+      "batch": "2026-05-10-0004",
+      "commit": "2282021f167c9eb7de431cd27119bd3c9e298470"
+    },
+    "SWT-0499": {
+      "date": "2026-05-10",
+      "kind": "added",
+      "basis": "git-history",
+      "batch": "2026-05-10-0004",
+      "commit": "2282021f167c9eb7de431cd27119bd3c9e298470"
+    },
+    "SWT-0500": {
+      "date": "2026-05-10",
+      "kind": "added",
+      "basis": "git-history",
+      "batch": "2026-05-10-0004",
+      "commit": "2282021f167c9eb7de431cd27119bd3c9e298470"
+    },
+    "SWT-0501": {
+      "date": "2026-05-10",
+      "kind": "added",
+      "basis": "git-history",
+      "batch": "2026-05-10-0004",
+      "commit": "2282021f167c9eb7de431cd27119bd3c9e298470"
+    },
+    "SWT-0502": {
+      "date": "2026-05-10",
+      "kind": "added",
+      "basis": "git-history",
+      "batch": "2026-05-10-0004",
+      "commit": "2282021f167c9eb7de431cd27119bd3c9e298470"
+    },
+    "SWT-0503": {
+      "date": "2026-05-10",
+      "kind": "added",
+      "basis": "git-history",
+      "batch": "2026-05-10-0004",
+      "commit": "2282021f167c9eb7de431cd27119bd3c9e298470"
+    },
+    "SWT-0504": {
+      "date": "2026-05-10",
+      "kind": "added",
+      "basis": "git-history",
+      "batch": "2026-05-10-0004",
+      "commit": "2282021f167c9eb7de431cd27119bd3c9e298470"
+    },
+    "SWT-0505": {
+      "date": "2026-05-10",
+      "kind": "added",
+      "basis": "git-history",
+      "batch": "2026-05-10-0004",
+      "commit": "2282021f167c9eb7de431cd27119bd3c9e298470"
+    },
+    "SWT-0506": {
+      "date": "2026-05-10",
+      "kind": "added",
+      "basis": "git-history",
+      "batch": "2026-05-10-0004",
+      "commit": "2282021f167c9eb7de431cd27119bd3c9e298470"
+    },
+    "SWT-0507": {
+      "date": "2026-05-10",
+      "kind": "added",
+      "basis": "git-history",
+      "batch": "2026-05-10-0004",
+      "commit": "2282021f167c9eb7de431cd27119bd3c9e298470"
+    },
+    "SWT-0508": {
+      "date": "2026-05-10",
+      "kind": "added",
+      "basis": "git-history",
+      "batch": "2026-05-10-0004",
+      "commit": "2282021f167c9eb7de431cd27119bd3c9e298470"
+    },
+    "SWT-0509": {
+      "date": "2026-05-10",
+      "kind": "added",
+      "basis": "git-history",
+      "batch": "2026-05-10-0004",
+      "commit": "2282021f167c9eb7de431cd27119bd3c9e298470"
+    },
+    "SWT-0510": {
+      "date": "2026-05-10",
+      "kind": "added",
+      "basis": "git-history",
+      "batch": "2026-05-10-0004",
+      "commit": "2282021f167c9eb7de431cd27119bd3c9e298470"
+    },
+    "SWT-0511": {
+      "date": "2026-05-10",
+      "kind": "added",
+      "basis": "git-history",
+      "batch": "2026-05-10-0004",
+      "commit": "2282021f167c9eb7de431cd27119bd3c9e298470"
+    },
+    "SWT-0512": {
+      "date": "2026-05-10",
+      "kind": "added",
+      "basis": "git-history",
+      "batch": "2026-05-10-0004",
+      "commit": "2282021f167c9eb7de431cd27119bd3c9e298470"
+    },
+    "SWT-0513": {
+      "date": "2026-05-10",
+      "kind": "added",
+      "basis": "git-history",
+      "batch": "2026-05-10-0004",
+      "commit": "2282021f167c9eb7de431cd27119bd3c9e298470"
+    },
+    "SWT-0514": {
+      "date": "2026-05-10",
+      "kind": "added",
+      "basis": "git-history",
+      "batch": "2026-05-10-0005",
+      "commit": "e416c844bfea93ed3f00d535c5d963baad229298"
+    },
+    "SWT-0515": {
+      "date": "2026-05-10",
+      "kind": "added",
+      "basis": "git-history",
+      "batch": "2026-05-10-0005",
+      "commit": "e416c844bfea93ed3f00d535c5d963baad229298"
+    },
+    "SWT-0516": {
+      "date": "2026-05-10",
+      "kind": "added",
+      "basis": "git-history",
+      "batch": "2026-05-10-0005",
+      "commit": "e416c844bfea93ed3f00d535c5d963baad229298"
+    },
+    "SWT-0517": {
+      "date": "2026-05-10",
+      "kind": "added",
+      "basis": "git-history",
+      "batch": "2026-05-10-0005",
+      "commit": "e416c844bfea93ed3f00d535c5d963baad229298"
+    },
+    "SWT-0518": {
+      "date": "2026-05-10",
+      "kind": "added",
+      "basis": "git-history",
+      "batch": "2026-05-10-0005",
+      "commit": "e416c844bfea93ed3f00d535c5d963baad229298"
+    },
+    "SWT-0519": {
+      "date": "2026-05-10",
+      "kind": "added",
+      "basis": "git-history",
+      "batch": "2026-05-10-0005",
+      "commit": "e416c844bfea93ed3f00d535c5d963baad229298"
+    },
+    "SWT-0520": {
+      "date": "2026-05-10",
+      "kind": "added",
+      "basis": "git-history",
+      "batch": "2026-05-10-0005",
+      "commit": "e416c844bfea93ed3f00d535c5d963baad229298"
+    },
+    "SWT-0521": {
+      "date": "2026-05-10",
+      "kind": "added",
+      "basis": "git-history",
+      "batch": "2026-05-10-0005",
+      "commit": "e416c844bfea93ed3f00d535c5d963baad229298"
+    },
+    "SWT-0522": {
+      "date": "2026-05-10",
+      "kind": "added",
+      "basis": "git-history",
+      "batch": "2026-05-10-0005",
+      "commit": "e416c844bfea93ed3f00d535c5d963baad229298"
+    },
+    "SWT-0523": {
+      "date": "2026-05-10",
+      "kind": "added",
+      "basis": "git-history",
+      "batch": "2026-05-10-0005",
+      "commit": "e416c844bfea93ed3f00d535c5d963baad229298"
+    }
+  }
+}

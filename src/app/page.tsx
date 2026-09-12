@@ -4,6 +4,7 @@ import type { Product } from "@/types/product";
 import { useProducts, matchesQuery, existenceLabel, salesLabel, hasRecord, PRIORITY_COLORS, DIFFICULTY_COLORS, ALC_BRAND } from "@/lib/data";
 import Link from "next/link";
 import CandidateButton from "@/components/CandidateButton";
+import ProductImage from "@/components/ProductImage";
 import { useCandidates } from "@/lib/planning";
 
 const PRIORITY_ORDER: Record<string, number> = { S: 0, "A+": 1, A: 2, B: 3, C: 4 };
@@ -343,26 +344,12 @@ export default function HomePage() {
       </div>
 
       {/* 商品カード一覧 */}
+      <p className="text-xs text-slate-500 mb-4">商品写真は掲載元で商品名との対応を確認できたものを表示しています（全DB {products.filter(p => p.imageDisplayStatus === "matched").length}件）。記事の代表画像・ロゴ・対応未確認の写真は表示を保留しています。</p>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 print-grid">
         {displayedProducts.map(p => (
           <article key={p.商品ID} className="surface flex flex-col overflow-hidden hover:shadow-md transition-shadow">
           <Link href={`/product/?id=${encodeURIComponent(p.商品ID)}&back=${encodeURIComponent(searchUrl)}`} className="block flex-1">
-            {p.imageUrl ? (
-              <div className="w-full h-40 bg-gray-100">
-                {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img
-                  src={p.imageUrl}
-                  loading="lazy"
-                  alt={p.商品名}
-                  className="w-full h-full object-cover"
-                  onError={e => { (e.currentTarget as HTMLImageElement).parentElement!.style.display = "none"; }}
-                />
-              </div>
-            ) : (
-              <div className="w-full h-40 bg-gradient-to-br from-[#1F4E78]/10 to-[#1F4E78]/5 flex items-center justify-center text-4xl">
-                {productEmoji(p)}
-              </div>
-            )}
+            <ProductImage product={p} />
             <div className="p-4">
               <div className="flex items-start justify-between gap-2 mb-2">
                 <div>

@@ -22,6 +22,7 @@ export default function RootLayout({
             </a>
             <nav aria-label="メインナビゲーション" className="flex flex-wrap gap-4 text-sm">
               <a href="/" className="hover:opacity-80">検索</a>
+              <a href="/news/" className="hover:opacity-80">DB新着</a>
               <a href="/calendar/" className="hover:opacity-80">月別カレンダー</a>
               <a href="/picks/" className="hover:opacity-80">優先候補</a>
               <a href="/planning/" className="hover:opacity-80">比較・試作メモ</a>

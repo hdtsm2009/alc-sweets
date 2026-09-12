@@ -5,6 +5,7 @@ import { useSearchParams } from "next/navigation";
 import { useProducts, existenceLabel, salesLabel, PRIORITY_COLORS, DIFFICULTY_COLORS, ALC_BRAND } from "@/lib/data";
 import Link from "next/link";
 import CandidateButton from "@/components/CandidateButton";
+import ProductImage from "@/components/ProductImage";
 import { COMPARISON_GROUPS, safeHttpUrl } from "@/lib/planning";
 
 const MONTH_NAMES = ["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"];
@@ -40,8 +41,9 @@ function ProductDetail() {
   const searchParams = useSearchParams();
   const id = searchParams.get("id");
   const back = searchParams.get("back");
-  const backUrl = back?.startsWith("/?") ? back : searchParams.get("from") === "planning" ? "/planning/" : "/";
-  const suffix = back?.startsWith("/?") ? `&back=${encodeURIComponent(back)}` : searchParams.get("from") === "planning" ? "&from=planning" : "";
+  const validBack = back?.startsWith("/?") || back === "/news/";
+  const backUrl = validBack ? back! : searchParams.get("from") === "planning" ? "/planning/" : "/";
+  const suffix = validBack ? `&back=${encodeURIComponent(back!)}` : searchParams.get("from") === "planning" ? "&from=planning" : "";
   const { products, loading, error, retry } = useProducts();
   const allProducts = [...products].sort((a, b) => {
     const pa = PRIORITY_ORDER[a.商品会議優先度] ?? 5;
@@ -66,7 +68,7 @@ function ProductDetail() {
     <div>
       {/* ナビゲーション */}
       <div className="flex items-center justify-between mb-4">
-        <Link href={backUrl} className="text-sm text-[#1F4E78] hover:opacity-70">← {backUrl === "/planning/" ? "候補比較" : "検索結果"}に戻る</Link>
+        <Link href={backUrl} className="text-sm text-[#1F4E78] hover:opacity-70">← {backUrl === "/planning/" ? "候補比較" : backUrl === "/news/" ? "DB新着" : "検索結果"}に戻る</Link>
         <div className="flex gap-2">
           {prevProduct ? (
             <Link
@@ -99,17 +101,12 @@ function ProductDetail() {
       <div className="flex flex-wrap items-center gap-3 mb-4 no-print"><CandidateButton id={product.商品ID} /><Link href="/planning/" className="action">候補を比較して試作メモへ</Link></div>
 
       <div className="bg-white rounded-2xl shadow-sm overflow-hidden mb-6">
-        {product.imageUrl && (
-          <div className="w-full h-64 bg-gray-100">
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img
-              src={product.imageUrl}
-              alt={product.商品名}
-              className="w-full h-full object-cover"
-              onError={e => { (e.currentTarget as HTMLImageElement).parentElement!.style.display = "none"; }}
-            />
-          </div>
-        )}
+        <ProductImage product={product} large />
+        {product.imageDisplayStatus === "matched" && <div className="px-6 py-3 text-xs text-slate-500 border-b border-slate-100">
+          <p>{product.imageMatchNote}</p>
+          <p className="mt-1">画像と商品名の対応確認：{product.imageCheckedAt} ／ <a className="underline" href={safeHttpUrl(product.imageSourceUrl)} target="_blank" rel="noopener noreferrer">画像の掲載元</a></p>
+          <p className="mt-1">掲載写真とDB対象年の一致・現在の販売状況は別途確認が必要です。</p>
+        </div>}
         <div className="p-6">
         <div className="flex items-start justify-between gap-4 mb-4">
           <div>
